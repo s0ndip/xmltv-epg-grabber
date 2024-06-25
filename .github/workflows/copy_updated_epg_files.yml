@@ -2,7 +2,7 @@ name: copy_updated_epg_files
 
 on:
   workflow_run:
-    workflows: ["tempest_epg_grabber"]
+    workflows: ["tempest_epg_grabber"], ["merge_epg_files"] 
     types:
       - completed   
   workflow_dispatch:
@@ -23,6 +23,7 @@ jobs:
       run: |
         cp tempest_config/epg/jiotv.xml.gz s0ndip.github.io/epg
         cp tempest_config/epg/tataplay.xml.gz s0ndip.github.io/epg
+        cp epg.xml.gz s0ndip.github.io/epg
         
     - name: Commit and push changes
       run: |
