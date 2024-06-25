@@ -25,9 +25,9 @@ jobs:
 
     - name: Copy selected files
       run: |
-        [ -f tempest_config/epg/jiotv.xml.gz ] && cp tempest_config/epg/jiotv.xml.gz s0ndip.github.io/epg
-        [ -f tempest_config/epg/tataplay.xml.gz ] && cp tempest_config/epg/tataplay.xml.gz s0ndip.github.io/epg
-        [ -f epg.xml.gz ] && cp epg.xml.gz s0ndip.github.io/epg
+        cp tempest_config/epg/jiotv.xml.gz s0ndip.github.io/epg || true
+        cp tempest_config/epg/tataplay.xml.gz s0ndip.github.io/epg || true
+        cp epg.xml.gz s0ndip.github.io/epg || true
 
     - name: Commit and push changes
       run: |
