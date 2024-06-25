@@ -3,4 +3,246 @@
   <channel id="484">
     <display-name lang="en">Zee Cinema</display-name>
   </channel>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="484">
+    <title lang="en">The Faith Show</title>
+    <desc lang="en">Romildo Ribeiro Soares, a beloved Brazilian televangelist, stresses the importance of faith in the Almighty and explains inner life and how to condition it for the world.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484003.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625070500 +0530" channel="484">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484004.jpg"/>
+  </programme>
+  <programme start="20240625070500 +0530" stop="20240625094400 +0530" channel="484">
+    <title lang="en">The Return Of Raju</title>
+    <desc lang="en">Satya, a widow, employs the spirit of her late husband, Rangaraju, to save their son's marriage. While fixing things between his children, he uncovers the bitter truth behind his own death.</desc>
+    <credits>
+      <director>Kalyan Krishna</director>
+      <actor>Nagarjuna Akkineni</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Lavanya Tripathi</actor>
+      <actor>Nassar</actor>
+      <actor>Pithamagan Mahadevan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484005.jpg"/>
+  </programme>
+  <programme start="20240625094400 +0530" stop="20240625122800 +0530" channel="484">
+    <title lang="en">Daring Baaz</title>
+    <desc lang="en">Goutham promises his grandfather that he will reunite him with his estranged daughter, Sunanda. Posing as a driver, Goutham enters Sunanda's house but trouble soon follows.</desc>
+    <credits>
+      <director>Trivikram Srinivas</director>
+      <actor>Pawan Kalyan</actor>
+      <actor>Samantha Akkineni</actor>
+      <actor>Pranitha Subhash</actor>
+      <actor>Nadhiya</actor>
+      <actor>Boman Irani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484006.jpg"/>
+  </programme>
+  <programme start="20240625122800 +0530" stop="20240625152300 +0530" channel="484">
+    <title lang="en">Gangubai Kathiawadi</title>
+    <desc lang="en">After being duped and sold to a brothel, a young woman takes control of the world she was once a pawn in, utilising her underworld connections to rule it.</desc>
+    <credits>
+      <director>Sanjay Leela Bhansali</director>
+      <actor>Alia Bhatt</actor>
+      <actor>Ajay Devgn</actor>
+      <actor>Shantanu Maheshwari</actor>
+      <actor>Vijay Raaz</actor>
+      <actor>Indira Tiwari</actor>
+      <actor>Seema Pahwa</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484007.jpg"/>
+  </programme>
+  <programme start="20240625152300 +0530" stop="20240625195400 +0530" channel="484">
+    <title lang="en">Lagaan</title>
+    <desc lang="en">During the British Raj, a farmer named Bhuvan accepts the challenge of Captain Andrew Russell to beat his team in a game of cricket and enable his village to not pay taxes for the next three years.</desc>
+    <credits>
+      <director>Ashutosh Gowariker</director>
+      <actor>Aamir Khan</actor>
+      <actor>Gracy Singh</actor>
+      <actor>Rachel Shelley</actor>
+      <actor>Paul Blackthorne</actor>
+      <actor>Suhasini Mulay</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484008.jpg"/>
+  </programme>
+  <programme start="20240625195400 +0530" stop="20240625224500 +0530" channel="484">
+    <title lang="en">Pathu Thala</title>
+    <desc lang="en">An undercover police officer goes on a mission to capture a crime boss and rescue a politician. However, what he learns begins to change his perspective on good and evil.</desc>
+    <credits>
+      <director>Obeli N Krishna</director>
+      <actor>Silambarasan</actor>
+      <actor>Gautham Karthik</actor>
+      <actor>Gautham Vasudev Menon</actor>
+      <actor>Priya Bhavani Shankar</actor>
+      <actor>Santhosh Prathap</actor>
+      <actor>Anu Sithara</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484009.jpg"/>
+  </programme>
+  <programme start="20240625224500 +0530" stop="20240626000000 +0530" channel="484">
+    <title lang="en">Commando 3</title>
+    <desc lang="en">Upon learning of a possible threat to their country, officers Karan and Bhavana set out on a mission to London to stop a terrorist attack on India.</desc>
+    <credits>
+      <director>Aditya Datt</director>
+      <actor>Vidyut Jammwal</actor>
+      <actor>Adah Sharma</actor>
+      <actor>Angira Dhar</actor>
+      <actor>Gulshan Devaiah</actor>
+      <actor>Sumeet Thakur</actor>
+      <actor>Rajesh Tailang</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625484010.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626021700 +0530" channel="484">
+    <title lang="en">Commando 3</title>
+    <desc lang="en">Upon learning of a possible threat to their country, officers Karan and Bhavana set out on a mission to London to stop a terrorist attack on India.</desc>
+    <credits>
+      <director>Aditya Datt</director>
+      <actor>Vidyut Jammwal</actor>
+      <actor>Adah Sharma</actor>
+      <actor>Angira Dhar</actor>
+      <actor>Gulshan Devaiah</actor>
+      <actor>Sumeet Thakur</actor>
+      <actor>Rajesh Tailang</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484000.jpg"/>
+  </programme>
+  <programme start="20240626021700 +0530" stop="20240626042200 +0530" channel="484">
+    <title lang="en">Rashmi Rocket</title>
+    <desc lang="en">A small-town girl goes on to become a national-level athlete while overcoming societal barriers. However, her glory is interrupted when she is forced to undergo a gender test.</desc>
+    <credits>
+      <director>Akarsh Khurana</director>
+      <actor>Taapsee Pannu</actor>
+      <actor>Priyanshu Painyuli</actor>
+      <actor>Abhishek Banerjee</actor>
+      <actor>Shweta Tripathi</actor>
+      <actor>Supriya Pathak</actor>
+      <actor>Manoj Joshi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484001.jpg"/>
+  </programme>
+  <programme start="20240626042200 +0530" stop="20240626064400 +0530" channel="484">
+    <title lang="en">Kesari</title>
+    <desc lang="en">Havildar Ishar Singh, a soldier in the British Indian Army, leads 21 Sikh soldiers in a fight against 10,000 Pashtun invaders. However, what unfolds is the greatest last stand wars of all time.</desc>
+    <credits>
+      <director>Anurag Singh</director>
+      <actor>Akshay Kumar</actor>
+      <actor>Parineeti Chopra</actor>
+      <actor>Vivek Saini</actor>
+      <actor>Vikram Kochhar</actor>
+      <actor>Suvinder Vicky</actor>
+      <actor>Vansh Bharadwaj</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484002.jpg"/>
+  </programme>
+  <programme start="20240626064400 +0530" stop="20240626064800 +0530" channel="484">
+    <title lang="en">The Faith Show</title>
+    <desc lang="en">Romildo Ribeiro Soares, a beloved Brazilian televangelist, stresses the importance of faith in the Almighty and explains inner life and how to condition it for the world.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484003.jpg"/>
+  </programme>
+  <programme start="20240626064800 +0530" stop="20240626085900 +0530" channel="484">
+    <title lang="en">Vidroh Let's Fight Back</title>
+    <desc lang="en">Conman Chandu desires to release his father from jail and make his sister a doctor. However, he gets into trouble when he crosses paths with the powerful criminal Manikyam.</desc>
+    <credits>
+      <director>Sudheer Varma</director>
+      <actor>Naga Chaitanya</actor>
+      <actor>Kriti Sanon</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Bharath Raju</actor>
+      <actor>Raghu Raju</actor>
+      <actor>Ravi Babu</actor>
+      <actor>Posani Krishna Murali</actor>
+      <actor>Rao Ramesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484004.jpg"/>
+  </programme>
+  <programme start="20240626085900 +0530" stop="20240626120100 +0530" channel="484">
+    <title lang="en">Bhajarangi 2</title>
+    <desc lang="en">An evil drug baron named Araka kidnaps innocent villagers and forces them to produce drugs for him. Fortunately, a forest officer learns of this and decides to put a stop to it.</desc>
+    <credits>
+      <director>A Harsha</director>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Bhavana Menon</actor>
+      <actor>Shruthi</actor>
+      <actor>Saurav Lokesh</actor>
+      <actor>Shivaraj K R Pete</actor>
+      <actor>Cheluvaraj</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484005.jpg"/>
+  </programme>
+  <programme start="20240626120100 +0530" stop="20240626143100 +0530" channel="484">
+    <title lang="en">Maayon</title>
+    <desc lang="en">An archaeological team arrives at a historical temple to learn about its secrets. Meanwhile, a group of idol smugglers plan to steal the hidden treasure inside the temple.</desc>
+    <credits>
+      <director>Kishore N</director>
+      <actor>Sibi Sathyaraj</actor>
+      <actor>Tanya Ravichandran</actor>
+      <actor>Radha Ravi</actor>
+      <actor>KS Ravi Kumar</actor>
+      <actor>Bagavathi Perumal</actor>
+      <actor>G. Marimuthu</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484006.jpg"/>
+  </programme>
+  <programme start="20240626143100 +0530" stop="20240626163300 +0530" channel="484">
+    <title lang="en">Mane Number 13</title>
+    <desc lang="en">Five IT professionals move into a new house together. However, little do they know that it is haunted, making them fight for their survival.</desc>
+    <credits>
+      <director>Vivy Kathiresan</director>
+      <actor>Varsha Bollamma</actor>
+      <actor>Aishwarya Gowda</actor>
+      <actor>Praveen Prem</actor>
+      <actor>Chethan Gandarva</actor>
+      <actor>Ramana</actor>
+      <actor>Sanjeev</actor>
+      <actor>Sathvika Appaiah</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484007.jpg"/>
+  </programme>
+  <programme start="20240626163300 +0530" stop="20240626195000 +0530" channel="484">
+    <title lang="en">Saaho</title>
+    <desc lang="en">An undercover agent and his partner go after a thief who has stolen 2,000 crore rupees. Soon, they realise that the case is linked to the death of a crime lord and an emerging gang war.</desc>
+    <credits>
+      <director>Sujeeth</director>
+      <actor>Prabhas</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Neil Nitin Mukesh</actor>
+      <actor>Arun Vijay</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484008.jpg"/>
+  </programme>
+  <programme start="20240626195000 +0530" stop="20240626225100 +0530" channel="484">
+    <title lang="en">Fukrey 3</title>
+    <desc lang="en">Determined to secure funds for their election campaign, a group of bumbling idiots travel to a diamond mine in South Africa. However, hilarity ensues after they stumble upon a potential energy source.</desc>
+    <credits>
+      <director>Mrighdeep Lamba</director>
+      <actor>Pulkit Samrat</actor>
+      <actor>Varun Sharma</actor>
+      <actor>Manjot Singh</actor>
+      <actor>Richa Chadda</actor>
+      <actor>Pankaj Tripathi</actor>
+      <actor>Ali Zafar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626484009.jpg"/>
+  </programme>
 </tv>

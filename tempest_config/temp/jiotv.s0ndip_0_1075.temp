@@ -3,4 +3,400 @@
   <channel id="1075">
     <display-name lang="en">Ayush TV</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="1075">
+    <title lang="en">International Yoga Day</title>
+    <desc lang="en">Learn about the origins, spirituality and health benefits of the art of yoga on the occasion of International Yoga Day.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075011.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="1075">
+    <title lang="en">Raita Bandhu</title>
+    <desc lang="en">The host provides a detailed report on various matters pertaining to agriculture in order to equip the farming community with key information.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075012.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="1075">
+    <title lang="en">Wild Forest Honey</title>
+    <desc lang="en">The host sheds light on the benefits and features of honey manufactured by a popular brand whilst highlighting its mode of purchase.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075013.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="1075">
+    <title lang="en">Positive Life</title>
+    <desc lang="en">A health expert talks about the significance of mental health and an optimistic mindset to lead a quality life and holistic wellness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075014.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="1075">
+    <title lang="en">Health Secrets</title>
+    <desc lang="en">A healthcare professional provides detailed insights into various wellness routines and guides people on a healthy path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075015.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1075">
+    <title lang="en">Namma Homeopathy</title>
+    <desc lang="en">A medical expert helps callers by providing them with homeopathic solutions to their queries regarding common diseases and ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075016.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075017.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="1075">
+    <title lang="en">Yogakshema</title>
+    <desc lang="en">The host talks about the importance of yoga, demonstrates various asanas and discusses the benefits of yoga for a healthy and prosperous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075018.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="1075">
+    <title lang="en">Nitya Dhoopa</title>
+    <desc lang="en">The host talks to an expert who sheds light on the features and specifications of Ayurvedic incense, which helps to calm one's mind.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075019.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625123000 +0530" channel="1075">
+    <title lang="en">Ayush Mantra</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075020.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="1075">
+    <title lang="en">Ayurveda Aduge</title>
+    <desc lang="en">The host invites an expert medical practitioner to conduct a discussion on various ailments and suggests necessary treatments and remedies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075021.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="1075">
+    <title lang="en">Wild Forest Honey</title>
+    <desc lang="en">The host sheds light on the benefits and features of honey manufactured by a popular brand whilst highlighting its mode of purchase.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075022.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="1075">
+    <title lang="en">Diabetes Dairies</title>
+    <desc lang="en">A healthcare practitioner talks about the various struggles of diabetic patients and elaborates by providing examples of different cases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075023.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="1075">
+    <title lang="en">Angaiyalli Arogya</title>
+    <desc lang="en">The significance of practicing yoga is emphasized in this programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075024.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="1075">
+    <title lang="en">Inside The Mind</title>
+    <desc lang="en">The host invites a well-known psychiatrist to shed light on the ailments related to the mind and share deeper insights concerning the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075025.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="1075">
+    <title lang="en">Rjr Hospitals</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075026.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625163000 +0530" channel="1075">
+    <title lang="en">Ayush Ladies Dhamaka</title>
+    <desc lang="en">The host interacts with people over the phone to participate in various challenges and sheds light on ways to improve wellbeing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075027.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="1075">
+    <title lang="en">Nitya Dhoopa</title>
+    <desc lang="en">The host talks to an expert who sheds light on the features and specifications of Ayurvedic incense, which helps to calm one's mind.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075028.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="1075">
+    <title lang="en">Health Guru</title>
+    <desc lang="en">An expert in astrology interacts with callers to answer questions regarding their spiritual life, sun signs or other common concerns.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075029.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="1075">
+    <title lang="en">Namma Homeopathy</title>
+    <desc lang="en">A medical expert helps callers by providing them with homeopathic solutions to their queries regarding common diseases and ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075030.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="1075">
+    <title lang="en">Aarogya Kranti</title>
+    <desc lang="en">Experts shed light on the benefits of meditation and yoga and guide people to lead embrace a healthy and stress-free lifestyle to ward of diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075031.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="1075">
+    <title lang="en">Health Secrets</title>
+    <desc lang="en">A healthcare professional provides detailed insights into various wellness routines and guides people on a healthy path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075032.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="1075">
+    <title lang="en">Agastya Marma Chikitse</title>
+    <desc lang="en">A professional health expert talks about various kinds of treatment for diseases and the importance of maintaining a healthy lifestyle.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075033.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075034.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="1075">
+    <title lang="en">Nakshatra Nadi</title>
+    <desc lang="en">A well-known astrologer presents predictions for all zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075035.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="1075">
+    <title lang="en">Ayush Podcast</title>
+    <desc lang="en">The host discusses a variety of topics related to wellness and lifestyle to spread more awareness of alternative medicines or treatments for many common ailments and physical conditions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075036.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625233000 +0530" channel="1075">
+    <title lang="en">Aarogya Kranti</title>
+    <desc lang="en">Experts shed light on the benefits of meditation and yoga and guide people to lead embrace a healthy and stress-free lifestyle to ward of diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075037.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="1075">
+    <title lang="en">Ayurveda Kamasutra</title>
+    <desc lang="en">The host invites a health expert to discuss sexual intercourse in accordance to Ayurveda in a detailed but easy-to-understand manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251075038.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="1075">
+    <title lang="en">Ayush Fitness</title>
+    <desc lang="en">An expert demonstrates a wide variety of exercises and yoga and shares valuable fitness mantras that can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="1075">
+    <title lang="en">Health Secrets</title>
+    <desc lang="en">A healthcare professional provides detailed insights into various wellness routines and guides people on a healthy path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="1075">
+    <title lang="en">Ayush Mantra</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="1075">
+    <title lang="en">Positive Life</title>
+    <desc lang="en">A health expert talks about the significance of mental health and an optimistic mindset to lead a quality life and holistic wellness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="1075">
+    <title lang="en">Ayush Fitness</title>
+    <desc lang="en">An expert demonstrates a wide variety of exercises and yoga and shares valuable fitness mantras that can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="1075">
+    <title lang="en">Raita Bandhu</title>
+    <desc lang="en">The host provides a detailed report on various matters pertaining to agriculture in order to equip the farming community with key information.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="1075">
+    <title lang="en">Ayurveda Kamasutra</title>
+    <desc lang="en">The host invites a health expert to discuss sexual intercourse in accordance to Ayurveda in a detailed but easy-to-understand manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="1075">
+    <title lang="en">Surya Namaskar</title>
+    <desc lang="en">Various yogic experts enlighten viewers on the correct posture, benefits and importance of practicing Surya Namaskar every day.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="1075">
+    <title lang="en">Dhanvantari Mantra</title>
+    <desc lang="en">A rendition of the sacred chant, 'dhanvantari mahamantram' dedicated to the lord of medicine, to bestow good health on the devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075010.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="1075">
+    <title lang="en">International Yoga Day</title>
+    <desc lang="en">Learn about the origins, spirituality and health benefits of the art of yoga on the occasion of International Yoga Day.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075011.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="1075">
+    <title lang="en">Raita Bandhu</title>
+    <desc lang="en">The host provides a detailed report on various matters pertaining to agriculture in order to equip the farming community with key information.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075012.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="1075">
+    <title lang="en">Wild Forest Honey</title>
+    <desc lang="en">The host sheds light on the benefits and features of honey manufactured by a popular brand whilst highlighting its mode of purchase.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075013.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="1075">
+    <title lang="en">Positive Life</title>
+    <desc lang="en">A health expert talks about the significance of mental health and an optimistic mindset to lead a quality life and holistic wellness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075014.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="1075">
+    <title lang="en">Health Secrets</title>
+    <desc lang="en">A healthcare professional provides detailed insights into various wellness routines and guides people on a healthy path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075015.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="1075">
+    <title lang="en">Namma Homeopathy</title>
+    <desc lang="en">A medical expert helps callers by providing them with homeopathic solutions to their queries regarding common diseases and ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075016.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075017.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="1075">
+    <title lang="en">Yogakshema</title>
+    <desc lang="en">The host talks about the importance of yoga, demonstrates various asanas and discusses the benefits of yoga for a healthy and prosperous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075018.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="1075">
+    <title lang="en">Mudra Therapy</title>
+    <desc lang="en">The host talks about some of the common ailments and further demonstrates yoga mudras that help to cure and prevent them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075019.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626123000 +0530" channel="1075">
+    <title lang="en">Ayush Mantra</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075020.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="1075">
+    <title lang="en">Ayurveda Aduge</title>
+    <desc lang="en">The host invites an expert medical practitioner to conduct a discussion on various ailments and suggests necessary treatments and remedies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075021.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="1075">
+    <title lang="en">Nitya Dhoopa</title>
+    <desc lang="en">The host talks to an expert who sheds light on the features and specifications of Ayurvedic incense, which helps to calm one's mind.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075022.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="1075">
+    <title lang="en">Diabetes Dairies</title>
+    <desc lang="en">A healthcare practitioner talks about the various struggles of diabetic patients and elaborates by providing examples of different cases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075023.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="1075">
+    <title lang="en">Angaiyalli Arogya</title>
+    <desc lang="en">The significance of practicing yoga is emphasized in this programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075024.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="1075">
+    <title lang="en">Inside The Mind</title>
+    <desc lang="en">The host invites a well-known psychiatrist to shed light on the ailments related to the mind and share deeper insights concerning the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075025.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="1075">
+    <title lang="en">Rjr Hospitals</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075026.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626163000 +0530" channel="1075">
+    <title lang="en">Ayush Ladies Dhamaka</title>
+    <desc lang="en">The host interacts with people over the phone to participate in various challenges and sheds light on ways to improve wellbeing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075027.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="1075">
+    <title lang="en">Wild Forest Honey</title>
+    <desc lang="en">The host sheds light on the benefits and features of honey manufactured by a popular brand whilst highlighting its mode of purchase.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075028.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626180000 +0530" channel="1075">
+    <title lang="en">Health Guru</title>
+    <desc lang="en">An expert in astrology interacts with callers to answer questions regarding their spiritual life, sun signs or other common concerns.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075029.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626190000 +0530" channel="1075">
+    <title lang="en">Namma Homeopathy</title>
+    <desc lang="en">A medical expert helps callers by providing them with homeopathic solutions to their queries regarding common diseases and ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075030.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626200000 +0530" channel="1075">
+    <title lang="en">Aarogya Kranti</title>
+    <desc lang="en">Experts shed light on the benefits of meditation and yoga and guide people to lead embrace a healthy and stress-free lifestyle to ward of diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075031.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="1075">
+    <title lang="en">Health Secrets</title>
+    <desc lang="en">A healthcare professional provides detailed insights into various wellness routines and guides people on a healthy path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075032.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="1075">
+    <title lang="en">Agastya Marma Chikitse</title>
+    <desc lang="en">A professional health expert talks about various kinds of treatment for diseases and the importance of maintaining a healthy lifestyle.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075033.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="1075">
+    <title lang="en">Ayush Music</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular classic Kannada songs performed by various artists, musicians and bands.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075034.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="1075">
+    <title lang="en">Nakshatra Nadi</title>
+    <desc lang="en">A well-known astrologer presents predictions for all zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075035.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="1075">
+    <title lang="en">Sidha Rahasya</title>
+    <desc lang="en">An expert provides deeper insights into Ayurvedic medicine whilst discussing how they can be of help in preventing and mitigating infirmity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075036.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626233000 +0530" channel="1075">
+    <title lang="en">Aarogya Kranti</title>
+    <desc lang="en">Experts shed light on the benefits of meditation and yoga and guide people to lead embrace a healthy and stress-free lifestyle to ward of diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261075037.jpg"/>
+  </programme>
 </tv>

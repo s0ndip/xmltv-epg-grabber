@@ -3,4 +3,634 @@
   <channel id="782">
     <display-name lang="en">Sandesh News</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625055500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782012.jpg"/>
+  </programme>
+  <programme start="20240625055500 +0530" stop="20240625062500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782013.jpg"/>
+  </programme>
+  <programme start="20240625062500 +0530" stop="20240625065500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782014.jpg"/>
+  </programme>
+  <programme start="20240625065500 +0530" stop="20240625065700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782015.jpg"/>
+  </programme>
+  <programme start="20240625065700 +0530" stop="20240625072300 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782016.jpg"/>
+  </programme>
+  <programme start="20240625072300 +0530" stop="20240625072500 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782017.jpg"/>
+  </programme>
+  <programme start="20240625072500 +0530" stop="20240625075500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782018.jpg"/>
+  </programme>
+  <programme start="20240625075500 +0530" stop="20240625075700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782019.jpg"/>
+  </programme>
+  <programme start="20240625075700 +0530" stop="20240625082700 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782020.jpg"/>
+  </programme>
+  <programme start="20240625082700 +0530" stop="20240625085500 +0530" channel="782">
+    <title lang="en">Bhakti Sandesh</title>
+    <desc lang="en">The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782021.jpg"/>
+  </programme>
+  <programme start="20240625085500 +0530" stop="20240625090000 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782022.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625092700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782023.jpg"/>
+  </programme>
+  <programme start="20240625092700 +0530" stop="20240625095500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782024.jpg"/>
+  </programme>
+  <programme start="20240625095500 +0530" stop="20240625103000 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782025.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625105500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782026.jpg"/>
+  </programme>
+  <programme start="20240625105500 +0530" stop="20240625105700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782027.jpg"/>
+  </programme>
+  <programme start="20240625105700 +0530" stop="20240625113000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782028.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625115500 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782029.jpg"/>
+  </programme>
+  <programme start="20240625115500 +0530" stop="20240625123000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782030.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625125500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782031.jpg"/>
+  </programme>
+  <programme start="20240625125500 +0530" stop="20240625125700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782032.jpg"/>
+  </programme>
+  <programme start="20240625125700 +0530" stop="20240625132700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782033.jpg"/>
+  </programme>
+  <programme start="20240625132700 +0530" stop="20240625134500 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782034.jpg"/>
+  </programme>
+  <programme start="20240625134500 +0530" stop="20240625135500 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782035.jpg"/>
+  </programme>
+  <programme start="20240625135500 +0530" stop="20240625142700 +0530" channel="782">
+    <title lang="en">Crime Alert</title>
+    <desc lang="en">The host presents a collection of true stories involving ordinary citizens who committed horrific crimes for the sake of love, revenge and various other motivating factors.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782036.jpg"/>
+  </programme>
+  <programme start="20240625142700 +0530" stop="20240625151000 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782037.jpg"/>
+  </programme>
+  <programme start="20240625151000 +0530" stop="20240625152700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782038.jpg"/>
+  </programme>
+  <programme start="20240625152700 +0530" stop="20240625155500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782039.jpg"/>
+  </programme>
+  <programme start="20240625155500 +0530" stop="20240625155700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782040.jpg"/>
+  </programme>
+  <programme start="20240625155700 +0530" stop="20240625162500 +0530" channel="782">
+    <title lang="en">Bhakti Sandesh</title>
+    <desc lang="en">The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782041.jpg"/>
+  </programme>
+  <programme start="20240625162500 +0530" stop="20240625162700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782042.jpg"/>
+  </programme>
+  <programme start="20240625162700 +0530" stop="20240625165500 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782043.jpg"/>
+  </programme>
+  <programme start="20240625165500 +0530" stop="20240625172700 +0530" channel="782">
+    <title lang="en">War Room</title>
+    <desc lang="en">The host, along with other reporters, presents the latest news stories and updates with regards to society, economy, politics and health.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782044.jpg"/>
+  </programme>
+  <programme start="20240625172700 +0530" stop="20240625175500 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782045.jpg"/>
+  </programme>
+  <programme start="20240625175500 +0530" stop="20240625182500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782046.jpg"/>
+  </programme>
+  <programme start="20240625182500 +0530" stop="20240625182700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782047.jpg"/>
+  </programme>
+  <programme start="20240625182700 +0530" stop="20240625185300 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782048.jpg"/>
+  </programme>
+  <programme start="20240625185300 +0530" stop="20240625192300 +0530" channel="782">
+    <title lang="en">Khabar Gujarat</title>
+    <desc lang="en">The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782049.jpg"/>
+  </programme>
+  <programme start="20240625192300 +0530" stop="20240625195500 +0530" channel="782">
+    <title lang="en">Gujarat Express SF 100</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782050.jpg"/>
+  </programme>
+  <programme start="20240625195500 +0530" stop="20240625202700 +0530" channel="782">
+    <title lang="en">Aajno Agenda</title>
+    <desc lang="en">The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782051.jpg"/>
+  </programme>
+  <programme start="20240625202700 +0530" stop="20240625205700 +0530" channel="782">
+    <title lang="en">Metro 50</title>
+    <desc lang="en">The host presents news updates and the latest information on cultural, political, economic and social issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782052.jpg"/>
+  </programme>
+  <programme start="20240625205700 +0530" stop="20240625212500 +0530" channel="782">
+    <title lang="en">9pm 90news</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782053.jpg"/>
+  </programme>
+  <programme start="20240625212500 +0530" stop="20240625215500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782054.jpg"/>
+  </programme>
+  <programme start="20240625215500 +0530" stop="20240625222700 +0530" channel="782">
+    <title lang="en">News Top 20</title>
+    <desc lang="en">Showcases the top 20 news stories belonging to various genres such as politics, culture, society, economics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782055.jpg"/>
+  </programme>
+  <programme start="20240625222700 +0530" stop="20240625225500 +0530" channel="782">
+    <title lang="en">Crime Alert</title>
+    <desc lang="en">The host presents a collection of true stories involving ordinary citizens who committed horrific crimes for the sake of love, revenge and various other motivating factors.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782056.jpg"/>
+  </programme>
+  <programme start="20240625225500 +0530" stop="20240625232500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782057.jpg"/>
+  </programme>
+  <programme start="20240625232500 +0530" stop="20240626000000 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625782058.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="782">
+    <title lang="en">Aajno Agenda</title>
+    <desc lang="en">The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="782">
+    <title lang="en">Crime Alert</title>
+    <desc lang="en">The host presents a collection of true stories involving ordinary citizens who committed horrific crimes for the sake of love, revenge and various other motivating factors.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="782">
+    <title lang="en">Khabar Gujarat</title>
+    <desc lang="en">The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626031800 +0530" channel="782">
+    <title lang="en">News Top 20</title>
+    <desc lang="en">Showcases the top 20 news stories belonging to various genres such as politics, culture, society, economics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782006.jpg"/>
+  </programme>
+  <programme start="20240626031800 +0530" stop="20240626033000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782007.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="782">
+    <title lang="en">Gujarat Express SF 100</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782008.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782009.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782010.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="782">
+    <title lang="en">Maha Aarti</title>
+    <desc lang="en">A Hindu priest performs a traditional ritual while devotees chant verses at a temple offering prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782011.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782012.jpg"/>
+  </programme>
+  <programme start="20240626055500 +0530" stop="20240626062500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782013.jpg"/>
+  </programme>
+  <programme start="20240626062500 +0530" stop="20240626065500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782014.jpg"/>
+  </programme>
+  <programme start="20240626065500 +0530" stop="20240626065700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782015.jpg"/>
+  </programme>
+  <programme start="20240626065700 +0530" stop="20240626072300 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782016.jpg"/>
+  </programme>
+  <programme start="20240626072300 +0530" stop="20240626072500 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782017.jpg"/>
+  </programme>
+  <programme start="20240626072500 +0530" stop="20240626075500 +0530" channel="782">
+    <title lang="en">Prabhu Vandana</title>
+    <desc lang="en">A comprehensive compilation of prayers and devotional songs played back to back for positivity and to seek the blessings of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782018.jpg"/>
+  </programme>
+  <programme start="20240626075500 +0530" stop="20240626075700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782019.jpg"/>
+  </programme>
+  <programme start="20240626075700 +0530" stop="20240626082700 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782020.jpg"/>
+  </programme>
+  <programme start="20240626082700 +0530" stop="20240626085500 +0530" channel="782">
+    <title lang="en">Bhakti Sandesh</title>
+    <desc lang="en">The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782021.jpg"/>
+  </programme>
+  <programme start="20240626085500 +0530" stop="20240626090000 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782022.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626092700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782023.jpg"/>
+  </programme>
+  <programme start="20240626092700 +0530" stop="20240626095500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782024.jpg"/>
+  </programme>
+  <programme start="20240626095500 +0530" stop="20240626103000 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782025.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626105500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782026.jpg"/>
+  </programme>
+  <programme start="20240626105500 +0530" stop="20240626105700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782027.jpg"/>
+  </programme>
+  <programme start="20240626105700 +0530" stop="20240626113000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782028.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626115500 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782029.jpg"/>
+  </programme>
+  <programme start="20240626115500 +0530" stop="20240626123000 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782030.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626125500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782031.jpg"/>
+  </programme>
+  <programme start="20240626125500 +0530" stop="20240626125700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782032.jpg"/>
+  </programme>
+  <programme start="20240626125700 +0530" stop="20240626132700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782033.jpg"/>
+  </programme>
+  <programme start="20240626132700 +0530" stop="20240626134500 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782034.jpg"/>
+  </programme>
+  <programme start="20240626134500 +0530" stop="20240626135500 +0530" channel="782">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">The host presents the top 100 stories, significant updates and huge developments from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782035.jpg"/>
+  </programme>
+  <programme start="20240626135500 +0530" stop="20240626142700 +0530" channel="782">
+    <title lang="en">Crime Alert</title>
+    <desc lang="en">The host presents a collection of true stories involving ordinary citizens who committed horrific crimes for the sake of love, revenge and various other motivating factors.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782036.jpg"/>
+  </programme>
+  <programme start="20240626142700 +0530" stop="20240626151000 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782037.jpg"/>
+  </programme>
+  <programme start="20240626151000 +0530" stop="20240626152700 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782038.jpg"/>
+  </programme>
+  <programme start="20240626152700 +0530" stop="20240626155500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782039.jpg"/>
+  </programme>
+  <programme start="20240626155500 +0530" stop="20240626155700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782040.jpg"/>
+  </programme>
+  <programme start="20240626155700 +0530" stop="20240626162500 +0530" channel="782">
+    <title lang="en">Bhakti Sandesh</title>
+    <desc lang="en">The host sheds light on the history, architectural beauty and rituals related to various temples across the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782041.jpg"/>
+  </programme>
+  <programme start="20240626162500 +0530" stop="20240626162700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782042.jpg"/>
+  </programme>
+  <programme start="20240626162700 +0530" stop="20240626165500 +0530" channel="782">
+    <title lang="en">Sur Sandesh</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-economic and political topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782043.jpg"/>
+  </programme>
+  <programme start="20240626165500 +0530" stop="20240626172700 +0530" channel="782">
+    <title lang="en">War Room</title>
+    <desc lang="en">The host, along with other reporters, presents the latest news stories and updates with regards to society, economy, politics and health.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782044.jpg"/>
+  </programme>
+  <programme start="20240626172700 +0530" stop="20240626175500 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782045.jpg"/>
+  </programme>
+  <programme start="20240626175500 +0530" stop="20240626182500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782046.jpg"/>
+  </programme>
+  <programme start="20240626182500 +0530" stop="20240626182700 +0530" channel="782">
+    <title lang="en">2 Min 12 Khabar</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments of the day in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782047.jpg"/>
+  </programme>
+  <programme start="20240626182700 +0530" stop="20240626185300 +0530" channel="782">
+    <title lang="en">Superfast</title>
+    <desc lang="en">Coverage of the latest news and updates regarding social, political and economic issues from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782048.jpg"/>
+  </programme>
+  <programme start="20240626185300 +0530" stop="20240626192300 +0530" channel="782">
+    <title lang="en">Khabar Gujarat</title>
+    <desc lang="en">The host sheds light on the most recent news, updates and developments pertaining to current affairs of the state of Gujarat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782049.jpg"/>
+  </programme>
+  <programme start="20240626192300 +0530" stop="20240626195500 +0530" channel="782">
+    <title lang="en">Gujarat Express SF 100</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782050.jpg"/>
+  </programme>
+  <programme start="20240626195500 +0530" stop="20240626202700 +0530" channel="782">
+    <title lang="en">Aajno Agenda</title>
+    <desc lang="en">The host presents a detailed report on the agenda for the day, which pertains to various social and current issues prevalent in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782051.jpg"/>
+  </programme>
+  <programme start="20240626202700 +0530" stop="20240626205700 +0530" channel="782">
+    <title lang="en">Metro 50</title>
+    <desc lang="en">The host presents news updates and the latest information on cultural, political, economic and social issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782052.jpg"/>
+  </programme>
+  <programme start="20240626205700 +0530" stop="20240626212500 +0530" channel="782">
+    <title lang="en">9pm 90news</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782053.jpg"/>
+  </programme>
+  <programme start="20240626212500 +0530" stop="20240626215500 +0530" channel="782">
+    <title lang="en">Sandesh Vishesh</title>
+    <desc lang="en">The host presents a detailed report on the topic of the day, along with interesting trivia and snippets of public opinion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782054.jpg"/>
+  </programme>
+  <programme start="20240626215500 +0530" stop="20240626222700 +0530" channel="782">
+    <title lang="en">News Top 20</title>
+    <desc lang="en">Showcases the top 20 news stories belonging to various genres such as politics, culture, society, economics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782055.jpg"/>
+  </programme>
+  <programme start="20240626222700 +0530" stop="20240626225500 +0530" channel="782">
+    <title lang="en">Crime Alert</title>
+    <desc lang="en">The host presents a collection of true stories involving ordinary citizens who committed horrific crimes for the sake of love, revenge and various other motivating factors.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782056.jpg"/>
+  </programme>
+  <programme start="20240626225500 +0530" stop="20240626232500 +0530" channel="782">
+    <title lang="en">Sandesh News</title>
+    <desc lang="en">The host collates and presents some of the most important news and current affairs that matter to the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626782057.jpg"/>
+  </programme>
 </tv>

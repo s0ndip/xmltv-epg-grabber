@@ -3,4 +3,496 @@
   <channel id="971">
     <display-name lang="en">Vaanavil TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="971">
+    <title lang="en">Udhaya Geetham</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971009.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="971">
+    <title lang="en">Udhaya Geetham</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971010.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="971">
+    <title lang="en">Sakthi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971011.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="971">
+    <title lang="en">Bakthi Paamalai</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971012.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971013.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="971">
+    <title lang="en">Happy Morning</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971014.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971015.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="971">
+    <title lang="en">CineTrendz</title>
+    <desc lang="en">The host presents the latest news updates and developments from the Tamil cinema industry along with exclusive interviews with the actors.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971016.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971017.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="971">
+    <title lang="en">Retro Gold</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971018.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="971">
+    <title lang="en">Retro Gold</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971019.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971020.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971021.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="971">
+    <title lang="en">Music Box</title>
+    <desc lang="en">A comprehensive compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <credits>
+      <director>Mohamed Amara</director>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971022.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="971">
+    <title lang="en">Music Box</title>
+    <desc lang="en">A comprehensive compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <credits>
+      <director>Mohamed Amara</director>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971023.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971024.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="971">
+    <title lang="en">Firstlook</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971025.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="971">
+    <title lang="en">Retro Matnee</title>
+    <desc lang="en">Back-to-back music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971026.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="971">
+    <title lang="en">Retro Matnee</title>
+    <desc lang="en">Back-to-back music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971027.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971028.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="971">
+    <title lang="en">Star Tune</title>
+    <desc lang="en">A comprehensive collection of soul-stirring melodies and musical numbers from popular movies released in the Tamil film industry is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971029.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971030.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971031.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="971">
+    <title lang="en">Allo Good Evening Live</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971032.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971033.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="971">
+    <title lang="en">Bakthi Paamalai</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971034.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971035.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971036.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971037.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971038.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971039.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="971">
+    <title lang="en">CineTrendz</title>
+    <desc lang="en">The host presents the latest news updates and developments from the Tamil cinema industry along with exclusive interviews with the actors.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971040.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971041.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="971">
+    <title lang="en">Firstlook</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971042.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="971">
+    <title lang="en">Retro Nites</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971043.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="971">
+    <title lang="en">Retro Nites</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625971044.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="971">
+    <title lang="en">Hitz</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971006.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="971">
+    <title lang="en">Love Hits Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs performed by world-famous musicians is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971007.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="971">
+    <title lang="en">Vaada Malar</title>
+    <desc lang="en">The host recites inspirational poems followed by evergreen songs from Tamil movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971008.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="971">
+    <title lang="en">Udhaya Geetham</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971009.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="971">
+    <title lang="en">Udhaya Geetham</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971010.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="971">
+    <title lang="en">Sakthi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971011.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="971">
+    <title lang="en">Bakthi Paamalai</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971012.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971013.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="971">
+    <title lang="en">Happy Morning</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971014.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971015.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="971">
+    <title lang="en">CineTrendz</title>
+    <desc lang="en">The host presents the latest news updates and developments from the Tamil cinema industry along with exclusive interviews with the actors.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971016.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971017.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="971">
+    <title lang="en">Retro Gold</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971018.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="971">
+    <title lang="en">Retro Gold</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971019.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971020.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971021.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="971">
+    <title lang="en">Music Box</title>
+    <desc lang="en">A comprehensive compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <credits>
+      <director>Mohamed Amara</director>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971022.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="971">
+    <title lang="en">Music Box</title>
+    <desc lang="en">A comprehensive compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <credits>
+      <director>Mohamed Amara</director>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971023.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971024.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="971">
+    <title lang="en">Firstlook</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971025.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="971">
+    <title lang="en">Retro Matnee</title>
+    <desc lang="en">Back-to-back music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971026.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="971">
+    <title lang="en">Retro Matnee</title>
+    <desc lang="en">Back-to-back music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971027.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971028.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="971">
+    <title lang="en">Star Tune</title>
+    <desc lang="en">A comprehensive collection of soul-stirring melodies and musical numbers from popular movies released in the Tamil film industry is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971029.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971030.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971031.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626180000 +0530" channel="971">
+    <title lang="en">Allo Good Evening Live</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971032.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971033.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="971">
+    <title lang="en">Bakthi Paamalai</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971034.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971035.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971036.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971037.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971038.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="971">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971039.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="971">
+    <title lang="en">CineTrendz</title>
+    <desc lang="en">The host presents the latest news updates and developments from the Tamil cinema industry along with exclusive interviews with the actors.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971040.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="971">
+    <title lang="en">Fresh Hits</title>
+    <desc lang="en">Take a look at the popular melodies from the latest South Indian films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971041.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="971">
+    <title lang="en">Firstlook</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971042.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="971">
+    <title lang="en">Retro Nites</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626971043.jpg"/>
+  </programme>
 </tv>

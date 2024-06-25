@@ -525,10 +525,17 @@
     <episode-num system="xmltv_ns">.335.</episode-num>
   </programme>
   <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts237">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <title lang="en">Movie - Balunga Toka</title>
+    <desc lang="en">Chiku, a mischievous young village boy, leaves no stone unturned to annoy his fellow villagers but at the same time, he is kind-hearted and helps them when the need arises.</desc>
+    <credits>
+      <actor>Anubhav Mohanty</actor>
+      <actor>Barsa Priyadarshini</actor>
+      <actor>Minaketan</actor>
+      <actor>Papu Pom Pom</actor>
+      <actor>Priyanka Mahapatra</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8BEB1898475AD7FE3F665D5203EBA6D26C19C1Z.jpg"/>
   </programme>
   <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts237">
     <title lang="en">Karmadhikari Sanidev</title>

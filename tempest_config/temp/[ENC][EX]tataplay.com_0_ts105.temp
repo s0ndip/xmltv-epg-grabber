@@ -311,10 +311,13 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4DB440AABB80D11EDD57CF9100F4BC397BE752B.jpg"/>
   </programme>
   <programme start="20240626070000 +0000" stop="20240626080000 +0000" channel="ts105">
-    <title lang="en">ABC News with Lorna Dunkley</title>
-    <desc lang="en">The host, Lorna Dunkley, presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <title lang="en">ABC News With Joe O'Brien</title>
+    <desc lang="en">Joe O'Brien presents the latest news, updates and developments from around the world with expert analysis from guests on various issues and current affairs.</desc>
+    <credits>
+      <actor>Joe O'Brien</actor>
+    </credits>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/053D8CC04E15B88A74D619327CDFF92D23CB7EDE8.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19996AE56E7C974624861B1D48A39EECA9B95E6DU.jpg"/>
   </programme>
   <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts105">
     <title lang="en">Running Dry</title>
@@ -374,7 +377,7 @@
     <category lang="en">Biography</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFE2265860C21632D5CE5A0C0FAC923CDD852847U.jpg"/>
   </programme>
-  <programme start="20240626124500 +0000" stop="20240626132000 +0000" channel="ts105">
+  <programme start="20240626124500 +0000" stop="20240626131500 +0000" channel="ts105">
     <title lang="en">Planet America</title>
     <desc lang="en">The host speaks about the history of America, the country's politics, customs and traditions and the life of the citizens.</desc>
     <credits>
@@ -384,7 +387,7 @@
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2982D6A0C84A735D742944BB414EFFC34742AEC66.jpg"/>
   </programme>
-  <programme start="20240626132000 +0000" stop="20240626134500 +0000" channel="ts105">
+  <programme start="20240626131500 +0000" stop="20240626134500 +0000" channel="ts105">
     <title lang="en">Paradise Kitchen Bali</title>
     <desc lang="en">Host Lauren Camilleri explores Bali's rich traditions as she learns how to prepare scrumptious, flavourful dishes from local chefs.</desc>
     <credits>

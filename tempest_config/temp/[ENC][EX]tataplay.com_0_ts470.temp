@@ -128,64 +128,114 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C3E5B32F0FDBDDD9437DA200386463A0D7BDEC0Z.jpg"/>
   </programme>
-  <programme start="20240625195900 +0000" stop="20240625221800 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240625204900 +0000" stop="20240625223900 +0000" channel="ts470">
+    <title lang="en">Mirch</title>
+    <desc lang="en">When Maanav presents his film script to Nitin, a producer, he approves of it but is unsure how to make it successful commercially. In order to achieve this goal, Maanav suggests an idea.</desc>
+    <credits>
+      <actor>Konkona Sen Sharma</actor>
+      <actor>Raima Sen</actor>
+      <actor>Ila Arun</actor>
+      <actor>Boman Irani</actor>
+      <actor>Prem Chopra</actor>
+      <actor>Tisca Chopra</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58A592C77F96AF633B262785B243F2649762F781X.jpg"/>
   </programme>
-  <programme start="20240625221800 +0000" stop="20240625223600 +0000" channel="ts470">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  <programme start="20240625223900 +0000" stop="20240626010400 +0000" channel="ts470">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">When the wealthy Durgeshwari's daughter falls in love with Raja, a poor boy, she reluctantly agrees to their union. However, she constantly tries to sabotage their relationship, but Raja outwits her.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Anil Kapoor</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Satish Kaushik</actor>
+      <actor>Shakti Kapoor</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/760EDC6F50FA54E04F1BB80B7BE3267F3AEC8C3C7.jpg"/>
   </programme>
-  <programme start="20240625223600 +0000" stop="20240626005500 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240626010400 +0000" stop="20240626040700 +0000" channel="ts470">
+    <title lang="en">Garv - Pride &amp; Honour</title>
+    <desc lang="en">An honest officer falls prey to a corrupt system where he is dismissed from the police force for getting involved in a murder case while trying to arrest a few corrupt politicians.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Shilpa Shetty Kundra</actor>
+      <actor>Arbaaz Khan</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33E2F672419BBC109B761FEA4A6C60EED2C306F3R.jpg"/>
+  </programme>
+  <programme start="20240626040700 +0000" stop="20240626073000 +0000" channel="ts470">
+    <title lang="en">Ghar Ghar Ki Kahani</title>
+    <desc lang="en">Ram begins to suspect that his wife, Seeta, is having an affair with his brother, Amar. His suspicion remains even after Amar gets married, creating problems within his family.</desc>
+    <credits>
+      <actor>Rishi Kapoor</actor>
+      <actor>Jaya Prada</actor>
+      <actor>Govinda</actor>
+      <actor>Farah Naaz Hashmi</actor>
+      <actor>Kader Khan</actor>
+      <actor>Shashikala Saigal</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/585FBFA935431988E3F3DC07F47DE3C21930A45D3.jpg"/>
   </programme>
-  <programme start="20240626005500 +0000" stop="20240626031400 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626073000 +0000" stop="20240626103800 +0000" channel="ts470">
+    <title lang="en">Chandni Chowk To China</title>
+    <desc lang="en">Sidhu's friend tricks him into believing that he's the reincarnation of a slain Chinese revolutionary. Sidhu visits China to save his people but faces challenges, including a deadly female assassin.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Deepika Padukone</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Ranvir Shorey</actor>
+      <actor>Roger Yuan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC1E635F9BCB8E9AAD6089DCE4B1F2C1E4471A4F3.jpg"/>
   </programme>
-  <programme start="20240626031400 +0000" stop="20240626053500 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626103800 +0000" stop="20240626132500 +0000" channel="ts470">
+    <title lang="en">Bodyguard</title>
+    <desc lang="en">Lovely Singh is extremely respectful of Mr Rana and his daughter, Divya. While appointed as her bodyguard, he falls in love with a girl called Chhaya, unaware that she is none other than Divya.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Raj Babbar</actor>
+      <actor>Hazel Keech</actor>
+      <actor>Aditya Pancholi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8168EAF6DCB0DD13D7DF4EB5030A87E059E10801I.jpg"/>
   </programme>
-  <programme start="20240626053500 +0000" stop="20240626082200 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240626132500 +0000" stop="20240626171400 +0000" channel="ts470">
+    <title lang="en">Baghban</title>
+    <desc lang="en">Raj Malhotra and his wife, Pooja, sacrifice everything to let their four sons have a happy life. However, when Raj retires, his sons become selfish and treat their parents with disrespect.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Hema Malini</actor>
+      <actor>Salman Khan</actor>
+      <actor>Mahima Chaudhry</actor>
+      <actor>Aman Verma</actor>
+      <actor>Samir Soni</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2DFA52C3C10F2FCEAB87FAAD6C23AF48FDEA5C8Q.jpg"/>
   </programme>
-  <programme start="20240626082200 +0000" stop="20240626105400 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626105400 +0000" stop="20240626132500 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626132500 +0000" stop="20240626170200 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626170200 +0000" stop="20240626204100 +0000" channel="ts470">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626171400 +0000" stop="20240626183000 +0000" channel="ts470">
+    <title lang="en">Race 2</title>
+    <desc lang="en">Ranvir befriends Armaan, a rich and powerful gangster based in Turkey. However, he soon turns on him and plots revenge when he learns that his girlfriend was responsible for the death of his wife.</desc>
+    <credits>
+      <actor>Anil Kapoor</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>John Abraham</actor>
+      <actor>Deepika Padukone</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Ameesha Patel</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95507E1CA4506060BECE31E2EA4B3A544B3C9A22S.jpg"/>
   </programme>
 </tv>

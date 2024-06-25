@@ -3,4 +3,460 @@
   <channel id="605">
     <display-name lang="en">Channel Win</display-name>
   </channel>
+  <programme start="20240625053500 +0530" stop="20240625054300 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605008.jpg"/>
+  </programme>
+  <programme start="20240625054300 +0530" stop="20240625060500 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Fajr</title>
+    <desc lang="en">Religious experts read and discuss Islamic prayers with the followers and inspire them to live a happy and spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605009.jpg"/>
+  </programme>
+  <programme start="20240625060500 +0530" stop="20240625061500 +0530" channel="605">
+    <title lang="en">Day Dua &amp; Ziyarat</title>
+    <desc lang="en">A religious leader recites devotional verses and prayers in praise of the Almighty and encourages devotees to follow his teachings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605010.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0530" stop="20240625063000 +0530" channel="605">
+    <title lang="en">Dua E Sabah</title>
+    <desc lang="en">A religious leader recites Dua E Sabah during the early hours of the morning and encourages devotees to seek blessings of the divine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605011.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625064500 +0530" channel="605">
+    <title lang="en">Dua E Ahad</title>
+    <desc lang="en">Recitation of special prayers to show supplication of allegiance to Muhammad al-Mahdi, who is the twelfth Imam of Shia Islam.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605012.jpg"/>
+  </programme>
+  <programme start="20240625064500 +0530" stop="20240625065000 +0530" channel="605">
+    <title lang="en">Ziyarat E Warisa</title>
+    <desc lang="en">A religious leader recites a special prayer in order to seek the blessings of the Almighty and explains its meaning and spiritual significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605013.jpg"/>
+  </programme>
+  <programme start="20240625065000 +0530" stop="20240625073000 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625083000 +0530" channel="605">
+    <title lang="en">Islam in Bangla</title>
+    <desc lang="en">A religious leader delivers a discourse on Islam and the Quran and how following their teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605015.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="605">
+    <title lang="en">Darse Quran</title>
+    <desc lang="en">A religious leader interprets and analyses the various aspects of the teachings of the Prophet Muhammad (PBUH) based on holy verses from the Quran.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605016.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="605">
+    <title lang="en">Birth of Imam Mahdi A.T.F.S</title>
+    <desc lang="en">A Muslim religious leader delivers a detailed discourse on the birth of Muhammad ibn al-Hasan al-Mahdi, the final Imam of the Twelve Imams.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605017.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103500 +0530" channel="605">
+    <title lang="en">Imam E Zamana Ki Mushabehat Dusre Anbiya Se</title>
+    <desc lang="en">A religious expert compares Imam Zaman with other Islamic prophets and shares insights into the pious life of the Prophet Muhammad to enlighten viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605018.jpg"/>
+  </programme>
+  <programme start="20240625103500 +0530" stop="20240625110500 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605019.jpg"/>
+  </programme>
+  <programme start="20240625110500 +0530" stop="20240625123000 +0530" channel="605">
+    <title lang="en">Imam Zamana A.T.F.S Aur Wilayat E Ali A.S</title>
+    <desc lang="en">An Islamic scholar delivers a discourse based on the teachings of Imam-e-Zamana (ATFS) and the authority vested with Imam Ali (AS) by the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605020.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625124700 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605021.jpg"/>
+  </programme>
+  <programme start="20240625124700 +0530" stop="20240625132000 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Zohar</title>
+    <desc lang="en">The muezzin summons the faithful and devoted of Allah to come together for the afternoon prayers in their place of worship.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605022.jpg"/>
+  </programme>
+  <programme start="20240625132000 +0530" stop="20240625133000 +0530" channel="605">
+    <title lang="en">Day Dua &amp; Ziyarat</title>
+    <desc lang="en">A religious leader recites devotional verses and prayers in praise of the Almighty and encourages devotees to follow his teachings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605023.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="605">
+    <title lang="en">Munajaat E Shabaniya</title>
+    <desc lang="en">A religious leader recites a prayer attributed to Ali ibn Abi Talib in the month of Sha'ban and guides devotees towards the righteous path of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605024.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="605">
+    <title lang="en">Imam E Zamana Ki Mushabehat Dusre Anbiya Se</title>
+    <desc lang="en">A religious expert compares Imam Zaman with other Islamic prophets and shares insights into the pious life of the Prophet Muhammad to enlighten viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605025.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150500 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605026.jpg"/>
+  </programme>
+  <programme start="20240625150500 +0530" stop="20240625153000 +0530" channel="605">
+    <title lang="en">Zikro Fikr</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605027.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625163000 +0530" channel="605">
+    <title lang="en">Islam in Bangla</title>
+    <desc lang="en">A religious leader delivers a discourse on Islam and the Quran and how following their teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605028.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625172000 +0530" channel="605">
+    <title lang="en">Insano Ki Zameen</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605029.jpg"/>
+  </programme>
+  <programme start="20240625172000 +0530" stop="20240625184500 +0530" channel="605">
+    <title lang="en">Masaele Zindagi</title>
+    <desc lang="en">Religious experts discuss various queries submitted by viewers and provide solutions based on the principles and teachings of Islam.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605030.jpg"/>
+  </programme>
+  <programme start="20240625184500 +0530" stop="20240625190100 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605031.jpg"/>
+  </programme>
+  <programme start="20240625190100 +0530" stop="20240625193500 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Maghrib &amp; Namaz E Isha</title>
+    <desc lang="en">Telecast of the call for namaz by a muezzin for evening and night prayers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605032.jpg"/>
+  </programme>
+  <programme start="20240625193500 +0530" stop="20240625200000 +0530" channel="605">
+    <title lang="en">Dua E Tawassul</title>
+    <desc lang="en">A religious scholar recites the Dua-e-Tawassul, a religious prayer which brings followers closer to Allah and inspires them to lead a spiritual and righteous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605033.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203500 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605034.jpg"/>
+  </programme>
+  <programme start="20240625203500 +0530" stop="20240625210500 +0530" channel="605">
+    <title lang="en">Nayi Soch Naya Nazariya</title>
+    <desc lang="en">The host invites an Islamic scholar to discuss how believers can cope with various life issues through spirituality and further touch upon ways to confront challenges.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605035.jpg"/>
+  </programme>
+  <programme start="20240625210500 +0530" stop="20240625223000 +0530" channel="605">
+    <title lang="en">Imam Zamana A.T.F.S Aur Wilayat E Ali A.S</title>
+    <desc lang="en">An Islamic scholar delivers a discourse based on the teachings of Imam-e-Zamana (ATFS) and the authority vested with Imam Ali (AS) by the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605036.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625232000 +0530" channel="605">
+    <title lang="en">Insano Ki Zameen</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605037.jpg"/>
+  </programme>
+  <programme start="20240625232000 +0530" stop="20240626000000 +0530" channel="605">
+    <title lang="en">Birth of Imam Mahdi A.T.F.S</title>
+    <desc lang="en">A Muslim religious leader delivers a detailed discourse on the birth of Muhammad ibn al-Hasan al-Mahdi, the final Imam of the Twelve Imams.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625605038.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="605">
+    <title lang="en">15th Of Sha'ban Celebration</title>
+    <desc lang="en">A religious leader of the Muslim faith provides a detailed discourse on the spiritual significance of the 15th Of Sha'ban celebration to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="605">
+    <title lang="en">The Promised Mahdi A.T.F.S</title>
+    <desc lang="en">A religious leader sheds light on various teachings and principles from the Quran and encourages followers to reflect on the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="605">
+    <title lang="en">Amaal Of 15th Shaban</title>
+    <desc lang="en">A scholar discusses the religious significance of the eve of the 15th of Sha'ban, the eighth month of the Islamic calendar, whilst recommending certain rituals that can be performed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626021500 +0530" channel="605">
+    <title lang="en">Dua E Kumail</title>
+    <desc lang="en">A religious leader chants verses and offers prayers to the Almighty, seeking His blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605003.jpg"/>
+  </programme>
+  <programme start="20240626021500 +0530" stop="20240626030500 +0530" channel="605">
+    <title lang="en">Dua E Nudbah</title>
+    <desc lang="en">Religious leaders recite the Dua E Nudbah during the four feast days in order to gain spiritual strength.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605004.jpg"/>
+  </programme>
+  <programme start="20240626030500 +0530" stop="20240626033500 +0530" channel="605">
+    <title lang="en">Munajaat E Shabaniya</title>
+    <desc lang="en">A religious leader recites a prayer attributed to Ali ibn Abi Talib in the month of Sha'ban and guides devotees towards the righteous path of God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605005.jpg"/>
+  </programme>
+  <programme start="20240626033500 +0530" stop="20240626040500 +0530" channel="605">
+    <title lang="en">Surah Rahman</title>
+    <desc lang="en">A renowned religious speaker delivers a spiritual discourse based on the Holy Quran and explains the verses by explaining them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605006.jpg"/>
+  </programme>
+  <programme start="20240626040500 +0530" stop="20240626043500 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605007.jpg"/>
+  </programme>
+  <programme start="20240626043500 +0530" stop="20240626053000 +0530" channel="605">
+    <title lang="en">15th Of Sha'ban Celebration</title>
+    <desc lang="en">A religious leader of the Muslim faith provides a detailed discourse on the spiritual significance of the 15th Of Sha'ban celebration to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605008.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626054800 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605009.jpg"/>
+  </programme>
+  <programme start="20240626054800 +0530" stop="20240626061000 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Fajr</title>
+    <desc lang="en">Religious experts read and discuss Islamic prayers with the followers and inspire them to live a happy and spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605010.jpg"/>
+  </programme>
+  <programme start="20240626061000 +0530" stop="20240626061500 +0530" channel="605">
+    <title lang="en">Day Dua &amp; Ziyarat</title>
+    <desc lang="en">A religious leader recites devotional verses and prayers in praise of the Almighty and encourages devotees to follow his teachings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605011.jpg"/>
+  </programme>
+  <programme start="20240626061500 +0530" stop="20240626063000 +0530" channel="605">
+    <title lang="en">Dua E Sabah</title>
+    <desc lang="en">A religious leader recites Dua E Sabah during the early hours of the morning and encourages devotees to seek blessings of the divine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626064000 +0530" channel="605">
+    <title lang="en">Dua E Ahad</title>
+    <desc lang="en">Recitation of special prayers to show supplication of allegiance to Muhammad al-Mahdi, who is the twelfth Imam of Shia Islam.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605013.jpg"/>
+  </programme>
+  <programme start="20240626064000 +0530" stop="20240626070000 +0530" channel="605">
+    <title lang="en">Dua E Tawassul</title>
+    <desc lang="en">A religious scholar recites the Dua-e-Tawassul, a religious prayer which brings followers closer to Allah and inspires them to lead a spiritual and righteous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605014.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073500 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605015.jpg"/>
+  </programme>
+  <programme start="20240626073500 +0530" stop="20240626083000 +0530" channel="605">
+    <title lang="en">Islam in Bangla</title>
+    <desc lang="en">A religious leader delivers a discourse on Islam and the Quran and how following their teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="605">
+    <title lang="en">Darse Quran</title>
+    <desc lang="en">A religious leader interprets and analyses the various aspects of the teachings of the Prophet Muhammad (PBUH) based on holy verses from the Quran.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="605">
+    <title lang="en">15th Of Sha'ban Celebration</title>
+    <desc lang="en">A religious leader of the Muslim faith provides a detailed discourse on the spiritual significance of the 15th Of Sha'ban celebration to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605018.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="605">
+    <title lang="en">Nusrat E Imam E Zamana A.T.F.S</title>
+    <desc lang="en">A religious leader talks about the birth and life of Imam e Zamana (ATFS) and his legacy to inspire the followers towards a spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605019.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="605">
+    <title lang="en">The Promised Mahdi A.T.F.S</title>
+    <desc lang="en">A religious leader sheds light on various teachings and principles from the Quran and encourages followers to reflect on the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605020.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626112000 +0530" channel="605">
+    <title lang="en">Wiladat Imam Mehdi A.S.</title>
+    <desc lang="en">A religious scholar sheds light on the birth and life of Muhammad al Mahdi(AS), on the occasion of his birth anniversary.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605021.jpg"/>
+  </programme>
+  <programme start="20240626112000 +0530" stop="20240626123500 +0530" channel="605">
+    <title lang="en">Shukriya</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605022.jpg"/>
+  </programme>
+  <programme start="20240626123500 +0530" stop="20240626124800 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605023.jpg"/>
+  </programme>
+  <programme start="20240626124800 +0530" stop="20240626132000 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Zohar</title>
+    <desc lang="en">The muezzin summons the faithful and devoted of Allah to come together for the afternoon prayers in their place of worship.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605024.jpg"/>
+  </programme>
+  <programme start="20240626132000 +0530" stop="20240626133000 +0530" channel="605">
+    <title lang="en">Day Dua &amp; Ziyarat</title>
+    <desc lang="en">A religious leader recites devotional verses and prayers in praise of the Almighty and encourages devotees to follow his teachings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605025.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="605">
+    <title lang="en">Sexual Desires &amp; Islamic Laws</title>
+    <desc lang="en">Muslim scholars discuss and debate topics related to sexual desires and Islamic laws, guiding devotees onto a morally sound path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605026.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626141500 +0530" channel="605">
+    <title lang="en">Nusrat E Imam E Zamana A.T.F.S</title>
+    <desc lang="en">A religious leader talks about the birth and life of Imam e Zamana (ATFS) and his legacy to inspire the followers towards a spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605027.jpg"/>
+  </programme>
+  <programme start="20240626141500 +0530" stop="20240626143000 +0530" channel="605">
+    <title lang="en">Wiladat Imam Mehdi A.S.</title>
+    <desc lang="en">A religious scholar sheds light on the birth and life of Muhammad al Mahdi(AS), on the occasion of his birth anniversary.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605029.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626154000 +0530" channel="605">
+    <title lang="en">Dastarkhwan</title>
+    <desc lang="en">The host invites talented chefs who cook various traditional dishes using locally sourced ingredients and share recipes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605030.jpg"/>
+  </programme>
+  <programme start="20240626154000 +0530" stop="20240626163500 +0530" channel="605">
+    <title lang="en">Islam in Bangla</title>
+    <desc lang="en">A religious leader delivers a discourse on Islam and the Quran and how following their teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605031.jpg"/>
+  </programme>
+  <programme start="20240626163500 +0530" stop="20240626173000 +0530" channel="605">
+    <title lang="en">Insano Ki Zameen</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605032.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626181500 +0530" channel="605">
+    <title lang="en">Labbaik Ya Imam A.T.F.S</title>
+    <desc lang="en">The host engages in conversation with religious scholars on the teachings of the Almighty and encourages people to live a more spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605033.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0530" stop="20240626183000 +0530" channel="605">
+    <title lang="en">The Promised Mahdi A.T.F.S</title>
+    <desc lang="en">A religious leader sheds light on various teachings and principles from the Quran and encourages followers to reflect on the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605034.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626184500 +0530" channel="605">
+    <title lang="en">Wiladat Imam Mehdi A.S.</title>
+    <desc lang="en">A religious scholar sheds light on the birth and life of Muhammad al Mahdi(AS), on the occasion of his birth anniversary.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605035.jpg"/>
+  </programme>
+  <programme start="20240626184500 +0530" stop="20240626185900 +0530" channel="605">
+    <title lang="en">Tilawat E Quran</title>
+    <desc lang="en">Ustad Parhezgar recites and interprets various verses from the Holy Quran to impart the teachings of God and Islamic principles that the holy book prescribes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605036.jpg"/>
+  </programme>
+  <programme start="20240626185900 +0530" stop="20240626193500 +0530" channel="605">
+    <title lang="en">Azan &amp; Namaz E Maghrib &amp; Namaz E Isha</title>
+    <desc lang="en">Telecast of the call for namaz by a muezzin for evening and night prayers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605037.jpg"/>
+  </programme>
+  <programme start="20240626193500 +0530" stop="20240626200500 +0530" channel="605">
+    <title lang="en">The Women Of 313</title>
+    <desc lang="en">The host along with a religious expert talks about the lives of women who worked with Imam al-Mahdi (AS) and how followers can take inspiration from them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605038.jpg"/>
+  </programme>
+  <programme start="20240626200500 +0530" stop="20240626202000 +0530" channel="605">
+    <title lang="en">Nusrat E Imam E Zamana A.T.F.S</title>
+    <desc lang="en">A religious leader talks about the birth and life of Imam e Zamana (ATFS) and his legacy to inspire the followers towards a spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605039.jpg"/>
+  </programme>
+  <programme start="20240626202000 +0530" stop="20240626203500 +0530" channel="605">
+    <title lang="en">Wiladat Imam Mehdi A.S.</title>
+    <desc lang="en">A religious scholar sheds light on the birth and life of Muhammad al Mahdi(AS), on the occasion of his birth anniversary.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605040.jpg"/>
+  </programme>
+  <programme start="20240626203500 +0530" stop="20240626211000 +0530" channel="605">
+    <title lang="en">Mahdaviyat</title>
+    <desc lang="en">The host converses with a religious leader who delivers a discourse on spirituality and encourages the audience to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605041.jpg"/>
+  </programme>
+  <programme start="20240626211000 +0530" stop="20240626220500 +0530" channel="605">
+    <title lang="en">Jashn e Noor</title>
+    <desc lang="en">The host engages in a conversation with various Islamic scholars to discuss the historical significance of Jashn e Noor.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605042.jpg"/>
+  </programme>
+  <programme start="20240626220500 +0530" stop="20240626230500 +0530" channel="605">
+    <title lang="en">Insano Ki Zameen</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605043.jpg"/>
+  </programme>
+  <programme start="20240626230500 +0530" stop="20240626232000 +0530" channel="605">
+    <title lang="en">Sexual Desires &amp; Islamic Laws</title>
+    <desc lang="en">Muslim scholars discuss and debate topics related to sexual desires and Islamic laws, guiding devotees onto a morally sound path.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626605044.jpg"/>
+  </programme>
 </tv>

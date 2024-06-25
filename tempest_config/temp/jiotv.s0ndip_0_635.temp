@@ -3,4 +3,592 @@
   <channel id="635">
     <display-name lang="en">Rengoni</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635022.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635023.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635024.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635025.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635026.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635027.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635028.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635029.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635030.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635031.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635032.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635033.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635034.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635035.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635036.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635037.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635038.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635039.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635040.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635041.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635042.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635043.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635044.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635045.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635046.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625635047.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635022.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635023.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635024.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635025.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635026.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635027.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635029.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635030.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635031.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635032.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635033.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635034.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="635">
+    <title lang="en">Swargam</title>
+    <desc lang="en">Several classical dancers and musicians come together on stage and entertain the audience with an electrifying performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635035.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635036.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635037.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635038.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635039.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635040.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="635">
+    <title lang="en">Nahor</title>
+    <desc lang="en">When a young woman from the Karbi tribe and a city-bred doctor fall in love, they must overcome society's judgments and other obstacles in order to be together.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635041.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="635">
+    <title lang="en">Best Of Xorubihuwoti</title>
+    <desc lang="en">A compilation of some of the best performances delivered by talented artists during the Xaru Bihuwoti, a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635042.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="635">
+    <title lang="en">Adoror Achcur</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635043.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="635">
+    <title lang="en">Gungun Kotha Moromor</title>
+    <desc lang="en">Gungun aspires to do something big in life but her dreams get suppressed under the shackles of poverty. Moreover, she has to take care of her mother, Padma.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635044.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="635">
+    <title lang="en">Beharbari Outpost</title>
+    <desc lang="en">Police officers in the local outpost of Beharbari try to solve unique and sometimes outrageous cases while trying to espouse important values and morals.</desc>
+    <credits>
+      <director>Rajesh Bhuyan</director>
+      <actor>Pritam Khargharia</actor>
+      <actor>Siddhartha Sarma</actor>
+      <actor>Triveni Baruah</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635045.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="635">
+    <title lang="en">Bauli Phagun</title>
+    <desc lang="en">A woman from a rural town strives to keep up with her patriarchal husband. Her husband tormented her after she gave birth to two humble daughters as he wants a son.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626635046.jpg"/>
+  </programme>
 </tv>

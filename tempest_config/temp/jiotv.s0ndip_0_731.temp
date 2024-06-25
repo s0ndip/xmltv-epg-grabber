@@ -3,4 +3,291 @@
   <channel id="731">
     <display-name lang="en">Kairali WE TV</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="731">
+    <title lang="en">Dr Talk</title>
+    <desc lang="en">The host interacts with an experienced medical practitioner and provides detailed insights into various health-related topics.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731004.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="731">
+    <title lang="en">Evergreen Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most evergreen songs composed by famous artists and musicians from the music industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731005.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="731">
+    <title lang="en">Dheem Tharikida Thom</title>
+    <desc lang="en">Shivasubrahmaniam, an innocent banker, falls deeply in love with Rohini, a ballet dancer. In order to woo her, he joins her ballet troupe.</desc>
+    <credits>
+      <director>Priyadarshan</director>
+      <actor>Lissy</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Sreenivasan</actor>
+      <actor>Mukesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731006.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="731">
+    <title lang="en">Remo</title>
+    <desc lang="en">SK, an aspiring actor, falls in love with Kavya, a doctor. However, she is engaged to another man and SK tries to sabotage their relationship by making her fall for him.</desc>
+    <credits>
+      <director>Bakkiyaraj Kannan</director>
+      <actor>Sivakarthikeyan</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Sathish</actor>
+      <actor>K S Ravikumar</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>Rajendran</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Mayilsamy</actor>
+      <actor>Swaminathan</actor>
+      <actor>Anson Paul</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731007.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="731">
+    <title lang="en">Ambili</title>
+    <desc lang="en">Ambili, a naive and wide-eyed young man, is adored by everyone for his quirky traits. He hopes to marry his childhood love, Tina, and restore the lost bond with his friend and Tina's brother, Bobby.</desc>
+    <credits>
+      <director>Johnpaul George</director>
+      <actor>Soubin Shahir</actor>
+      <actor>Naveen Nazim</actor>
+      <actor>Tanvi Ram</actor>
+      <actor>Jaffar Idukki</actor>
+      <actor>Sreelatha Namboothiri</actor>
+      <actor>Rabiya Beegum</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731008.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="731">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731009.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="731">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731010.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625193000 +0530" channel="731">
+    <title lang="en">Kakkathollayiram</title>
+    <desc lang="en">Revathy, a woman with special needs, falls in love with her rapist. When she tells her brother Mukesh to get her married to him, he initially agrees but later learns the truth.</desc>
+    <credits>
+      <director>V R Gopalakrishnan</director>
+      <actor>Mukesh</actor>
+      <actor>Urvashi</actor>
+      <actor>Master Jithin</actor>
+      <actor>Chitra</actor>
+      <actor>Sukumari</actor>
+      <actor>K P A C Lalitha</actor>
+      <actor>Sankaradi</actor>
+      <actor>Appa Haja</actor>
+      <actor>Bobby Kottarakkara</actor>
+      <actor>Ganesh Kumar</actor>
+      <actor>Mamukkoya</actor>
+      <actor>Oduvil Unnikrishnan</actor>
+      <actor>Santha Devi</actor>
+      <actor>Santhakumari</actor>
+      <actor>Shivaji</actor>
+      <actor>Thesni Khan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731011.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625223000 +0530" channel="731">
+    <title lang="en">Ee Parakkum Thalika</title>
+    <desc lang="en">Unni, a bus owner, and his friend Sundaresan ply a bus service. The pathetic condition of the bus creates concerns for Unni. Things take a turn when a woman happens to come into their lives.</desc>
+    <credits>
+      <director>Thaha</director>
+      <actor>Dilip</actor>
+      <actor>Nithya Das</actor>
+      <actor>Harisree Ashokan</actor>
+      <actor>Cochin Haneefa</actor>
+      <actor>Salim Kumar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731012.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240626000000 +0530" channel="731">
+    <title lang="en">Agrajan</title>
+    <desc lang="en">Aravindan, a journalist, moves to a new city when he gets a high-paid job. However, his life changes when he finds himself caught in the rivalry between two leading newspaper publishers.</desc>
+    <credits>
+      <director>Dennis Joseph</director>
+      <actor>Sukumari</actor>
+      <actor>Manoj K Jayan</actor>
+      <actor>Thilakan</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Rajan P Dev</actor>
+      <actor>Ganesh Kumar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625731013.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="731">
+    <title lang="en">Agrajan</title>
+    <desc lang="en">Aravindan, a journalist, moves to a new city when he gets a high-paid job. However, his life changes when he finds himself caught in the rivalry between two leading newspaper publishers.</desc>
+    <credits>
+      <director>Dennis Joseph</director>
+      <actor>Sukumari</actor>
+      <actor>Manoj K Jayan</actor>
+      <actor>Thilakan</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Rajan P Dev</actor>
+      <actor>Ganesh Kumar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731000.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626030000 +0530" channel="731">
+    <title lang="en">Paithrukam</title>
+    <desc lang="en">A renowned village pandit has two sons, but one of them, Dathan, becomes an atheist while working in the city. When misfortunes befall the family, Dathan blames his father.</desc>
+    <credits>
+      <director>Jayaraaj</director>
+      <actor>Suresh Gopi</actor>
+      <actor>Jayaram</actor>
+      <actor>Narendra Prasad</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Geetha</actor>
+      <actor>Nandita Bose</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731001.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626034500 +0530" channel="731">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731002.jpg"/>
+  </programme>
+  <programme start="20240626034500 +0530" stop="20240626060000 +0530" channel="731">
+    <title lang="en">Thuruppugulan</title>
+    <desc lang="en">Menon buys land for his five-star hotel and asks his trusted employee, Sreedharan Unnithan, to take its charge. Years later, Unnithan gets Menon imprisoned in a fake case and Kunjumon helps him.</desc>
+    <credits>
+      <director>Johny Antony</director>
+      <actor>Mammootty</actor>
+      <actor>Innocent</actor>
+      <actor>Sneha</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Salim Kumar</actor>
+      <actor>Harishree Ashokan</actor>
+      <actor>Kalasala Babu</actor>
+      <actor>Cochin Hanifa</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731003.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="731">
+    <title lang="en">Dr Talk</title>
+    <desc lang="en">The host interacts with an experienced medical practitioner and provides detailed insights into various health-related topics.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731004.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="731">
+    <title lang="en">Evergreen Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most evergreen songs composed by famous artists and musicians from the music industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731005.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626100000 +0530" channel="731">
+    <title lang="en">Nadodikkattu</title>
+    <desc lang="en">After losing their jobs, Dasan and Vijayan decide to go to Dubai to try their luck. But they end up in a different location, where they are mistaken for crime investigation officers.</desc>
+    <credits>
+      <director>Sathyan Anthikad</director>
+      <actor>Mohanlal</actor>
+      <actor>Sreenivasan</actor>
+      <actor>Shobhana</actor>
+      <actor>Thilakan</actor>
+      <actor>Innocent</actor>
+      <actor>Janardhan</actor>
+      <actor>Captain Raju</actor>
+      <actor>Mamukkoya</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731006.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626130000 +0530" channel="731">
+    <title lang="en">Vellanakalude Naadu</title>
+    <desc lang="en">Pavithran, by hook or by crook, tries to become a successful contractor like his brother. However, he faces many challenges when he has to please an IAS officer, who is his ex-girlfriend.</desc>
+    <credits>
+      <director>Priyadarshan</director>
+      <actor>Mohanlal</actor>
+      <actor>Shobhana</actor>
+      <actor>Thikkurissy Sukumaran Nair</actor>
+      <actor>M G Soman</actor>
+      <actor>Sreenivasan</actor>
+      <actor>Maniyanpilla Raju</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731007.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626160000 +0530" channel="731">
+    <title lang="en">Varnapakittu</title>
+    <desc lang="en">Sunny, a successful businessman in Singapore, wishes to marry his girlfriend, Sandra. However, he soon finds out that she is an escort hired by his business rival, Mohammad Ali, to spy on him.</desc>
+    <credits>
+      <director>I. V. Sasi</director>
+      <actor>Mohanlal</actor>
+      <actor>Meena</actor>
+      <actor>Divya Unni</actor>
+      <actor>Jagadish</actor>
+      <actor>Madhu</actor>
+      <actor>Dileep</actor>
+      <actor>Rajan P. Dev</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731008.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="731">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731009.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="731">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731010.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626193000 +0530" channel="731">
+    <title lang="en">Chantha</title>
+    <desc lang="en">Sulthan, a labourer, tries to save his community from an evil bourgeoisie. He decides to take down their oppressors and help his people in leading a respectable life.</desc>
+    <credits>
+      <director>Sunil</director>
+      <actor>Thilakan</actor>
+      <actor>Augustine</actor>
+      <actor>Sathaar</actor>
+      <actor>Babu Antony</actor>
+      <actor>Devan</actor>
+      <actor>Lalu Alex</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731011.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626230000 +0530" channel="731">
+    <title lang="en">Valliettan</title>
+    <desc lang="en">After losing their ancestral home to Arackal Madhavanunni, Shivaraman Nair seeks the help of his trusted lieutenant, Nedungadi, in order to kill Arackal and get their house back.</desc>
+    <credits>
+      <director>Shaji Kailas</director>
+      <actor>Mammootty</actor>
+      <actor>Siddique</actor>
+      <actor>Manoj K. Jayan</actor>
+      <actor>Sudheesh</actor>
+      <actor>Vijayakumar</actor>
+      <actor>Shobhana</actor>
+      <actor>Innocent</actor>
+      <actor>Master Jithin</actor>
+      <actor>N F Varghese</actor>
+      <actor>Kalabhavan Mani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626731012.jpg"/>
+  </programme>
 </tv>

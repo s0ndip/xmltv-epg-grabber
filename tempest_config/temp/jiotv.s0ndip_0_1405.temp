@@ -3,4 +3,955 @@
   <channel id="1405">
     <display-name lang="en">NHK World Japan</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625054500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405026.jpg"/>
+  </programme>
+  <programme start="20240625054500 +0530" stop="20240625060000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405027.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="1405">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">The host travels to various localities in Japan and explores a variety of cuisines, vacation spots and the different types of festivals.</desc>
+    <credits>
+      <director>Ichiro Tsuburaya</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405028.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625064500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405029.jpg"/>
+  </programme>
+  <programme start="20240625064500 +0530" stop="20240625070000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405030.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="1405">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">The hosts, along with a couple of chefs, share mouthwatering recipes and tips on how to cook traditional and modern Japanese cuisines.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405031.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625074500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405032.jpg"/>
+  </programme>
+  <programme start="20240625074500 +0530" stop="20240625080000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405033.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="1405">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">The film-maker documents a chance encounter with people in different situations at various selected locations in order to explore the many facets of human behaviour.</desc>
+    <credits>
+      <director>Yoshihito Yamamura</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405034.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625084500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405035.jpg"/>
+  </programme>
+  <programme start="20240625084500 +0530" stop="20240625090000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405036.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="1405">
+    <title lang="en">Medical Frontiers</title>
+    <desc lang="en">The host speaks about the advanced medical technology used in Japan which makes it easier to provide proper health care to patients.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405037.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625094500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405038.jpg"/>
+  </programme>
+  <programme start="20240625094500 +0530" stop="20240625100000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405039.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625101500 +0530" channel="1405">
+    <title lang="en">Deeper Look</title>
+    <desc lang="en">Documentary.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405040.jpg"/>
+  </programme>
+  <programme start="20240625101500 +0530" stop="20240625102500 +0530" channel="1405">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">A variety show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405041.jpg"/>
+  </programme>
+  <programme start="20240625102500 +0530" stop="20240625103000 +0530" channel="1405">
+    <title lang="en">The seasons of Yamato</title>
+    <desc lang="en">A comprehensive compilation of poetic videos performed by Koichi Hozan in collaboration with Mine Kawakami, a renowned pianist, is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405042.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625104500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405043.jpg"/>
+  </programme>
+  <programme start="20240625104500 +0530" stop="20240625110000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405044.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="1405">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">The host travels to various localities in Japan and explores a variety of cuisines, vacation spots and the different types of festivals.</desc>
+    <credits>
+      <director>Ichiro Tsuburaya</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405045.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="1405">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">The hosts deliver the most relevant news and updates happening around Japan and all over Asia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405046.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="1405">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">The hosts, along with a couple of chefs, share mouthwatering recipes and tips on how to cook traditional and modern Japanese cuisines.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405047.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="1405">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">The hosts deliver the most relevant news and updates happening around Japan and all over Asia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405048.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="1405">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">The film-maker documents a chance encounter with people in different situations at various selected locations in order to explore the many facets of human behaviour.</desc>
+    <credits>
+      <director>Yoshihito Yamamura</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405049.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625134400 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405050.jpg"/>
+  </programme>
+  <programme start="20240625134400 +0530" stop="20240625134500 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405051.jpg"/>
+  </programme>
+  <programme start="20240625134500 +0530" stop="20240625135300 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405052.jpg"/>
+  </programme>
+  <programme start="20240625135300 +0530" stop="20240625140000 +0530" channel="1405">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Amidst the backdrop of Japan's extensive stretch of islands, the filmmaker documents his aerial journey and the portraits of the inhabitants while traversing the country.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405053.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625141500 +0530" channel="1405">
+    <title lang="en">Deeper Look</title>
+    <desc lang="en">Documentary.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405054.jpg"/>
+  </programme>
+  <programme start="20240625141500 +0530" stop="20240625142500 +0530" channel="1405">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">A variety show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405055.jpg"/>
+  </programme>
+  <programme start="20240625142500 +0530" stop="20240625143000 +0530" channel="1405">
+    <title lang="en">The seasons of Yamato</title>
+    <desc lang="en">A comprehensive compilation of poetic videos performed by Koichi Hozan in collaboration with Mine Kawakami, a renowned pianist, is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405056.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625144400 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405057.jpg"/>
+  </programme>
+  <programme start="20240625144400 +0530" stop="20240625144500 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405058.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0530" stop="20240625150000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405059.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="1405">
+    <title lang="en">Medical Frontiers</title>
+    <desc lang="en">The host speaks about the advanced medical technology used in Japan which makes it easier to provide proper health care to patients.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405060.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625154700 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405061.jpg"/>
+  </programme>
+  <programme start="20240625154700 +0530" stop="20240625154800 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405062.jpg"/>
+  </programme>
+  <programme start="20240625154800 +0530" stop="20240625160000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405063.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="1405">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">The host travels to various localities in Japan and explores a variety of cuisines, vacation spots and the different types of festivals.</desc>
+    <credits>
+      <director>Ichiro Tsuburaya</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405064.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625165700 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405065.jpg"/>
+  </programme>
+  <programme start="20240625165700 +0530" stop="20240625171000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405066.jpg"/>
+  </programme>
+  <programme start="20240625171000 +0530" stop="20240625172500 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405067.jpg"/>
+  </programme>
+  <programme start="20240625172500 +0530" stop="20240625173000 +0530" channel="1405">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Historians and cultural experts recount the Edo period of the history of Tokyo and show how daily life progressed in the city.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405068.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405069.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="1405">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">The hosts, along with a couple of chefs, share mouthwatering recipes and tips on how to cook traditional and modern Japanese cuisines.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405070.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625184500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405071.jpg"/>
+  </programme>
+  <programme start="20240625184500 +0530" stop="20240625184800 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405072.jpg"/>
+  </programme>
+  <programme start="20240625184800 +0530" stop="20240625190000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405073.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="1405">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">The film-maker documents a chance encounter with people in different situations at various selected locations in order to explore the many facets of human behaviour.</desc>
+    <credits>
+      <director>Yoshihito Yamamura</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405074.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625194500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405075.jpg"/>
+  </programme>
+  <programme start="20240625194500 +0530" stop="20240625200000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405076.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="1405">
+    <title lang="en">Science View</title>
+    <desc lang="en">Scientists unveil various facts pertaining to the latest technology and the natural sciences.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405077.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625204500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405078.jpg"/>
+  </programme>
+  <programme start="20240625204500 +0530" stop="20240625210000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405079.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="1405">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">The host travels to various localities in Japan and explores a variety of cuisines, vacation spots and the different types of festivals.</desc>
+    <credits>
+      <director>Ichiro Tsuburaya</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405080.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625214500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405081.jpg"/>
+  </programme>
+  <programme start="20240625214500 +0530" stop="20240625220000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405082.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625221500 +0530" channel="1405">
+    <title lang="en">Deeper Look</title>
+    <desc lang="en">Documentary.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405083.jpg"/>
+  </programme>
+  <programme start="20240625221500 +0530" stop="20240625222500 +0530" channel="1405">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">A variety show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405084.jpg"/>
+  </programme>
+  <programme start="20240625222500 +0530" stop="20240625223000 +0530" channel="1405">
+    <title lang="en">The seasons of Yamato</title>
+    <desc lang="en">A comprehensive compilation of poetic videos performed by Koichi Hozan in collaboration with Mine Kawakami, a renowned pianist, is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405085.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625224500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405086.jpg"/>
+  </programme>
+  <programme start="20240625224500 +0530" stop="20240625230000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405087.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="1405">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">The hosts, along with a couple of chefs, share mouthwatering recipes and tips on how to cook traditional and modern Japanese cuisines.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405088.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240625235700 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405089.jpg"/>
+  </programme>
+  <programme start="20240625235700 +0530" stop="20240626000000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251405090.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626001000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405000.jpg"/>
+  </programme>
+  <programme start="20240626001000 +0530" stop="20240626002500 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405001.jpg"/>
+  </programme>
+  <programme start="20240626002500 +0530" stop="20240626003000 +0530" channel="1405">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">The host talks about the rich and fascinating Edo era of Japan, which was dominated by a deep love for the arts. The traditional woodblock prints called Ukiyo-e blossomed during this period.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405002.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="1405">
+    <title lang="en">Cycle Around Japan Highlights</title>
+    <desc lang="en">Highlights of different biking journey around Japan, which provide useful information on its culture, people and various other facets that make the country special.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405003.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="1405">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">The film-maker documents a chance encounter with people in different situations at various selected locations in order to explore the many facets of human behaviour.</desc>
+    <credits>
+      <director>Yoshihito Yamamura</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405004.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626014800 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405005.jpg"/>
+  </programme>
+  <programme start="20240626014800 +0530" stop="20240626020000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405006.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="1405">
+    <title lang="en">Science View</title>
+    <desc lang="en">Scientists unveil various facts pertaining to the latest technology and the natural sciences.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405007.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626024800 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405008.jpg"/>
+  </programme>
+  <programme start="20240626024800 +0530" stop="20240626030000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405009.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="1405">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">The host travels to various localities in Japan and explores a variety of cuisines, vacation spots and the different types of festivals.</desc>
+    <credits>
+      <director>Ichiro Tsuburaya</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405010.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626034800 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405011.jpg"/>
+  </programme>
+  <programme start="20240626034800 +0530" stop="20240626040000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405012.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="1405">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">The hosts, along with a couple of chefs, share mouthwatering recipes and tips on how to cook traditional and modern Japanese cuisines.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405013.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626044500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405014.jpg"/>
+  </programme>
+  <programme start="20240626044500 +0530" stop="20240626045000 +0530" channel="1405">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">The host talks about the rich and fascinating Edo era of Japan, which was dominated by a deep love for the arts. The traditional woodblock prints called Ukiyo-e blossomed during this period.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405015.jpg"/>
+  </programme>
+  <programme start="20240626045000 +0530" stop="20240626045500 +0530" channel="1405">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">The art of time-lapse photography captures the picturesque landscapes of Japan and depicts the diverse nature and culture of the Asian island.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405016.jpg"/>
+  </programme>
+  <programme start="20240626045500 +0530" stop="20240626050000 +0530" channel="1405">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Amidst the backdrop of Japan's extensive stretch of islands, the filmmaker documents his aerial journey and the portraits of the inhabitants while traversing the country.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405017.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626051500 +0530" channel="1405">
+    <title lang="en">Deeper Look</title>
+    <desc lang="en">Documentary.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405018.jpg"/>
+  </programme>
+  <programme start="20240626051500 +0530" stop="20240626052500 +0530" channel="1405">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">A variety show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405019.jpg"/>
+  </programme>
+  <programme start="20240626052500 +0530" stop="20240626053000 +0530" channel="1405">
+    <title lang="en">The seasons of Yamato</title>
+    <desc lang="en">A comprehensive compilation of poetic videos performed by Koichi Hozan in collaboration with Mine Kawakami, a renowned pianist, is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405020.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626054500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405021.jpg"/>
+  </programme>
+  <programme start="20240626054500 +0530" stop="20240626060000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405022.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="1405">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">The host travels to various places across Japan to discover its old historic towns and explore its cultural and traditional heritage.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405023.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626064500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405024.jpg"/>
+  </programme>
+  <programme start="20240626064500 +0530" stop="20240626070000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405025.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626071500 +0530" channel="1405">
+    <title lang="en">Through The Kitchen Window</title>
+    <desc lang="en">The host interacts with talented chefs from different parts of the world and tastes some of the special dishes prepared by them.</desc>
+    <credits>
+      <director>Phoebe Amoroso</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405026.jpg"/>
+  </programme>
+  <programme start="20240626071500 +0530" stop="20240626072500 +0530" channel="1405">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">The narrator explores the influence of history, nature and culture on the words and expressions used in the Japanese language.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405027.jpg"/>
+  </programme>
+  <programme start="20240626072500 +0530" stop="20240626073000 +0530" channel="1405">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">The host delves into the rich and vibrant history, culture, people and way of life of Kyoto, the ancient capital city of Japan.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405028.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626074500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405029.jpg"/>
+  </programme>
+  <programme start="20240626074500 +0530" stop="20240626080000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405030.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="1405">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">The host sheds light on top-notch professionals and showcases their amazing along with interviewing them about their experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405031.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626084500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405032.jpg"/>
+  </programme>
+  <programme start="20240626084500 +0530" stop="20240626090000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405033.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="1405">
+    <title lang="en">Science View</title>
+    <desc lang="en">Scientists unveil various facts pertaining to the latest technology and the natural sciences.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405034.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626094500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405035.jpg"/>
+  </programme>
+  <programme start="20240626094500 +0530" stop="20240626100000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405036.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="1405">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Actors guide the audience into the world of kabuki, an integral style of Japanese theatre which blends music, dance, drama and creative staging.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405037.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626104500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405038.jpg"/>
+  </programme>
+  <programme start="20240626104500 +0530" stop="20240626110000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405039.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="1405">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">The host travels to various places across Japan to discover its old historic towns and explore its cultural and traditional heritage.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405040.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="1405">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">The hosts deliver the most relevant news and updates happening around Japan and all over Asia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405041.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626121500 +0530" channel="1405">
+    <title lang="en">Through The Kitchen Window</title>
+    <desc lang="en">The host interacts with talented chefs from different parts of the world and tastes some of the special dishes prepared by them.</desc>
+    <credits>
+      <director>Phoebe Amoroso</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405042.jpg"/>
+  </programme>
+  <programme start="20240626121500 +0530" stop="20240626122500 +0530" channel="1405">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">The narrator explores the influence of history, nature and culture on the words and expressions used in the Japanese language.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405043.jpg"/>
+  </programme>
+  <programme start="20240626122500 +0530" stop="20240626123000 +0530" channel="1405">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">The host delves into the rich and vibrant history, culture, people and way of life of Kyoto, the ancient capital city of Japan.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405044.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="1405">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">The hosts deliver the most relevant news and updates happening around Japan and all over Asia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405045.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="1405">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">The host sheds light on top-notch professionals and showcases their amazing along with interviewing them about their experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405046.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626134400 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405047.jpg"/>
+  </programme>
+  <programme start="20240626134400 +0530" stop="20240626134500 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405048.jpg"/>
+  </programme>
+  <programme start="20240626134500 +0530" stop="20240626135300 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405049.jpg"/>
+  </programme>
+  <programme start="20240626135300 +0530" stop="20240626140000 +0530" channel="1405">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Amidst the backdrop of Japan's extensive stretch of islands, the filmmaker documents his aerial journey and the portraits of the inhabitants while traversing the country.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405050.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="1405">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Actors guide the audience into the world of kabuki, an integral style of Japanese theatre which blends music, dance, drama and creative staging.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405051.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626144400 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405052.jpg"/>
+  </programme>
+  <programme start="20240626144400 +0530" stop="20240626144500 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405053.jpg"/>
+  </programme>
+  <programme start="20240626144500 +0530" stop="20240626150000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405054.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="1405">
+    <title lang="en">Science View</title>
+    <desc lang="en">Scientists unveil various facts pertaining to the latest technology and the natural sciences.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405055.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626154700 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405056.jpg"/>
+  </programme>
+  <programme start="20240626154700 +0530" stop="20240626154800 +0530" channel="1405">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405057.jpg"/>
+  </programme>
+  <programme start="20240626154800 +0530" stop="20240626160000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405058.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="1405">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">The host travels to various places across Japan to discover its old historic towns and explore its cultural and traditional heritage.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405059.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626165700 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405060.jpg"/>
+  </programme>
+  <programme start="20240626165700 +0530" stop="20240626171000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405061.jpg"/>
+  </programme>
+  <programme start="20240626171000 +0530" stop="20240626172500 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405062.jpg"/>
+  </programme>
+  <programme start="20240626172500 +0530" stop="20240626173000 +0530" channel="1405">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">The host talks about the rich and fascinating Edo era of Japan, which was dominated by a deep love for the arts. The traditional woodblock prints called Ukiyo-e blossomed during this period.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405063.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405064.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626181500 +0530" channel="1405">
+    <title lang="en">Through The Kitchen Window</title>
+    <desc lang="en">The host interacts with talented chefs from different parts of the world and tastes some of the special dishes prepared by them.</desc>
+    <credits>
+      <director>Phoebe Amoroso</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405065.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0530" stop="20240626182500 +0530" channel="1405">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">The narrator explores the influence of history, nature and culture on the words and expressions used in the Japanese language.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405066.jpg"/>
+  </programme>
+  <programme start="20240626182500 +0530" stop="20240626183000 +0530" channel="1405">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">The host delves into the rich and vibrant history, culture, people and way of life of Kyoto, the ancient capital city of Japan.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405067.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626184500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405068.jpg"/>
+  </programme>
+  <programme start="20240626184500 +0530" stop="20240626184800 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405069.jpg"/>
+  </programme>
+  <programme start="20240626184800 +0530" stop="20240626190000 +0530" channel="1405">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">The host presents the latest business and economic news, featuring discussions with pundits about financial markets around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405070.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="1405">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">The host sheds light on top-notch professionals and showcases their amazing along with interviewing them about their experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405071.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626194500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405072.jpg"/>
+  </programme>
+  <programme start="20240626194500 +0530" stop="20240626200000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405073.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="1405">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">The filmmaker sheds light on the cuisine of Kyoto, a city in Japan, and the unique ingredients used in the food recipes.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405074.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626204500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405075.jpg"/>
+  </programme>
+  <programme start="20240626204500 +0530" stop="20240626210000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405076.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="1405">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">The host travels to various places across Japan to discover its old historic towns and explore its cultural and traditional heritage.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405077.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626214500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405078.jpg"/>
+  </programme>
+  <programme start="20240626214500 +0530" stop="20240626220000 +0530" channel="1405">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">The host invites eminent personalities and visionaries to discuss various topics of relevance, ranging from politics to the economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405079.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="1405">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Actors guide the audience into the world of kabuki, an integral style of Japanese theatre which blends music, dance, drama and creative staging.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405080.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626224500 +0530" channel="1405">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">The hosts present the latest news and developments from the world of sports, weather, international politics and economy.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405081.jpg"/>
+  </programme>
+  <programme start="20240626224500 +0530" stop="20240626230000 +0530" channel="1405">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">The host shares comprehensive analyses focusing on specific topics and invites high-profile public figures and pundits to discuss them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405082.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626231500 +0530" channel="1405">
+    <title lang="en">Through The Kitchen Window</title>
+    <desc lang="en">The host interacts with talented chefs from different parts of the world and tastes some of the special dishes prepared by them.</desc>
+    <credits>
+      <director>Phoebe Amoroso</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405083.jpg"/>
+  </programme>
+  <programme start="20240626231500 +0530" stop="20240626232500 +0530" channel="1405">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">The narrator explores the influence of history, nature and culture on the words and expressions used in the Japanese language.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405084.jpg"/>
+  </programme>
+  <programme start="20240626232500 +0530" stop="20240626233000 +0530" channel="1405">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">The host delves into the rich and vibrant history, culture, people and way of life of Kyoto, the ancient capital city of Japan.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405085.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240626235700 +0530" channel="1405">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">The host presents the most important political, social and economic updates and developments from different parts of Japan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261405086.jpg"/>
+  </programme>
 </tv>

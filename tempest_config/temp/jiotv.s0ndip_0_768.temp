@@ -3,4 +3,508 @@
   <channel id="768">
     <display-name lang="en">Jan TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="768">
+    <title lang="en">Yog Se Nirog</title>
+    <desc lang="en">Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="768">
+    <title lang="en">Grahon Ka Safar</title>
+    <desc lang="en">A renowned astrologer makes future predictions based on numerology and the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="768">
+    <title lang="en">Pravachan</title>
+    <desc lang="en">A religious scholar delivers spiritual discourses by reciting the Bhagavad Gita and sheds light on various scriptures of Hinduism.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="768">
+    <title lang="en">Yog Se Nirog</title>
+    <desc lang="en">Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768022.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768023.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768024.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768025.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768026.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="768">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768027.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768028.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768029.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768030.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768031.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768032.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768033.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768034.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768035.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768036.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="768">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768037.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="768">
+    <title lang="en">Jan TV UP News</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs from the Indian state of Uttar Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768038.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768039.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768040.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768041.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768042.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768043.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768044.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="768">
+    <title lang="en">Jan TV Express</title>
+    <desc lang="en">A look at all the latest news, updates and developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768045.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="768">
+    <title lang="en">Computer Shala</title>
+    <desc lang="en">Education-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768046.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625768047.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="768">
+    <title lang="en">Jan Tv Khas Khabar</title>
+    <desc lang="en">The host presents some of the latest regional and national news updates pertaining to the current social, economic and political developments of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="768">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="768">
+    <title lang="en">Jan TV UP</title>
+    <desc lang="en">The host presents the latest regional news updates regarding the current social, economic and political developments of Uttar Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="768">
+    <title lang="en">Jan TV UP</title>
+    <desc lang="en">The host presents the latest regional news updates regarding the current social, economic and political developments of Uttar Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="768">
+    <title lang="en">Yog Se Nirog</title>
+    <desc lang="en">Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="768">
+    <title lang="en">Grahon Ka Safar</title>
+    <desc lang="en">A renowned astrologer makes future predictions based on numerology and the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="768">
+    <title lang="en">Pravachan</title>
+    <desc lang="en">A religious scholar delivers spiritual discourses by reciting the Bhagavad Gita and sheds light on various scriptures of Hinduism.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="768">
+    <title lang="en">Yog Se Nirog</title>
+    <desc lang="en">Health experts provide tips and suggestions regarding how yoga can help one lead a healthy life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768022.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768023.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768024.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768025.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768026.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="768">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768027.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="768">
+    <title lang="en">Jan TV News</title>
+    <desc lang="en">The host collates and presents some of the most important news updates and current affairs that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768029.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="768">
+    <title lang="en">Jan Express</title>
+    <desc lang="en">This program covers all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768030.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768031.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768032.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768033.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768034.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768035.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768036.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="768">
+    <title lang="en">Badi Khabar</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768037.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="768">
+    <title lang="en">Jan TV UP News</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs from the Indian state of Uttar Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768038.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768039.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768040.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="768">
+    <title lang="en">Khas Khabar</title>
+    <desc lang="en">The host presents the most recent political, social and economic news, updates and developments from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768041.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="768">
+    <title lang="en">Jan TV National</title>
+    <desc lang="en">Take a look at all the recent news, updates and stories from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768042.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="768">
+    <title lang="en">Uttarakhand News</title>
+    <desc lang="en">The host presents the latest and most relevant social, political and economic updates from across the state of Uttarakhand.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768043.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="768">
+    <title lang="en">Jan TV Rajasthan</title>
+    <desc lang="en">Telecast of the latest regional and national news updates regarding the current social, economic and political developments of Rajasthan.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768044.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="768">
+    <title lang="en">Jan TV Express</title>
+    <desc lang="en">A look at all the latest news, updates and developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768045.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="768">
+    <title lang="en">Computer Shala</title>
+    <desc lang="en">Education-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626768046.jpg"/>
+  </programme>
 </tv>

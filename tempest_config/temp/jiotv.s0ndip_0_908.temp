@@ -3,4 +3,245 @@
   <channel id="908">
     <display-name lang="en">Indradhanu</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="908">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908002.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="908">
+    <title lang="en">Nayak</title>
+    <desc lang="en">An affluent man and a woman from a humble background must face disapproval from their families, owing to their contrasting lifestyles.</desc>
+    <credits>
+      <director>Munin Baruah</director>
+      <actor>Jatin Bora</actor>
+      <actor>Ravi Sarma</actor>
+      <actor>Zerifa Wahid</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Jayanta Das</actor>
+      <actor>Purabi Sharma</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908003.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="908">
+    <title lang="en">Tumi Jodi Kuwa</title>
+    <desc lang="en">A group of friends form a band and try to overcome all the hurdles in order to gain fame and recognition.</desc>
+    <credits>
+      <director>Simple Gogoi</director>
+      <actor>Prasenjit Borah</actor>
+      <actor>Jupitora Bhuyan</actor>
+      <actor>Munmi Kalita</actor>
+      <actor>Mahika Sharma</actor>
+      <actor>Rupam Sharma</actor>
+      <actor>Bhaskar Ranjan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908004.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908005.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908006.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625153000 +0530" channel="908">
+    <title lang="en">Bogitora</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908007.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625183000 +0530" channel="908">
+    <title lang="en">Deuta Diya Bidai</title>
+    <desc lang="en">Lakhimi is mistreated by her father and stepmother as she is considered unlucky. Fate takes a tragic turn after she marries Amal and moves into a new home.</desc>
+    <credits>
+      <director>Ramesh Modi</director>
+      <actor>Gayatri Mahanta</actor>
+      <actor>Biju Phukan</actor>
+      <actor>Jatin Bora</actor>
+      <actor>Ravi Sharma</actor>
+      <actor>Zerifa Wahid</actor>
+      <actor>Nipon Goswami</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908008.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625200000 +0530" channel="908">
+    <title lang="en">Chanda</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908009.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908010.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908011.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625232000 +0530" channel="908">
+    <title lang="en">Midnight Song</title>
+    <desc lang="en">Due to bad weather conditions, a stranger asks for help from a couple. Moreover, they allow him to stay for the night, which changes their fate.</desc>
+    <credits>
+      <director>Arunjit Borah</director>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Rupam Chetia</actor>
+      <actor>Kalpana Kalita</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908012.jpg"/>
+  </programme>
+  <programme start="20240625232000 +0530" stop="20240626000000 +0530" channel="908">
+    <title lang="en">Comedy Dose</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625908013.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626030000 +0530" channel="908">
+    <title lang="en">Tumi Jodi Kuwa</title>
+    <desc lang="en">A group of friends form a band and try to overcome all the hurdles in order to gain fame and recognition.</desc>
+    <credits>
+      <director>Simple Gogoi</director>
+      <actor>Prasenjit Borah</actor>
+      <actor>Jupitora Bhuyan</actor>
+      <actor>Munmi Kalita</actor>
+      <actor>Mahika Sharma</actor>
+      <actor>Rupam Sharma</actor>
+      <actor>Bhaskar Ranjan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908001.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626053000 +0530" channel="908">
+    <title lang="en">Deuta Diya Bidai</title>
+    <desc lang="en">Lakhimi is mistreated by her father and stepmother as she is considered unlucky. Fate takes a tragic turn after she marries Amal and moves into a new home.</desc>
+    <credits>
+      <director>Ramesh Modi</director>
+      <actor>Gayatri Mahanta</actor>
+      <actor>Biju Phukan</actor>
+      <actor>Jatin Bora</actor>
+      <actor>Ravi Sharma</actor>
+      <actor>Zerifa Wahid</actor>
+      <actor>Nipon Goswami</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908002.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626070000 +0530" channel="908">
+    <title lang="en">Abeli</title>
+    <desc lang="en">Movie starring Nayan Nilim and Ananya Parashar.</desc>
+    <credits>
+      <director>Mohan Das</director>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908003.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626100000 +0530" channel="908">
+    <title lang="en">Barood</title>
+    <desc lang="en">Vikram Baruah is a disciplined and honest policeman who believes that justice must prevail. He decides to teach a lesson to Rahul Bejboruah, whose father is an affluent and influential person.</desc>
+    <credits>
+      <director>Munin Barua</director>
+      <actor>Jatin Bora</actor>
+      <actor>Tapan Das</actor>
+      <actor>Ravi Sharma</actor>
+      <actor>Biju Phukan</actor>
+      <actor>Pranjal Saikia</actor>
+      <actor>Bishnu Kharghoria</actor>
+      <actor>Baharul Islam</actor>
+      <actor>Prastuti Parasar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908004.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626130000 +0530" channel="908">
+    <title lang="en">Sesh Upahar</title>
+    <desc lang="en">A girl residing in a village falls deeply in love with an army man. Their romantic journey together unfolds a set of challenges.</desc>
+    <credits>
+      <director>Gopal Bor Thakur</director>
+      <actor>Bishnu Kharghoria</actor>
+      <actor>Moloya Goswami</actor>
+      <actor>Jatin Bora</actor>
+      <actor>Jaya Seal</actor>
+      <actor>Navanita Sharma Bora</actor>
+      <actor>Raj Sharma</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908005.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908006.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="908">
+    <title lang="en">Playback</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908007.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626153000 +0530" channel="908">
+    <title lang="en">Mama Bhagin</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908008.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626183000 +0530" channel="908">
+    <title lang="en">Bakor Putek</title>
+    <desc lang="en">Puwal and Padma, a married couple, are constantly tortured and ill-treated by the society and neighbours. They try to overcome these obstacles in a bid to have a happy life.</desc>
+    <credits>
+      <director>Chandra Mudoi</director>
+      <actor>Akashdeep Deka</actor>
+      <actor>Angurlata Deka</actor>
+      <actor>Raag Ainitam</actor>
+      <actor>Amal Barua</actor>
+      <actor>Manika Das</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908009.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626200000 +0530" channel="908">
+    <title lang="en">Double Piriti</title>
+    <desc lang="en">Two friends get involved in multiple hilarious adventures filled with laughter, mischief and comedies in their day-to-day lives.</desc>
+    <credits>
+      <director>Pankaj Das</director>
+      <actor>Rahul Das</actor>
+      <actor>Pranab Dutta</actor>
+      <actor>Feroz Ahmed</actor>
+      <actor>Zefri Bakari</actor>
+      <actor>Bulbul Hussain</actor>
+      <actor>Dipak Malakar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908010.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="908">
+    <title lang="en">Telefilm Hour</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908011.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="908">
+    <title lang="en">Telefilm Hour</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626908012.jpg"/>
+  </programme>
 </tv>

@@ -3,4 +3,547 @@
   <channel id="665">
     <display-name lang="en">HM TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625055500 +0530" channel="665">
+    <title lang="en">Yoga</title>
+    <desc lang="en">A yoga expert talks about the importance of meditation and explains various postures that aid in maintaining a healthy lifestyle.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665011.jpg"/>
+  </programme>
+  <programme start="20240625055500 +0530" stop="20240625060000 +0530" channel="665">
+    <title lang="en">5/25 Heads</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665012.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="665">
+    <title lang="en">News @ 6 AM</title>
+    <desc lang="en">The host presents all the latest stories, updates and developments pertaining to the current affairs of regional and national significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665013.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625065500 +0530" channel="665">
+    <title lang="en">Nelathalli</title>
+    <desc lang="en">The host provides the latest updates from the world of agriculture and experts share solutions for common problems faced by farmers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665014.jpg"/>
+  </programme>
+  <programme start="20240625065500 +0530" stop="20240625073000 +0530" channel="665">
+    <title lang="en">Super Fast 50</title>
+    <desc lang="en">The host presents the top fifty news updates and developments pertaining to various social, political and economic issues in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665015.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="665">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665016.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="665">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665017.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665018.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="665">
+    <title lang="en">News @ 9 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665019.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625095500 +0530" channel="665">
+    <title lang="en">News / School Stories Focus</title>
+    <desc lang="en">This is News - Special Report Category</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665020.jpg"/>
+  </programme>
+  <programme start="20240625095500 +0530" stop="20240625100000 +0530" channel="665">
+    <title lang="en">Kapil</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665021.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="665">
+    <title lang="en">News @ 10 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665022.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="665">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665023.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="665">
+    <title lang="en">News @ 11 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665024.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665025.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="665">
+    <title lang="en">News @ 12 Noon</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665026.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="665">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665027.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="665">
+    <title lang="en">News @ 1 Pm</title>
+    <desc lang="en">The host presents the latest and most significant political, social and economic news updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665028.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="665">
+    <title lang="en">Kalki Movie Interview</title>
+    <desc lang="en">This is News - Interviews Category</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665029.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="665">
+    <title lang="en">News @ 2 Pm</title>
+    <desc lang="en">The host provides the latest news stories, major developments and important updates that affect people from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665030.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665031.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="665">
+    <title lang="en">News @ 3 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665032.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="665">
+    <title lang="en">OTT This Week</title>
+    <desc lang="en">The host presents updates and developments related to the movies and popular web series releasing on the OTT platforms during the week.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665033.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="665">
+    <title lang="en">News @ 4 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665034.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625165500 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665035.jpg"/>
+  </programme>
+  <programme start="20240625165500 +0530" stop="20240625173000 +0530" channel="665">
+    <title lang="en">India 360 News</title>
+    <desc lang="en">The host presents a detailed report on the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665036.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="665">
+    <title lang="en">Yuva Keratalu</title>
+    <desc lang="en">The host invites young political figures and interviews them on key socio-political matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665037.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="665">
+    <title lang="en">News @ 6 PM</title>
+    <desc lang="en">The host provides detailed information on the latest political, economic and social updates and developments making headlines around the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665038.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665039.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="665">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665040.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="665">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665041.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625201500 +0530" channel="665">
+    <title lang="en">BBC</title>
+    <desc lang="en">The host presents the latest news updates and developments from the world of business, politics, entertainment and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665042.jpg"/>
+  </programme>
+  <programme start="20240625201500 +0530" stop="20240625203000 +0530" channel="665">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665043.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665044.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="665">
+    <title lang="en">9 Pm Prime Time</title>
+    <desc lang="en">The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665045.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="665">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665046.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="665">
+    <title lang="en">Pakka Hyderabadi</title>
+    <desc lang="en">The host interacts with prominent personalities from various fields and provides detailed insights into their life and career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665047.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625225500 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665048.jpg"/>
+  </programme>
+  <programme start="20240625225500 +0530" stop="20240625233000 +0530" channel="665">
+    <title lang="en">News @ 11 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665049.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625665050.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="665">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="665">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="665">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="665">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="665">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="665">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055500 +0530" channel="665">
+    <title lang="en">Yoga</title>
+    <desc lang="en">A yoga expert talks about the importance of meditation and explains various postures that aid in maintaining a healthy lifestyle.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665011.jpg"/>
+  </programme>
+  <programme start="20240626055500 +0530" stop="20240626060000 +0530" channel="665">
+    <title lang="en">5/25 Heads</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665012.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="665">
+    <title lang="en">News @ 6 AM</title>
+    <desc lang="en">The host presents all the latest stories, updates and developments pertaining to the current affairs of regional and national significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665013.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626065500 +0530" channel="665">
+    <title lang="en">Nelathalli</title>
+    <desc lang="en">The host provides the latest updates from the world of agriculture and experts share solutions for common problems faced by farmers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665014.jpg"/>
+  </programme>
+  <programme start="20240626065500 +0530" stop="20240626073000 +0530" channel="665">
+    <title lang="en">Super Fast 50</title>
+    <desc lang="en">The host presents the top fifty news updates and developments pertaining to various social, political and economic issues in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665015.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="665">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665016.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="665">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665017.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665018.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="665">
+    <title lang="en">News @ 9 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665019.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626095500 +0530" channel="665">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665020.jpg"/>
+  </programme>
+  <programme start="20240626095500 +0530" stop="20240626100000 +0530" channel="665">
+    <title lang="en">Kapil</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665021.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="665">
+    <title lang="en">News @ 10 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665022.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="665">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665023.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="665">
+    <title lang="en">News @ 11 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665024.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665025.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="665">
+    <title lang="en">News @ 12 Noon</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665026.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="665">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665027.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="665">
+    <title lang="en">News @ 1 Pm</title>
+    <desc lang="en">The host presents the latest and most significant political, social and economic news updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665028.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="665">
+    <title lang="en">Hero Upendra Interview</title>
+    <desc lang="en">The host invites Upendra, a prominent Sandalwood actor, and engages in an insightful conversation on various aspects of his life.</desc>
+    <credits>
+      <actor>Upendra</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665029.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="665">
+    <title lang="en">News @ 2 Pm</title>
+    <desc lang="en">The host provides the latest news stories, major developments and important updates that affect people from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665030.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665031.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="665">
+    <title lang="en">News @ 3 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665032.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="665">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665033.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="665">
+    <title lang="en">News @ 4 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665034.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626165500 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665035.jpg"/>
+  </programme>
+  <programme start="20240626165500 +0530" stop="20240626173000 +0530" channel="665">
+    <title lang="en">India 360 News</title>
+    <desc lang="en">The host presents a detailed report on the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665036.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="665">
+    <title lang="en">OTT This Week</title>
+    <desc lang="en">The host presents updates and developments related to the movies and popular web series releasing on the OTT platforms during the week.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665037.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="665">
+    <title lang="en">News @ 6 PM</title>
+    <desc lang="en">The host provides detailed information on the latest political, economic and social updates and developments making headlines around the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665038.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="665">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665039.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="665">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665040.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="665">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665041.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626201500 +0530" channel="665">
+    <title lang="en">BBC</title>
+    <desc lang="en">The host presents the latest news updates and developments from the world of business, politics, entertainment and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665042.jpg"/>
+  </programme>
+  <programme start="20240626201500 +0530" stop="20240626203000 +0530" channel="665">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665043.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="665">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665044.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="665">
+    <title lang="en">9 Pm Prime Time</title>
+    <desc lang="en">The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665045.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="665">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665046.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="665">
+    <title lang="en">Pakka Hyderabadi</title>
+    <desc lang="en">The host interacts with prominent personalities from various fields and provides detailed insights into their life and career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665047.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626225500 +0530" channel="665">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665048.jpg"/>
+  </programme>
+  <programme start="20240626225500 +0530" stop="20240626233000 +0530" channel="665">
+    <title lang="en">News @ 11 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626665049.jpg"/>
+  </programme>
 </tv>

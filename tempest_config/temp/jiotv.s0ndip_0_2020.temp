@@ -3,4 +3,250 @@
   <channel id="2020">
     <display-name lang="en">KKD News</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020006.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020007.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020008.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020009.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020010.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020011.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020012.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020013.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020014.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020015.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020016.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020017.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020018.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020019.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020020.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020021.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020022.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252020023.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020000.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020001.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020002.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020003.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020004.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020005.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020006.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626080000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020007.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626090000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020008.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020009.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626110000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020010.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020011.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626130000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020012.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626140000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020013.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020014.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626160000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020015.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626170000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020016.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626180000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020017.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626190000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020018.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626200000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020019.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626210000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020020.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626220000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020021.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626230000 +0530" channel="2020">
+    <title lang="en">KKD News</title>
+    <desc lang="en">KKD News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262020022.jpg"/>
+  </programme>
 </tv>

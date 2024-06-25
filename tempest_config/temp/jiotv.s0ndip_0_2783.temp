@@ -3,4 +3,364 @@
   <channel id="2783">
     <display-name lang="en">Big TV</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="2783">
+    <title lang="en">Big News @ 6 AM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200009.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="2783">
+    <title lang="en">Devotional Village</title>
+    <desc lang="en">A spiritual leader sheds light on the teachings of the almighty and encourages the followers to take the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200010.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="2783">
+    <title lang="en">Big News @ 7 AM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200011.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200012.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="2783">
+    <title lang="en">Big News @ 8 AM</title>
+    <desc lang="en">Take a look at the latest political, economic and social updates across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200013.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200014.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="2783">
+    <title lang="en">Big News @ 9 AM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200015.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="2783">
+    <title lang="en">Veekshanam</title>
+    <desc lang="en">The host provides detailed insights into the infotainment news stories concerning various fields from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200016.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="2783">
+    <title lang="en">Big News @ 10 AM</title>
+    <desc lang="en">The host presents the top news headlines and developments surrounding various socio-economic and political issues in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200017.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="2783">
+    <title lang="en">Big News @ 11 AM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200018.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="2783">
+    <title lang="en">Big News @ 12 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200019.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="2783">
+    <title lang="en">Big News @ 1 PM</title>
+    <desc lang="en">The host presents the top news headlines and developments surrounding various issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200020.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="2783">
+    <title lang="en">Big News @ 2 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200021.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="2783">
+    <title lang="en">Big News @ 3 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200022.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="2783">
+    <title lang="en">Big News @ 4 PM</title>
+    <desc lang="en">The host presents the top news headlines surrounding various socio-economic and political issues and provides updates on the current events in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200023.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="2783">
+    <title lang="en">Big News @ 5 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200024.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="2783">
+    <title lang="en">Big News @ 6 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200025.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2783">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200026.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="2783">
+    <title lang="en">Big News @ 8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200027.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200028.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200029.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="2783">
+    <title lang="en">Veekshanam</title>
+    <desc lang="en">The host provides detailed insights into the infotainment news stories concerning various fields from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200030.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="2783">
+    <title lang="en">Big News @ 10 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200031.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200032.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="2783">
+    <title lang="en">Big Night</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200033.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251200034.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="2783">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200000.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="2783">
+    <title lang="en">Big Night</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200001.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200002.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="2783">
+    <title lang="en">Big Night</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200003.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="2783">
+    <title lang="en">Veekshanam</title>
+    <desc lang="en">The host provides detailed insights into the infotainment news stories concerning various fields from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200004.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="2783">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200005.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="2783">
+    <title lang="en">Big Night</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200006.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200007.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="2783">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200008.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="2783">
+    <title lang="en">Big News @ 6 AM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200009.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="2783">
+    <title lang="en">Devotional Village</title>
+    <desc lang="en">A spiritual leader sheds light on the teachings of the almighty and encourages the followers to take the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200010.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="2783">
+    <title lang="en">Big News @ 7 AM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200011.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200012.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="2783">
+    <title lang="en">Big News @ 8 AM</title>
+    <desc lang="en">Take a look at the latest political, economic and social updates across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200013.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200014.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="2783">
+    <title lang="en">Big News @ 9 AM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200015.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="2783">
+    <title lang="en">Veekshanam</title>
+    <desc lang="en">The host provides detailed insights into the infotainment news stories concerning various fields from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200016.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626110000 +0530" channel="2783">
+    <title lang="en">Big News @ 10 AM</title>
+    <desc lang="en">The host presents the top news headlines and developments surrounding various socio-economic and political issues in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200017.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="2783">
+    <title lang="en">Big News @ 11 AM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200018.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626130000 +0530" channel="2783">
+    <title lang="en">Big News @ 12 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200019.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626140000 +0530" channel="2783">
+    <title lang="en">Big News @ 1 PM</title>
+    <desc lang="en">The host presents the top news headlines and developments surrounding various issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200020.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="2783">
+    <title lang="en">Big News @ 2 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200021.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626160000 +0530" channel="2783">
+    <title lang="en">Big News @ 3 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200022.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626170000 +0530" channel="2783">
+    <title lang="en">Big News @ 4 PM</title>
+    <desc lang="en">The host presents the top news headlines surrounding various socio-economic and political issues and provides updates on the current events in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200023.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626180000 +0530" channel="2783">
+    <title lang="en">Big News @ 5 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200024.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626190000 +0530" channel="2783">
+    <title lang="en">Big News @ 6 PM</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200025.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626200000 +0530" channel="2783">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200026.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="2783">
+    <title lang="en">Big News @ 8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200027.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200028.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="2783">
+    <title lang="en">Outlook</title>
+    <desc lang="en">The host provides comprehensive insights into the latest news stories and significant updates from various fields impacting people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200029.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="2783">
+    <title lang="en">Veekshanam</title>
+    <desc lang="en">The host provides detailed insights into the infotainment news stories concerning various fields from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200030.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="2783">
+    <title lang="en">Big News @ 10 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200031.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="2783">
+    <title lang="en">Political Chowrasta</title>
+    <desc lang="en">The host presents news updates and latest information on politics and highlights the changing dynamics in political parties.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200032.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="2783">
+    <title lang="en">Big Night</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261200033.jpg"/>
+  </programme>
 </tv>

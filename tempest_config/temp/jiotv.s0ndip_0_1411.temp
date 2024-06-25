@@ -3,4 +3,1339 @@
   <channel id="1411">
     <display-name lang="en">SongDew TV</display-name>
   </channel>
+  <programme start="20240625054000 +0530" stop="20240625054500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411043.jpg"/>
+  </programme>
+  <programme start="20240625054500 +0530" stop="20240625055000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411044.jpg"/>
+  </programme>
+  <programme start="20240625055000 +0530" stop="20240625060500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411045.jpg"/>
+  </programme>
+  <programme start="20240625060500 +0530" stop="20240625061000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411046.jpg"/>
+  </programme>
+  <programme start="20240625061000 +0530" stop="20240625061500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411047.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0530" stop="20240625062500 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411048.jpg"/>
+  </programme>
+  <programme start="20240625062500 +0530" stop="20240625063500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411049.jpg"/>
+  </programme>
+  <programme start="20240625063500 +0530" stop="20240625064000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411050.jpg"/>
+  </programme>
+  <programme start="20240625064000 +0530" stop="20240625064500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411051.jpg"/>
+  </programme>
+  <programme start="20240625064500 +0530" stop="20240625070000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411052.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="1411">
+    <title lang="en">Chai &amp; Chill</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411053.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625101500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411054.jpg"/>
+  </programme>
+  <programme start="20240625101500 +0530" stop="20240625102000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411055.jpg"/>
+  </programme>
+  <programme start="20240625102000 +0530" stop="20240625102500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411056.jpg"/>
+  </programme>
+  <programme start="20240625102500 +0530" stop="20240625103000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411057.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625104000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411058.jpg"/>
+  </programme>
+  <programme start="20240625104000 +0530" stop="20240625104500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411059.jpg"/>
+  </programme>
+  <programme start="20240625104500 +0530" stop="20240625105000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411060.jpg"/>
+  </programme>
+  <programme start="20240625105000 +0530" stop="20240625111000 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411061.jpg"/>
+  </programme>
+  <programme start="20240625111000 +0530" stop="20240625111500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411062.jpg"/>
+  </programme>
+  <programme start="20240625111500 +0530" stop="20240625112000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411063.jpg"/>
+  </programme>
+  <programme start="20240625112000 +0530" stop="20240625113000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411064.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625113500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411065.jpg"/>
+  </programme>
+  <programme start="20240625113500 +0530" stop="20240625114000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411066.jpg"/>
+  </programme>
+  <programme start="20240625114000 +0530" stop="20240625114500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411067.jpg"/>
+  </programme>
+  <programme start="20240625114500 +0530" stop="20240625115000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411068.jpg"/>
+  </programme>
+  <programme start="20240625115000 +0530" stop="20240625120500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411069.jpg"/>
+  </programme>
+  <programme start="20240625120500 +0530" stop="20240625121000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411070.jpg"/>
+  </programme>
+  <programme start="20240625121000 +0530" stop="20240625121500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411071.jpg"/>
+  </programme>
+  <programme start="20240625121500 +0530" stop="20240625123000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411072.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625123500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411073.jpg"/>
+  </programme>
+  <programme start="20240625123500 +0530" stop="20240625124000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411074.jpg"/>
+  </programme>
+  <programme start="20240625124000 +0530" stop="20240625125500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411075.jpg"/>
+  </programme>
+  <programme start="20240625125500 +0530" stop="20240625130000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411076.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625130500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411077.jpg"/>
+  </programme>
+  <programme start="20240625130500 +0530" stop="20240625131500 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411078.jpg"/>
+  </programme>
+  <programme start="20240625131500 +0530" stop="20240625132500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411079.jpg"/>
+  </programme>
+  <programme start="20240625132500 +0530" stop="20240625133000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411080.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625134500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411081.jpg"/>
+  </programme>
+  <programme start="20240625134500 +0530" stop="20240625135000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411082.jpg"/>
+  </programme>
+  <programme start="20240625135000 +0530" stop="20240625140000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411083.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625140500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411084.jpg"/>
+  </programme>
+  <programme start="20240625140500 +0530" stop="20240625141000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411085.jpg"/>
+  </programme>
+  <programme start="20240625141000 +0530" stop="20240625142000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411086.jpg"/>
+  </programme>
+  <programme start="20240625142000 +0530" stop="20240625142500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411087.jpg"/>
+  </programme>
+  <programme start="20240625142500 +0530" stop="20240625143000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411088.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625144000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411089.jpg"/>
+  </programme>
+  <programme start="20240625144000 +0530" stop="20240625144500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411090.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0530" stop="20240625145500 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411091.jpg"/>
+  </programme>
+  <programme start="20240625145500 +0530" stop="20240625150000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411092.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625150500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411093.jpg"/>
+  </programme>
+  <programme start="20240625150500 +0530" stop="20240625151000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411094.jpg"/>
+  </programme>
+  <programme start="20240625151000 +0530" stop="20240625151500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411095.jpg"/>
+  </programme>
+  <programme start="20240625151500 +0530" stop="20240625152500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411096.jpg"/>
+  </programme>
+  <programme start="20240625152500 +0530" stop="20240625154500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411097.jpg"/>
+  </programme>
+  <programme start="20240625154500 +0530" stop="20240625155000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411098.jpg"/>
+  </programme>
+  <programme start="20240625155000 +0530" stop="20240625155500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411099.jpg"/>
+  </programme>
+  <programme start="20240625155500 +0530" stop="20240625161000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411100.jpg"/>
+  </programme>
+  <programme start="20240625161000 +0530" stop="20240625161500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411101.jpg"/>
+  </programme>
+  <programme start="20240625161500 +0530" stop="20240625162000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411102.jpg"/>
+  </programme>
+  <programme start="20240625162000 +0530" stop="20240625162500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411103.jpg"/>
+  </programme>
+  <programme start="20240625162500 +0530" stop="20240625164000 +0530" channel="1411">
+    <title lang="en">ROCK</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411104.jpg"/>
+  </programme>
+  <programme start="20240625164000 +0530" stop="20240625164500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411105.jpg"/>
+  </programme>
+  <programme start="20240625164500 +0530" stop="20240625165000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411106.jpg"/>
+  </programme>
+  <programme start="20240625165000 +0530" stop="20240625171000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411107.jpg"/>
+  </programme>
+  <programme start="20240625171000 +0530" stop="20240625171500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411108.jpg"/>
+  </programme>
+  <programme start="20240625171500 +0530" stop="20240625172000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411109.jpg"/>
+  </programme>
+  <programme start="20240625172000 +0530" stop="20240625173000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411110.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625173500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411111.jpg"/>
+  </programme>
+  <programme start="20240625173500 +0530" stop="20240625174000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411112.jpg"/>
+  </programme>
+  <programme start="20240625174000 +0530" stop="20240625174500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411113.jpg"/>
+  </programme>
+  <programme start="20240625174500 +0530" stop="20240625175000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411114.jpg"/>
+  </programme>
+  <programme start="20240625175000 +0530" stop="20240625175500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411115.jpg"/>
+  </programme>
+  <programme start="20240625175500 +0530" stop="20240625180500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411116.jpg"/>
+  </programme>
+  <programme start="20240625180500 +0530" stop="20240625181000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411117.jpg"/>
+  </programme>
+  <programme start="20240625181000 +0530" stop="20240625181500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411118.jpg"/>
+  </programme>
+  <programme start="20240625181500 +0530" stop="20240625184500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411119.jpg"/>
+  </programme>
+  <programme start="20240625184500 +0530" stop="20240625185000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411120.jpg"/>
+  </programme>
+  <programme start="20240625185000 +0530" stop="20240625185500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411121.jpg"/>
+  </programme>
+  <programme start="20240625185500 +0530" stop="20240625190000 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411122.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="1411">
+    <title lang="en">Happy Hour</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411123.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625200500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411124.jpg"/>
+  </programme>
+  <programme start="20240625200500 +0530" stop="20240625201000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411125.jpg"/>
+  </programme>
+  <programme start="20240625201000 +0530" stop="20240625201500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411126.jpg"/>
+  </programme>
+  <programme start="20240625201500 +0530" stop="20240625202000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411127.jpg"/>
+  </programme>
+  <programme start="20240625202000 +0530" stop="20240625203500 +0530" channel="1411">
+    <title lang="en">ROCK</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411128.jpg"/>
+  </programme>
+  <programme start="20240625203500 +0530" stop="20240625204500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411129.jpg"/>
+  </programme>
+  <programme start="20240625204500 +0530" stop="20240625205000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411130.jpg"/>
+  </programme>
+  <programme start="20240625205000 +0530" stop="20240625205500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411131.jpg"/>
+  </programme>
+  <programme start="20240625205500 +0530" stop="20240625210500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411132.jpg"/>
+  </programme>
+  <programme start="20240625210500 +0530" stop="20240625211000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411133.jpg"/>
+  </programme>
+  <programme start="20240625211000 +0530" stop="20240625211500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411134.jpg"/>
+  </programme>
+  <programme start="20240625211500 +0530" stop="20240625213500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411135.jpg"/>
+  </programme>
+  <programme start="20240625213500 +0530" stop="20240625214000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411136.jpg"/>
+  </programme>
+  <programme start="20240625214000 +0530" stop="20240625214500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411137.jpg"/>
+  </programme>
+  <programme start="20240625214500 +0530" stop="20240625215500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411138.jpg"/>
+  </programme>
+  <programme start="20240625215500 +0530" stop="20240625220000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411139.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625220500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411140.jpg"/>
+  </programme>
+  <programme start="20240625220500 +0530" stop="20240625221000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411141.jpg"/>
+  </programme>
+  <programme start="20240625221000 +0530" stop="20240625222000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411142.jpg"/>
+  </programme>
+  <programme start="20240625222000 +0530" stop="20240625222500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411143.jpg"/>
+  </programme>
+  <programme start="20240625222500 +0530" stop="20240625223000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411144.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625225000 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411145.jpg"/>
+  </programme>
+  <programme start="20240625225000 +0530" stop="20240625225500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411146.jpg"/>
+  </programme>
+  <programme start="20240625225500 +0530" stop="20240625230000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411147.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625231500 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411148.jpg"/>
+  </programme>
+  <programme start="20240625231500 +0530" stop="20240625232000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411149.jpg"/>
+  </programme>
+  <programme start="20240625232000 +0530" stop="20240625232500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411150.jpg"/>
+  </programme>
+  <programme start="20240625232500 +0530" stop="20240625233000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411151.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240625233500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411152.jpg"/>
+  </programme>
+  <programme start="20240625233500 +0530" stop="20240625234500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411153.jpg"/>
+  </programme>
+  <programme start="20240625234500 +0530" stop="20240625235000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411154.jpg"/>
+  </programme>
+  <programme start="20240625235000 +0530" stop="20240626000000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251411155.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626001500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411000.jpg"/>
+  </programme>
+  <programme start="20240626001500 +0530" stop="20240626002000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411001.jpg"/>
+  </programme>
+  <programme start="20240626002000 +0530" stop="20240626002500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411002.jpg"/>
+  </programme>
+  <programme start="20240626002500 +0530" stop="20240626003000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411003.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626004000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411004.jpg"/>
+  </programme>
+  <programme start="20240626004000 +0530" stop="20240626004500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411005.jpg"/>
+  </programme>
+  <programme start="20240626004500 +0530" stop="20240626005000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411006.jpg"/>
+  </programme>
+  <programme start="20240626005000 +0530" stop="20240626011000 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411007.jpg"/>
+  </programme>
+  <programme start="20240626011000 +0530" stop="20240626011500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411008.jpg"/>
+  </programme>
+  <programme start="20240626011500 +0530" stop="20240626012000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411009.jpg"/>
+  </programme>
+  <programme start="20240626012000 +0530" stop="20240626013000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411010.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626013500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411011.jpg"/>
+  </programme>
+  <programme start="20240626013500 +0530" stop="20240626014000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411012.jpg"/>
+  </programme>
+  <programme start="20240626014000 +0530" stop="20240626014500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411013.jpg"/>
+  </programme>
+  <programme start="20240626014500 +0530" stop="20240626015000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411014.jpg"/>
+  </programme>
+  <programme start="20240626015000 +0530" stop="20240626020500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411015.jpg"/>
+  </programme>
+  <programme start="20240626020500 +0530" stop="20240626021000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411016.jpg"/>
+  </programme>
+  <programme start="20240626021000 +0530" stop="20240626021500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411017.jpg"/>
+  </programme>
+  <programme start="20240626021500 +0530" stop="20240626023000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411018.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626023500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411019.jpg"/>
+  </programme>
+  <programme start="20240626023500 +0530" stop="20240626024000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411020.jpg"/>
+  </programme>
+  <programme start="20240626024000 +0530" stop="20240626025500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411021.jpg"/>
+  </programme>
+  <programme start="20240626025500 +0530" stop="20240626030000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411022.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626030500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411023.jpg"/>
+  </programme>
+  <programme start="20240626030500 +0530" stop="20240626031500 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411024.jpg"/>
+  </programme>
+  <programme start="20240626031500 +0530" stop="20240626032500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411025.jpg"/>
+  </programme>
+  <programme start="20240626032500 +0530" stop="20240626033000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411026.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626034500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411027.jpg"/>
+  </programme>
+  <programme start="20240626034500 +0530" stop="20240626035000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411028.jpg"/>
+  </programme>
+  <programme start="20240626035000 +0530" stop="20240626040000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411029.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626040500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411030.jpg"/>
+  </programme>
+  <programme start="20240626040500 +0530" stop="20240626041000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411031.jpg"/>
+  </programme>
+  <programme start="20240626041000 +0530" stop="20240626042000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411032.jpg"/>
+  </programme>
+  <programme start="20240626042000 +0530" stop="20240626042500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411033.jpg"/>
+  </programme>
+  <programme start="20240626042500 +0530" stop="20240626043000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411034.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626044000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411035.jpg"/>
+  </programme>
+  <programme start="20240626044000 +0530" stop="20240626044500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411036.jpg"/>
+  </programme>
+  <programme start="20240626044500 +0530" stop="20240626045500 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411037.jpg"/>
+  </programme>
+  <programme start="20240626045500 +0530" stop="20240626050000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411038.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626050500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411039.jpg"/>
+  </programme>
+  <programme start="20240626050500 +0530" stop="20240626051000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411040.jpg"/>
+  </programme>
+  <programme start="20240626051000 +0530" stop="20240626051500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411041.jpg"/>
+  </programme>
+  <programme start="20240626051500 +0530" stop="20240626052500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411042.jpg"/>
+  </programme>
+  <programme start="20240626052500 +0530" stop="20240626054500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411043.jpg"/>
+  </programme>
+  <programme start="20240626054500 +0530" stop="20240626055000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411044.jpg"/>
+  </programme>
+  <programme start="20240626055000 +0530" stop="20240626055500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411045.jpg"/>
+  </programme>
+  <programme start="20240626055500 +0530" stop="20240626061000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411046.jpg"/>
+  </programme>
+  <programme start="20240626061000 +0530" stop="20240626061500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411047.jpg"/>
+  </programme>
+  <programme start="20240626061500 +0530" stop="20240626062000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411048.jpg"/>
+  </programme>
+  <programme start="20240626062000 +0530" stop="20240626062500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411049.jpg"/>
+  </programme>
+  <programme start="20240626062500 +0530" stop="20240626064000 +0530" channel="1411">
+    <title lang="en">ROCK</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411050.jpg"/>
+  </programme>
+  <programme start="20240626064000 +0530" stop="20240626064500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411051.jpg"/>
+  </programme>
+  <programme start="20240626064500 +0530" stop="20240626065000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411052.jpg"/>
+  </programme>
+  <programme start="20240626065000 +0530" stop="20240626070000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411053.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626100000 +0530" channel="1411">
+    <title lang="en">Chai &amp; Chill</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411054.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626101000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411055.jpg"/>
+  </programme>
+  <programme start="20240626101000 +0530" stop="20240626101500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411056.jpg"/>
+  </programme>
+  <programme start="20240626101500 +0530" stop="20240626102000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411057.jpg"/>
+  </programme>
+  <programme start="20240626102000 +0530" stop="20240626103500 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411058.jpg"/>
+  </programme>
+  <programme start="20240626103500 +0530" stop="20240626104000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411059.jpg"/>
+  </programme>
+  <programme start="20240626104000 +0530" stop="20240626105000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411060.jpg"/>
+  </programme>
+  <programme start="20240626105000 +0530" stop="20240626105500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411061.jpg"/>
+  </programme>
+  <programme start="20240626105500 +0530" stop="20240626110000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411062.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626110500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411063.jpg"/>
+  </programme>
+  <programme start="20240626110500 +0530" stop="20240626111000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411064.jpg"/>
+  </programme>
+  <programme start="20240626111000 +0530" stop="20240626112500 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411065.jpg"/>
+  </programme>
+  <programme start="20240626112500 +0530" stop="20240626113000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411066.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626113500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411067.jpg"/>
+  </programme>
+  <programme start="20240626113500 +0530" stop="20240626114000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411068.jpg"/>
+  </programme>
+  <programme start="20240626114000 +0530" stop="20240626114500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411069.jpg"/>
+  </programme>
+  <programme start="20240626114500 +0530" stop="20240626120000 +0530" channel="1411">
+    <title lang="en">ROCK</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411070.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626121000 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411071.jpg"/>
+  </programme>
+  <programme start="20240626121000 +0530" stop="20240626121500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411072.jpg"/>
+  </programme>
+  <programme start="20240626121500 +0530" stop="20240626122000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411073.jpg"/>
+  </programme>
+  <programme start="20240626122000 +0530" stop="20240626123500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411074.jpg"/>
+  </programme>
+  <programme start="20240626123500 +0530" stop="20240626124000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411075.jpg"/>
+  </programme>
+  <programme start="20240626124000 +0530" stop="20240626124500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411076.jpg"/>
+  </programme>
+  <programme start="20240626124500 +0530" stop="20240626130000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411077.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626130500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411078.jpg"/>
+  </programme>
+  <programme start="20240626130500 +0530" stop="20240626131000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411079.jpg"/>
+  </programme>
+  <programme start="20240626131000 +0530" stop="20240626132500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411080.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0530" stop="20240626133000 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411081.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626133500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411082.jpg"/>
+  </programme>
+  <programme start="20240626133500 +0530" stop="20240626134000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411083.jpg"/>
+  </programme>
+  <programme start="20240626134000 +0530" stop="20240626135000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411084.jpg"/>
+  </programme>
+  <programme start="20240626135000 +0530" stop="20240626135500 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411085.jpg"/>
+  </programme>
+  <programme start="20240626135500 +0530" stop="20240626140000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411086.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626142000 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411087.jpg"/>
+  </programme>
+  <programme start="20240626142000 +0530" stop="20240626142500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411088.jpg"/>
+  </programme>
+  <programme start="20240626142500 +0530" stop="20240626143000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411089.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626144000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411090.jpg"/>
+  </programme>
+  <programme start="20240626144000 +0530" stop="20240626144500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411091.jpg"/>
+  </programme>
+  <programme start="20240626144500 +0530" stop="20240626145000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411092.jpg"/>
+  </programme>
+  <programme start="20240626145000 +0530" stop="20240626145500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411093.jpg"/>
+  </programme>
+  <programme start="20240626145500 +0530" stop="20240626151000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411094.jpg"/>
+  </programme>
+  <programme start="20240626151000 +0530" stop="20240626151500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411095.jpg"/>
+  </programme>
+  <programme start="20240626151500 +0530" stop="20240626152000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411096.jpg"/>
+  </programme>
+  <programme start="20240626152000 +0530" stop="20240626154000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411097.jpg"/>
+  </programme>
+  <programme start="20240626154000 +0530" stop="20240626154500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411098.jpg"/>
+  </programme>
+  <programme start="20240626154500 +0530" stop="20240626155000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411099.jpg"/>
+  </programme>
+  <programme start="20240626155000 +0530" stop="20240626160500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411100.jpg"/>
+  </programme>
+  <programme start="20240626160500 +0530" stop="20240626161000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411101.jpg"/>
+  </programme>
+  <programme start="20240626161000 +0530" stop="20240626161500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411102.jpg"/>
+  </programme>
+  <programme start="20240626161500 +0530" stop="20240626162500 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411103.jpg"/>
+  </programme>
+  <programme start="20240626162500 +0530" stop="20240626163500 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411104.jpg"/>
+  </programme>
+  <programme start="20240626163500 +0530" stop="20240626164000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411105.jpg"/>
+  </programme>
+  <programme start="20240626164000 +0530" stop="20240626164500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411106.jpg"/>
+  </programme>
+  <programme start="20240626164500 +0530" stop="20240626171000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411107.jpg"/>
+  </programme>
+  <programme start="20240626171000 +0530" stop="20240626171500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411108.jpg"/>
+  </programme>
+  <programme start="20240626171500 +0530" stop="20240626172000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411109.jpg"/>
+  </programme>
+  <programme start="20240626172000 +0530" stop="20240626173000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411110.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626173500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411111.jpg"/>
+  </programme>
+  <programme start="20240626173500 +0530" stop="20240626174000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411112.jpg"/>
+  </programme>
+  <programme start="20240626174000 +0530" stop="20240626175000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411113.jpg"/>
+  </programme>
+  <programme start="20240626175000 +0530" stop="20240626175500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411114.jpg"/>
+  </programme>
+  <programme start="20240626175500 +0530" stop="20240626180500 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411115.jpg"/>
+  </programme>
+  <programme start="20240626180500 +0530" stop="20240626181000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411116.jpg"/>
+  </programme>
+  <programme start="20240626181000 +0530" stop="20240626181500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411117.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0530" stop="20240626182000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411118.jpg"/>
+  </programme>
+  <programme start="20240626182000 +0530" stop="20240626182500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411119.jpg"/>
+  </programme>
+  <programme start="20240626182500 +0530" stop="20240626183000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411120.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626184000 +0530" channel="1411">
+    <title lang="en">Music Dil Se</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411121.jpg"/>
+  </programme>
+  <programme start="20240626184000 +0530" stop="20240626185500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411122.jpg"/>
+  </programme>
+  <programme start="20240626185500 +0530" stop="20240626190000 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411123.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626200000 +0530" channel="1411">
+    <title lang="en">Happy Hour</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411124.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626202000 +0530" channel="1411">
+    <title lang="en">HIP-HOP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411125.jpg"/>
+  </programme>
+  <programme start="20240626202000 +0530" stop="20240626202500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411126.jpg"/>
+  </programme>
+  <programme start="20240626202500 +0530" stop="20240626203000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411127.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626204000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411128.jpg"/>
+  </programme>
+  <programme start="20240626204000 +0530" stop="20240626204500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411129.jpg"/>
+  </programme>
+  <programme start="20240626204500 +0530" stop="20240626205000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411130.jpg"/>
+  </programme>
+  <programme start="20240626205000 +0530" stop="20240626205500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411131.jpg"/>
+  </programme>
+  <programme start="20240626205500 +0530" stop="20240626210000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411132.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626210500 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411133.jpg"/>
+  </programme>
+  <programme start="20240626210500 +0530" stop="20240626212000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411134.jpg"/>
+  </programme>
+  <programme start="20240626212000 +0530" stop="20240626212500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411135.jpg"/>
+  </programme>
+  <programme start="20240626212500 +0530" stop="20240626213000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411136.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626215500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411137.jpg"/>
+  </programme>
+  <programme start="20240626215500 +0530" stop="20240626220000 +0530" channel="1411">
+    <title lang="en">Take 7</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411138.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626220500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411139.jpg"/>
+  </programme>
+  <programme start="20240626220500 +0530" stop="20240626221000 +0530" channel="1411">
+    <title lang="en">POP</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411140.jpg"/>
+  </programme>
+  <programme start="20240626221000 +0530" stop="20240626222000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411141.jpg"/>
+  </programme>
+  <programme start="20240626222000 +0530" stop="20240626222500 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411142.jpg"/>
+  </programme>
+  <programme start="20240626222500 +0530" stop="20240626224000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411143.jpg"/>
+  </programme>
+  <programme start="20240626224000 +0530" stop="20240626224500 +0530" channel="1411">
+    <title lang="en">Replay</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411144.jpg"/>
+  </programme>
+  <programme start="20240626224500 +0530" stop="20240626225000 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411145.jpg"/>
+  </programme>
+  <programme start="20240626225000 +0530" stop="20240626225500 +0530" channel="1411">
+    <title lang="en">Unplugged</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411146.jpg"/>
+  </programme>
+  <programme start="20240626225500 +0530" stop="20240626230000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411147.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626231000 +0530" channel="1411">
+    <title lang="en">Songdew Classics</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411148.jpg"/>
+  </programme>
+  <programme start="20240626231000 +0530" stop="20240626231500 +0530" channel="1411">
+    <title lang="en">Track Tales</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411149.jpg"/>
+  </programme>
+  <programme start="20240626231500 +0530" stop="20240626232000 +0530" channel="1411">
+    <title lang="en">Songdew Fresh</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411150.jpg"/>
+  </programme>
+  <programme start="20240626232000 +0530" stop="20240626232500 +0530" channel="1411">
+    <title lang="en">Songdew Select</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411151.jpg"/>
+  </programme>
+  <programme start="20240626232500 +0530" stop="20240626233000 +0530" channel="1411">
+    <title lang="en">Friday Night Originals</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411152.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240626234500 +0530" channel="1411">
+    <title lang="en">ROCK</title>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261411153.jpg"/>
+  </programme>
 </tv>

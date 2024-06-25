@@ -3,4 +3,206 @@
   <channel id="1665">
     <display-name lang="en">ETV Cinema HD</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="1665">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665003.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="1665">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665004.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="1665">
+    <title lang="en">Kanchana Seeta</title>
+    <desc lang="en">Movie starring Jayasudha, Sarathbabu, Raghuvaran and directed by Dasari Narayana Rao.</desc>
+    <credits>
+      <director>Narayana Rao Dasari</director>
+      <actor>Jayasudha</actor>
+      <actor>Sarathbabu</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Nirmala</actor>
+      <actor>Pushpalatha</actor>
+      <actor>Sri Lakshmi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665005.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="1665">
+    <title lang="en">Srimathi</title>
+    <desc lang="en">Childhood friends Anand and Jasmine are close to each other and share an innocent love, however, Anand longs for their time together when he marries Anju.</desc>
+    <credits>
+      <director>B Vijaya Reddy</director>
+      <actor>Kantha Rao</actor>
+      <actor>Sharada</actor>
+      <actor>Vasanthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665006.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="1665">
+    <title lang="en">Sahasam</title>
+    <desc lang="en">Movie starring Jagapathi Babu, Bhanu Chander, Saranya and directed by Suresh Krishna.</desc>
+    <credits>
+      <director>Suresh Krishna</director>
+      <actor>Jagapathi Babu</actor>
+      <actor>Bhanu Chander</actor>
+      <actor>Saranya</actor>
+      <actor>Kaveri</actor>
+      <actor>Gollapudi Maruthi Rao</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665007.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625190000 +0530" channel="1665">
+    <title lang="en">Jaganaddam And Sons</title>
+    <desc lang="en">Unscrupulous people hatch a series of tactics as they try their luck at acquiring the ownership of a hardworking businessman's factory.</desc>
+    <credits>
+      <director>Anil Kumar</director>
+      <actor>Suresh</actor>
+      <actor>Sindhuja</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665008.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625220000 +0530" channel="1665">
+    <title lang="en">Shri Krishna Vijayam</title>
+    <desc lang="en">When Krishna tricks Kalayavana into getting himself killed, Mahodara swears to seek revenge on his brother's behalf. Things take a turn when Lord Shiva grants a boon to Mahodara.</desc>
+    <credits>
+      <director>Kamalakara Kameshwara Rao</director>
+      <actor>NTR</actor>
+      <actor>Jayalalitha J</actor>
+      <actor>S. V. Ranga Rao</actor>
+      <actor>Kanta Rao</actor>
+      <actor>Mikkilineni</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665009.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="1665">
+    <title lang="en">My Choice</title>
+    <desc lang="en">The host talks to various celebrities from the Telugu movie industry who share their experiences of working in the movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665010.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="1665">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251665011.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="1665">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665000.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626040000 +0530" channel="1665">
+    <title lang="en">Kanchana Seeta</title>
+    <desc lang="en">Movie starring Jayasudha, Sarathbabu, Raghuvaran and directed by Dasari Narayana Rao.</desc>
+    <credits>
+      <director>Narayana Rao Dasari</director>
+      <actor>Jayasudha</actor>
+      <actor>Sarathbabu</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Nirmala</actor>
+      <actor>Pushpalatha</actor>
+      <actor>Sri Lakshmi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665001.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626060000 +0530" channel="1665">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665002.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="1665">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665003.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="1665">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665004.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626100000 +0530" channel="1665">
+    <title lang="en">Pandanti Samsaram</title>
+    <desc lang="en">Chalaati, a descendant of the Kulapati family, tries to express his agony against the Rudramanaidu family and change the course of his fate.</desc>
+    <credits>
+      <director>Krishna</director>
+      <actor>Krishna</actor>
+      <actor>Charulatha</actor>
+      <actor>Ravali</actor>
+      <actor>Pruthivi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665005.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626130000 +0530" channel="1665">
+    <title lang="en">Khaidi Kannayya</title>
+    <desc lang="en">Kannaiah, a bank manager, gets framed and arrested for a robbery and later, learns that the real culprits also murdered his son. He then sets out to seek revenge against the perpetrators.</desc>
+    <credits>
+      <director>B Vittalacharya</director>
+      <actor>Kantha Rao</actor>
+      <actor>Rajanala</actor>
+      <actor>Gummadi</actor>
+      <actor>Relangi Venkatramaiah</actor>
+      <actor>Rajasulochana</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665006.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626160000 +0530" channel="1665">
+    <title lang="en">Chitram</title>
+    <desc lang="en">Janaki comes to India from US and joins a college. Here she meets Ramana and the two fall in love. Soon, she gets pregnant which results in further complications.</desc>
+    <credits>
+      <director>Teja</director>
+      <actor>Uday Kiran</actor>
+      <actor>Reema Sen</actor>
+      <actor>Amitov Teja</actor>
+      <actor>Chitram Seenu</actor>
+      <actor>Uttej</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665007.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626190000 +0530" channel="1665">
+    <title lang="en">Maafia</title>
+    <desc lang="en">A journalist happens to witness his brother's death and goes on to settle scores with the gangster who orchestrated his dear one's murder.</desc>
+    <credits>
+      <director>Shaji Kailas</director>
+      <actor>Suresh Gopi</actor>
+      <actor>Vikram</actor>
+      <actor>Janardhanan</actor>
+      <actor>Tiger Prabhakar</actor>
+      <actor>Babu Antony</actor>
+      <actor>Vijayaraghavan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665008.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626220000 +0530" channel="1665">
+    <title lang="en">Missamma</title>
+    <desc lang="en">Two unemployed college graduates, from the city, pretend to be a married couple in order to find employment as school teachers in a small village.</desc>
+    <credits>
+      <director>L V Prasad</director>
+      <actor>N T Rama Rao</actor>
+      <actor>Savitri</actor>
+      <actor>Akkineni Nageswara Rao</actor>
+      <actor>Jamuna</actor>
+      <actor>S V Ranga Rao</actor>
+      <actor>Rushyendramani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261665009.jpg"/>
+  </programme>
 </tv>

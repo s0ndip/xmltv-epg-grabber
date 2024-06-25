@@ -515,11 +515,17 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F08B4C235E64A3F7CD459D22A04635A5B1273FA9P.jpg"/>
     <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts191">
-    <title lang="en">Sringaar Aarti Of Ram Lalla Live</title>
-    <desc lang="en">Hindu priests and devotees participate in the religious rituals at the Ram Mandir, wherein the idol of Balak Ram is worshipped, live.</desc>
+  <programme start="20240626003000 +0000" stop="20240626005000 +0000" channel="ts191">
+    <title lang="en">Sringaar - Aarti From Ram Lalla</title>
+    <desc lang="en">A religious leader performs sacred rituals on the deity while chanting holy hymns to seek divine blessings from the Almighty at the Ram Mandir.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB12A861E2FC767886095246A9E20196F5B683181.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CEC199A601FBB7322DD9166EA6EBFB5D55DB8936.jpg"/>
+  </programme>
+  <programme start="20240626005000 +0000" stop="20240626010000 +0000" channel="ts191">
+    <title lang="en">Soundarya Lahari</title>
+    <desc lang="en">A prominent personality provides detailed insights into Saundarya Lahari, a renowned literary creation by a Vedic scholar.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72E5A90262E29BA7210832FEFC47FF0594DBB93EI.jpg"/>
   </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts191">
     <title lang="en">Soch Badlo Jeevan Badlo</title>
@@ -622,18 +628,10 @@
     <episode-num system="xmltv_ns">.134.</episode-num>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts191">
-    <title lang="en">Yaaron Ka Yaar</title>
-    <desc lang="en">Nathu, who belongs to a lower caste, is punished for taking water from Jaimal's pond. To avenge this, he abducts Jaimal's son and trains him to become a thief.</desc>
-    <credits>
-      <actor>Shatrughan Sinha</actor>
-      <actor>Leena Chandavarkar</actor>
-      <actor>Premnath</actor>
-      <actor>Ramayan Tiwari</actor>
-      <actor>Helen</actor>
-      <actor>Indrani Mukherjee</actor>
-    </credits>
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FE44518D9D89D142BC1420AFB97F2754E64D6867.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
   <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts191">
     <title lang="en">Piggy Bank</title>
@@ -669,19 +667,12 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75428C269077ACEA2B9D46C4D420CE6FC096C345H.jpg"/>
     <episode-num system="xmltv_ns">.50.</episode-num>
   </programme>
-  <programme start="20240626123000 +0000" stop="20240626132500 +0000" channel="ts191">
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts191">
     <title lang="en">Sai Baba</title>
     <desc lang="en">Sai Baba, a revered saint, tries to help people out of their miseries whilst spreading the ideals of devotion, kindness and unity.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1932C0A47EBC58E25356AA8F4759DE19072C07D3.jpg"/>
     <episode-num system="xmltv_ns">.53.</episode-num>
-  </programme>
-  <programme start="20240626132500 +0000" stop="20240626133000 +0000" channel="ts191">
-    <title lang="en">Sos</title>
-    <desc lang="en">Notifications and detailed descriptions about people who are reported missing in a bid to help their friends and relatives find them.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62FBC5E684875F21583469B31563120B3DD4B459P.jpg"/>
-    <episode-num system="xmltv_ns">.67.</episode-num>
   </programme>
   <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts191">
     <title lang="en">Sankat Mochan Hanuman</title>
@@ -783,7 +774,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
     <episode-num system="xmltv_ns">.134.</episode-num>
   </programme>
-  <programme start="20240626180000 +0000" stop="20240627000000 +0000" channel="ts191">
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts191">
     <title lang="en">Mujhe Sikkim Se Pyar Hai</title>
     <desc lang="en">Travelogue Show: The host visits the scenic landscapes, religious places and tourist spots across Sikkim to learn about its local culture and lifestyle.</desc>
     <category lang="en">Travel</category>

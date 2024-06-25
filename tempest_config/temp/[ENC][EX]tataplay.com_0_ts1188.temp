@@ -332,25 +332,25 @@
   </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Netarhat</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
   <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts1188">
-    <title lang="en">Dhol Mandar</title>
-    <desc lang="en">Dhol Mandar</desc>
-    <category lang="en">Art &amp; Culture</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B423048CC337513EC4B797BDCC1AA3B8945BD66B.jpg"/>
+    <title lang="en">Bhartiya Nyay Sanhita 2023</title>
+    <desc lang="en">Bhartiya Nyay Sanhita 2023</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
   </programme>
   <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts1188">
     <title lang="en">Kanoon Ki Baat</title>
-    <desc lang="en">The host discusses various legal issues with eminent personalities from the field of law.</desc>
+    <desc lang="en">Protection and Remedial Rights of Women in Protection of Women From Domestic Violance Act-2005: The host discusses various legal issues with eminent personalities from the field of law.</desc>
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B07DB3744AED7D27BE989750E4DA1910A246800F.jpg"/>
   </programme>
   <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts1188">
     <title lang="en">Swasthya Bharat</title>
-    <desc lang="en">The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
+    <desc lang="en">Badalte Mousam Se Honewale Rog, Karan Lachchhan Evam Upchar: The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
     <credits>
       <actor>Kirti Dixit</actor>
     </credits>
@@ -359,23 +359,23 @@
   </programme>
   <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts1188">
     <title lang="en">Aabuwa Jharkhand</title>
-    <desc lang="en">The host interacts with experts, who highlight the importance of various languages.</desc>
+    <desc lang="en">Santhali Bhasha Sahitya Evam Sanskriti Ki Prasangikata: The host interacts with experts, who highlight the importance of various languages.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69F96E0C761FD4EDCB1243ABDAEF98C4C2CA16F3T.jpg"/>
   </programme>
   <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Baba Basukinath</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
-  <programme start="20240625213000 +0000" stop="20240625213700 +0000" channel="ts1188">
+  <programme start="20240625213000 +0000" stop="20240625213800 +0000" channel="ts1188">
     <title lang="en">Rojgar Samachar</title>
     <desc lang="en">The host presents the latest top stories, major happening and significant updates.</desc>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E79B4C7648B85CB817314682EC2E43A6CFE7F8E8.jpg"/>
   </programme>
-  <programme start="20240625213700 +0000" stop="20240625220000 +0000" channel="ts1188">
+  <programme start="20240625213800 +0000" stop="20240625220000 +0000" channel="ts1188">
     <title lang="en">Chitrahaar</title>
     <desc lang="en">A comprehensive compilation of the most popular songs from various movies.</desc>
     <credits>
@@ -385,44 +385,44 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
   </programme>
   <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts1188">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+    <title lang="en">Dhol Mandar</title>
+    <desc lang="en">Adivasi Lok Nritya</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B423048CC337513EC4B797BDCC1AA3B8945BD66B.jpg"/>
   </programme>
   <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts1188">
     <title lang="en">Gaon Giraon</title>
-    <desc lang="en">Experts discuss topics and issues related to gardening, tree preservation and more.</desc>
+    <desc lang="en">Jharkhand Me Kharif Sabjiyun Ki Nursery Ki Taiyari: Experts discuss topics and issues related to gardening, tree preservation and more.</desc>
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8F2FEA73F7F41FFD944DEDB2BC1A7761D1B599J.jpg"/>
   </programme>
   <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts1188">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+    <title lang="en">Shastriya Sangeet</title>
+    <desc lang="en">A classical singer performs a musical piece along with a group of instrumentalists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBE6FDF4EC2C4AB6C8330A90A938F7F1B2BC1E4D7.jpg"/>
   </programme>
   <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Netarhat</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
   <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts1188">
-    <title lang="en">Dhol Mandar</title>
-    <desc lang="en">Dhol Mandar</desc>
-    <category lang="en">Art &amp; Culture</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B423048CC337513EC4B797BDCC1AA3B8945BD66B.jpg"/>
+    <title lang="en">Bhartiya Nyay Sanhita 2023</title>
+    <desc lang="en">Bhartiya Nyay Sanhita 2023</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
   </programme>
   <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts1188">
-    <title lang="en">Kanoon Ki Baat</title>
-    <desc lang="en">The host discusses various legal issues with eminent personalities from the field of law.</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B07DB3744AED7D27BE989750E4DA1910A246800F.jpg"/>
+    <title lang="en">Ram Mandir Ke Aarti Ka Jivant Prasaran</title>
+    <desc lang="en">Religious leaders delve into discourse and offer prayers to worship Lord Rama.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F7F14550EA8B07D05C541F0C84EBEAE430207349P.jpg"/>
   </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts1188">
     <title lang="en">Swasthya Bharat</title>
-    <desc lang="en">The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
+    <desc lang="en">Badalte Mousam Se Honewale Rog, Karan Lachchhan Evam Upchar: The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
     <credits>
       <actor>Kirti Dixit</actor>
     </credits>
@@ -431,7 +431,7 @@
   </programme>
   <programme start="20240626013000 +0000" stop="20240626014500 +0000" channel="ts1188">
     <title lang="en">Aabuwa Jharkhand</title>
-    <desc lang="en">The host interacts with experts, who highlight the importance of various languages.</desc>
+    <desc lang="en">Santhali Bhasha Sahitya Evam Sanskriti Ki Prasangikata: The host interacts with experts, who highlight the importance of various languages.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69F96E0C761FD4EDCB1243ABDAEF98C4C2CA16F3T.jpg"/>
   </programme>
@@ -443,17 +443,17 @@
   </programme>
   <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Baba Basukinath</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
-  <programme start="20240626023000 +0000" stop="20240626023700 +0000" channel="ts1188">
+  <programme start="20240626023000 +0000" stop="20240626023800 +0000" channel="ts1188">
     <title lang="en">Rojgar Samachar</title>
     <desc lang="en">The host presents the latest top stories, major happening and significant updates.</desc>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E79B4C7648B85CB817314682EC2E43A6CFE7F8E8.jpg"/>
   </programme>
-  <programme start="20240626023700 +0000" stop="20240626030000 +0000" channel="ts1188">
+  <programme start="20240626023800 +0000" stop="20240626030000 +0000" channel="ts1188">
     <title lang="en">Chitrahaar</title>
     <desc lang="en">A comprehensive compilation of the most popular songs from various movies.</desc>
     <credits>
@@ -463,44 +463,44 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
   </programme>
   <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts1188">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+    <title lang="en">Dhol Mandar</title>
+    <desc lang="en">Adivasi Lok Nritya</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B423048CC337513EC4B797BDCC1AA3B8945BD66B.jpg"/>
   </programme>
   <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts1188">
     <title lang="en">Gaon Giraon</title>
-    <desc lang="en">Experts discuss topics and issues related to gardening, tree preservation and more.</desc>
+    <desc lang="en">Jharkhand Me Kharif Sabjiyun Ki Nursery Ki Taiyari: Experts discuss topics and issues related to gardening, tree preservation and more.</desc>
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8F2FEA73F7F41FFD944DEDB2BC1A7761D1B599J.jpg"/>
   </programme>
   <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts1188">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+    <title lang="en">Shastriya Sangeet</title>
+    <desc lang="en">A classical singer performs a musical piece along with a group of instrumentalists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBE6FDF4EC2C4AB6C8330A90A938F7F1B2BC1E4D7.jpg"/>
   </programme>
   <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Netarhat</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
   <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts1188">
-    <title lang="en">Dhol Mandar</title>
-    <desc lang="en">Dhol Mandar</desc>
-    <category lang="en">Art &amp; Culture</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B423048CC337513EC4B797BDCC1AA3B8945BD66B.jpg"/>
+    <title lang="en">Bhartiya Nyay Sanhita 2023</title>
+    <desc lang="en">Bhartiya Nyay Sanhita 2023</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
   </programme>
   <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts1188">
     <title lang="en">Kanoon Ki Baat</title>
-    <desc lang="en">The host discusses various legal issues with eminent personalities from the field of law.</desc>
+    <desc lang="en">Protection and Remedial Rights of Women in Protection of Women From Domestic Violance Act-2005: The host discusses various legal issues with eminent personalities from the field of law.</desc>
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B07DB3744AED7D27BE989750E4DA1910A246800F.jpg"/>
   </programme>
   <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts1188">
     <title lang="en">Swasthya Bharat</title>
-    <desc lang="en">The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
+    <desc lang="en">Badalte Mousam Se Honewale Rog, Karan Lachchhan Evam Upchar: The host and healthcare experts converse about the ways of maintaining a healthy body.</desc>
     <credits>
       <actor>Kirti Dixit</actor>
     </credits>
@@ -509,7 +509,7 @@
   </programme>
   <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts1188">
     <title lang="en">Aabuwa Jharkhand</title>
-    <desc lang="en">The host interacts with experts, who highlight the importance of various languages.</desc>
+    <desc lang="en">Santhali Bhasha Sahitya Evam Sanskriti Ki Prasangikata: The host interacts with experts, who highlight the importance of various languages.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69F96E0C761FD4EDCB1243ABDAEF98C4C2CA16F3T.jpg"/>
   </programme>
@@ -521,17 +521,17 @@
   </programme>
   <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts1188">
     <title lang="en">Vritachitra</title>
-    <desc lang="en">Vritachitra</desc>
+    <desc lang="en">Baba Basukinath</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDA775E29AB5399DAE14FFD59348CFE705E827C7C.jpg"/>
   </programme>
-  <programme start="20240626080000 +0000" stop="20240626080700 +0000" channel="ts1188">
+  <programme start="20240626080000 +0000" stop="20240626080800 +0000" channel="ts1188">
     <title lang="en">Rojgar Samachar</title>
     <desc lang="en">The host presents the latest top stories, major happening and significant updates.</desc>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E79B4C7648B85CB817314682EC2E43A6CFE7F8E8.jpg"/>
   </programme>
-  <programme start="20240626080700 +0000" stop="20240626083200 +0000" channel="ts1188">
+  <programme start="20240626080800 +0000" stop="20240626083200 +0000" channel="ts1188">
     <title lang="en">Chitrahaar</title>
     <desc lang="en">A comprehensive compilation of the most popular songs from various movies.</desc>
     <credits>

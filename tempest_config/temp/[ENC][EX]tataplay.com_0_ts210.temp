@@ -229,6 +229,7 @@
     <desc lang="en">Talented directors provide an entertaining insight into some of their best works' most intriguing stories and anecdotes.</desc>
     <category lang="en">Show Biz</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51B57189B0EA979799D45F2815BBF82521C5AB02V.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20240626001700 +0000" stop="20240626014400 +0000" channel="ts210">
     <title lang="en">Fallen</title>
@@ -297,7 +298,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00426AC3D8F64301447F32CD9196BCD030A6A278S.jpg"/>
   </programme>
-  <programme start="20240626093700 +0000" stop="20240626112300 +0000" channel="ts210">
+  <programme start="20240626093700 +0000" stop="20240626112400 +0000" channel="ts210">
     <title lang="en">Labor Day</title>
     <desc lang="en">Adele and Henry, a mother and son duo, offer a ride to a wounded and frightening man. However, they soon learn about his mysterious past.</desc>
     <credits>
@@ -311,7 +312,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D380D94FF340631BEEC57E6FA3B680602D3B820DC.jpg"/>
   </programme>
-  <programme start="20240626112300 +0000" stop="20240626131000 +0000" channel="ts210">
+  <programme start="20240626112400 +0000" stop="20240626131000 +0000" channel="ts210">
     <title lang="en">Entrapment</title>
     <desc lang="en">Virginia, an insurance agent, sets out to nab MacDougal, a master thief who steals exquisite pieces of art. To do so, she masquerades as a thief herself and together they steal priceless artefacts.</desc>
     <credits>

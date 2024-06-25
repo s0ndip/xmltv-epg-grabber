@@ -3,4 +3,502 @@
   <channel id="3019">
     <display-name lang="en">Bangla Jago</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="3019">
+    <title lang="en">Desh / Int</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="3019">
+    <title lang="en">Diner Sera</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="3019">
+    <title lang="en">8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="3019">
+    <title lang="en">Banglar Sokal Live</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the state, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="3019">
+    <title lang="en">National Tourism Live</title>
+    <desc lang="en">The host promotes the tourism of the country by shedding light on various exciting tourist destinations and cultural heritage, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019022.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="3019">
+    <title lang="en">10 AM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019023.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="3019">
+    <title lang="en">Barotar Boro Khobor Live</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019024.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019025.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019026.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live / TXT HDL</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019027.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="3019">
+    <title lang="en">1 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019028.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="3019">
+    <title lang="en">Jela R Kotha Live</title>
+    <desc lang="en">The host presents a detailed report featuring the latest updates on significant matters concerning various districts of West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019029.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="3019">
+    <title lang="en">2 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019030.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019031.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="3019">
+    <title lang="en">3 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019032.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="3019">
+    <title lang="en">Pach E Pach Live / TXT HDL</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019033.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="3019">
+    <title lang="en">Janata Express</title>
+    <desc lang="en">The host interacts with the locals who share their perspectives on important matters pertaining to the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019034.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019035.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="3019">
+    <title lang="en">5 PM</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019036.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="3019">
+    <title lang="en">Apnar Kotha Live</title>
+    <desc lang="en">The host invites prominent personalities to conduct insightful discussions on various matters impacting people around the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019037.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019038.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="3019">
+    <title lang="en">8 E 8 Live</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019039.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="3019">
+    <title lang="en">Desh / Int</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019040.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="3019">
+    <title lang="en">Diner Sera Live</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019041.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019042.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="3019">
+    <title lang="en">8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019043.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="3019">
+    <title lang="en">National Tourism</title>
+    <desc lang="en">The host promotes the tourism of the country by shedding light on various exciting tourist destinations and cultural heritage.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019044.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019045.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253019046.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="3019">
+    <title lang="en">8 E 8</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="3019">
+    <title lang="en">Diner Sera</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="3019">
+    <title lang="en">Janata Express</title>
+    <desc lang="en">The host interacts with the locals who share their perspectives on important matters pertaining to the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="3019">
+    <title lang="en">Ent / Desh</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="3019">
+    <title lang="en">8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="3019">
+    <title lang="en">Diner Sera</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="3019">
+    <title lang="en">Janata Express</title>
+    <desc lang="en">The host interacts with the locals who share their perspectives on important matters pertaining to the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="3019">
+    <title lang="en">Desh / Int</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine</title>
+    <desc lang="en">The host presents the day's latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="3019">
+    <title lang="en">Diner Sera</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="3019">
+    <title lang="en">8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="3019">
+    <title lang="en">Banglar Sokal Live</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the state, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="3019">
+    <title lang="en">Desh / Int</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019022.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="3019">
+    <title lang="en">10 AM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019023.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="3019">
+    <title lang="en">Barotar Boro Khobor Live</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019024.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="3019">
+    <title lang="en">Barotar Boro Khobor Live / Teletalks</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019025.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live / Teletalks</title>
+    <desc lang="en">The host presents the latest news updates from across West Bengal, live; the host sheds light on top news stories from the television industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019026.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="3019">
+    <title lang="en">Sports / Ent</title>
+    <desc lang="en">The host sheds light on the latest news stories from the world of sports; the host shares updates about the entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019027.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live / TXT HDL</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="3019">
+    <title lang="en">1 PM</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019029.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="3019">
+    <title lang="en">Jela R Kotha Live</title>
+    <desc lang="en">The host presents a detailed report featuring the latest updates on significant matters concerning various districts of West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019030.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="3019">
+    <title lang="en">2 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019031.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="3019">
+    <title lang="en">Bangla Jago Express Live</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019032.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="3019">
+    <title lang="en">3 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019033.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="3019">
+    <title lang="en">Pach E Pach Live / TXT HDL</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019034.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="3019">
+    <title lang="en">Janata Express</title>
+    <desc lang="en">The host interacts with the locals who share their perspectives on important matters pertaining to the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019035.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019036.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="3019">
+    <title lang="en">5 PM</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019037.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="3019">
+    <title lang="en">Apnar Kotha</title>
+    <desc lang="en">The presenter offers insights into events transpiring within the community and the socio-political, economic and cultural impacts left as a result.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019038.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="3019">
+    <title lang="en">Aaj Saradine Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues from West Bengal, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019039.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="3019">
+    <title lang="en">8 E 8 Live</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019040.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="3019">
+    <title lang="en">Desh / Int</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019041.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="3019">
+    <title lang="en">Diner Sera Live</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the state and the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019042.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="3019">
+    <title lang="en">Ent / Sports</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates concerning the sports and entertainment industry around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019043.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="3019">
+    <title lang="en">8 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019044.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="3019">
+    <title lang="en">Janata Express</title>
+    <desc lang="en">The host interacts with the locals who share their perspectives on important matters pertaining to the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019045.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="3019">
+    <title lang="en">Ek Jholoke Bangla</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263019046.jpg"/>
+  </programme>
 </tv>

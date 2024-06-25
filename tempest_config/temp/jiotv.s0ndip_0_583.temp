@@ -3,4 +3,478 @@
   <channel id="583">
     <display-name lang="en">DD Kisan</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="583">
+    <title lang="en">The Agro Factory</title>
+    <desc lang="en">Experts in the field of farming and agriculture shed light on the different ways they process their agricultural produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="583">
+    <title lang="en">Pehli Kiran</title>
+    <desc lang="en">Individuals from different walks of life come across several challenging situations in life but they manage to find a way out.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="583">
+    <title lang="en">Safal Kisan</title>
+    <desc lang="en">Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="583">
+    <title lang="en">Krishi Vishesh</title>
+    <desc lang="en">The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="583">
+    <title lang="en">Mausam Khabar</title>
+    <desc lang="en">The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="583">
+    <title lang="en">Mandi Khabar</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="583">
+    <title lang="en">Krishi Darshan</title>
+    <desc lang="en">The host presents success stories of various farmers and addresses queries related to agriculture in a bid to educate the rural audiences about new farming techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="583">
+    <title lang="en">Chaupal Charcha</title>
+    <desc lang="en">The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="583">
+    <title lang="en">Yeh Hai Mera India</title>
+    <desc lang="en">The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="583">
+    <title lang="en">Mausam Khabar</title>
+    <desc lang="en">The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="583">
+    <title lang="en">Kamyabi Ki Misalein</title>
+    <desc lang="en">The presenter visits the farmers and sheds light on the stories of their success with productive agricultural techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="583">
+    <title lang="en">Hello Kisan</title>
+    <desc lang="en">The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583022.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="583">
+    <title lang="en">Kisano Ke Maha Nayak</title>
+    <desc lang="en">An expert talks about the various technological developments that Indian farmers have adopted to boost yield and crop quality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583023.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="583">
+    <title lang="en">Pehli Kiran</title>
+    <desc lang="en">Individuals from different walks of life come across several challenging situations in life but they manage to find a way out.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583024.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="583">
+    <title lang="en">Swad Ka Safar</title>
+    <desc lang="en">Pragyati Mishra travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583025.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="583">
+    <title lang="en">Kisan Samachar</title>
+    <desc lang="en">The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583026.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="583">
+    <title lang="en">Gramin Shodhshalayein</title>
+    <desc lang="en">A show focussing on aspects of agriculture or rural localities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583027.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="583">
+    <title lang="en">Bemisal Betiya</title>
+    <desc lang="en">The host sheds light on the work of various women who excelled in their fields against all odds and proved that hard work can accomplish any goal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583028.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="583">
+    <title lang="en">Kisan Yatra</title>
+    <desc lang="en">The host sheds light on the latest updates and significant developments concerning the agriculture sector of the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583029.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="583">
+    <title lang="en">The Agro Factory</title>
+    <desc lang="en">Experts in the field of farming and agriculture shed light on the different ways they process their agricultural produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583030.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="583">
+    <title lang="en">Krishi Vishesh</title>
+    <desc lang="en">The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583031.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="583">
+    <title lang="en">Kisan Krishi Aushadhiya Paudhe</title>
+    <desc lang="en">The hosts discuss various ancient Indian medicines and elaborate on the different methods used for their cultivation and growth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583032.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="583">
+    <title lang="en">Mandi Khabar Live</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583033.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="583">
+    <title lang="en">Kisan Samachar</title>
+    <desc lang="en">The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583034.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="583">
+    <title lang="en">Such Ke Sath Live</title>
+    <desc lang="en">The host discusses and gives an analysis of the speech given by Narendra Modi on the state of farmers and their value in Indian society, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583035.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="583">
+    <title lang="en">Krishi Darshan</title>
+    <desc lang="en">The host presents success stories of various farmers and addresses queries related to agriculture in a bid to educate the rural audiences about new farming techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583036.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200500 +0530" channel="583">
+    <title lang="en">Mausam Khabar Live</title>
+    <desc lang="en">In a live telecast, the host sheds light on the weather forecast for various regions across the country and the impact it is likely to have on the said areas.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583037.jpg"/>
+  </programme>
+  <programme start="20240625200500 +0530" stop="20240625203000 +0530" channel="583">
+    <title lang="en">Safal Kisan</title>
+    <desc lang="en">Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583038.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="583">
+    <title lang="en">Mandi Khabar</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583039.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="583">
+    <title lang="en">Chatt Par Baagwani</title>
+    <desc lang="en">The host discusses some of the most innovative techniques and methods that would help one to conduct efficient terrace gardening.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583040.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="583">
+    <title lang="en">Kisan Yatra</title>
+    <desc lang="en">The host sheds light on the latest updates and significant developments concerning the agriculture sector of the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583041.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="583">
+    <title lang="en">Mausam Khabar Live</title>
+    <desc lang="en">In a live telecast, the host sheds light on the weather forecast for various regions across the country and the impact it is likely to have on the said areas.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583042.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625233000 +0530" channel="583">
+    <title lang="en">Hello Kisan</title>
+    <desc lang="en">The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583043.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="583">
+    <title lang="en">Gramin Shodhshalayein</title>
+    <desc lang="en">A show focussing on aspects of agriculture or rural localities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625583044.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="583">
+    <title lang="en">Kisan Krishi Aushadhiya Paudhe</title>
+    <desc lang="en">The hosts discuss various ancient Indian medicines and elaborate on the different methods used for their cultivation and growth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="583">
+    <title lang="en">Kacche Raste Pakke Irade</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="583">
+    <title lang="en">The Agro Factory</title>
+    <desc lang="en">Experts in the field of farming and agriculture shed light on the different ways they process their agricultural produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="583">
+    <title lang="en">Bemisal Betiya</title>
+    <desc lang="en">The host sheds light on the work of various women who excelled in their fields against all odds and proved that hard work can accomplish any goal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="583">
+    <title lang="en">Krishi Vishesh</title>
+    <desc lang="en">The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="583">
+    <title lang="en">Safal Kisan</title>
+    <desc lang="en">Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="583">
+    <title lang="en">Chatt Par Baagwani</title>
+    <desc lang="en">The host discusses some of the most innovative techniques and methods that would help one to conduct efficient terrace gardening.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="583">
+    <title lang="en">Swad Ka Safar</title>
+    <desc lang="en">Pragyati Mishra travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="583">
+    <title lang="en">Gramin Shodhshalayein</title>
+    <desc lang="en">A show focussing on aspects of agriculture or rural localities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="583">
+    <title lang="en">Kisan Krishi Aushadhiya Paudhe</title>
+    <desc lang="en">The hosts discuss various ancient Indian medicines and elaborate on the different methods used for their cultivation and growth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="583">
+    <title lang="en">Kacche Raste Pakke Irade</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="583">
+    <title lang="en">The Agro Factory</title>
+    <desc lang="en">Experts in the field of farming and agriculture shed light on the different ways they process their agricultural produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="583">
+    <title lang="en">Pehli Kiran</title>
+    <desc lang="en">Individuals from different walks of life come across several challenging situations in life but they manage to find a way out.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="583">
+    <title lang="en">Safal Kisan</title>
+    <desc lang="en">Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="583">
+    <title lang="en">Krishi Vishesh</title>
+    <desc lang="en">The host discusses the latest and the most relevant updates from the field of agriculture and analyses them to shed more light on them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="583">
+    <title lang="en">Mausam Khabar</title>
+    <desc lang="en">The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="583">
+    <title lang="en">Mandi Khabar</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="583">
+    <title lang="en">Krishi Darshan</title>
+    <desc lang="en">The host presents success stories of various farmers and addresses queries related to agriculture in a bid to educate the rural audiences about new farming techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="583">
+    <title lang="en">Chaupal Charcha</title>
+    <desc lang="en">The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="583">
+    <title lang="en">Yeh Hai Mera India</title>
+    <desc lang="en">The host travels to different locations in India and explores its rich heritage, cultural diversity, various art forms and agricultural practices.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="583">
+    <title lang="en">Mausam Khabar</title>
+    <desc lang="en">The host presents the latest news and updates regarding the weather in India and around the world and makes predictions about the possible changes in the climate.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="583">
+    <title lang="en">Kamyabi Ki Misalein</title>
+    <desc lang="en">The presenter visits the farmers and sheds light on the stories of their success with productive agricultural techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="583">
+    <title lang="en">Hello Kisan</title>
+    <desc lang="en">The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583022.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="583">
+    <title lang="en">Kisano Ke Maha Nayak</title>
+    <desc lang="en">An expert talks about the various technological developments that Indian farmers have adopted to boost yield and crop quality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583023.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="583">
+    <title lang="en">Pehli Kiran</title>
+    <desc lang="en">Individuals from different walks of life come across several challenging situations in life but they manage to find a way out.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583024.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="583">
+    <title lang="en">Swad Ka Safar</title>
+    <desc lang="en">Pragyati Mishra travels to various remote villages across the country to discover the origins and cultures of popular Indian dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583025.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="583">
+    <title lang="en">Kisan Samachar</title>
+    <desc lang="en">The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583026.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="583">
+    <title lang="en">Gramin Shodhshalayein</title>
+    <desc lang="en">A show focussing on aspects of agriculture or rural localities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583027.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="583">
+    <title lang="en">Bemisal Betiya</title>
+    <desc lang="en">The host sheds light on the work of various women who excelled in their fields against all odds and proved that hard work can accomplish any goal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583028.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="583">
+    <title lang="en">Kacche Raste Pakke Irade</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583029.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="583">
+    <title lang="en">The Agro Factory</title>
+    <desc lang="en">Experts in the field of farming and agriculture shed light on the different ways they process their agricultural produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583030.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="583">
+    <title lang="en">Krishi Start Up</title>
+    <desc lang="en">The host interacts with young entrepreneurs from the field of agriculture who use modern technology to gain the most out of their work while at the same time helping others become better.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583031.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="583">
+    <title lang="en">Kisan Krishi Aushadhiya Paudhe</title>
+    <desc lang="en">The hosts discuss various ancient Indian medicines and elaborate on the different methods used for their cultivation and growth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583032.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="583">
+    <title lang="en">Mandi Khabar Live</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583033.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="583">
+    <title lang="en">Kisan Samachar</title>
+    <desc lang="en">The host gives insights into the latest agricultural technology, innovations and facilities, and the methods to cultivate a good produce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583034.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626190000 +0530" channel="583">
+    <title lang="en">Hello Kisan Live</title>
+    <desc lang="en">The host invites agricultural experts who answer questions and provide solutions on various issues related to farming and animal husbandry, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583035.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="583">
+    <title lang="en">Krishi Darshan</title>
+    <desc lang="en">The host presents success stories of various farmers and addresses queries related to agriculture in a bid to educate the rural audiences about new farming techniques.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583036.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="583">
+    <title lang="en">Mausam Khabar Live</title>
+    <desc lang="en">In a live telecast, the host sheds light on the weather forecast for various regions across the country and the impact it is likely to have on the said areas.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583037.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626200500 +0530" channel="583">
+    <title lang="en">DD Kisan Ai Break</title>
+    <desc lang="en">This is TV Show - Magazine Programme Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583038.jpg"/>
+  </programme>
+  <programme start="20240626200500 +0530" stop="20240626203000 +0530" channel="583">
+    <title lang="en">Safal Kisan</title>
+    <desc lang="en">Farmers share their success stories and shed light on how they manage to tackle various agricultural problems to ensure bumper crops.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583039.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="583">
+    <title lang="en">Mandi Khabar</title>
+    <desc lang="en">The host provides an update on the latest agriculture-related news and discusses the rates of various commodities in different markets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583040.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="583">
+    <title lang="en">Chatt Par Baagwani</title>
+    <desc lang="en">The host discusses some of the most innovative techniques and methods that would help one to conduct efficient terrace gardening.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583041.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="583">
+    <title lang="en">Chaupal Charcha</title>
+    <desc lang="en">The host sheds light on the various schemes pertaining to sanitation, loan sanction policies and electrification that are available for farmers in the rural areas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583042.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="583">
+    <title lang="en">Mausam Khabar Live</title>
+    <desc lang="en">In a live telecast, the host sheds light on the weather forecast for various regions across the country and the impact it is likely to have on the said areas.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583043.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626233000 +0530" channel="583">
+    <title lang="en">Hello Kisan</title>
+    <desc lang="en">The host entertains phone calls from viewers who ask questions and seek solutions from agricultural experts on various issues related to farming and animal husbandry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626583044.jpg"/>
+  </programme>
 </tv>

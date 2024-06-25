@@ -3,4 +3,436 @@
   <channel id="3026">
     <display-name lang="en">India TV Speed News</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625063000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026011.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625073000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026012.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026013.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026014.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026015.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="3026">
+    <title lang="en">Sports 20</title>
+    <desc lang="en">The news anchor collates and presents the top twenty updates and developments from the world of sports and shares information on major tournaments.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026016.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026017.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026018.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026019.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625123000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026020.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026021.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026022.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026023.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026024.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026025.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026026.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026027.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625173000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026028.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026029.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026030.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026031.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026032.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026033.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="3026">
+    <title lang="en">Chunav 24</title>
+    <desc lang="en">The host sheds light on reports of the latest breaking news, updates and developments on the elections taking place in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026034.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026035.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="3026">
+    <title lang="en">Chunav 24</title>
+    <desc lang="en">The host sheds light on reports of the latest breaking news, updates and developments on the elections taking place in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026036.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026037.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026038.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026039.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026040.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="3026">
+    <title lang="en">Chunav 24</title>
+    <desc lang="en">The host sheds light on reports of the latest breaking news, updates and developments on the elections taking place in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406253026041.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626063000 +0530" channel="3026">
+    <title lang="en">India TV Speed News</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026011.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626073000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026012.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026013.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026014.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026015.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="3026">
+    <title lang="en">Sports 20</title>
+    <desc lang="en">The news anchor collates and presents the top twenty updates and developments from the world of sports and shares information on major tournaments.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026016.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026017.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626110000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026018.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026019.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626123000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026020.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026021.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026022.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026023.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026024.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026025.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026026.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026027.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626173000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026028.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026029.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026030.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026031.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026032.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026033.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="3026">
+    <title lang="en">Chunav 24</title>
+    <desc lang="en">The host sheds light on reports of the latest breaking news, updates and developments on the elections taking place in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026034.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026035.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="3026">
+    <title lang="en">Chunav 24</title>
+    <desc lang="en">The host sheds light on reports of the latest breaking news, updates and developments on the elections taking place in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026036.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026037.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026038.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026039.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="3026">
+    <title lang="en">Special 20</title>
+    <desc lang="en">The host collates and presents the top twenty news updates and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406263026040.jpg"/>
+  </programme>
 </tv>

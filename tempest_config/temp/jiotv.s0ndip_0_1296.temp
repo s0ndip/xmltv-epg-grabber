@@ -3,4 +3,145 @@
   <channel id="1296">
     <display-name lang="en">B4U Bhojpuri</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625065900 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296004.jpg"/>
+  </programme>
+  <programme start="20240625065900 +0530" stop="20240625105400 +0530" channel="1296">
+    <title lang="en">Maa Ka Anchal</title>
+    <desc lang="en">A young kind-hearted woman, Shanti goes through a transformation in her personality from her bachelor to married life. Moreover, she has the responsibility of raising her children.</desc>
+    <credits>
+      <director>Sanjeev Boharpi</director>
+      <actor>Lado Madeshiya</actor>
+      <actor>Richa Dixit</actor>
+      <actor>Kanak Yadav</actor>
+      <actor>Shalu Singh</actor>
+      <actor>Vinod Mishra</actor>
+      <actor>Anup Arora</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296005.jpg"/>
+  </programme>
+  <programme start="20240625105400 +0530" stop="20240625143000 +0530" channel="1296">
+    <title lang="en">Badhaiya Baje More Angana</title>
+    <desc lang="en">A new bride receives admiration from her in-laws. However, chaos ensues when her envious sisters-in-law hatch a diabolic plan in order to inflict pain on her.</desc>
+    <credits>
+      <director>Ajay Kumar Jha</director>
+      <actor>Gaurav Jha</actor>
+      <actor>Sanjana Pandey</actor>
+      <actor>Lalit Upadhyay</actor>
+      <actor>Kanchan Mishra</actor>
+      <actor>Pushpendra Rai</actor>
+      <actor>Glory Mohanta</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296006.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625182700 +0530" channel="1296">
+    <title lang="en">Hamari Laxmi Bitiya</title>
+    <desc lang="en">When Laxmi's father falls ill, the village girl agrees to become the surrogate of a wealthy couple to solve her financial issues. But her decision receives severe backlash from the villagers.</desc>
+    <credits>
+      <director>Sanjeev Boharpi</director>
+      <actor>Kajal Raghwani</actor>
+      <actor>Ritesh Upadhyay</actor>
+      <actor>Sarda Naval</actor>
+      <actor>Anoop Arora</actor>
+      <actor>Khushbu Jha</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296007.jpg"/>
+  </programme>
+  <programme start="20240625182700 +0530" stop="20240625212400 +0530" channel="1296">
+    <title lang="en">Rani Beti Raj Karegi</title>
+    <desc lang="en">A man receives a boon and teaches his younger daughter Vidya how to use it. When his elder daughter becomes a victim of racism at her in-law's house, Vidya uses her powers to teach them a lesson.</desc>
+    <credits>
+      <director>Ajit Kumar Sharma</director>
+      <actor>Sanjana Pandey</actor>
+      <actor>Neelu Singh</actor>
+      <actor>Sanket Pathak</actor>
+      <actor>Dev Singh</actor>
+      <actor>Prakash Jais</actor>
+      <actor>Sanket Pathak Kiran Yadav</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296008.jpg"/>
+  </programme>
+  <programme start="20240625212400 +0530" stop="20240626000000 +0530" channel="1296">
+    <title lang="en">Dilwala</title>
+    <desc lang="en">A joint family gets separated when the eldest son marries his employer's daughter and the second son decides to go abroad. The youngest son takes care of his parents and brings the family together.</desc>
+    <credits>
+      <director>Satish Jain</director>
+      <actor>Khesari Lal Yadav</actor>
+      <actor>Akshra Singh</actor>
+      <actor>Sanjay Pandey</actor>
+      <actor>Kiran Yadav</actor>
+      <actor>Rajnish Jhanji</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251296009.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010600 +0530" channel="1296">
+    <title lang="en">Dilwala</title>
+    <desc lang="en">A joint family gets separated when the eldest son marries his employer's daughter and the second son decides to go abroad. The youngest son takes care of his parents and brings the family together.</desc>
+    <credits>
+      <director>Satish Jain</director>
+      <actor>Khesari Lal Yadav</actor>
+      <actor>Akshra Singh</actor>
+      <actor>Sanjay Pandey</actor>
+      <actor>Kiran Yadav</actor>
+      <actor>Rajnish Jhanji</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296000.jpg"/>
+  </programme>
+  <programme start="20240626010600 +0530" stop="20240626015700 +0530" channel="1296">
+    <title lang="en">Lataka Jhatka</title>
+    <desc lang="en">A comprehensive compilation of popular regional songs performed by renowned singers and musicians is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296001.jpg"/>
+  </programme>
+  <programme start="20240626015700 +0530" stop="20240626034000 +0530" channel="1296">
+    <title lang="en">Humke Chahi Dulha Albela</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296002.jpg"/>
+  </programme>
+  <programme start="20240626034000 +0530" stop="20240626060000 +0530" channel="1296">
+    <title lang="en">Dular Devi Maiya Ke</title>
+    <desc lang="en">A comprehensive compilation of some of the most famous devotional songs praising Goddess Durga, an important Hindu deity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296003.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296004.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626120000 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296005.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626150000 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296006.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626180000 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296007.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626210000 +0530" channel="1296">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261296008.jpg"/>
+  </programme>
 </tv>

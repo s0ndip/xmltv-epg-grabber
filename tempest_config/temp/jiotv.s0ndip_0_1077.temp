@@ -3,4 +3,700 @@
   <channel id="1077">
     <display-name lang="en">Sharnam TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625062900 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077012.jpg"/>
+  </programme>
+  <programme start="20240625062900 +0530" stop="20240625063000 +0530" channel="1077">
+    <title lang="en">Hanuman Mantra</title>
+    <desc lang="en">A compilation of hymns composed and recited in praise of Lord Hanuman is played in order to invoke the spirit of devotion.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077013.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625065900 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077014.jpg"/>
+  </programme>
+  <programme start="20240625065900 +0530" stop="20240625070000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077015.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625075700 +0530" channel="1077">
+    <title lang="en">Dhyaan Murti Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077016.jpg"/>
+  </programme>
+  <programme start="20240625075700 +0530" stop="20240625075800 +0530" channel="1077">
+    <title lang="en">Dhyaan Murti Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077017.jpg"/>
+  </programme>
+  <programme start="20240625075800 +0530" stop="20240625075900 +0530" channel="1077">
+    <title lang="en">Vimal Krishn</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077018.jpg"/>
+  </programme>
+  <programme start="20240625075900 +0530" stop="20240625082800 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077019.jpg"/>
+  </programme>
+  <programme start="20240625082800 +0530" stop="20240625082900 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077020.jpg"/>
+  </programme>
+  <programme start="20240625082900 +0530" stop="20240625085900 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077021.jpg"/>
+  </programme>
+  <programme start="20240625085900 +0530" stop="20240625090000 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077022.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="1077">
+    <title lang="en">Sanyashi Ayurveda</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077023.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625102900 +0530" channel="1077">
+    <title lang="en">Gupteshwar Maharaj Ram Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077024.jpg"/>
+  </programme>
+  <programme start="20240625102900 +0530" stop="20240625103000 +0530" channel="1077">
+    <title lang="en">Gupteshwar Maharaj Ram Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077025.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625104500 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077026.jpg"/>
+  </programme>
+  <programme start="20240625104500 +0530" stop="20240625110000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077027.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625112800 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077028.jpg"/>
+  </programme>
+  <programme start="20240625112800 +0530" stop="20240625112900 +0530" channel="1077">
+    <title lang="en">Vimal Krishan Ji Maharaj Bhagwat Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077029.jpg"/>
+  </programme>
+  <programme start="20240625112900 +0530" stop="20240625115700 +0530" channel="1077">
+    <title lang="en">Rakesh Mishra</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077030.jpg"/>
+  </programme>
+  <programme start="20240625115700 +0530" stop="20240625115800 +0530" channel="1077">
+    <title lang="en">Rakesh Mishra</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077031.jpg"/>
+  </programme>
+  <programme start="20240625115800 +0530" stop="20240625115900 +0530" channel="1077">
+    <title lang="en">Dainik Karyakram</title>
+    <desc lang="en">This is TV Show - Magazine Programme Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077032.jpg"/>
+  </programme>
+  <programme start="20240625115900 +0530" stop="20240625120000 +0530" channel="1077">
+    <title lang="en">Jai Aprkash</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077033.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625125700 +0530" channel="1077">
+    <title lang="en">Hitendra Krishan Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077034.jpg"/>
+  </programme>
+  <programme start="20240625125700 +0530" stop="20240625125900 +0530" channel="1077">
+    <title lang="en">Hitendra Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077035.jpg"/>
+  </programme>
+  <programme start="20240625125900 +0530" stop="20240625130000 +0530" channel="1077">
+    <title lang="en">Gupteshwar Ji Maharaj</title>
+    <desc lang="en">Gupteshwarji Maharaj, a religious leader, shares his wisdom and provides a detailed discourse on various spiritual teachings to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077036.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077037.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625142700 +0530" channel="1077">
+    <title lang="en">Dhyaan Murti Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077038.jpg"/>
+  </programme>
+  <programme start="20240625142700 +0530" stop="20240625142900 +0530" channel="1077">
+    <title lang="en">Dhyaan Murti Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077039.jpg"/>
+  </programme>
+  <programme start="20240625142900 +0530" stop="20240625143000 +0530" channel="1077">
+    <title lang="en">Sharnam Channel Id</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077040.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625144500 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077041.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0530" stop="20240625150000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077042.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625151500 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077043.jpg"/>
+  </programme>
+  <programme start="20240625151500 +0530" stop="20240625153000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077044.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625162900 +0530" channel="1077">
+    <title lang="en">Shivam Sadhak Ji</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077045.jpg"/>
+  </programme>
+  <programme start="20240625162900 +0530" stop="20240625163000 +0530" channel="1077">
+    <title lang="en">Shivam Sadhak Ji</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077046.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625164500 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077047.jpg"/>
+  </programme>
+  <programme start="20240625164500 +0530" stop="20240625170000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077048.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="1077">
+    <title lang="en">Sanyashi Ayurveda</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077049.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625182800 +0530" channel="1077">
+    <title lang="en">Jai Prakesh Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077050.jpg"/>
+  </programme>
+  <programme start="20240625182800 +0530" stop="20240625182900 +0530" channel="1077">
+    <title lang="en">Jai Prakesh Ji Maharaj</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077051.jpg"/>
+  </programme>
+  <programme start="20240625182900 +0530" stop="20240625183000 +0530" channel="1077">
+    <title lang="en">Gupteshwar Ji Maharaj</title>
+    <desc lang="en">Gupteshwarji Maharaj, a religious leader, shares his wisdom and provides a detailed discourse on various spiritual teachings to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077052.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077053.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625191500 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077054.jpg"/>
+  </programme>
+  <programme start="20240625191500 +0530" stop="20240625193000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077055.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625195800 +0530" channel="1077">
+    <title lang="en">Anushka Pathak Jii</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077056.jpg"/>
+  </programme>
+  <programme start="20240625195800 +0530" stop="20240625195900 +0530" channel="1077">
+    <title lang="en">Gupteshwar Ji Maharaj</title>
+    <desc lang="en">Gupteshwarji Maharaj, a religious leader, shares his wisdom and provides a detailed discourse on various spiritual teachings to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077057.jpg"/>
+  </programme>
+  <programme start="20240625195900 +0530" stop="20240625200000 +0530" channel="1077">
+    <title lang="en">Sharnam Channel Id</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077058.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625202600 +0530" channel="1077">
+    <title lang="en">Vidya Bhushan Ji</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077059.jpg"/>
+  </programme>
+  <programme start="20240625202600 +0530" stop="20240625202800 +0530" channel="1077">
+    <title lang="en">Vimal Krishn</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077060.jpg"/>
+  </programme>
+  <programme start="20240625202800 +0530" stop="20240625203000 +0530" channel="1077">
+    <title lang="en">Gupteshwar Ji Maharaj</title>
+    <desc lang="en">Gupteshwarji Maharaj, a religious leader, shares his wisdom and provides a detailed discourse on various spiritual teachings to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077061.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625204500 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077062.jpg"/>
+  </programme>
+  <programme start="20240625204500 +0530" stop="20240625210000 +0530" channel="1077">
+    <title lang="en">Damdar Oil</title>
+    <desc lang="en">The host sheds light on the special features of Damdar oil, the joint pain relieving oil, which can be brought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077063.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625212700 +0530" channel="1077">
+    <title lang="en">Damdar Oil TVC</title>
+    <desc lang="en">This is TV Show - Consumer Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077064.jpg"/>
+  </programme>
+  <programme start="20240625212700 +0530" stop="20240625212800 +0530" channel="1077">
+    <title lang="en">Sarveshwar Sharan Ji Maharaj Bhagwat Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077065.jpg"/>
+  </programme>
+  <programme start="20240625212800 +0530" stop="20240625212900 +0530" channel="1077">
+    <title lang="en">Gupteshwar Ji Maharaj</title>
+    <desc lang="en">Gupteshwarji Maharaj, a religious leader, shares his wisdom and provides a detailed discourse on various spiritual teachings to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077066.jpg"/>
+  </programme>
+  <programme start="20240625212900 +0530" stop="20240625213000 +0530" channel="1077">
+    <title lang="en">Sharnam Channel Id</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077067.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625215700 +0530" channel="1077">
+    <title lang="en">Yogesh Prabhakar</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077068.jpg"/>
+  </programme>
+  <programme start="20240625215700 +0530" stop="20240625215900 +0530" channel="1077">
+    <title lang="en">Vimal Krishn</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077069.jpg"/>
+  </programme>
+  <programme start="20240625215900 +0530" stop="20240625225900 +0530" channel="1077">
+    <title lang="en">Devi Chitralekha</title>
+    <desc lang="en">A spiritual leader gives a religious discourse and reads out verses from a holy scripture to motivate and inspire the devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077070.jpg"/>
+  </programme>
+  <programme start="20240625225900 +0530" stop="20240625235800 +0530" channel="1077">
+    <title lang="en">Devi Chitralekha Ji</title>
+    <desc lang="en">Devi Chitralekha, a religious leader, addresses her followers and delivers a discourse on the teachings from scriptures in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077071.jpg"/>
+  </programme>
+  <programme start="20240625235800 +0530" stop="20240625235900 +0530" channel="1077">
+    <title lang="en">Vimal Krishn</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077072.jpg"/>
+  </programme>
+  <programme start="20240625235900 +0530" stop="20240626000000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251077073.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626002700 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077000.jpg"/>
+  </programme>
+  <programme start="20240626002700 +0530" stop="20240626003000 +0530" channel="1077">
+    <title lang="en">Scroll / Clander / Clock Stop</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077001.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626005800 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077002.jpg"/>
+  </programme>
+  <programme start="20240626005800 +0530" stop="20240626010000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077003.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626012700 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077004.jpg"/>
+  </programme>
+  <programme start="20240626012700 +0530" stop="20240626013000 +0530" channel="1077">
+    <title lang="en">Scroll / Clander / Clock Stop</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077005.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077006.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626022800 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077007.jpg"/>
+  </programme>
+  <programme start="20240626022800 +0530" stop="20240626023000 +0530" channel="1077">
+    <title lang="en">Didi Shyama Kishori Ji Nani Bai Ka Mayera</title>
+    <desc lang="en">A religious preacher delivers a discourse on the teachings of Lord Krishna and guides his followers on the path of spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077008.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626025800 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077009.jpg"/>
+  </programme>
+  <programme start="20240626025800 +0530" stop="20240626030000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077010.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077011.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626035800 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077012.jpg"/>
+  </programme>
+  <programme start="20240626035800 +0530" stop="20240626040000 +0530" channel="1077">
+    <title lang="en">Didi Shyama Kishori Ji Nani Bai Ka Mayera</title>
+    <desc lang="en">A religious preacher delivers a discourse on the teachings of Lord Krishna and guides his followers on the path of spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077013.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626042800 +0530" channel="1077">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077014.jpg"/>
+  </programme>
+  <programme start="20240626042800 +0530" stop="20240626043000 +0530" channel="1077">
+    <title lang="en">Didi Shyama Kishori Ji Nani Bai Ka Mayera</title>
+    <desc lang="en">A religious preacher delivers a discourse on the teachings of Lord Krishna and guides his followers on the path of spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077015.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626045800 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077016.jpg"/>
+  </programme>
+  <programme start="20240626045800 +0530" stop="20240626050000 +0530" channel="1077">
+    <title lang="en">Scroll / Clander / Clock Stop</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077017.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626052800 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077018.jpg"/>
+  </programme>
+  <programme start="20240626052800 +0530" stop="20240626053000 +0530" channel="1077">
+    <title lang="en">Baal Vyas Pandit Shantanu Sharma Ji</title>
+    <desc lang="en">Shantanu Sharma, a religious scholar, delivers a discourse on Hinduism and encourages people to pursue the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077019.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055800 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077020.jpg"/>
+  </programme>
+  <programme start="20240626055800 +0530" stop="20240626060000 +0530" channel="1077">
+    <title lang="en">Didi Shyama Kishori Ji Nani Bai Ka Mayera</title>
+    <desc lang="en">A religious preacher delivers a discourse on the teachings of Lord Krishna and guides his followers on the path of spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077021.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626062900 +0530" channel="1077">
+    <title lang="en">Om Gan Ganpatye Namo Namah</title>
+    <desc lang="en">A comprehensive compilation of devotional hymns and melodious recitations of Lord Ganesha, one of the most worshipped deities in Hinduism.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077022.jpg"/>
+  </programme>
+  <programme start="20240626062900 +0530" stop="20240626063000 +0530" channel="1077">
+    <title lang="en">Sharnam Channel Id</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077023.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626065800 +0530" channel="1077">
+    <title lang="en">Din Ka Mahatva</title>
+    <desc lang="en">A spiritual scholar imparts good teachings that can be pondered upon and utilised in order to lead a peaceful, healthy and prosperous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077024.jpg"/>
+  </programme>
+  <programme start="20240626065800 +0530" stop="20240626070000 +0530" channel="1077">
+    <title lang="en">Govats Radhakrishan</title>
+    <desc lang="en">Govats Shri Radhakrishna Ji Maharaj delivers a discourse based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077025.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626072900 +0530" channel="1077">
+    <title lang="en">Tvc Jyotish Darpan</title>
+    <desc lang="en">A renowned astrologer studies the relative movement and position of celestial objects and predicts the future for various zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077026.jpg"/>
+  </programme>
+  <programme start="20240626072900 +0530" stop="20240626073000 +0530" channel="1077">
+    <title lang="en">Scroll / Clander / Clock Play</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077027.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626075900 +0530" channel="1077">
+    <title lang="en">Om Gan Ganpatye Namo Namah</title>
+    <desc lang="en">A comprehensive compilation of devotional hymns and melodious recitations of Lord Ganesha, one of the most worshipped deities in Hinduism.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077028.jpg"/>
+  </programme>
+  <programme start="20240626075900 +0530" stop="20240626083000 +0530" channel="1077">
+    <title lang="en">TVC Jyotish Maha Sagar</title>
+    <desc lang="en">An expert from the field of astrology discusses the problems in one's horoscope and suggests appropriate solutions for them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077029.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077030.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626095900 +0530" channel="1077">
+    <title lang="en">Devi Satvika Ji Bhagwat Katha</title>
+    <desc lang="en">Devi Satvika Ji, a religious leader, delivers a discourse on the Bhagavata Purana and reads sacred scriptures from holy books to devotees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077031.jpg"/>
+  </programme>
+  <programme start="20240626095900 +0530" stop="20240626100000 +0530" channel="1077">
+    <title lang="en">Sharnam Channel Id</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077032.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="1077">
+    <title lang="en">TVC Kismat Ka Sach</title>
+    <desc lang="en">An expert astrologer predicts the future of individuals based on the movement of celestial bodies and provides them with relevant advice.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077033.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077034.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626122800 +0530" channel="1077">
+    <title lang="en">Radha Krishna Maharaj Ji</title>
+    <desc lang="en">Religious leader Radha Krishna Ji Maharaj delivers a discourse on the importance of the teachings of Hinduism and their significance in the lives of people in the community.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077035.jpg"/>
+  </programme>
+  <programme start="20240626122800 +0530" stop="20240626122900 +0530" channel="1077">
+    <title lang="en">Scroll / Clander / Clock Stop</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077036.jpg"/>
+  </programme>
+  <programme start="20240626122900 +0530" stop="20240626130000 +0530" channel="1077">
+    <title lang="en">Bhajan Mala</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of different gods and goddesses is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077037.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077038.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626142900 +0530" channel="1077">
+    <title lang="en">Didi Shyama Kishori Ji Bhagwat Katha</title>
+    <desc lang="en">Didi Shyama Kishori Ji delivers a discourse on the verses mentioned in the Bhagavad Gita and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077039.jpg"/>
+  </programme>
+  <programme start="20240626142900 +0530" stop="20240626143000 +0530" channel="1077">
+    <title lang="en">Baal Vyas Pandit Shantanu Sharma Ji</title>
+    <desc lang="en">Shantanu Sharma, a religious scholar, delivers a discourse on Hinduism and encourages people to pursue the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077040.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626153000 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077041.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626163000 +0530" channel="1077">
+    <title lang="en">Vinod Chaturvedi Ji Maharaj</title>
+    <desc lang="en">Vinod Chaturvedi, a religious scholar, delivers a discourse on Hinduism and encourages people to pursue the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077042.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170100 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077043.jpg"/>
+  </programme>
+  <programme start="20240626170100 +0530" stop="20240626173000 +0530" channel="1077">
+    <title lang="en">Om Gan Ganpatye Namo Namah</title>
+    <desc lang="en">A comprehensive compilation of devotional hymns and melodious recitations of Lord Ganesha, one of the most worshipped deities in Hinduism.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077044.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626183000 +0530" channel="1077">
+    <title lang="en">Baal Vyas Shantanu Sharma Katha</title>
+    <desc lang="en">Shantanu Sharma, a religious scholar, delivers a discourse on Hinduism and guides people to pursue the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077045.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190100 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077046.jpg"/>
+  </programme>
+  <programme start="20240626190100 +0530" stop="20240626193100 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077047.jpg"/>
+  </programme>
+  <programme start="20240626193100 +0530" stop="20240626200000 +0530" channel="1077">
+    <title lang="en">Gita Ka Saar / Safar The Journey</title>
+    <desc lang="en">A religious leader recites key verses mentioned in the Bhagavad Gita whilst shedding light on the summary of the revered ancient scripture.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077048.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626202900 +0530" channel="1077">
+    <title lang="en">TVC Jyotish Maha Sagar</title>
+    <desc lang="en">An expert from the field of astrology discusses the problems in one's horoscope and suggests appropriate solutions for them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077049.jpg"/>
+  </programme>
+  <programme start="20240626202900 +0530" stop="20240626203000 +0530" channel="1077">
+    <title lang="en">Vinod Chaturvedi Ji Maharaj</title>
+    <desc lang="en">Vinod Chaturvedi, a religious scholar, delivers a discourse on Hinduism and encourages people to pursue the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077050.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="1077">
+    <title lang="en">TVC Damdar Oil</title>
+    <desc lang="en">A show featuring a wide selection of products that can be bought from the comforts of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077051.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626235900 +0530" channel="1077">
+    <title lang="en">Radha Krishan Ji Maharaj Ram Katha</title>
+    <desc lang="en">Radha Krishan Ji Maharaj delivers a discourse on Lord Rama based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261077052.jpg"/>
+  </programme>
 </tv>

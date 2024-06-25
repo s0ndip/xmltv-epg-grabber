@@ -3,4 +3,592 @@
   <channel id="672">
     <display-name lang="en">ABP Ananda</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="672">
+    <title lang="en">Saat Sakale</title>
+    <desc lang="en">The host presents details regarding the latest incidents and events at seven in the morning and interviews the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="672">
+    <title lang="en">Saat Sakale</title>
+    <desc lang="en">The host presents details regarding the latest incidents and events at seven in the morning and interviews the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625084000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672017.jpg"/>
+  </programme>
+  <programme start="20240625084000 +0530" stop="20240625090000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672018.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672019.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672020.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="672">
+    <title lang="en">Doshtay Doshdik</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672021.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672022.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="672">
+    <title lang="en">Ananda Live @ 11 Am</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672023.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625114000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672024.jpg"/>
+  </programme>
+  <programme start="20240625114000 +0530" stop="20240625120000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672025.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="672">
+    <title lang="en">Barotar Breaking</title>
+    <desc lang="en">The host sheds light on the twelve important news updates of global significance and provides in-depth information on them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672026.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625124000 +0530" channel="672">
+    <title lang="en">Hoy Ma Noy Bouma</title>
+    <desc lang="en">The host sheds light on a wrap-up of various top Bengali television serials and presents a preview of the storyline that is to air in the upcoming episodes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672027.jpg"/>
+  </programme>
+  <programme start="20240625124000 +0530" stop="20240625130000 +0530" channel="672">
+    <title lang="en">Barotar Breaking</title>
+    <desc lang="en">The host sheds light on the twelve important news updates of global significance and provides in-depth information on them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672028.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="672">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672029.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="672">
+    <title lang="en">Film Star</title>
+    <desc lang="en">The latest stories, major trends and key developments from the Bollywood and Tollywood industry that keep one updated with the recent happenings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672030.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625141000 +0530" channel="672">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672031.jpg"/>
+  </programme>
+  <programme start="20240625141000 +0530" stop="20240625143000 +0530" channel="672">
+    <title lang="en">Dutor Duniya</title>
+    <desc lang="en">The host invites experts who shed light on the latest updates and key developments pertaining to investigative cases that are of public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672032.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="672">
+    <title lang="en">Dutor Duniya</title>
+    <desc lang="en">The host invites experts who shed light on the latest updates and key developments pertaining to investigative cases that are of public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672033.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="672">
+    <title lang="en">ABP On The Spot</title>
+    <desc lang="en">The host presents a detailed report on the latest events related to social, political, cultural and economic issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672034.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="672">
+    <title lang="en">ABP On The Spot</title>
+    <desc lang="en">The host presents a detailed report on the latest events related to social, political, cultural and economic issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672035.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672036.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672037.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625171000 +0530" channel="672">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672038.jpg"/>
+  </programme>
+  <programme start="20240625171000 +0530" stop="20240625173000 +0530" channel="672">
+    <title lang="en">Khaborer Saat Panch</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social and economic fronts of the entire state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672039.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625174000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672040.jpg"/>
+  </programme>
+  <programme start="20240625174000 +0530" stop="20240625180000 +0530" channel="672">
+    <title lang="en">Khaborer Saat Panch</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social and economic fronts of the entire state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672041.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="672">
+    <title lang="en">Chaak Bhanga 6-TA</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672042.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="672">
+    <title lang="en">Chaak Bhanga 6-TA</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672043.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="672">
+    <title lang="en">7 Taye Bangla</title>
+    <desc lang="en">The host talks about the latest socio-economic and political news, updates and developments from various parts of Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672044.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="672">
+    <title lang="en">Saare 7 Tay Saradin</title>
+    <desc lang="en">A journalist sheds light on the latest news stories, current affairs and socio-political developments of the day at a glance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672045.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672046.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625204000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672047.jpg"/>
+  </programme>
+  <programme start="20240625204000 +0530" stop="20240625210000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672048.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672049.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="672">
+    <title lang="en">Aaj Banglay</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments from the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672050.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="672">
+    <title lang="en">Ananda Live @ 10 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672051.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672052.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672053.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625672054.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="672">
+    <title lang="en">Advertorial</title>
+    <desc lang="en">The host introduces new products from major manufacturers and demonstrates their functions, components and usefulness in daily life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="672">
+    <title lang="en">Saat Sakale</title>
+    <desc lang="en">The host presents details regarding the latest incidents and events at seven in the morning and interviews the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="672">
+    <title lang="en">Saat Sakale</title>
+    <desc lang="en">The host presents details regarding the latest incidents and events at seven in the morning and interviews the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626084000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672017.jpg"/>
+  </programme>
+  <programme start="20240626084000 +0530" stop="20240626090000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672018.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672019.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="672">
+    <title lang="en">Ananda Sakal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672020.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="672">
+    <title lang="en">Doshtay Doshdik</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672021.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="672">
+    <title lang="en">Ananda News</title>
+    <desc lang="en">The host presents top stories and details about the latest happenings from the national and international front in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672022.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="672">
+    <title lang="en">Ananda Live @ 11 Am</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672023.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626114000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672024.jpg"/>
+  </programme>
+  <programme start="20240626114000 +0530" stop="20240626120000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672025.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="672">
+    <title lang="en">Barotar Breaking</title>
+    <desc lang="en">The host sheds light on the twelve important news updates of global significance and provides in-depth information on them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672026.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626124000 +0530" channel="672">
+    <title lang="en">Hoy Ma Noy Bouma</title>
+    <desc lang="en">The host sheds light on a wrap-up of various top Bengali television serials and presents a preview of the storyline that is to air in the upcoming episodes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672027.jpg"/>
+  </programme>
+  <programme start="20240626124000 +0530" stop="20240626130000 +0530" channel="672">
+    <title lang="en">Barotar Breaking</title>
+    <desc lang="en">The host sheds light on the twelve important news updates of global significance and provides in-depth information on them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672028.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="672">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672029.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="672">
+    <title lang="en">Film Star</title>
+    <desc lang="en">The latest stories, major trends and key developments from the Bollywood and Tollywood industry that keep one updated with the recent happenings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672030.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626141000 +0530" channel="672">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672031.jpg"/>
+  </programme>
+  <programme start="20240626141000 +0530" stop="20240626143000 +0530" channel="672">
+    <title lang="en">Dutor Duniya</title>
+    <desc lang="en">The host invites experts who shed light on the latest updates and key developments pertaining to investigative cases that are of public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672032.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="672">
+    <title lang="en">Dutor Duniya</title>
+    <desc lang="en">The host invites experts who shed light on the latest updates and key developments pertaining to investigative cases that are of public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672033.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="672">
+    <title lang="en">ABP On The Spot</title>
+    <desc lang="en">The host presents a detailed report on the latest events related to social, political, cultural and economic issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672034.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="672">
+    <title lang="en">ABP On The Spot</title>
+    <desc lang="en">The host presents a detailed report on the latest events related to social, political, cultural and economic issues of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672035.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672036.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="672">
+    <title lang="en">Ananda Khabor</title>
+    <desc lang="en">The host sheds light on the news updates and developemnts that spread positivity and happiness, interviewing the people related to it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672037.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626171000 +0530" channel="672">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672038.jpg"/>
+  </programme>
+  <programme start="20240626171000 +0530" stop="20240626173000 +0530" channel="672">
+    <title lang="en">Khaborer Saat Panch</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social and economic fronts of the entire state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672039.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626174000 +0530" channel="672">
+    <title lang="en">Ek Jholoke</title>
+    <desc lang="en">The host presents the latest news stories, major updates and leading developments, which keep one updated with the recent happenings.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672040.jpg"/>
+  </programme>
+  <programme start="20240626174000 +0530" stop="20240626180000 +0530" channel="672">
+    <title lang="en">Khaborer Saat Panch</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the political, social and economic fronts of the entire state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672041.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="672">
+    <title lang="en">Chaak Bhanga 6-TA</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672042.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="672">
+    <title lang="en">Chaak Bhanga 6-TA</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings in the political and socio-economic domain of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672043.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="672">
+    <title lang="en">7 Taye Bangla</title>
+    <desc lang="en">The host talks about the latest socio-economic and political news, updates and developments from various parts of Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672044.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="672">
+    <title lang="en">Saare 7 Tay Saradin</title>
+    <desc lang="en">A journalist sheds light on the latest news stories, current affairs and socio-political developments of the day at a glance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672045.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672046.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626204000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672047.jpg"/>
+  </programme>
+  <programme start="20240626204000 +0530" stop="20240626210000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672048.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672049.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="672">
+    <title lang="en">Aaj Banglay</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments from the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672050.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="672">
+    <title lang="en">Ananda Live @ 10 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672051.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672052.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="672">
+    <title lang="en">Ghantakhonek Sange Suman</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to the general elections organised in India and the political candidates competing in it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626672053.jpg"/>
+  </programme>
 </tv>

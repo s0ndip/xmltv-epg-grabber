@@ -3,4 +3,381 @@
   <channel id="609">
     <display-name lang="en">mh1 Shraddha</display-name>
   </channel>
+  <programme start="20240625055000 +0530" stop="20240625061000 +0530" channel="609">
+    <title lang="en">Tantra Devi Suktam</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various artists in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609008.jpg"/>
+  </programme>
+  <programme start="20240625061000 +0530" stop="20240625062000 +0530" channel="609">
+    <title lang="en">Maa Durga Devi Saptshlok</title>
+    <desc lang="en">A comprehensive compilation of 'shlokas' and devotional songs composed and chanted in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609009.jpg"/>
+  </programme>
+  <programme start="20240625062000 +0530" stop="20240625081000 +0530" channel="609">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609010.jpg"/>
+  </programme>
+  <programme start="20240625081000 +0530" stop="20240625083000 +0530" channel="609">
+    <title lang="en">Brahmrishi Shree Kumar Swami Ji</title>
+    <desc lang="en">Brahmrishi Shree Kumar Swami ji delivers a discourse on the teachings of Holy Bhagavad Gita and the importance of living a moral life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609011.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625093000 +0530" channel="609">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609012.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625094500 +0530" channel="609">
+    <title lang="en">Anmol Vachan</title>
+    <desc lang="en">A religious leader educates his followers on a variety of spiritual topics and urges them to follow the path of God.</desc>
+    <credits>
+      <actor>Maharaj Sudhanshu</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609013.jpg"/>
+  </programme>
+  <programme start="20240625094500 +0530" stop="20240625100000 +0530" channel="609">
+    <title lang="en">Ratan Rashi Or Aap</title>
+    <desc lang="en">An astrologer studies the relative movement and position of celestial objects and provides predictions for various zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609014.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="609">
+    <title lang="en">Mantra Of Success</title>
+    <desc lang="en">Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609015.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625140000 +0530" channel="609">
+    <title lang="en">Kahaani 2: Durga Rani Singh</title>
+    <desc lang="en">Vidya lives in a small town with Minnie, a girl with paralysis. When someone kidnaps Minnie, Vidya tries to save her, but she meets with an accident on the way, landing herself in a hospital.</desc>
+    <credits>
+      <director>Sujoy Ghosh</director>
+      <actor>Vidya Balan</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Tunisha Sharma</actor>
+      <actor>Naisha Khanna</actor>
+      <actor>Jugal Hansraj</actor>
+      <actor>Amba Sanyal</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609016.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="609">
+    <title lang="en">Sant Rampal Ji Maharaj</title>
+    <desc lang="en">Sant Rampalji Maharaj, a religious leader of the Kabir panth, delivers a speech on worship and spirituality to his devout followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609017.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609018.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609019.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609020.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609021.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609022.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609023.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609024.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609025.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625192000 +0530" channel="609">
+    <title lang="en">Rajat Nayar Ji</title>
+    <desc lang="en">Rajat Nayar, a renowned astrologer, predicts the future on the basis of the position of the stars and planets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609026.jpg"/>
+  </programme>
+  <programme start="20240625192000 +0530" stop="20240625211500 +0530" channel="609">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609027.jpg"/>
+  </programme>
+  <programme start="20240625211500 +0530" stop="20240625214500 +0530" channel="609">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609028.jpg"/>
+  </programme>
+  <programme start="20240625214500 +0530" stop="20240625220000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609029.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609030.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609031.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609032.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625609033.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609004.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626035000 +0530" channel="609">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609005.jpg"/>
+  </programme>
+  <programme start="20240626035000 +0530" stop="20240626045000 +0530" channel="609">
+    <title lang="en">Harichetnyapuri Ji Maharaj</title>
+    <desc lang="en">Hari Chaitanya Puri Ji Maharaj delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609006.jpg"/>
+  </programme>
+  <programme start="20240626045000 +0530" stop="20240626055000 +0530" channel="609">
+    <title lang="en">Art Of Living</title>
+    <desc lang="en">Ravi Shankar, a religious leader, delivers discourses on yoga, meditation and teaches the people the art of living happily.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609007.jpg"/>
+  </programme>
+  <programme start="20240626055000 +0530" stop="20240626061000 +0530" channel="609">
+    <title lang="en">Tantra Devi Suktam</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various artists in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609008.jpg"/>
+  </programme>
+  <programme start="20240626061000 +0530" stop="20240626062000 +0530" channel="609">
+    <title lang="en">Maa Durga Devi Saptshlok</title>
+    <desc lang="en">A comprehensive compilation of 'shlokas' and devotional songs composed and chanted in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609009.jpg"/>
+  </programme>
+  <programme start="20240626062000 +0530" stop="20240626081000 +0530" channel="609">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609010.jpg"/>
+  </programme>
+  <programme start="20240626081000 +0530" stop="20240626083000 +0530" channel="609">
+    <title lang="en">Brahmrishi Shree Kumar Swami Ji</title>
+    <desc lang="en">Brahmrishi Shree Kumar Swami ji delivers a discourse on the teachings of Holy Bhagavad Gita and the importance of living a moral life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609011.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626093000 +0530" channel="609">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609012.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626094500 +0530" channel="609">
+    <title lang="en">Dr. Gaurav Sharma Ji</title>
+    <desc lang="en">Dr Gaurav Sharma provides various tips for one to lead a healthy lifestyle along with remedies to treat simple ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609013.jpg"/>
+  </programme>
+  <programme start="20240626094500 +0530" stop="20240626100000 +0530" channel="609">
+    <title lang="en">Ratan Rashi Or Aap</title>
+    <desc lang="en">An astrologer studies the relative movement and position of celestial objects and provides predictions for various zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609014.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="609">
+    <title lang="en">Mantra Of Success</title>
+    <desc lang="en">Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609015.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626140000 +0530" channel="609">
+    <title lang="en">Satyagraha</title>
+    <desc lang="en">Dwarka Anand serves prison time for assaulting a corrupt official while trying to obtain due compensation for his son's death. Manav, his son's friend, organises a multi-faceted campaign to free him.</desc>
+    <credits>
+      <director>Prakash Jha</director>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Ajay Devgn</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Amrita Rao</actor>
+      <actor>Manoj Bajpai</actor>
+      <actor>Vipin Sharma</actor>
+      <actor>Anjali Patil</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609016.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="609">
+    <title lang="en">Sant Rampal Ji Maharaj</title>
+    <desc lang="en">Sant Rampalji Maharaj, a religious leader of the Kabir panth, delivers a speech on worship and spirituality to his devout followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609017.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609018.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609019.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609020.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609021.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609022.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="609">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">This is TV Show - Religious Category</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609023.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609024.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609025.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626192000 +0530" channel="609">
+    <title lang="en">Rajat Nayar Ji</title>
+    <desc lang="en">Rajat Nayar, a renowned astrologer, predicts the future on the basis of the position of the stars and planets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609026.jpg"/>
+  </programme>
+  <programme start="20240626192000 +0530" stop="20240626211500 +0530" channel="609">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609027.jpg"/>
+  </programme>
+  <programme start="20240626211500 +0530" stop="20240626214500 +0530" channel="609">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609028.jpg"/>
+  </programme>
+  <programme start="20240626214500 +0530" stop="20240626220000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609029.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609030.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609031.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="609">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626609032.jpg"/>
+  </programme>
 </tv>

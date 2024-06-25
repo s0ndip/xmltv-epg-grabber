@@ -3,4 +3,491 @@
   <channel id="712">
     <display-name lang="en">DD urdu</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="712">
+    <title lang="en">Fitness Plus</title>
+    <desc lang="en">The host, along with medical and wellness experts, talks about maintaining physical and mental health with the help of exercise and diet.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712009.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="712">
+    <title lang="en">Mehfil-E-Hamd-O-Naat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712010.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="712">
+    <title lang="en">Sunhere Geet</title>
+    <desc lang="en">Talented singers sing melodious folk songs accompanied by music instrumentalists to enthral the audience with performances.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712011.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="712">
+    <title lang="en">Fitness Plus</title>
+    <desc lang="en">The host, along with medical and wellness experts, talks about maintaining physical and mental health with the help of exercise and diet.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712012.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="712">
+    <title lang="en">Unani Clinic</title>
+    <desc lang="en">The host talks about the services available at an Unani clinic that uses a traditional medical system to treat various ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712013.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="712">
+    <title lang="en">Paisa Bolta Hai</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712014.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="712">
+    <title lang="en">Khabarnama</title>
+    <desc lang="en">The anchor presents a round-up of all the latest social, political and economic updates and developments that are making headlines in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712015.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712016.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="712">
+    <title lang="en">Wise Spice</title>
+    <desc lang="en">The host discusses the benefits of Ayurvedic cuisine, wherein different kinds of spices can help battle different health problems.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712017.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="712">
+    <title lang="en">Hamare Dastkar</title>
+    <desc lang="en">The host highlights the lives, struggles and mechanisms of Indian artisans who are engaged in craft production to earn a livelihood.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712018.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="712">
+    <title lang="en">Jahan-E-Khusrau</title>
+    <desc lang="en">People come together to attend concerts, seminars, exhibitions and heritage walks, which are held to commemorate the death anniversary of Hazrat Amir Khusrau, a renowned Sufi musician.</desc>
+    <credits>
+      <director>Muzaffar Ali</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712019.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="712">
+    <title lang="en">Zarkash</title>
+    <desc lang="en">The host travels to some of the most important cities and beautiful towns across India and talks about its famous tourist destinations.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712020.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="712">
+    <title lang="en">Dil Jo Keh Na Saka</title>
+    <desc lang="en">A story of a couple who intensely love each other but circumstances never favor them as they are always in a constant fight to be with each other.</desc>
+    <credits>
+      <director>Arvind Babbal</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712021.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="712">
+    <title lang="en">Unani Clinic</title>
+    <desc lang="en">The host talks about the services available at an Unani clinic that uses a traditional medical system to treat various ailments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712022.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="712">
+    <title lang="en">Paisa Bolta Hai</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712023.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="712">
+    <title lang="en">Sufi Studio</title>
+    <desc lang="en">A comprehensive compilation of Sufi songs and ghazals composed by renowned artists and musicians played in succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712024.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625155000 +0530" channel="712">
+    <title lang="en">Yeh Zindagi Hai Gulshan</title>
+    <desc lang="en">A progressive Muslim girl's life is affected by shariah, which has given equal rights to women to pursue their development.</desc>
+    <credits>
+      <director>Tabrez Khan</director>
+      <actor>Raza Murad</actor>
+      <actor>Zarina Wahab</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Damini Joshi</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712025.jpg"/>
+  </programme>
+  <programme start="20240625155000 +0530" stop="20240625160000 +0530" channel="712">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712026.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712027.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="712">
+    <title lang="en">Taron Ki Sair</title>
+    <desc lang="en">An expert studies the alignment of stars and the planets and talks about its impact on people's financial and personal lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712028.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="712">
+    <title lang="en">Kitabon Ki Duniya</title>
+    <desc lang="en">The host talks to guests about some of the most popular and outstanding books, asking them to share their views and insights about the literary pieces.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712029.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="712">
+    <title lang="en">Khabarnama</title>
+    <desc lang="en">The anchor presents a round-up of all the latest social, political and economic updates and developments that are making headlines in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712030.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="712">
+    <title lang="en">Safar Ghazal Ka</title>
+    <desc lang="en">Some of the most renowned artists from around the world perform ghazal recitals and enthral the audience with their talent.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712031.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="712">
+    <title lang="en">Rang Tarang</title>
+    <desc lang="en">The host presents news and updates on a variety of special events and takes a look at stories about celebrities, arts and culture.</desc>
+    <credits>
+      <director>Anisha Nayar</director>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712032.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="712">
+    <title lang="en">Dil Jo Keh Na Saka</title>
+    <desc lang="en">A story of a couple who intensely love each other but circumstances never favor them as they are always in a constant fight to be with each other.</desc>
+    <credits>
+      <director>Arvind Babbal</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712033.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="712">
+    <title lang="en">Kuch Lamhe Fursat Ke</title>
+    <desc lang="en">The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712034.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="712">
+    <title lang="en">Bahar-E-Mehfil</title>
+    <desc lang="en">Renowned artists perform some of the most popular and loved qawwali hits in order to entertain and enthral the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712035.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="712">
+    <title lang="en">Sufi Studio</title>
+    <desc lang="en">A comprehensive compilation of Sufi songs and ghazals composed by renowned artists and musicians played in succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712036.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625225000 +0530" channel="712">
+    <title lang="en">Yeh Zindagi Hai Gulshan</title>
+    <desc lang="en">A progressive Muslim girl's life is affected by shariah, which has given equal rights to women to pursue their development.</desc>
+    <credits>
+      <director>Tabrez Khan</director>
+      <actor>Raza Murad</actor>
+      <actor>Zarina Wahab</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Damini Joshi</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712037.jpg"/>
+  </programme>
+  <programme start="20240625225000 +0530" stop="20240625230000 +0530" channel="712">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712038.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712039.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="712">
+    <title lang="en">Taron Ki Sair</title>
+    <desc lang="en">An expert studies the alignment of stars and the planets and talks about its impact on people's financial and personal lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625712040.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="712">
+    <title lang="en">Kitabon Ki Duniya</title>
+    <desc lang="en">The host talks to guests about some of the most popular and outstanding books, asking them to share their views and insights about the literary pieces.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="712">
+    <title lang="en">Safar Ghazal Ka</title>
+    <desc lang="en">Some of the most renowned artists from around the world perform ghazal recitals and enthral the audience with their talent.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="712">
+    <title lang="en">Rang Tarang</title>
+    <desc lang="en">The host presents news and updates on a variety of special events and takes a look at stories about celebrities, arts and culture.</desc>
+    <credits>
+      <director>Anisha Nayar</director>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="712">
+    <title lang="en">Dil Jo Keh Na Saka</title>
+    <desc lang="en">A story of a couple who intensely love each other but circumstances never favor them as they are always in a constant fight to be with each other.</desc>
+    <credits>
+      <director>Arvind Babbal</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="712">
+    <title lang="en">Kuch Lamhe Fursat Ke</title>
+    <desc lang="en">The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626033000 +0530" channel="712">
+    <title lang="en">Bahar-E-Mehfil</title>
+    <desc lang="en">Renowned artists perform some of the most popular and loved qawwali hits in order to entertain and enthral the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712005.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626043000 +0530" channel="712">
+    <title lang="en">Sufi Studio</title>
+    <desc lang="en">A comprehensive compilation of Sufi songs and ghazals composed by renowned artists and musicians played in succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712006.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="712">
+    <title lang="en">Om Shanti</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular devotional songs by renowned artists, which soothe the hearts of the listeners.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712007.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="712">
+    <title lang="en">Sunhere Geet</title>
+    <desc lang="en">Talented singers sing melodious folk songs accompanied by music instrumentalists to enthral the audience with performances.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712008.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="712">
+    <title lang="en">Fitness Plus</title>
+    <desc lang="en">The host, along with medical and wellness experts, talks about maintaining physical and mental health with the help of exercise and diet.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712009.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="712">
+    <title lang="en">Om Shanti</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular devotional songs by renowned artists, which soothe the hearts of the listeners.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712010.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="712">
+    <title lang="en">Sunhere Geet</title>
+    <desc lang="en">Talented singers sing melodious folk songs accompanied by music instrumentalists to enthral the audience with performances.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712011.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="712">
+    <title lang="en">Fitness Plus</title>
+    <desc lang="en">The host, along with medical and wellness experts, talks about maintaining physical and mental health with the help of exercise and diet.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712012.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="712">
+    <title lang="en">Kuch Lamhe Fursat Ke</title>
+    <desc lang="en">The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712013.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626090000 +0530" channel="712">
+    <title lang="en">Bahar-E-Mehfil</title>
+    <desc lang="en">Renowned artists perform some of the most popular and loved qawwali hits in order to entertain and enthral the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712014.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="712">
+    <title lang="en">Khabarnama</title>
+    <desc lang="en">The anchor presents a round-up of all the latest social, political and economic updates and developments that are making headlines in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712015.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712016.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="712">
+    <title lang="en">Taron Ki Sair</title>
+    <desc lang="en">An expert studies the alignment of stars and the planets and talks about its impact on people's financial and personal lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712017.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="712">
+    <title lang="en">Kitabon Ki Duniya</title>
+    <desc lang="en">The host talks to guests about some of the most popular and outstanding books, asking them to share their views and insights about the literary pieces.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712018.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="712">
+    <title lang="en">Safar Ghazal Ka</title>
+    <desc lang="en">Some of the most renowned artists from around the world perform ghazal recitals and enthral the audience with their talent.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712019.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="712">
+    <title lang="en">Rang Tarang</title>
+    <desc lang="en">The host presents news and updates on a variety of special events and takes a look at stories about celebrities, arts and culture.</desc>
+    <credits>
+      <director>Anisha Nayar</director>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712020.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="712">
+    <title lang="en">Dil Jo Keh Na Saka</title>
+    <desc lang="en">A story of a couple who intensely love each other but circumstances never favor them as they are always in a constant fight to be with each other.</desc>
+    <credits>
+      <director>Arvind Babbal</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712021.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="712">
+    <title lang="en">Kuch Lamhe Fursat Ke</title>
+    <desc lang="en">The host invites various experts from different fields and converses with them about their insights on how one can change their life in small ways.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712022.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626140000 +0530" channel="712">
+    <title lang="en">Bahar-E-Mehfil</title>
+    <desc lang="en">Renowned artists perform some of the most popular and loved qawwali hits in order to entertain and enthral the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712023.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="712">
+    <title lang="en">Sufi Studio</title>
+    <desc lang="en">A comprehensive compilation of Sufi songs and ghazals composed by renowned artists and musicians played in succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712024.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626155000 +0530" channel="712">
+    <title lang="en">Yeh Zindagi Hai Gulshan</title>
+    <desc lang="en">A progressive Muslim girl's life is affected by shariah, which has given equal rights to women to pursue their development.</desc>
+    <credits>
+      <director>Tabrez Khan</director>
+      <actor>Raza Murad</actor>
+      <actor>Zarina Wahab</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Damini Joshi</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712025.jpg"/>
+  </programme>
+  <programme start="20240626155000 +0530" stop="20240626160000 +0530" channel="712">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712026.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712027.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="712">
+    <title lang="en">Taron Ki Sair</title>
+    <desc lang="en">An expert studies the alignment of stars and the planets and talks about its impact on people's financial and personal lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712028.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="712">
+    <title lang="en">Yeh Ilm-O-Adab Ke Gehware</title>
+    <desc lang="en">Experts provide insights into the history of various significant establishments including the Aligarh Muslim University, Anjuman Tariqui E Urdu and the Khuda Baksh Library.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712029.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="712">
+    <title lang="en">Khabarnama</title>
+    <desc lang="en">The anchor presents a round-up of all the latest social, political and economic updates and developments that are making headlines in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712030.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="712">
+    <title lang="en">Safar Ghazal Ka</title>
+    <desc lang="en">Some of the most renowned artists from around the world perform ghazal recitals and enthral the audience with their talent.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712031.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="712">
+    <title lang="en">Good News India: Jazba India Ka</title>
+    <desc lang="en">The host share some inspiring stories of people with extraordinary spirits who overcame challenges and achieve their dreams to serve society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712032.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="712">
+    <title lang="en">Dil Jo Keh Na Saka</title>
+    <desc lang="en">A story of a couple who intensely love each other but circumstances never favor them as they are always in a constant fight to be with each other.</desc>
+    <credits>
+      <director>Arvind Babbal</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712033.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="712">
+    <title lang="en">Mahouliyat Aur Hum</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712034.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626210000 +0530" channel="712">
+    <title lang="en">Yeh Hai India</title>
+    <desc lang="en">The host highlights the contribution of politician and social reformer Dr Bhimrao Ramji Ambedkar in shaping the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712035.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626220000 +0530" channel="712">
+    <title lang="en">Sufi Studio</title>
+    <desc lang="en">A comprehensive compilation of Sufi songs and ghazals composed by renowned artists and musicians played in succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712036.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626225000 +0530" channel="712">
+    <title lang="en">Yeh Zindagi Hai Gulshan</title>
+    <desc lang="en">A progressive Muslim girl's life is affected by shariah, which has given equal rights to women to pursue their development.</desc>
+    <credits>
+      <director>Tabrez Khan</director>
+      <actor>Raza Murad</actor>
+      <actor>Zarina Wahab</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Damini Joshi</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712037.jpg"/>
+  </programme>
+  <programme start="20240626225000 +0530" stop="20240626230000 +0530" channel="712">
+    <title lang="en">Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712038.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="712">
+    <title lang="en">Hindustan Mein Musawwari Ki Riwayat</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626712039.jpg"/>
+  </programme>
 </tv>

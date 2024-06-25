@@ -168,7 +168,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4981B3204E372C201E2BB9D36DF0CF46B82C5D3L.jpg"/>
   </programme>
-  <programme start="20240625215200 +0000" stop="20240626003000 +0000" channel="ts1072">
+  <programme start="20240625215200 +0000" stop="20240626001500 +0000" channel="ts1072">
     <title lang="en">Jani</title>
     <desc lang="en">Jani, a petty thief, saves the life of a local politician numerous times. Impressed with his daredevilry, the politician wishes for him to marry his daughter but Jani is in love with another woman.</desc>
     <credits>
@@ -182,40 +182,128 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B52F1ABC12692F7281BB6DCBC6FCF44038DD00024.jpg"/>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626001500 +0000" stop="20240626020100 +0000" channel="ts1072">
+    <title lang="en">Main Karunga Insaaf</title>
+    <desc lang="en">Poturaju, a lorry driver, is in love with a policewoman and wishes to marry her. His life takes a dramatic turn after he crosses paths with a dreaded serial killer and begins travelling with him.</desc>
+    <credits>
+      <actor>Sai Ram Shankar</actor>
+      <actor>Nikesha Patel</actor>
+      <actor>Ballireddy Prudhviraj</actor>
+      <actor>Kovai Sarala</actor>
+      <actor>Abhimanyu Singh</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8411133422B943304EBEC3C658B4EE6479723F4D2.jpg"/>
   </programme>
-  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626020100 +0000" stop="20240626045900 +0000" channel="ts1072">
+    <title lang="en">Dhoom 3</title>
+    <desc lang="en">Sahir, a circus entertainer, robs a corrupt bank in Chicago in order to avenge his father's death. However, his troubles increase when Inspector Jai and Ali suspect him of the robbery.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Uday Chopra</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Andrew Bicknell</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AC439AEA55C408B19BC4F845DB2A328A88415CL.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626045900 +0000" stop="20240626065700 +0000" channel="ts1072">
+    <title lang="en">Once Upon A Time In Mumbaai</title>
+    <desc lang="en">Two gangsters, Sultan Mirza, the infamous mobster of Mumbai, and Shoaib Khan, who aims to create an image in the underworld, try their best to rule the city on their own terms.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Emraan Hashmi</actor>
+      <actor>Kangana Ranaut</actor>
+      <actor>Prachi Desai</actor>
+      <actor>Randeep Hooda</actor>
+      <actor>Naved Aslam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69FED8A4CF14A1D82D7BDAC95D85E2DB7A7B3E58B.jpg"/>
   </programme>
-  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626065700 +0000" stop="20240626090000 +0000" channel="ts1072">
+    <title lang="en">Aatma Ka Ghar</title>
+    <desc lang="en">A newly-wed couple moves to a new house where they begin to witness some eerie activities. Things take an unexpected turn when a boy informs them that a spirit lives in their house.</desc>
+    <credits>
+      <actor>Poorna</actor>
+      <actor>Harshvardhan Rane</actor>
+      <actor>Ravi Babu</actor>
+      <actor>Jeeva</actor>
+      <actor>Gayatri Bhargavi</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E73E7D2D0C565EC55A342F8B3994D0292C71CD327.jpg"/>
   </programme>
-  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240626090000 +0000" stop="20240626103900 +0000" channel="ts1072">
+    <title lang="en">Aatma Ka Ghar 2</title>
+    <desc lang="en">Mohini and Harsha move to a different city to make a new beginning. However, an evil spirit from their past follows them to their new town.</desc>
+    <credits>
+      <actor>Harshvardhan Rane</actor>
+      <actor>Poorna</actor>
+      <actor>Ravi Babu</actor>
+      <actor>Nikita Thukral</actor>
+      <actor>Chakravarthi</actor>
+      <actor>Sanjjanaa</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B166A1895A6F9B2AB948238455FD2D627AB2140Y.jpg"/>
   </programme>
-  <programme start="20240626153000 +0000" stop="20240626183400 +0000" channel="ts1072">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240626103900 +0000" stop="20240626132500 +0000" channel="ts1072">
+    <title lang="en">Sanju</title>
+    <desc lang="en">Sanjay Dutt, an actor from the Bollywood film industry, struggles with the legacy that is handed down to him by his parents, along with his personal dilemmas and vices.</desc>
+    <credits>
+      <actor>Ranbir Kapoor</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Vicky Kaushal</actor>
+      <actor>Sonam Kapoor</actor>
+      <actor>Dia Mirza</actor>
+      <actor>Manisha Koirala</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6548D093C6908F1F49CD6DF411945937E10B012M.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0000" stop="20240626154400 +0000" channel="ts1072">
+    <title lang="en">Chakra Ka Rakshak</title>
+    <desc lang="en">A police officer and soldier team up and decide to end the cybercriminals that pose a threat to the safety of people on the internet.</desc>
+    <credits>
+      <actor>Vishal</actor>
+      <actor>Shraddha Srinath</actor>
+      <actor>Regina Cassandra</actor>
+      <actor>Srushti Dange</actor>
+      <actor>Robo Shankar</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC04FED0D772E6685C3FCEA44434835D4F067482J.jpg"/>
+  </programme>
+  <programme start="20240626154400 +0000" stop="20240626174800 +0000" channel="ts1072">
+    <title lang="en">MCA Middle Class Abbayi</title>
+    <desc lang="en">Nani, a middle-class boy with a photographic memory, tries to protect his sister-in-law, Jyothi, from a dreaded criminal who runs an illegal road transport business.</desc>
+    <credits>
+      <actor>Nani</actor>
+      <actor>Bhumika Chawla</actor>
+      <actor>Sai Pallavi</actor>
+      <actor>Vijay Varma</actor>
+      <actor>Naresh Vijay Krishna</actor>
+      <actor>Aamani</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50EFA7F5ACAD35EE534F15CF02D3FCBD71B663A6Y.jpg"/>
+  </programme>
+  <programme start="20240626174800 +0000" stop="20240626183000 +0000" channel="ts1072">
+    <title lang="en">Pyaar To Hona Hi Tha</title>
+    <desc lang="en">Sanjana's engagement to Rahul falls apart when he leaves her for another woman. Instead of giving up, Sanjana hires Shekhar to pose as her new boyfriend to make Rahul jealous and change his mind.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Kajol</actor>
+      <actor>Om Puri</actor>
+      <actor>Sunil Grover</actor>
+      <actor>Bijay Anand</actor>
+      <actor>Kashmera Shah</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1E93B5261A5FBAB1ED41EB16D0F574A1D25EC0A8.jpg"/>
   </programme>
 </tv>

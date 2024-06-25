@@ -164,7 +164,10 @@
   </programme>
   <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts728">
     <title lang="en">Devender Upadhyae Ji Maharaj</title>
-    <desc lang="en">Devender Upadhyae Ji Maharaj</desc>
+    <desc lang="en">Devendra Upadhyay, a religious leader, delivers a discourse on Hinduism.</desc>
+    <credits>
+      <actor>Devendra Upadhyay</actor>
+    </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0ECF656A73D85D9A9FA7DACACC90C94BC3F41CCFJ.jpg"/>
   </programme>
@@ -272,7 +275,10 @@
   </programme>
   <programme start="20240626073000 +0000" stop="20240626110000 +0000" channel="ts728">
     <title lang="en">Gyanswaroopanand Akriyeji Maharaj</title>
-    <desc lang="en">Gyanswaroopanand Akriyeji Maharaj</desc>
+    <desc lang="en">Gyanswaroopanand Akriyeji Maharaj delivers a discourse on Hinduism.</desc>
+    <credits>
+      <actor>Gyanswaroopanand Akriyeji</actor>
+    </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E673521D99EA3A76D1597ECD8333D91CAB82EC2C.jpg"/>
   </programme>

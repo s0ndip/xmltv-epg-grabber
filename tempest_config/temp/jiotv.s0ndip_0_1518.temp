@@ -3,4 +3,438 @@
   <channel id="1518">
     <display-name lang="en">Moon TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518005.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518006.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518007.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="1518">
+    <title lang="en">Amudhum Isaiyum</title>
+    <desc lang="en">A comprehensive compilation of melodious movie songs performed by talented singers and musicians is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518008.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="1518">
+    <title lang="en">Amudhum Isaiyum</title>
+    <desc lang="en">A comprehensive compilation of melodious movie songs performed by talented singers and musicians is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518009.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518010.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518011.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625110000 +0530" channel="1518">
+    <title lang="en">Nadodi Raja</title>
+    <desc lang="en">A man meets with an accident that makes him impotent and years later, he wants to seek revenge on his former wife as he believes she has caused it.</desc>
+    <credits>
+      <director>S M Ummar</director>
+      <actor>Rajeev</actor>
+      <actor>Mucherla Aruna</actor>
+      <actor>Amrad Kumar</actor>
+      <actor>Sangili Murugan</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Thiagarajan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518012.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518013.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518014.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="1518">
+    <title lang="en">Slot / M Tunes</title>
+    <desc lang="en">A comprehensive compilation of popular songs from movies performed by various talented artists and musicians is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518015.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="1518">
+    <title lang="en">Iruthi Suttru</title>
+    <desc lang="en">The cast and crew of the upcoming Tamil movie 'Iruthi Suttru' share their on-set experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518016.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518017.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="1518">
+    <title lang="en">Sirithu Vazha Vendum</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518018.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518019.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518020.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="1518">
+    <title lang="en">Mooligai Desam</title>
+    <desc lang="en">An ayurvedic expert talks about the significance of traditional treatments and suggests remedies for various chronic diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518021.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="1518">
+    <title lang="en">Mooligai Desam</title>
+    <desc lang="en">An ayurvedic expert talks about the significance of traditional treatments and suggests remedies for various chronic diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518022.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="1518">
+    <title lang="en">Album Song / Slot</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular soundtracks produced by various famous artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518023.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518024.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518025.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518026.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518027.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="1518">
+    <title lang="en">Moon News</title>
+    <desc lang="en">The host sheds light on some of the most recent news, events and important happenings around the world that affect the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518028.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518029.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="1518">
+    <title lang="en">Sirithu Vazha Vendum</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518030.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518031.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625223000 +0530" channel="1518">
+    <title lang="en">Puratchi Thee</title>
+    <desc lang="en">Movie starring Suman, Vijayashanthi, Rajendra Prasad and directed by T Krishna.</desc>
+    <credits>
+      <director>T Krishna</director>
+      <actor>Suman</actor>
+      <actor>Vijayashanti</actor>
+      <actor>Rajendra Prasad Das</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518032.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518033.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518034.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="1518">
+    <title lang="en">M Tunes</title>
+    <desc lang="en">A comprehensive compilation of some of the hit songs written and composed by famous artists and musicians from all over the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251518035.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626020000 +0530" channel="1518">
+    <title lang="en">Nadodi Raja</title>
+    <desc lang="en">A man meets with an accident that makes him impotent and years later, he wants to seek revenge on his former wife as he believes she has caused it.</desc>
+    <credits>
+      <director>S M Ummar</director>
+      <actor>Rajeev</actor>
+      <actor>Mucherla Aruna</actor>
+      <actor>Amrad Kumar</actor>
+      <actor>Sangili Murugan</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Thiagarajan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518000.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626040000 +0530" channel="1518">
+    <title lang="en">Puratchi Thee</title>
+    <desc lang="en">Movie starring Suman, Vijayashanthi, Rajendra Prasad and directed by T Krishna.</desc>
+    <credits>
+      <director>T Krishna</director>
+      <actor>Suman</actor>
+      <actor>Vijayashanti</actor>
+      <actor>Rajendra Prasad Das</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518001.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518002.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518003.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518004.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518005.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518006.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518007.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="1518">
+    <title lang="en">Amudhum Isaiyum</title>
+    <desc lang="en">A comprehensive compilation of melodious movie songs performed by talented singers and musicians is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518008.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="1518">
+    <title lang="en">Amudhum Isaiyum</title>
+    <desc lang="en">A comprehensive compilation of melodious movie songs performed by talented singers and musicians is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518009.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518010.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518011.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626110000 +0530" channel="1518">
+    <title lang="en">Sattam Sirikirathu</title>
+    <desc lang="en">Subhash, a young politician, hides from police after being convicted of murder. Later, he tricks the police officer to complete his revenge.</desc>
+    <credits>
+      <director>T R Ramanna</director>
+      <actor>Vijayakanth</actor>
+      <actor>Jyothi</actor>
+      <actor>Prathap K Pothan</actor>
+      <actor>Mucherla Aruna</actor>
+      <actor>Manorama</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518012.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518013.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518014.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="1518">
+    <title lang="en">Slot / M Tunes</title>
+    <desc lang="en">A comprehensive compilation of popular songs from movies performed by various talented artists and musicians is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518015.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="1518">
+    <title lang="en">Iruthi Suttru</title>
+    <desc lang="en">The cast and crew of the upcoming Tamil movie 'Iruthi Suttru' share their on-set experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518016.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518017.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="1518">
+    <title lang="en">Sirithu Vazha Vendum</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518018.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518019.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518020.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="1518">
+    <title lang="en">Mooligai Desam</title>
+    <desc lang="en">An ayurvedic expert talks about the significance of traditional treatments and suggests remedies for various chronic diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518021.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="1518">
+    <title lang="en">Mooligai Desam</title>
+    <desc lang="en">An ayurvedic expert talks about the significance of traditional treatments and suggests remedies for various chronic diseases.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518022.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="1518">
+    <title lang="en">Album Song / Slot</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular soundtracks produced by various famous artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518023.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="1518">
+    <title lang="en">Moon Playlist</title>
+    <desc lang="en">A comprehensive compilation of melodious songs performed by talented artists across different kinds of genres is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518024.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518025.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518026.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="1518">
+    <title lang="en">Bakthi Pamalai</title>
+    <desc lang="en">A compilation of devotional songs sung by various singers dedicated to Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518027.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="1518">
+    <title lang="en">Moon News</title>
+    <desc lang="en">The host sheds light on some of the most recent news, events and important happenings around the world that affect the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518028.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518029.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="1518">
+    <title lang="en">Sirithu Vazha Vendum</title>
+    <desc lang="en">A show that is comedic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518030.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="1518">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518031.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626223000 +0530" channel="1518">
+    <title lang="en">Sathriya Dharamam</title>
+    <desc lang="en">This is Film - Drama Category</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518032.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518033.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="1518">
+    <title lang="en">Katrinile Varum Geetham</title>
+    <desc lang="en">A comprehensive compilation of iconic Tamil songs recorded and composed by renowned musicians who have produced musical scores for several classic films.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261518034.jpg"/>
+  </programme>
 </tv>

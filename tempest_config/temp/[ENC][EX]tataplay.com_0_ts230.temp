@@ -528,10 +528,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1FF93D3D8FEB1AF47DEBBEA574C87F433D07587G.jpg"/>
   </programme>
   <programme start="20240626023000 +0000" stop="20240626050000 +0000" channel="ts230">
-    <title lang="en">Movie - Dolphin</title>
-    <desc lang="en">A dolphin plays with a bubble until a swordfish accidentally bursts it.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C5BF3FEF0F8E6C9D56B6CB0478B79F028F707A6A.jpg"/>
+    <title lang="en">Movie - The Dolphins</title>
+    <desc lang="en">Panayamuttam Sura, a bar owner, consults an astrologer who predicts that his future will turn bright with the arrival of a lady. Believing him, he starts talking to a woman despite having a wife.</desc>
+    <credits>
+      <actor>Suresh Gopi</actor>
+      <actor>Anoop Menon</actor>
+      <actor>Kalpana</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Joju George</actor>
+      <actor>Nishanth Sagar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C91D76BE076DD7BAAB316CB7D34FF8D3236F1E63B.jpg"/>
   </programme>
   <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts230">
     <title lang="en">Ramayanam</title>

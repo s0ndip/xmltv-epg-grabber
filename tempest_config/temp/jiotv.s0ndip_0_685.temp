@@ -3,4 +3,336 @@
   <channel id="685">
     <display-name lang="en">Zee Bangla Cinema</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685004.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685005.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625072900 +0530" channel="685">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685006.jpg"/>
+  </programme>
+  <programme start="20240625072900 +0530" stop="20240625075900 +0530" channel="685">
+    <title lang="en">Abhoya Dham</title>
+    <desc lang="en">A religious leader delivers a discourse based on the lives of famous saints and encourages devotees to lead a spiritually-balanced life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685007.jpg"/>
+  </programme>
+  <programme start="20240625075900 +0530" stop="20240625083000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685008.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625085900 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685009.jpg"/>
+  </programme>
+  <programme start="20240625085900 +0530" stop="20240625102900 +0530" channel="685">
+    <title lang="en">Shri Krishnaleela</title>
+    <desc lang="en">Lord Krishna, a once naughty little child, embarks on several adventures to fight and eradicate evil forces and become a protector of the world.</desc>
+    <credits>
+      <director>Deepak Sagar</director>
+      <actor>Nirnay Samadhiya</actor>
+      <actor>Sudeep Sahir</actor>
+      <actor>Amardeep Garg</actor>
+      <actor>Mahi Soni</actor>
+      <actor>Manish Wadhwa</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Chaitannya Choudhry</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685010.jpg"/>
+  </programme>
+  <programme start="20240625102900 +0530" stop="20240625110000 +0530" channel="685">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685011.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="685">
+    <title lang="en">Bhootu</title>
+    <desc lang="en">The ghost of a seven-year-old child becomes friends with a bird named Pihu and attempts to help every person she comes across.</desc>
+    <credits>
+      <director>Arijit Bhadra</director>
+    </credits>
+    <category lang="en">Children</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685012.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625150000 +0530" channel="685">
+    <title lang="en">100% Love</title>
+    <desc lang="en">Balu and Mahalakshmi fall for each other but go their separate ways due to ego clashes. Years later, when their grandmother falls ill, they are forced to confront each other.</desc>
+    <credits>
+      <director>Sukumar</director>
+      <actor>Naga Chaitanya</actor>
+      <actor>Tamanna Bhatia</actor>
+      <actor>Tara Alisha</actor>
+      <actor>Nandu</actor>
+      <actor>Naresh</actor>
+      <actor>K R Vijaya</actor>
+      <actor>Vijaykumar</actor>
+      <actor>Dharmavarapu Subramanyam</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685013.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625173500 +0530" channel="685">
+    <title lang="en">Sundar Bou</title>
+    <desc lang="en">Sabitri, who is married to Nanda, is exploited daily by her mother-in-law. Seeing this, her uncle decides to help her overcome her problems.</desc>
+    <credits>
+      <director>Sujit Guha</director>
+      <actor>Ranjit Mallick</actor>
+      <actor>Tapas Paul</actor>
+      <actor>Debashree Roy</actor>
+      <actor>Lily Chakravorty</actor>
+      <actor>Dilip Ray</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685014.jpg"/>
+  </programme>
+  <programme start="20240625173500 +0530" stop="20240625204800 +0530" channel="685">
+    <title lang="en">Lakshyabhed</title>
+    <desc lang="en">Joy's uncle feeds him poison, which destroys his nervous system. Tired of his constant scheming, he and his brother Rupak decide to expose his uncle and his wife who supports him.</desc>
+    <credits>
+      <director>Raj Mukherjee</director>
+      <actor>Joy Mukherjee</actor>
+      <actor>Swastika Mukherjee</actor>
+      <actor>Rachana Banerjee</actor>
+      <actor>Tapas Paul</actor>
+      <actor>Sabyasachi Chakraborty</actor>
+      <actor>Locket Chatterjee</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685015.jpg"/>
+  </programme>
+  <programme start="20240625204800 +0530" stop="20240625230400 +0530" channel="685">
+    <title lang="en">Swayamsiddha</title>
+    <desc lang="en">Swayamsiddha is in for a rude shock when she gets to know that her husband has intellectual disabilities. When she learns that her brother-in-law is responsible for this, she decides to confront him.</desc>
+    <credits>
+      <director>Sushil Mukherjee</director>
+      <actor>Mithu Mukherjee</actor>
+      <actor>Ranjit Mullick</actor>
+      <actor>Utpal Datt</actor>
+      <actor>Gita Dey</actor>
+      <actor>Chinmoy Roy</actor>
+      <actor>Maya Banerjee</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685016.jpg"/>
+  </programme>
+  <programme start="20240625230400 +0530" stop="20240625233400 +0530" channel="685">
+    <title lang="en">Tang Mat Karo</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and hilarious scenes from prominent Bengali movies is played sequentially.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685017.jpg"/>
+  </programme>
+  <programme start="20240625233400 +0530" stop="20240626000000 +0530" channel="685">
+    <title lang="en">Har Mana Har</title>
+    <desc lang="en">Vikram, a single father, decides to remarry for the sake of his daughter and has to choose between Bulbuli, who is very close to his daughter, and Mira, who runs an NGO.</desc>
+    <credits>
+      <director>Raja Chanda</director>
+      <actor>Payel Sarkar</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Ayoshi Talukdar</actor>
+      <actor>Sylvia Dey</actor>
+      <actor>Sudipta Chakraborty</actor>
+      <actor>Prantik Banerjee</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625685018.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626013000 +0530" channel="685">
+    <title lang="en">Har Mana Har</title>
+    <desc lang="en">Vikram, a single father, decides to remarry for the sake of his daughter and has to choose between Bulbuli, who is very close to his daughter, and Mira, who runs an NGO.</desc>
+    <credits>
+      <director>Raja Chanda</director>
+      <actor>Payel Sarkar</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Ayoshi Talukdar</actor>
+      <actor>Sylvia Dey</actor>
+      <actor>Sudipta Chakraborty</actor>
+      <actor>Prantik Banerjee</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685000.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626033000 +0530" channel="685">
+    <title lang="en">Katha Dilam</title>
+    <desc lang="en">A local thug destroys the life of the district collector and kills his best friend. The collector seeks revenge against the thug who ruined his happiness.</desc>
+    <credits>
+      <director>A Venkatesh</director>
+      <actor>Sundar C</actor>
+      <actor>Sheryll Brindo</actor>
+      <actor>Vivek</actor>
+      <actor>Kiran</actor>
+      <actor>Jayaram</actor>
+      <actor>Kalabhavan Mani</actor>
+      <actor>Ashish Vidhyarthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685001.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626050000 +0530" channel="685">
+    <title lang="en">Adho Alo Chaya Te</title>
+    <desc lang="en">A married landowner falls in love with a woman and kills her lover. Years later, things take a turn when he kidnaps her daughter.</desc>
+    <credits>
+      <director>Uttam Kumar</director>
+      <actor>Uttam Kumar</actor>
+      <actor>Supriya Choudhury</actor>
+      <actor>Sharmila Tagore</actor>
+      <actor>Mithun Chakraborty</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685002.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="685">
+    <title lang="en">Patanjali Yog</title>
+    <desc lang="en">A yoga guru teaches people various positions that will help people lead a healthy and disease-free lifestyle.</desc>
+    <credits>
+      <actor>Baba Ramdev</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685003.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685004.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685005.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="685">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685006.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="685">
+    <title lang="en">Abhoya Dham</title>
+    <desc lang="en">A religious leader delivers a discourse based on the lives of famous saints and encourages devotees to lead a spiritually-balanced life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685007.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685008.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="685">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685009.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626103000 +0530" channel="685">
+    <title lang="en">Shri Krishnaleela</title>
+    <desc lang="en">Lord Krishna, a once naughty little child, embarks on several adventures to fight and eradicate evil forces and become a protector of the world.</desc>
+    <credits>
+      <director>Deepak Sagar</director>
+      <actor>Nirnay Samadhiya</actor>
+      <actor>Sudeep Sahir</actor>
+      <actor>Amardeep Garg</actor>
+      <actor>Mahi Soni</actor>
+      <actor>Manish Wadhwa</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Chaitannya Choudhry</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685010.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="685">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685011.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="685">
+    <title lang="en">Bhootu</title>
+    <desc lang="en">The ghost of a seven-year-old child becomes friends with a bird named Pihu and attempts to help every person she comes across.</desc>
+    <credits>
+      <director>Arijit Bhadra</director>
+    </credits>
+    <category lang="en">Children</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685012.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626150000 +0530" channel="685">
+    <title lang="en">Inspector Notty K</title>
+    <desc lang="en">In order to secure his dream job, Notty K visits Italy to bring back Sameera and reunite her with her family. All goes well until he falls in love with her and faces some strange events.</desc>
+    <credits>
+      <director>Ashok Pati</director>
+      <actor>Jeet Madnani</actor>
+      <actor>Nusrat Faria Mazhar</actor>
+      <actor>Gulshan Ara Champa</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Supriyo Dutta</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685013.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626173000 +0530" channel="685">
+    <title lang="en">Debar</title>
+    <desc lang="en">In a middle-class family, the eldest brother sacrifices his life while trying to provide the best education for his younger brother, putting him in charge of all familial decisions.</desc>
+    <credits>
+      <director>Amal Ray Ghatak</director>
+      <actor>Tapas Paul</actor>
+      <actor>Indrani Haldar</actor>
+      <actor>Debraj Roy</actor>
+      <actor>Anuradha Roy</actor>
+      <actor>Jay Sengupta</actor>
+      <actor>Sandhyarani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685014.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626200000 +0530" channel="685">
+    <title lang="en">Mama Bhagne</title>
+    <desc lang="en">Raja, a lazy man, gets married to Payal, assuming her to be a wealthy man's daughter. He gets the shock of his life when he learns that her father is a gardener.</desc>
+    <credits>
+      <director>Anup Sengupta</director>
+      <actor>Prosenjit</actor>
+      <actor>Ranjit Mallick</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Raja Chattopadhyay</actor>
+      <actor>Shankar Chakraborty</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685015.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626230000 +0530" channel="685">
+    <title lang="en">Abhimaan</title>
+    <desc lang="en">Ashok, a business tycoon, disowns his daughter when she marries against his wishes. However, years later, he seeks the help of his grandson, Aditya, to mend his relationship with his daughter.</desc>
+    <credits>
+      <director>Raj Chakraborty</director>
+      <actor>Jeet Madnani</actor>
+      <actor>Subhasree Ganguly</actor>
+      <actor>Sayantika Banerjee</actor>
+      <actor>Sabyasachi Chakrabarty</actor>
+      <actor>Kaushik Banerjee</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685016.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="685">
+    <title lang="en">Tang Mat Karo</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and hilarious scenes from prominent Bengali movies is played sequentially.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626685017.jpg"/>
+  </programme>
 </tv>

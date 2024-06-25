@@ -619,10 +619,18 @@
     <episode-num system="xmltv_ns">.576.</episode-num>
   </programme>
   <programme start="20240626100000 +0000" stop="20240626123000 +0000" channel="ts165">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24A0BD230EBF8DB7C635ECDB36F2444ABF4711FBU.jpg"/>
+    <title lang="en">Movie - Aai</title>
+    <desc lang="en">A military officer cripples his arch-enemy for killing his friend and escapes with his sister. He sets out to fight against this gangster when he comes to kill his friend's sister.</desc>
+    <credits>
+      <actor>Sarathkumar</actor>
+      <actor>Namita</actor>
+      <actor>Vadivelu</actor>
+      <actor>Rithika</actor>
+      <actor>Kota Srinivasarao</actor>
+      <actor>Vincent Ashokan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/060FDDF0BDF2F3ECE9CB54DD05DDA628F1D290C5E.jpg"/>
   </programme>
   <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts165">
     <title lang="en">News</title>

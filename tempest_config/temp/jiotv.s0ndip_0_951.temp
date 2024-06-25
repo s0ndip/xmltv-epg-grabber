@@ -3,4 +3,448 @@
   <channel id="951">
     <display-name lang="en">Live Punjabi TV</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625073000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951013.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951014.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="951">
+    <title lang="en">Aj Da Punjab</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place in Punjab, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951015.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951016.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951017.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="951">
+    <title lang="en">Katha Vichar</title>
+    <desc lang="en">A religious leader delivers a discourse explaining Gurbani and the Sikh history to the devotees and inspires them to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951018.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625113000 +0530" channel="951">
+    <title lang="en">Sehaj Path</title>
+    <desc lang="en">Several students and volunteers of a school or trust recite Gurbani in order to spread the teachings in the Guru Granth Sahib.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951019.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="951">
+    <title lang="en">Katha Vichar</title>
+    <desc lang="en">A religious leader delivers a discourse explaining Gurbani and the Sikh history to the devotees and inspires them to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951020.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="951">
+    <title lang="en">Sehat Today</title>
+    <desc lang="en">A show focussing on aspects of one's health and wellbeing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951021.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951022.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="951">
+    <title lang="en">Itehas Di Gal / Virsa-Ate-Sabhyachaar</title>
+    <desc lang="en">The host discusses some of the most iconic historic events from India's past; the presenter talks about the region's diverse heritage and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951023.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951024.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="951">
+    <title lang="en">Food Mood</title>
+    <desc lang="en">The host visits various popular food joints across the city to explore their ambience and delicacies and shares their opinions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951025.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951026.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="951">
+    <title lang="en">Haryana Himachal News</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951027.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951028.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="951">
+    <title lang="en">Aj Da Punjab</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place in Punjab, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951029.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="951">
+    <title lang="en">Entertainment Package / Interview</title>
+    <desc lang="en">The host presents the latest news and updates from the world of entertainment; the host interviews renowned personalities and discusses various topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951030.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951031.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625183000 +0530" channel="951">
+    <title lang="en">Live Sri Patna Sahib</title>
+    <desc lang="en">Religious leaders perform rituals and chant religious verses while devotees pray to the deity at Takht Sri Patna Sahib, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951032.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="951">
+    <title lang="en">Sakshiyat Today</title>
+    <desc lang="en">An interview-based programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951033.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951034.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951035.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951036.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951037.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951038.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="951">
+    <title lang="en">Haryana Himachal News</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951039.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="951">
+    <title lang="en">Ki Kehnda Punjab</title>
+    <desc lang="en">The host presents regional updates and development from the state of Punjab as well as the latest news from around the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951040.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="951">
+    <title lang="en">Itehas Di Gal / Virsa-Ate-Sabhyachaar</title>
+    <desc lang="en">The host discusses some of the most iconic historic events from India's past; the presenter talks about the region's diverse heritage and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951041.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625951042.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="951">
+    <title lang="en">Ki Kehnda Punjab</title>
+    <desc lang="en">The host presents regional updates and development from the state of Punjab as well as the latest news from around the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="951">
+    <title lang="en">Entertainment Package / Interview</title>
+    <desc lang="en">The host presents the latest news and updates from the world of entertainment; the host interviews renowned personalities and discusses various topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="951">
+    <title lang="en">Food Mood</title>
+    <desc lang="en">The host visits various popular food joints across the city to explore their ambience and delicacies and shares their opinions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="951">
+    <title lang="en">Entertainment Package / Interview</title>
+    <desc lang="en">The host presents the latest news and updates from the world of entertainment; the host interviews renowned personalities and discusses various topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="951">
+    <title lang="en">Itehas Di Gal / Virsa-Ate-Sabhyachaar</title>
+    <desc lang="en">The host discusses some of the most iconic historic events from India's past; the presenter talks about the region's diverse heritage and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626073000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951013.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951014.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="951">
+    <title lang="en">Aj Da Punjab</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place in Punjab, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951015.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951016.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951017.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="951">
+    <title lang="en">Katha Vichar</title>
+    <desc lang="en">A religious leader delivers a discourse explaining Gurbani and the Sikh history to the devotees and inspires them to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951018.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626113000 +0530" channel="951">
+    <title lang="en">Sehaj Path</title>
+    <desc lang="en">Several students and volunteers of a school or trust recite Gurbani in order to spread the teachings in the Guru Granth Sahib.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951019.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="951">
+    <title lang="en">Katha Vichar</title>
+    <desc lang="en">A religious leader delivers a discourse explaining Gurbani and the Sikh history to the devotees and inspires them to follow the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951020.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="951">
+    <title lang="en">Sehat Today</title>
+    <desc lang="en">A show focussing on aspects of one's health and wellbeing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951021.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951022.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="951">
+    <title lang="en">Itehas Di Gal / Virsa-Ate-Sabhyachaar</title>
+    <desc lang="en">The host discusses some of the most iconic historic events from India's past; the presenter talks about the region's diverse heritage and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951023.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951024.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="951">
+    <title lang="en">Food Mood</title>
+    <desc lang="en">The host visits various popular food joints across the city to explore their ambience and delicacies and shares their opinions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951025.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951026.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="951">
+    <title lang="en">Haryana Himachal News</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951027.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951028.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="951">
+    <title lang="en">Aj Da Punjab</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place in Punjab, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951029.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="951">
+    <title lang="en">Entertainment Package / Interview</title>
+    <desc lang="en">The host presents the latest news and updates from the world of entertainment; the host interviews renowned personalities and discusses various topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951030.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951031.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626183000 +0530" channel="951">
+    <title lang="en">Live Sri Patna Sahib</title>
+    <desc lang="en">Religious leaders perform rituals and chant religious verses while devotees pray to the deity at Takht Sri Patna Sahib, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951032.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="951">
+    <title lang="en">Sakshiyat Today</title>
+    <desc lang="en">An interview-based programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951033.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="951">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951034.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951035.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626210000 +0530" channel="951">
+    <title lang="en">Ki Haal Punjab - Debate</title>
+    <desc lang="en">The host engages in a conversation with experts to discuss and debate various ongoing issues pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951036.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="951">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951037.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="951">
+    <title lang="en">Special Program</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951038.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="951">
+    <title lang="en">Haryana Himachal News</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951039.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="951">
+    <title lang="en">Ki Kehnda Punjab</title>
+    <desc lang="en">The host presents regional updates and development from the state of Punjab as well as the latest news from around the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951040.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="951">
+    <title lang="en">Itehas Di Gal / Virsa-Ate-Sabhyachaar</title>
+    <desc lang="en">The host discusses some of the most iconic historic events from India's past; the presenter talks about the region's diverse heritage and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626951041.jpg"/>
+  </programme>
 </tv>

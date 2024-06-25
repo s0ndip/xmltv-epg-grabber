@@ -3,4 +3,940 @@
   <channel id="950">
     <display-name lang="en">R Plus</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625055700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950009.jpg"/>
+  </programme>
+  <programme start="20240625055700 +0530" stop="20240625060000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950010.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="950">
+    <title lang="en">Pravati</title>
+    <desc lang="en">A spiritual leader reads passages from a religious text and explains their meaning.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950011.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625065700 +0530" channel="950">
+    <title lang="en">Pravati</title>
+    <desc lang="en">A spiritual leader reads passages from a religious text and explains their meaning.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950012.jpg"/>
+  </programme>
+  <programme start="20240625065700 +0530" stop="20240625070000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625072700 +0530" channel="950">
+    <title lang="en">Khabor Plus</title>
+    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950014.jpg"/>
+  </programme>
+  <programme start="20240625072700 +0530" stop="20240625073000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950015.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625075700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950016.jpg"/>
+  </programme>
+  <programme start="20240625075700 +0530" stop="20240625080000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950017.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625082700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950018.jpg"/>
+  </programme>
+  <programme start="20240625082700 +0530" stop="20240625083000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950019.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625085700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950020.jpg"/>
+  </programme>
+  <programme start="20240625085700 +0530" stop="20240625090000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950021.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625090300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950022.jpg"/>
+  </programme>
+  <programme start="20240625090300 +0530" stop="20240625092700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950023.jpg"/>
+  </programme>
+  <programme start="20240625092700 +0530" stop="20240625093000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950024.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625095700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950025.jpg"/>
+  </programme>
+  <programme start="20240625095700 +0530" stop="20240625100000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950026.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625102700 +0530" channel="950">
+    <title lang="en">Khela</title>
+    <desc lang="en">Ratikanta Barman, an industrialist, forces his wife to stay in an asylum after she fails to deliver a male child. Later, a maid working in Ratikanta's house discovers the truth.</desc>
+    <credits>
+      <director>Ravi Ojha</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950027.jpg"/>
+  </programme>
+  <programme start="20240625102700 +0530" stop="20240625103000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950028.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625105700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950029.jpg"/>
+  </programme>
+  <programme start="20240625105700 +0530" stop="20240625110000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950030.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950031.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625115700 +0530" channel="950">
+    <title lang="en">Light Camera Action</title>
+    <desc lang="en">A presenter reports the latest news and updates from the filmmaking industry and presents a behind-the-scenes look into upcoming movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950032.jpg"/>
+  </programme>
+  <programme start="20240625115700 +0530" stop="20240625120000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950033.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625122700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950034.jpg"/>
+  </programme>
+  <programme start="20240625122700 +0530" stop="20240625123000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950035.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625125700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950036.jpg"/>
+  </programme>
+  <programme start="20240625125700 +0530" stop="20240625130000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950037.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625132700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950038.jpg"/>
+  </programme>
+  <programme start="20240625132700 +0530" stop="20240625133000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950039.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625135700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950040.jpg"/>
+  </programme>
+  <programme start="20240625135700 +0530" stop="20240625140000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950041.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625142700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950042.jpg"/>
+  </programme>
+  <programme start="20240625142700 +0530" stop="20240625143000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950043.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625145700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950044.jpg"/>
+  </programme>
+  <programme start="20240625145700 +0530" stop="20240625150000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950045.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625152700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950046.jpg"/>
+  </programme>
+  <programme start="20240625152700 +0530" stop="20240625153000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950047.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625155700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950048.jpg"/>
+  </programme>
+  <programme start="20240625155700 +0530" stop="20240625160000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950049.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625162700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950050.jpg"/>
+  </programme>
+  <programme start="20240625162700 +0530" stop="20240625163000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950051.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625165700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950052.jpg"/>
+  </programme>
+  <programme start="20240625165700 +0530" stop="20240625170000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950053.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625172700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950054.jpg"/>
+  </programme>
+  <programme start="20240625172700 +0530" stop="20240625173000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950055.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625175700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950056.jpg"/>
+  </programme>
+  <programme start="20240625175700 +0530" stop="20240625180000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950057.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="950">
+    <title lang="en">Bongo Darpon</title>
+    <desc lang="en">The host presents the latest information about the social, economic and political issues in West Bengal and provides updates on various current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950058.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625185700 +0530" channel="950">
+    <title lang="en">Bongo Darpon</title>
+    <desc lang="en">The host presents the latest information about the social, economic and political issues in West Bengal and provides updates on various current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950059.jpg"/>
+  </programme>
+  <programme start="20240625185700 +0530" stop="20240625190000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950060.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="950">
+    <title lang="en">Bangla Bolche</title>
+    <desc lang="en">The anchor talks to the common people about several important topics and sheds light on various issues affecting the public.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950061.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625195700 +0530" channel="950">
+    <title lang="en">Bangla Bolche</title>
+    <desc lang="en">The anchor talks to the common people about several important topics and sheds light on various issues affecting the public.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950062.jpg"/>
+  </programme>
+  <programme start="20240625195700 +0530" stop="20240625200000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950063.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625200300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950064.jpg"/>
+  </programme>
+  <programme start="20240625200300 +0530" stop="20240625202700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950065.jpg"/>
+  </programme>
+  <programme start="20240625202700 +0530" stop="20240625203000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950066.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625205700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950067.jpg"/>
+  </programme>
+  <programme start="20240625205700 +0530" stop="20240625210000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950068.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625210300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950069.jpg"/>
+  </programme>
+  <programme start="20240625210300 +0530" stop="20240625213000 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950070.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625215700 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950071.jpg"/>
+  </programme>
+  <programme start="20240625215700 +0530" stop="20240625220000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950072.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625220300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950073.jpg"/>
+  </programme>
+  <programme start="20240625220300 +0530" stop="20240625222700 +0530" channel="950">
+    <title lang="en">Khela</title>
+    <desc lang="en">Ratikanta Barman, an industrialist, forces his wife to stay in an asylum after she fails to deliver a male child. Later, a maid working in Ratikanta's house discovers the truth.</desc>
+    <credits>
+      <director>Ravi Ojha</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950074.jpg"/>
+  </programme>
+  <programme start="20240625222700 +0530" stop="20240625223000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950075.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625225700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950076.jpg"/>
+  </programme>
+  <programme start="20240625225700 +0530" stop="20240625230000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950077.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625232700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950078.jpg"/>
+  </programme>
+  <programme start="20240625232700 +0530" stop="20240625233000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950079.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240625235700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950080.jpg"/>
+  </programme>
+  <programme start="20240625235700 +0530" stop="20240626000000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625950081.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950002.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950003.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950004.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950005.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950006.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950007.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950008.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950009.jpg"/>
+  </programme>
+  <programme start="20240626055700 +0530" stop="20240626060000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950010.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="950">
+    <title lang="en">Pravati</title>
+    <desc lang="en">A spiritual leader reads passages from a religious text and explains their meaning.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950011.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626065700 +0530" channel="950">
+    <title lang="en">Pravati</title>
+    <desc lang="en">A spiritual leader reads passages from a religious text and explains their meaning.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950012.jpg"/>
+  </programme>
+  <programme start="20240626065700 +0530" stop="20240626070000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626072700 +0530" channel="950">
+    <title lang="en">Khabor Plus</title>
+    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950014.jpg"/>
+  </programme>
+  <programme start="20240626072700 +0530" stop="20240626073000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950015.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626075700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950016.jpg"/>
+  </programme>
+  <programme start="20240626075700 +0530" stop="20240626080000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950017.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626082700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950018.jpg"/>
+  </programme>
+  <programme start="20240626082700 +0530" stop="20240626083000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950019.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626085700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950020.jpg"/>
+  </programme>
+  <programme start="20240626085700 +0530" stop="20240626090000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950021.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626090300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950022.jpg"/>
+  </programme>
+  <programme start="20240626090300 +0530" stop="20240626092700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950023.jpg"/>
+  </programme>
+  <programme start="20240626092700 +0530" stop="20240626093000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950024.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626095700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950025.jpg"/>
+  </programme>
+  <programme start="20240626095700 +0530" stop="20240626100000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950026.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626102700 +0530" channel="950">
+    <title lang="en">Khela</title>
+    <desc lang="en">Ratikanta Barman, an industrialist, forces his wife to stay in an asylum after she fails to deliver a male child. Later, a maid working in Ratikanta's house discovers the truth.</desc>
+    <credits>
+      <director>Ravi Ojha</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950027.jpg"/>
+  </programme>
+  <programme start="20240626102700 +0530" stop="20240626103000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950028.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626105700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950029.jpg"/>
+  </programme>
+  <programme start="20240626105700 +0530" stop="20240626110000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950030.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950031.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626115700 +0530" channel="950">
+    <title lang="en">Light Camera Action</title>
+    <desc lang="en">A presenter reports the latest news and updates from the filmmaking industry and presents a behind-the-scenes look into upcoming movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950032.jpg"/>
+  </programme>
+  <programme start="20240626115700 +0530" stop="20240626120000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950033.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626122700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950034.jpg"/>
+  </programme>
+  <programme start="20240626122700 +0530" stop="20240626123000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950035.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626125700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950036.jpg"/>
+  </programme>
+  <programme start="20240626125700 +0530" stop="20240626130000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950037.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626132700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950038.jpg"/>
+  </programme>
+  <programme start="20240626132700 +0530" stop="20240626133000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950039.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626135700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950040.jpg"/>
+  </programme>
+  <programme start="20240626135700 +0530" stop="20240626140000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950041.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626142700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950042.jpg"/>
+  </programme>
+  <programme start="20240626142700 +0530" stop="20240626143000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950043.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626145700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950044.jpg"/>
+  </programme>
+  <programme start="20240626145700 +0530" stop="20240626150000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950045.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626152700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950046.jpg"/>
+  </programme>
+  <programme start="20240626152700 +0530" stop="20240626153000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950047.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626155700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950048.jpg"/>
+  </programme>
+  <programme start="20240626155700 +0530" stop="20240626160000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950049.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626162700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950050.jpg"/>
+  </programme>
+  <programme start="20240626162700 +0530" stop="20240626163000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950051.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626165700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950052.jpg"/>
+  </programme>
+  <programme start="20240626165700 +0530" stop="20240626170000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950053.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626172700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950054.jpg"/>
+  </programme>
+  <programme start="20240626172700 +0530" stop="20240626173000 +0530" channel="950">
+    <title lang="en">K 20/20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to current affairs, the economy, sports and more in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950055.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626175700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950056.jpg"/>
+  </programme>
+  <programme start="20240626175700 +0530" stop="20240626180000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950057.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="950">
+    <title lang="en">Bongo Darpon</title>
+    <desc lang="en">The host presents the latest information about the social, economic and political issues in West Bengal and provides updates on various current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950058.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626185700 +0530" channel="950">
+    <title lang="en">Bongo Darpon</title>
+    <desc lang="en">The host presents the latest information about the social, economic and political issues in West Bengal and provides updates on various current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950059.jpg"/>
+  </programme>
+  <programme start="20240626185700 +0530" stop="20240626190000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950060.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="950">
+    <title lang="en">Bangla Bolche</title>
+    <desc lang="en">The anchor talks to the common people about several important topics and sheds light on various issues affecting the public.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950061.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626195700 +0530" channel="950">
+    <title lang="en">Bangla Bolche</title>
+    <desc lang="en">The anchor talks to the common people about several important topics and sheds light on various issues affecting the public.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950062.jpg"/>
+  </programme>
+  <programme start="20240626195700 +0530" stop="20240626200000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950063.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626200300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950064.jpg"/>
+  </programme>
+  <programme start="20240626200300 +0530" stop="20240626202700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950065.jpg"/>
+  </programme>
+  <programme start="20240626202700 +0530" stop="20240626203000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950066.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626205700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950067.jpg"/>
+  </programme>
+  <programme start="20240626205700 +0530" stop="20240626210000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950068.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626210300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950069.jpg"/>
+  </programme>
+  <programme start="20240626210300 +0530" stop="20240626213000 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950070.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626215700 +0530" channel="950">
+    <title lang="en">Taf Talk / Taf Fight</title>
+    <desc lang="en">The host interacts with experts to discuss various topics pertaining to events of social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950071.jpg"/>
+  </programme>
+  <programme start="20240626215700 +0530" stop="20240626220000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950072.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626220300 +0530" channel="950">
+    <title lang="en">Ek Nojore Tripura</title>
+    <desc lang="en">The host presents news updates and the latest information on social, political, economic and cultural topics related to Tripura.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950073.jpg"/>
+  </programme>
+  <programme start="20240626220300 +0530" stop="20240626222700 +0530" channel="950">
+    <title lang="en">Khela</title>
+    <desc lang="en">Ratikanta Barman, an industrialist, forces his wife to stay in an asylum after she fails to deliver a male child. Later, a maid working in Ratikanta's house discovers the truth.</desc>
+    <credits>
+      <director>Ravi Ojha</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950074.jpg"/>
+  </programme>
+  <programme start="20240626222700 +0530" stop="20240626223000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950075.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626225700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950076.jpg"/>
+  </programme>
+  <programme start="20240626225700 +0530" stop="20240626230000 +0530" channel="950">
+    <title lang="en">Shironaam Ek Najare</title>
+    <desc lang="en">The host provides the latest socio-economic and political news, updates and developments that are making headlines all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950077.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626232700 +0530" channel="950">
+    <title lang="en">Khobor Plus</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950078.jpg"/>
+  </programme>
+  <programme start="20240626232700 +0530" stop="20240626233000 +0530" channel="950">
+    <title lang="en">Top News</title>
+    <desc lang="en">The host presents some of the latest news stories and developments pertaining to economics, politics and sports among other topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950079.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240626235700 +0530" channel="950">
+    <title lang="en">Nagar Darpan</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626950080.jpg"/>
+  </programme>
 </tv>

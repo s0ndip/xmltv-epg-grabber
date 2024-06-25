@@ -3,4 +3,397 @@
   <channel id="489">
     <display-name lang="en">CNBC Tv 18</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="489">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day and analyse how the markets are progressing, the factors moving the markets and the reactions of the investors.</desc>
+    <credits>
+      <director>David Jones</director>
+    </credits>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489005.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="489">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489006.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="489">
+    <title lang="en">Power Breakfast</title>
+    <desc lang="en">The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489007.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="489">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489008.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="489">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489009.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="489">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">Take a look at how renowned CEOs, global economists, fund managers and sector analysts go about their business.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489010.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="489">
+    <title lang="en">Chartbusters</title>
+    <desc lang="en">Financial experts provide a wide range of tips and insights to the viewers while guiding them to invest in the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489011.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="489">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">The host, along with financial analysts, discusses some of the latest news and updates regarding trading of shares and stock.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489012.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="489">
+    <title lang="en">Half Time Report</title>
+    <desc lang="en">Financial experts and analysts shed light on latest trends and updates on the economy, stock markets, real estate, media and technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489013.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="489">
+    <title lang="en">Business Lunch</title>
+    <desc lang="en">The host presents some of the most important news from the corporate world and the stock market and also presents various economic, social and political updates.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489014.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="489">
+    <title lang="en">Midcap Radar</title>
+    <desc lang="en">The host chats with an expert about the current situation of the stock market and stocks that have the potential to turn into high-value winners.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489015.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="489">
+    <title lang="en">MF Corner</title>
+    <desc lang="en">Experts respond to viewers' queries about investment in mutual funds and present their analysis of various portfolios in addition to sharing useful tips.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489016.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625153000 +0530" channel="489">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489017.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="489">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489018.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="489">
+    <title lang="en">After The Bell</title>
+    <desc lang="en">Experts from various fields share their views and opinions on the updates and the status of the share market post the closing bell.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489019.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="489">
+    <title lang="en">Markets Today</title>
+    <desc lang="en">Take a look at news and updates from the world of the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489020.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="489">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489021.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="489">
+    <title lang="en">The Investing Edge</title>
+    <desc lang="en">The host invites stalwarts from the field of business and asks them to provide tips and tricks to get the maximum profit out of investments.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489022.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="489">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489023.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="489">
+    <title lang="en">Start Up Street</title>
+    <desc lang="en">The host talks to various experts from the business world about their views and opinions on the future of start-ups in India.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489024.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="489">
+    <title lang="en">U.S Markets Opening Bell</title>
+    <desc lang="en">The host announces the name of the person who is given the honour of ringing the opening bell at the New York Stock Exchange.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489025.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489026.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489027.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="489">
+    <title lang="en">Markets Today</title>
+    <desc lang="en">Take a look at news and updates from the world of the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489028.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489029.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489030.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489031.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489032.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489033.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625489034.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="489">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic news updates and headlines that impact the economy from around the world.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626013000 +0530" channel="489">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Finance experts and analysts have a discussion on moneymaking strategies and plans in the fields of real estate and stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489001.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626033000 +0530" channel="489">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day and analyse how the markets are progressing, the factors moving the markets and the reactions of the investors.</desc>
+    <credits>
+      <director>David Jones</director>
+    </credits>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489002.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626043000 +0530" channel="489">
+    <title lang="en">The Rundown</title>
+    <desc lang="en">The host speaks about the current trends from Wall Street and also offers various tips for investments in the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489003.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626060000 +0530" channel="489">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489004.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="489">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day and analyse how the markets are progressing, the factors moving the markets and the reactions of the investors.</desc>
+    <credits>
+      <director>David Jones</director>
+    </credits>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489005.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="489">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Experts provide pre-market updates that are useful for investors and professional traders and discuss various important developments in the world of stock markets.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489006.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="489">
+    <title lang="en">Power Breakfast</title>
+    <desc lang="en">The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489007.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626090000 +0530" channel="489">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">The hosts shed light on the condition of the stock market prior to its opening and provide quick tips to people investing in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489008.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="489">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">The hosts analyse the current state of the stock market and provide strategies that one should adopt to have a successful run in the market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489009.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="489">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">Take a look at how renowned CEOs, global economists, fund managers and sector analysts go about their business.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489010.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="489">
+    <title lang="en">Chartbusters</title>
+    <desc lang="en">Financial experts provide a wide range of tips and insights to the viewers while guiding them to invest in the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489011.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="489">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">The host, along with financial analysts, discusses some of the latest news and updates regarding trading of shares and stock.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489012.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626130000 +0530" channel="489">
+    <title lang="en">Half Time Report</title>
+    <desc lang="en">Financial experts and analysts shed light on latest trends and updates on the economy, stock markets, real estate, media and technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489013.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="489">
+    <title lang="en">Business Lunch</title>
+    <desc lang="en">The host presents some of the most important news from the corporate world and the stock market and also presents various economic, social and political updates.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489014.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="489">
+    <title lang="en">Midcap Radar</title>
+    <desc lang="en">The host chats with an expert about the current situation of the stock market and stocks that have the potential to turn into high-value winners.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489015.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="489">
+    <title lang="en">Your Stocks</title>
+    <desc lang="en">The hosts review and analyse the stock market trends of the country while advising the viewers to make the right investment decision.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489016.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626153000 +0530" channel="489">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">The host presents the status of the different stocks of the National Stock Exchange (NSE) at the time of the closing bell.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489017.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="489">
+    <title lang="en">Investment Guide</title>
+    <desc lang="en">The hosts indulge in insightful conversations with eminent experts regarding the management of finances and various facets of the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489018.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="489">
+    <title lang="en">After The Bell</title>
+    <desc lang="en">Experts from various fields share their views and opinions on the updates and the status of the share market post the closing bell.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489019.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="489">
+    <title lang="en">Markets Today</title>
+    <desc lang="en">Take a look at news and updates from the world of the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489020.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="489">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489021.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489022.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="489">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489023.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="489">
+    <title lang="en">Start Up Street</title>
+    <desc lang="en">The host talks to various experts from the business world about their views and opinions on the future of start-ups in India.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489024.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="489">
+    <title lang="en">U.S Markets Opening Bell</title>
+    <desc lang="en">The host announces the name of the person who is given the honour of ringing the opening bell at the New York Stock Exchange.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489025.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489026.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489027.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="489">
+    <title lang="en">Markets Today</title>
+    <desc lang="en">Take a look at news and updates from the world of the stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489028.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489029.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489030.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489031.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="489">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489032.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="489">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts provide a holistic perspective on the Indian business environment by taking a look at the biggest news stories of the day.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626489033.jpg"/>
+  </programme>
 </tv>

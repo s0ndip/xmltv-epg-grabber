@@ -3,4 +3,299 @@
   <channel id="1434">
     <display-name lang="en">Utkarsh Primary</display-name>
   </channel>
+  <programme start="20240625093000 +0530" stop="20240625093500 +0530" channel="1434">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434001.jpg"/>
+  </programme>
+  <programme start="20240625093500 +0530" stop="20240625100500 +0530" channel="1434">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434002.jpg"/>
+  </programme>
+  <programme start="20240625100500 +0530" stop="20240625105700 +0530" channel="1434">
+    <title lang="en">Training Module</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434003.jpg"/>
+  </programme>
+  <programme start="20240625105700 +0530" stop="20240625113000 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434004.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120900 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434005.jpg"/>
+  </programme>
+  <programme start="20240625120900 +0530" stop="20240625124800 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434006.jpg"/>
+  </programme>
+  <programme start="20240625124800 +0530" stop="20240625131800 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434007.jpg"/>
+  </programme>
+  <programme start="20240625131800 +0530" stop="20240625134900 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434008.jpg"/>
+  </programme>
+  <programme start="20240625134900 +0530" stop="20240625142200 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434009.jpg"/>
+  </programme>
+  <programme start="20240625142200 +0530" stop="20240625144200 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434010.jpg"/>
+  </programme>
+  <programme start="20240625144200 +0530" stop="20240625151100 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434011.jpg"/>
+  </programme>
+  <programme start="20240625151100 +0530" stop="20240625154300 +0530" channel="1434">
+    <title lang="en">Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434012.jpg"/>
+  </programme>
+  <programme start="20240625154300 +0530" stop="20240625161800 +0530" channel="1434">
+    <title lang="en">Hindi</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434013.jpg"/>
+  </programme>
+  <programme start="20240625161800 +0530" stop="20240625164400 +0530" channel="1434">
+    <title lang="en">Life Skill</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434014.jpg"/>
+  </programme>
+  <programme start="20240625164400 +0530" stop="20240625171600 +0530" channel="1434">
+    <title lang="en">Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434015.jpg"/>
+  </programme>
+  <programme start="20240625171600 +0530" stop="20240625173700 +0530" channel="1434">
+    <title lang="en">Hindi</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434016.jpg"/>
+  </programme>
+  <programme start="20240625173700 +0530" stop="20240625180100 +0530" channel="1434">
+    <title lang="en">Life Skill</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434017.jpg"/>
+  </programme>
+  <programme start="20240625180100 +0530" stop="20240625180800 +0530" channel="1434">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434018.jpg"/>
+  </programme>
+  <programme start="20240625180800 +0530" stop="20240625183800 +0530" channel="1434">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434019.jpg"/>
+  </programme>
+  <programme start="20240625183800 +0530" stop="20240625193000 +0530" channel="1434">
+    <title lang="en">Training Module</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434020.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200300 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434021.jpg"/>
+  </programme>
+  <programme start="20240625200300 +0530" stop="20240625204200 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434022.jpg"/>
+  </programme>
+  <programme start="20240625204200 +0530" stop="20240625212100 +0530" channel="1434">
+    <title lang="en">Hindi and English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434023.jpg"/>
+  </programme>
+  <programme start="20240625212100 +0530" stop="20240625215100 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434024.jpg"/>
+  </programme>
+  <programme start="20240625215100 +0530" stop="20240625222200 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434025.jpg"/>
+  </programme>
+  <programme start="20240625222200 +0530" stop="20240625225500 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434026.jpg"/>
+  </programme>
+  <programme start="20240625225500 +0530" stop="20240625231500 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434027.jpg"/>
+  </programme>
+  <programme start="20240625231500 +0530" stop="20240625233000 +0530" channel="1434">
+    <title lang="en">English</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434028.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="1434">
+    <title lang="en">Message</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251434029.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626093000 +0530" channel="1434">
+    <title lang="en">Message</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434000.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626093500 +0530" channel="1434">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434001.jpg"/>
+  </programme>
+  <programme start="20240626093500 +0530" stop="20240626100500 +0530" channel="1434">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434002.jpg"/>
+  </programme>
+  <programme start="20240626100500 +0530" stop="20240626105700 +0530" channel="1434">
+    <title lang="en">Training Module</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434003.jpg"/>
+  </programme>
+  <programme start="20240626105700 +0530" stop="20240626113400 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434004.jpg"/>
+  </programme>
+  <programme start="20240626113400 +0530" stop="20240626120900 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434005.jpg"/>
+  </programme>
+  <programme start="20240626120900 +0530" stop="20240626124700 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434006.jpg"/>
+  </programme>
+  <programme start="20240626124700 +0530" stop="20240626131100 +0530" channel="1434">
+    <title lang="en">EVS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434007.jpg"/>
+  </programme>
+  <programme start="20240626131100 +0530" stop="20240626133300 +0530" channel="1434">
+    <title lang="en">EVS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434008.jpg"/>
+  </programme>
+  <programme start="20240626133300 +0530" stop="20240626140600 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434009.jpg"/>
+  </programme>
+  <programme start="20240626140600 +0530" stop="20240626141600 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434010.jpg"/>
+  </programme>
+  <programme start="20240626141600 +0530" stop="20240626144900 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434011.jpg"/>
+  </programme>
+  <programme start="20240626144900 +0530" stop="20240626152700 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434012.jpg"/>
+  </programme>
+  <programme start="20240626152700 +0530" stop="20240626155800 +0530" channel="1434">
+    <title lang="en">SS (Economics)</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434013.jpg"/>
+  </programme>
+  <programme start="20240626155800 +0530" stop="20240626162700 +0530" channel="1434">
+    <title lang="en">Life Skill</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434014.jpg"/>
+  </programme>
+  <programme start="20240626162700 +0530" stop="20240626170400 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434015.jpg"/>
+  </programme>
+  <programme start="20240626170400 +0530" stop="20240626173500 +0530" channel="1434">
+    <title lang="en">SS (Economics)</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434016.jpg"/>
+  </programme>
+  <programme start="20240626173500 +0530" stop="20240626180000 +0530" channel="1434">
+    <title lang="en">Life Skill</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434017.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626180500 +0530" channel="1434">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434018.jpg"/>
+  </programme>
+  <programme start="20240626180500 +0530" stop="20240626183500 +0530" channel="1434">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434019.jpg"/>
+  </programme>
+  <programme start="20240626183500 +0530" stop="20240626192100 +0530" channel="1434">
+    <title lang="en">Training Module</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434020.jpg"/>
+  </programme>
+  <programme start="20240626192100 +0530" stop="20240626195800 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434021.jpg"/>
+  </programme>
+  <programme start="20240626195800 +0530" stop="20240626203300 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434022.jpg"/>
+  </programme>
+  <programme start="20240626203300 +0530" stop="20240626211100 +0530" channel="1434">
+    <title lang="en">Hindi and Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434023.jpg"/>
+  </programme>
+  <programme start="20240626211100 +0530" stop="20240626213500 +0530" channel="1434">
+    <title lang="en">EVS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434024.jpg"/>
+  </programme>
+  <programme start="20240626213500 +0530" stop="20240626215700 +0530" channel="1434">
+    <title lang="en">EVS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434025.jpg"/>
+  </programme>
+  <programme start="20240626215700 +0530" stop="20240626223000 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434026.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626224000 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434027.jpg"/>
+  </programme>
+  <programme start="20240626224000 +0530" stop="20240626231300 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434028.jpg"/>
+  </programme>
+  <programme start="20240626231300 +0530" stop="20240626233000 +0530" channel="1434">
+    <title lang="en">Science</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261434029.jpg"/>
+  </programme>
 </tv>

@@ -452,7 +452,7 @@
   </programme>
   <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts333">
     <title lang="en">Aradhana</title>
-    <desc lang="en">A religious scholar reads out chapters from various holy scriptures and sheds light on their meaning, followed by devotional songs by an experienced singer.</desc>
+    <desc lang="en">Manasika Santira Upaya: A religious scholar reads out chapters from various holy scriptures and sheds light on their meaning, followed by devotional songs by an experienced singer.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C44DFDB60B3126E334D678191A3C8C4871A61082W.jpg"/>
   </programme>
@@ -462,53 +462,53 @@
     <category lang="en">Agriculture &amp; Farming</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/396B4AF50D82E998B102EF698EAEBC2D52A944EA8.jpg"/>
   </programme>
-  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts333">
+  <programme start="20240626013000 +0000" stop="20240626014500 +0000" channel="ts333">
     <title lang="en">Vaishnav Jan To / Devotional Music</title>
     <desc lang="en">Renowned singers perform the song 'Vaishnava Jana To', a popular Hindu bhajan composed by the poet Narsinh Mehta; a compilation of various devotional songs.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/840C71493C590E619C4691D19963377A22DA8101B.jpg"/>
   </programme>
-  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts333">
-    <title lang="en">Chhania</title>
-    <desc lang="en">Chhania</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66FD830776243700E62DE9933FEBB6474905D47AL.jpg"/>
+  <programme start="20240626014500 +0000" stop="20240626023000 +0000" channel="ts333">
+    <title lang="en">Hello Odisha</title>
+    <desc lang="en">Breakfast Show: The host invites celebrities and experts from different walks of life to have an in-depth discussion on multiple issues and various topics of interest.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4B90ED4E98F53C803D66E770321340CD993F6EFH.jpg"/>
   </programme>
-  <programme start="20240626023000 +0000" stop="20240626024500 +0000" channel="ts333">
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts333">
     <title lang="en">Regional News Live</title>
     <desc lang="en">The host presents the latest news updates and developments regarding social, political and economic issues from around the region, live.</desc>
     <category lang="en">News</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C37D68AB0E162228A12CDF5E79C64DB4B6DCB733.jpg"/>
   </programme>
-  <programme start="20240626024500 +0000" stop="20240626033000 +0000" channel="ts333">
-    <title lang="en">Hello Odisha</title>
-    <desc lang="en">The host invites celebrities and experts from different walks of life to have an in-depth discussion on multiple issues and various topics of interest.</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4B90ED4E98F53C803D66E770321340CD993F6EFH.jpg"/>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts333">
+    <title lang="en">Jagat O Jagannath</title>
+    <desc lang="en">Jagat O Jagannath</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
   </programme>
   <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts333">
-    <title lang="en">Mun Kichhi Bi Karipare</title>
-    <desc lang="en">Mun Kichhi Bi Karipare</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BF180A7B837E9F3E9DEC13C3BBAAC6069E5E2195.jpg"/>
+    <title lang="en">Ho Bhakate</title>
+    <desc lang="en">Bhakta Karamabai</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9260402FC41EF27B4B3DE681D57DAF24F4263FFBH.jpg"/>
   </programme>
   <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts333">
     <title lang="en">DDK, SBP Contribution</title>
-    <desc lang="en">DDK, SBP Contribution</desc>
+    <desc lang="en">Rangabati Gaunitia</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B342F0421A6F5FAA322BC924AA93533ADCFE5E40S.jpg"/>
   </programme>
   <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts333">
-    <title lang="en">Parikrama</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D98F565C44DFA4363A9499002DF4C8419390922B.jpg"/>
+    <title lang="en">Chatisha Nijoga</title>
+    <desc lang="en">The host presents information on the latest updates on the Chhatisa Nijoga and the planning of the annual religious festival associated with Lord Jagannath.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DF6BD21B31C08D103B99BBF5E37F5174B595ED6A.jpg"/>
   </programme>
   <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts333">
-    <title lang="en">Science Programe</title>
-    <desc lang="en">The host along with experts discusses the significance and role of science and technology in the society and nation-building.</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A84445E1E512B202DCB669E9B72CF48719D5A146.jpg"/>
+    <title lang="en">Gyana Bigyana</title>
+    <desc lang="en">A panel of experts discusses the latest breakthroughs, theories, hypotheses, research and experiments in the world of science.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/677F29A7B5213FF7E76E1F308385A338EB504465L.jpg"/>
   </programme>
   <programme start="20240626053000 +0000" stop="20240626053200 +0000" channel="ts333">
     <title lang="en">Graphical News Headlines</title>
@@ -526,34 +526,22 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
   </programme>
   <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts333">
-    <title lang="en">Pala - Dandi Ramayana</title>
-    <desc lang="en">Talented artists and storytellers narrate various stories concerning Hindu mythology and folklore while musicians enthralling performances.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F65D59AF4BC7ECCA8AAB404913376F1F579CF749Z.jpg"/>
+    <title lang="en">Folk Music</title>
+    <desc lang="en">Palla (Kapala Mochan Siva): A comprehensive compilation of some of the most popular folk songs written and performed by various eminent musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF87C5CCBDAF7C1D4E72AA9EE28C0B57161D7297T.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626063200 +0000" channel="ts333">
-    <title lang="en">Graphical News Headlines</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B21797A585FCA0EF35036AFB462F3322A949AB1C5.jpg"/>
-  </programme>
-  <programme start="20240626063200 +0000" stop="20240626070000 +0000" channel="ts333">
-    <title lang="en">Programe Ddk, Bpn</title>
-    <desc lang="en">Programe Ddk, Bpn</desc>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts333">
+    <title lang="en">Programme On DDK BPN</title>
+    <desc lang="en">Topic- Samanwita Joga</desc>
     <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E65D3D943CD903797D47893F568168289E3E7955D.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF04DCB9DB1B5111AF1F5650ABFB0BEAE4176FF4U.jpg"/>
   </programme>
-  <programme start="20240626070000 +0000" stop="20240626072900 +0000" channel="ts333">
-    <title lang="en">Balighara</title>
-    <desc lang="en">Balighara</desc>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts333">
+    <title lang="en">Gitare Gitare Sree Jagannath</title>
+    <desc lang="en">Gitare Gitare Sree Jagannath</desc>
     <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEF8BB5BE834F4982DAC678E29EC0BAE896AB94AA.jpg"/>
-  </programme>
-  <programme start="20240626072900 +0000" stop="20240626073000 +0000" channel="ts333">
-    <title lang="en">Graphical News Headlines</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B21797A585FCA0EF35036AFB462F3322A949AB1C5.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D512130737CB167B78BFE51682552473DABD48313.jpg"/>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts333">
     <title lang="en">Gandhi Darshan</title>
@@ -577,16 +565,16 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B21797A585FCA0EF35036AFB462F3322A949AB1C5.jpg"/>
   </programme>
   <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts333">
-    <title lang="en">Career Calling</title>
-    <desc lang="en">Vocational counsellors discuss how the youth of the country can succeed in their chosen career with the help of skill development.</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A94D76767D22810B6D2BE106AB8D9020CA148D6AE.jpg"/>
+    <title lang="en">Sree Khetra Madhuri</title>
+    <desc lang="en">A religious leader shares his wisdom and provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4688C0B3627704AF8DC0DA76E33CF7CE7303EB0R.jpg"/>
   </programme>
   <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts333">
-    <title lang="en">Ama Sanskruti Ama Parampara</title>
-    <desc lang="en">The host talks about the wide variety of unique cultures and traditions followed by different communities living in India.</desc>
-    <category lang="en">Art &amp; Culture</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6D37D83657B55A9DFB777B5180C068FD41AA40EW.jpg"/>
+    <title lang="en">Amari Gita Amari Swara Junior</title>
+    <desc lang="en">Talented children compete against each other in several rounds of a singing competition to emerge victorious and win the prestigious title.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1756A59B52FBE475D31A12E4FD8F1DF9F1F94DFC3.jpg"/>
   </programme>
   <programme start="20240626093000 +0000" stop="20240626093500 +0000" channel="ts333">
     <title lang="en">Mukhya Samachar</title>
@@ -595,16 +583,16 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74F55290725E14B2C6292157A6BBB44EB8A24B14O.jpg"/>
   </programme>
   <programme start="20240626093500 +0000" stop="20240626100000 +0000" channel="ts333">
-    <title lang="en">Mun Kichhi Bi Karipare</title>
-    <desc lang="en">Mun Kichhi Bi Karipare</desc>
+    <title lang="en">Bajra Bahu</title>
+    <desc lang="en">Bajra Bahu</desc>
     <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BF180A7B837E9F3E9DEC13C3BBAAC6069E5E2195.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFE32B77F2F25ACAB5F3F567D6495AA4B0354F25O.jpg"/>
   </programme>
   <programme start="20240626100000 +0000" stop="20240626102900 +0000" channel="ts333">
-    <title lang="en">Balighara</title>
-    <desc lang="en">Balighara</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEF8BB5BE834F4982DAC678E29EC0BAE896AB94AA.jpg"/>
+    <title lang="en">Padatika</title>
+    <desc lang="en">Padatika</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2BB2534D79E359899F64D550873F61AD136EDA5I.jpg"/>
   </programme>
   <programme start="20240626102900 +0000" stop="20240626103000 +0000" channel="ts333">
     <title lang="en">Graphical News Headlines</title>
@@ -613,28 +601,22 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B21797A585FCA0EF35036AFB462F3322A949AB1C5.jpg"/>
   </programme>
   <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts333">
-    <title lang="en">Dance Drama</title>
-    <desc lang="en">Various groups of talented artists perform a dance drama in honour of Lord Jagannath and his devotee Purushottama Deva.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04222AF2BD63408D573D03762CDB727E97330590H.jpg"/>
+    <title lang="en">Swapna Ra Odisha</title>
+    <desc lang="en">Interview With Hon,Ble Law Minister Of Odisha</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A970A6BAEDD440532AAA7C86E9CE7BDFE5C7EDT.jpg"/>
   </programme>
   <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts333">
-    <title lang="en">Samaya Suare Jeebana Dhara</title>
-    <desc lang="en">Learn about how one can improve their lifestyle by improving the quality of their thoughts.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB1348F1CD87106737EBF141A2B5156D70BE50C29.jpg"/>
+    <title lang="en">Gitare Gitare Sree Jagannath</title>
+    <desc lang="en">Gitare Gitare Sree Jagannath</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D512130737CB167B78BFE51682552473DABD48313.jpg"/>
   </programme>
-  <programme start="20240626113000 +0000" stop="20240626113200 +0000" channel="ts333">
-    <title lang="en">Graphical News Headlines</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts333">
+    <title lang="en">Current Affairs</title>
+    <desc lang="en">RNU: The host sheds light on prominent developments from the world of sports, weather, international politics and economy in quick succession.</desc>
     <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B21797A585FCA0EF35036AFB462F3322A949AB1C5.jpg"/>
-  </programme>
-  <programme start="20240626113200 +0000" stop="20240626120000 +0000" channel="ts333">
-    <title lang="en">Ama Aain</title>
-    <desc lang="en">The host invites guests and discusses the politics, laws and governance prevalent in the state of Odisha while closely observing the state's growth.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D088A6FDA41984CD122A87CCA2B15A1E766C2D5E5.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2985A440F0F933D3DDE2DD025A41F6B865FE0E38F.jpg"/>
   </programme>
   <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts333">
     <title lang="en">Pallishree</title>
@@ -649,43 +631,40 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/396B4AF50D82E998B102EF698EAEBC2D52A944EA8.jpg"/>
   </programme>
   <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts333">
-    <title lang="en">Health Show</title>
-    <desc lang="en">The hosts present various fitness tips and routines that aid in improving one's health and explain how nutritious diet can help people lead an active lifestyle.</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+    <title lang="en">Anniversary Programme</title>
+    <desc lang="en">Topic- International Day Of Drug Abuse: Day-specific programmes are presented in celebration of several notable national anniversaries and national days of significance.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83A449F81F51E36CA8874036F7784EF4789C4149W.jpg"/>
   </programme>
   <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts333">
     <title lang="en">Samachar</title>
-    <desc lang="en">The host presents the latest economic, social and political updates at length, from across India and the world for the viewers.</desc>
+    <desc lang="en">Evening News Bulletin: The host presents the latest economic, social and political updates at length, from across India and the world for the viewers.</desc>
     <category lang="en">News</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA761077F349A5AF8D7071545F738E0EABC1AFE0.jpg"/>
   </programme>
   <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts333">
-    <title lang="en">LWE Programme</title>
-    <desc lang="en">The host sheds light on extremist insurgencies in various parts of the country and the governmental interventions to resolve the issues.</desc>
+    <title lang="en">Ho Bhakate</title>
+    <desc lang="en">Bhakta Balaram Das</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21B01D9C7252882349B848F3E6A252367C8F3E8E6.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9260402FC41EF27B4B3DE681D57DAF24F4263FFBH.jpg"/>
   </programme>
   <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts333">
-    <title lang="en">Dance Drama</title>
-    <desc lang="en">Various groups of talented artists perform a dance drama in honour of Lord Jagannath and his devotee Purushottama Deva.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04222AF2BD63408D573D03762CDB727E97330590H.jpg"/>
+    <title lang="en">Shree Khetra Madhuri</title>
+    <desc lang="en">Sarbadharma Samanayara Debata Sri Jaganatha</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F66F51D6232049DFBB7FE4B62BE13A3AA713998Q.jpg"/>
   </programme>
   <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts333">
-    <title lang="en">Amruta Jivana</title>
-    <desc lang="en">Amruta Jivana</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CF9CFFF295940BF428585018594678616300485X.jpg"/>
+    <title lang="en">Ama Aain</title>
+    <desc lang="en">The host invites guests and discusses the politics, laws and governance prevalent in the state of Odisha while closely observing the state's growth.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D088A6FDA41984CD122A87CCA2B15A1E766C2D5E5.jpg"/>
   </programme>
   <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts333">
-    <title lang="en">Mun Kichhi Bi Karipare</title>
-    <desc lang="en">Mun Kichhi Bi Karipare</desc>
+    <title lang="en">Bajra Bahu</title>
+    <desc lang="en">Bajra Bahu</desc>
     <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BF180A7B837E9F3E9DEC13C3BBAAC6069E5E2195.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFE32B77F2F25ACAB5F3F567D6495AA4B0354F25O.jpg"/>
   </programme>
   <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts333">
     <title lang="en">Ama Rosei</title>
@@ -697,27 +676,27 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A1F060FC98D19440533F40381728FE2A47CE13AY.jpg"/>
   </programme>
   <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts333">
-    <title lang="en">Samaya Suare Jeebana Dhara</title>
-    <desc lang="en">Learn about how one can improve their lifestyle by improving the quality of their thoughts.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB1348F1CD87106737EBF141A2B5156D70BE50C29.jpg"/>
+    <title lang="en">Amari Gita Amari Swara Junior</title>
+    <desc lang="en">Talented children compete against each other in several rounds of a singing competition to emerge victorious and win the prestigious title.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1756A59B52FBE475D31A12E4FD8F1DF9F1F94DFC3.jpg"/>
   </programme>
   <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts333">
-    <title lang="en">Balighara</title>
-    <desc lang="en">Balighara</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEF8BB5BE834F4982DAC678E29EC0BAE896AB94AA.jpg"/>
+    <title lang="en">Padatika</title>
+    <desc lang="en">Padatika</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2BB2534D79E359899F64D550873F61AD136EDA5I.jpg"/>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts333">
-    <title lang="en">Ama Aain</title>
-    <desc lang="en">The host invites guests and discusses the politics, laws and governance prevalent in the state of Odisha while closely observing the state's growth.</desc>
+    <title lang="en">Chatisha Nijoga</title>
+    <desc lang="en">The host presents information on the latest updates on the Chhatisa Nijoga and the planning of the annual religious festival associated with Lord Jagannath.</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D088A6FDA41984CD122A87CCA2B15A1E766C2D5E5.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DF6BD21B31C08D103B99BBF5E37F5174B595ED6A.jpg"/>
   </programme>
   <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts333">
-    <title lang="en">Chhania</title>
-    <desc lang="en">Chhania</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66FD830776243700E62DE9933FEBB6474905D47AL.jpg"/>
+    <title lang="en">Jagat O Jagannath</title>
+    <desc lang="en">Jagat O Jagannath</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
   </programme>
 </tv>

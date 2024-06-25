@@ -3,4 +3,1330 @@
   <channel id="1771">
     <display-name lang="en">Express News</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625055000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771030.jpg"/>
+  </programme>
+  <programme start="20240625055000 +0530" stop="20240625055500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771031.jpg"/>
+  </programme>
+  <programme start="20240625055500 +0530" stop="20240625060000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771032.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625062000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771033.jpg"/>
+  </programme>
+  <programme start="20240625062000 +0530" stop="20240625062500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771034.jpg"/>
+  </programme>
+  <programme start="20240625062500 +0530" stop="20240625063000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771035.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625065000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771036.jpg"/>
+  </programme>
+  <programme start="20240625065000 +0530" stop="20240625065500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771037.jpg"/>
+  </programme>
+  <programme start="20240625065500 +0530" stop="20240625070000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771038.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625075000 +0530" channel="1771">
+    <title lang="en">Feature Live</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771039.jpg"/>
+  </programme>
+  <programme start="20240625075000 +0530" stop="20240625075500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771040.jpg"/>
+  </programme>
+  <programme start="20240625075500 +0530" stop="20240625080000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771041.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625085000 +0530" channel="1771">
+    <title lang="en">Good Morning Express</title>
+    <desc lang="en">The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771042.jpg"/>
+  </programme>
+  <programme start="20240625085000 +0530" stop="20240625085500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771043.jpg"/>
+  </programme>
+  <programme start="20240625085500 +0530" stop="20240625090000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771044.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625092000 +0530" channel="1771">
+    <title lang="en">Express News</title>
+    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771045.jpg"/>
+  </programme>
+  <programme start="20240625092000 +0530" stop="20240625092500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771046.jpg"/>
+  </programme>
+  <programme start="20240625092500 +0530" stop="20240625093000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771047.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625095000 +0530" channel="1771">
+    <title lang="en">Express News Break 5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771048.jpg"/>
+  </programme>
+  <programme start="20240625095000 +0530" stop="20240625095500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771049.jpg"/>
+  </programme>
+  <programme start="20240625095500 +0530" stop="20240625100000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771050.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625102000 +0530" channel="1771">
+    <title lang="en">Express News</title>
+    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771051.jpg"/>
+  </programme>
+  <programme start="20240625102000 +0530" stop="20240625102500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771052.jpg"/>
+  </programme>
+  <programme start="20240625102500 +0530" stop="20240625103000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771053.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625105000 +0530" channel="1771">
+    <title lang="en">Express News Break 5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771054.jpg"/>
+  </programme>
+  <programme start="20240625105000 +0530" stop="20240625105500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771055.jpg"/>
+  </programme>
+  <programme start="20240625105500 +0530" stop="20240625110000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771056.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625112000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771057.jpg"/>
+  </programme>
+  <programme start="20240625112000 +0530" stop="20240625112500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771058.jpg"/>
+  </programme>
+  <programme start="20240625112500 +0530" stop="20240625113000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771059.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625115000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771060.jpg"/>
+  </programme>
+  <programme start="20240625115000 +0530" stop="20240625115500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771061.jpg"/>
+  </programme>
+  <programme start="20240625115500 +0530" stop="20240625120000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771062.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625122000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771063.jpg"/>
+  </programme>
+  <programme start="20240625122000 +0530" stop="20240625122500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771064.jpg"/>
+  </programme>
+  <programme start="20240625122500 +0530" stop="20240625123000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771065.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625125000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771066.jpg"/>
+  </programme>
+  <programme start="20240625125000 +0530" stop="20240625125500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771067.jpg"/>
+  </programme>
+  <programme start="20240625125500 +0530" stop="20240625130000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771068.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625132000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771069.jpg"/>
+  </programme>
+  <programme start="20240625132000 +0530" stop="20240625132500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771070.jpg"/>
+  </programme>
+  <programme start="20240625132500 +0530" stop="20240625133000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771071.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625135000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771072.jpg"/>
+  </programme>
+  <programme start="20240625135000 +0530" stop="20240625135500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771073.jpg"/>
+  </programme>
+  <programme start="20240625135500 +0530" stop="20240625140000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771074.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625142000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771075.jpg"/>
+  </programme>
+  <programme start="20240625142000 +0530" stop="20240625142500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771076.jpg"/>
+  </programme>
+  <programme start="20240625142500 +0530" stop="20240625143000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771077.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625145000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771078.jpg"/>
+  </programme>
+  <programme start="20240625145000 +0530" stop="20240625145500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771079.jpg"/>
+  </programme>
+  <programme start="20240625145500 +0530" stop="20240625150000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771080.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625155000 +0530" channel="1771">
+    <title lang="en">Express Online</title>
+    <desc lang="en">The host engages in an insightful discussion with an eminent panel of experts about the latest news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771081.jpg"/>
+  </programme>
+  <programme start="20240625155000 +0530" stop="20240625155500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771082.jpg"/>
+  </programme>
+  <programme start="20240625155500 +0530" stop="20240625160000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771083.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625165000 +0530" channel="1771">
+    <title lang="en">Feature Live</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771084.jpg"/>
+  </programme>
+  <programme start="20240625165000 +0530" stop="20240625165500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771085.jpg"/>
+  </programme>
+  <programme start="20240625165500 +0530" stop="20240625170000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771086.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625172000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771087.jpg"/>
+  </programme>
+  <programme start="20240625172000 +0530" stop="20240625172500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771088.jpg"/>
+  </programme>
+  <programme start="20240625172500 +0530" stop="20240625173000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771089.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625175000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771090.jpg"/>
+  </programme>
+  <programme start="20240625175000 +0530" stop="20240625175500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771091.jpg"/>
+  </programme>
+  <programme start="20240625175500 +0530" stop="20240625180000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771092.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625182000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771093.jpg"/>
+  </programme>
+  <programme start="20240625182000 +0530" stop="20240625182500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771094.jpg"/>
+  </programme>
+  <programme start="20240625182500 +0530" stop="20240625183000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771095.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625185000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771096.jpg"/>
+  </programme>
+  <programme start="20240625185000 +0530" stop="20240625185500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771097.jpg"/>
+  </programme>
+  <programme start="20240625185500 +0530" stop="20240625190000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771098.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625195000 +0530" channel="1771">
+    <title lang="en">Express Online</title>
+    <desc lang="en">The host engages in an insightful discussion with an eminent panel of experts about the latest news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771099.jpg"/>
+  </programme>
+  <programme start="20240625195000 +0530" stop="20240625195500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771100.jpg"/>
+  </programme>
+  <programme start="20240625195500 +0530" stop="20240625200000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771101.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625202000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771102.jpg"/>
+  </programme>
+  <programme start="20240625202000 +0530" stop="20240625202500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771103.jpg"/>
+  </programme>
+  <programme start="20240625202500 +0530" stop="20240625203000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771104.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625205000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771105.jpg"/>
+  </programme>
+  <programme start="20240625205000 +0530" stop="20240625205500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771106.jpg"/>
+  </programme>
+  <programme start="20240625205500 +0530" stop="20240625210000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771107.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625212000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771108.jpg"/>
+  </programme>
+  <programme start="20240625212000 +0530" stop="20240625212500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771109.jpg"/>
+  </programme>
+  <programme start="20240625212500 +0530" stop="20240625213000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771110.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625215000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771111.jpg"/>
+  </programme>
+  <programme start="20240625215000 +0530" stop="20240625215500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771112.jpg"/>
+  </programme>
+  <programme start="20240625215500 +0530" stop="20240625220000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771113.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625222000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771114.jpg"/>
+  </programme>
+  <programme start="20240625222000 +0530" stop="20240625222500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771115.jpg"/>
+  </programme>
+  <programme start="20240625222500 +0530" stop="20240625223000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771116.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625225000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771117.jpg"/>
+  </programme>
+  <programme start="20240625225000 +0530" stop="20240625225500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771118.jpg"/>
+  </programme>
+  <programme start="20240625225500 +0530" stop="20240625230000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771119.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625232000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771120.jpg"/>
+  </programme>
+  <programme start="20240625232000 +0530" stop="20240625232500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771121.jpg"/>
+  </programme>
+  <programme start="20240625232500 +0530" stop="20240625233000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771122.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240625235000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771123.jpg"/>
+  </programme>
+  <programme start="20240625235000 +0530" stop="20240625235500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771124.jpg"/>
+  </programme>
+  <programme start="20240625235500 +0530" stop="20240626000000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251771125.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626005000 +0530" channel="1771">
+    <title lang="en">Good Morning Express</title>
+    <desc lang="en">The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771000.jpg"/>
+  </programme>
+  <programme start="20240626005000 +0530" stop="20240626005500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771001.jpg"/>
+  </programme>
+  <programme start="20240626005500 +0530" stop="20240626010000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771002.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626012000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771003.jpg"/>
+  </programme>
+  <programme start="20240626012000 +0530" stop="20240626012500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771004.jpg"/>
+  </programme>
+  <programme start="20240626012500 +0530" stop="20240626013000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771005.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626015000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771006.jpg"/>
+  </programme>
+  <programme start="20240626015000 +0530" stop="20240626015500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771007.jpg"/>
+  </programme>
+  <programme start="20240626015500 +0530" stop="20240626020000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771008.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626022000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771009.jpg"/>
+  </programme>
+  <programme start="20240626022000 +0530" stop="20240626022500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771010.jpg"/>
+  </programme>
+  <programme start="20240626022500 +0530" stop="20240626023000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771011.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626025000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771012.jpg"/>
+  </programme>
+  <programme start="20240626025000 +0530" stop="20240626025500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771013.jpg"/>
+  </programme>
+  <programme start="20240626025500 +0530" stop="20240626030000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771014.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626032000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771015.jpg"/>
+  </programme>
+  <programme start="20240626032000 +0530" stop="20240626032500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771016.jpg"/>
+  </programme>
+  <programme start="20240626032500 +0530" stop="20240626033000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771017.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626035000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771018.jpg"/>
+  </programme>
+  <programme start="20240626035000 +0530" stop="20240626035500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771019.jpg"/>
+  </programme>
+  <programme start="20240626035500 +0530" stop="20240626040000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771020.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626042000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771021.jpg"/>
+  </programme>
+  <programme start="20240626042000 +0530" stop="20240626042500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771022.jpg"/>
+  </programme>
+  <programme start="20240626042500 +0530" stop="20240626043000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771023.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626045000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771024.jpg"/>
+  </programme>
+  <programme start="20240626045000 +0530" stop="20240626045500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771025.jpg"/>
+  </programme>
+  <programme start="20240626045500 +0530" stop="20240626050000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771026.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626052000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771027.jpg"/>
+  </programme>
+  <programme start="20240626052000 +0530" stop="20240626052500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771028.jpg"/>
+  </programme>
+  <programme start="20240626052500 +0530" stop="20240626053000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771029.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771030.jpg"/>
+  </programme>
+  <programme start="20240626055000 +0530" stop="20240626055500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771031.jpg"/>
+  </programme>
+  <programme start="20240626055500 +0530" stop="20240626060000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771032.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626062000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771033.jpg"/>
+  </programme>
+  <programme start="20240626062000 +0530" stop="20240626062500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771034.jpg"/>
+  </programme>
+  <programme start="20240626062500 +0530" stop="20240626063000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771035.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626065000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771036.jpg"/>
+  </programme>
+  <programme start="20240626065000 +0530" stop="20240626065500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771037.jpg"/>
+  </programme>
+  <programme start="20240626065500 +0530" stop="20240626070000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771038.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626075000 +0530" channel="1771">
+    <title lang="en">Feature Live</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771039.jpg"/>
+  </programme>
+  <programme start="20240626075000 +0530" stop="20240626075500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771040.jpg"/>
+  </programme>
+  <programme start="20240626075500 +0530" stop="20240626080000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771041.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626085000 +0530" channel="1771">
+    <title lang="en">Good Morning Express</title>
+    <desc lang="en">The host presents all the major news updates and developments pertaining to politics, society and economy from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771042.jpg"/>
+  </programme>
+  <programme start="20240626085000 +0530" stop="20240626085500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771043.jpg"/>
+  </programme>
+  <programme start="20240626085500 +0530" stop="20240626090000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771044.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626092000 +0530" channel="1771">
+    <title lang="en">Express News</title>
+    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771045.jpg"/>
+  </programme>
+  <programme start="20240626092000 +0530" stop="20240626092500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771046.jpg"/>
+  </programme>
+  <programme start="20240626092500 +0530" stop="20240626093000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771047.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626095000 +0530" channel="1771">
+    <title lang="en">Express News Break 5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771048.jpg"/>
+  </programme>
+  <programme start="20240626095000 +0530" stop="20240626095500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771049.jpg"/>
+  </programme>
+  <programme start="20240626095500 +0530" stop="20240626100000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771050.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626102000 +0530" channel="1771">
+    <title lang="en">Express News</title>
+    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771051.jpg"/>
+  </programme>
+  <programme start="20240626102000 +0530" stop="20240626102500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771052.jpg"/>
+  </programme>
+  <programme start="20240626102500 +0530" stop="20240626103000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771053.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626105000 +0530" channel="1771">
+    <title lang="en">Express News Break 5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771054.jpg"/>
+  </programme>
+  <programme start="20240626105000 +0530" stop="20240626105500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771055.jpg"/>
+  </programme>
+  <programme start="20240626105500 +0530" stop="20240626110000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771056.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626112000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771057.jpg"/>
+  </programme>
+  <programme start="20240626112000 +0530" stop="20240626112500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771058.jpg"/>
+  </programme>
+  <programme start="20240626112500 +0530" stop="20240626113000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771059.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626115000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771060.jpg"/>
+  </programme>
+  <programme start="20240626115000 +0530" stop="20240626115500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771061.jpg"/>
+  </programme>
+  <programme start="20240626115500 +0530" stop="20240626120000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771062.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626122000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771063.jpg"/>
+  </programme>
+  <programme start="20240626122000 +0530" stop="20240626122500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771064.jpg"/>
+  </programme>
+  <programme start="20240626122500 +0530" stop="20240626123000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771065.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626125000 +0530" channel="1771">
+    <title lang="en">Express Now</title>
+    <desc lang="en">The host presents news headlines, latest happenings, significant updates and developments from different parts of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771066.jpg"/>
+  </programme>
+  <programme start="20240626125000 +0530" stop="20240626125500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771067.jpg"/>
+  </programme>
+  <programme start="20240626125500 +0530" stop="20240626130000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771068.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626132000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771069.jpg"/>
+  </programme>
+  <programme start="20240626132000 +0530" stop="20240626132500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771070.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0530" stop="20240626133000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771071.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626135000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771072.jpg"/>
+  </programme>
+  <programme start="20240626135000 +0530" stop="20240626135500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771073.jpg"/>
+  </programme>
+  <programme start="20240626135500 +0530" stop="20240626140000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771074.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626142000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771075.jpg"/>
+  </programme>
+  <programme start="20240626142000 +0530" stop="20240626142500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771076.jpg"/>
+  </programme>
+  <programme start="20240626142500 +0530" stop="20240626143000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771077.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626145000 +0530" channel="1771">
+    <title lang="en">Express Bangla</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771078.jpg"/>
+  </programme>
+  <programme start="20240626145000 +0530" stop="20240626145500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771079.jpg"/>
+  </programme>
+  <programme start="20240626145500 +0530" stop="20240626150000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771080.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626155000 +0530" channel="1771">
+    <title lang="en">Express Online</title>
+    <desc lang="en">The host engages in an insightful discussion with an eminent panel of experts about the latest news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771081.jpg"/>
+  </programme>
+  <programme start="20240626155000 +0530" stop="20240626155500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771082.jpg"/>
+  </programme>
+  <programme start="20240626155500 +0530" stop="20240626160000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771083.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626165000 +0530" channel="1771">
+    <title lang="en">Feature Live</title>
+    <desc lang="en">The host presents a detailed analysis of some of the most important and major news, updates and developments of the day, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771084.jpg"/>
+  </programme>
+  <programme start="20240626165000 +0530" stop="20240626165500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771085.jpg"/>
+  </programme>
+  <programme start="20240626165500 +0530" stop="20240626170000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771086.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626172000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771087.jpg"/>
+  </programme>
+  <programme start="20240626172000 +0530" stop="20240626172500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771088.jpg"/>
+  </programme>
+  <programme start="20240626172500 +0530" stop="20240626173000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771089.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626175000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771090.jpg"/>
+  </programme>
+  <programme start="20240626175000 +0530" stop="20240626175500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771091.jpg"/>
+  </programme>
+  <programme start="20240626175500 +0530" stop="20240626180000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771092.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626182000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771093.jpg"/>
+  </programme>
+  <programme start="20240626182000 +0530" stop="20240626182500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771094.jpg"/>
+  </programme>
+  <programme start="20240626182500 +0530" stop="20240626183000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771095.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626185000 +0530" channel="1771">
+    <title lang="en">Express Today</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people living in the 23 districts of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771096.jpg"/>
+  </programme>
+  <programme start="20240626185000 +0530" stop="20240626185500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771097.jpg"/>
+  </programme>
+  <programme start="20240626185500 +0530" stop="20240626190000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771098.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626195000 +0530" channel="1771">
+    <title lang="en">Express Online</title>
+    <desc lang="en">The host engages in an insightful discussion with an eminent panel of experts about the latest news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771099.jpg"/>
+  </programme>
+  <programme start="20240626195000 +0530" stop="20240626195500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771100.jpg"/>
+  </programme>
+  <programme start="20240626195500 +0530" stop="20240626200000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771101.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626202000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771102.jpg"/>
+  </programme>
+  <programme start="20240626202000 +0530" stop="20240626202500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771103.jpg"/>
+  </programme>
+  <programme start="20240626202500 +0530" stop="20240626203000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771104.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626205000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771105.jpg"/>
+  </programme>
+  <programme start="20240626205000 +0530" stop="20240626205500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771106.jpg"/>
+  </programme>
+  <programme start="20240626205500 +0530" stop="20240626210000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771107.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626212000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771108.jpg"/>
+  </programme>
+  <programme start="20240626212000 +0530" stop="20240626212500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771109.jpg"/>
+  </programme>
+  <programme start="20240626212500 +0530" stop="20240626213000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771110.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626215000 +0530" channel="1771">
+    <title lang="en">Express Prime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771111.jpg"/>
+  </programme>
+  <programme start="20240626215000 +0530" stop="20240626215500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771112.jpg"/>
+  </programme>
+  <programme start="20240626215500 +0530" stop="20240626220000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771113.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626222000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771114.jpg"/>
+  </programme>
+  <programme start="20240626222000 +0530" stop="20240626222500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771115.jpg"/>
+  </programme>
+  <programme start="20240626222500 +0530" stop="20240626223000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771116.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626225000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771117.jpg"/>
+  </programme>
+  <programme start="20240626225000 +0530" stop="20240626225500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771118.jpg"/>
+  </programme>
+  <programme start="20240626225500 +0530" stop="20240626230000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771119.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626232000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771120.jpg"/>
+  </programme>
+  <programme start="20240626232000 +0530" stop="20240626232500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771121.jpg"/>
+  </programme>
+  <programme start="20240626232500 +0530" stop="20240626233000 +0530" channel="1771">
+    <title lang="en">5 Minutes 25 News</title>
+    <desc lang="en">The host presents the top 25 news headlines, important developments and major updates that impact people living across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771122.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240626235000 +0530" channel="1771">
+    <title lang="en">Express Roundup</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the state of West Bengal.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771123.jpg"/>
+  </programme>
+  <programme start="20240626235000 +0530" stop="20240626235500 +0530" channel="1771">
+    <title lang="en">Break</title>
+    <desc lang="en">The host presents the latest updates about socio-political, economic and sports-related issues of national and global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261771124.jpg"/>
+  </programme>
 </tv>

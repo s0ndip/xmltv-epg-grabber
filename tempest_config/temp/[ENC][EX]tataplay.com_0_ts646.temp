@@ -363,11 +363,17 @@
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD0957BA9E26F04396F6064D242C82D9A570DDF4P.jpg"/>
   </programme>
-  <programme start="20240626043000 +0000" stop="20240626080000 +0000" channel="ts646">
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts646">
     <title lang="en">Swayam Prabha Live</title>
     <desc lang="en">Swayam Prabha Live</desc>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43A39335C50B13A3856F18505C191770816BF363Z.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626080000 +0000" channel="ts646">
+    <title lang="en">School of Interdisciplinary and Trans-disciplinary Studies</title>
+    <desc lang="en">Ms.Bhavna,"Assessment of Urban Heat Island Effect in Delhi and Environs Using Geospatial Technology"</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B99387A86D42920D78EE8233EDAECAADAEE6C5D67.jpg"/>
   </programme>
   <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts646">
     <title lang="en">Korean Language</title>

@@ -3,4 +3,556 @@
   <channel id="962">
     <display-name lang="en">Boogle Bollywood</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625053500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962011.jpg"/>
+  </programme>
+  <programme start="20240625053500 +0530" stop="20240625060000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962012.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="962">
+    <title lang="en">Devotional</title>
+    <desc lang="en">Renowned musicians sing melodious devotional songs in praise of the Almighty and inspire followers to lead a spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962014.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625081500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962015.jpg"/>
+  </programme>
+  <programme start="20240625081500 +0530" stop="20240625093000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962016.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625093500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962017.jpg"/>
+  </programme>
+  <programme start="20240625093500 +0530" stop="20240625103000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962018.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625103500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962019.jpg"/>
+  </programme>
+  <programme start="20240625103500 +0530" stop="20240625113000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962020.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625113500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962021.jpg"/>
+  </programme>
+  <programme start="20240625113500 +0530" stop="20240625114500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962022.jpg"/>
+  </programme>
+  <programme start="20240625114500 +0530" stop="20240625121500 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962023.jpg"/>
+  </programme>
+  <programme start="20240625121500 +0530" stop="20240625122000 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962024.jpg"/>
+  </programme>
+  <programme start="20240625122000 +0530" stop="20240625123000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962025.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625133000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962026.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625133500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962027.jpg"/>
+  </programme>
+  <programme start="20240625133500 +0530" stop="20240625143000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962028.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625143500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962029.jpg"/>
+  </programme>
+  <programme start="20240625143500 +0530" stop="20240625153000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962030.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625153500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962031.jpg"/>
+  </programme>
+  <programme start="20240625153500 +0530" stop="20240625154000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962032.jpg"/>
+  </programme>
+  <programme start="20240625154000 +0530" stop="20240625160000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962033.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625160500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962034.jpg"/>
+  </programme>
+  <programme start="20240625160500 +0530" stop="20240625163000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962035.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625163500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962036.jpg"/>
+  </programme>
+  <programme start="20240625163500 +0530" stop="20240625173000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962037.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625173500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962038.jpg"/>
+  </programme>
+  <programme start="20240625173500 +0530" stop="20240625180000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962039.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625181500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962040.jpg"/>
+  </programme>
+  <programme start="20240625181500 +0530" stop="20240625193000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962041.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625193500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962042.jpg"/>
+  </programme>
+  <programme start="20240625193500 +0530" stop="20240625195000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962043.jpg"/>
+  </programme>
+  <programme start="20240625195000 +0530" stop="20240625203000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962044.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625203500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962045.jpg"/>
+  </programme>
+  <programme start="20240625203500 +0530" stop="20240625213000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962046.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="962">
+    <title lang="en">B - Town Bulletin</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962047.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962048.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625224500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962049.jpg"/>
+  </programme>
+  <programme start="20240625224500 +0530" stop="20240625233000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962050.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625962051.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626000500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962000.jpg"/>
+  </programme>
+  <programme start="20240626000500 +0530" stop="20240626002000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962001.jpg"/>
+  </programme>
+  <programme start="20240626002000 +0530" stop="20240626013000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626013500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962003.jpg"/>
+  </programme>
+  <programme start="20240626013500 +0530" stop="20240626014500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962004.jpg"/>
+  </programme>
+  <programme start="20240626014500 +0530" stop="20240626023000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962005.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626023500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962006.jpg"/>
+  </programme>
+  <programme start="20240626023500 +0530" stop="20240626040000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626040500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962008.jpg"/>
+  </programme>
+  <programme start="20240626040500 +0530" stop="20240626042000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962009.jpg"/>
+  </programme>
+  <programme start="20240626042000 +0530" stop="20240626053000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626053500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962011.jpg"/>
+  </programme>
+  <programme start="20240626053500 +0530" stop="20240626060000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962012.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="962">
+    <title lang="en">Devotional</title>
+    <desc lang="en">Renowned musicians sing melodious devotional songs in praise of the Almighty and inspire followers to lead a spiritual life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626080000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962014.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626081500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962015.jpg"/>
+  </programme>
+  <programme start="20240626081500 +0530" stop="20240626093000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962016.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626093500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962017.jpg"/>
+  </programme>
+  <programme start="20240626093500 +0530" stop="20240626103000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962018.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626103500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962019.jpg"/>
+  </programme>
+  <programme start="20240626103500 +0530" stop="20240626113000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962020.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626113500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962021.jpg"/>
+  </programme>
+  <programme start="20240626113500 +0530" stop="20240626114500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962022.jpg"/>
+  </programme>
+  <programme start="20240626114500 +0530" stop="20240626121500 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962023.jpg"/>
+  </programme>
+  <programme start="20240626121500 +0530" stop="20240626122000 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962024.jpg"/>
+  </programme>
+  <programme start="20240626122000 +0530" stop="20240626123000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962025.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626133000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962026.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626133500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962027.jpg"/>
+  </programme>
+  <programme start="20240626133500 +0530" stop="20240626143000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626143500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962029.jpg"/>
+  </programme>
+  <programme start="20240626143500 +0530" stop="20240626153000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962030.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626153500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962031.jpg"/>
+  </programme>
+  <programme start="20240626153500 +0530" stop="20240626154000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962032.jpg"/>
+  </programme>
+  <programme start="20240626154000 +0530" stop="20240626160000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962033.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626160500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962034.jpg"/>
+  </programme>
+  <programme start="20240626160500 +0530" stop="20240626163000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962035.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626163500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962036.jpg"/>
+  </programme>
+  <programme start="20240626163500 +0530" stop="20240626173000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962037.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626173500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962038.jpg"/>
+  </programme>
+  <programme start="20240626173500 +0530" stop="20240626180000 +0530" channel="962">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962039.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626181500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962040.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0530" stop="20240626193000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962041.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626193500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962042.jpg"/>
+  </programme>
+  <programme start="20240626193500 +0530" stop="20240626195000 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962043.jpg"/>
+  </programme>
+  <programme start="20240626195000 +0530" stop="20240626203000 +0530" channel="962">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962044.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626203500 +0530" channel="962">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962045.jpg"/>
+  </programme>
+  <programme start="20240626203500 +0530" stop="20240626213000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962046.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="962">
+    <title lang="en">B - Town Bulletin</title>
+    <desc lang="en">The host sheds light on the latest releases, most trending news, updates, gossip and developments from the Bollywood industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962047.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="962">
+    <title lang="en">Bollywood Baaja</title>
+    <desc lang="en">A comprehensive collection of some of the most popular Hindi film songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962048.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626224500 +0530" channel="962">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962049.jpg"/>
+  </programme>
+  <programme start="20240626224500 +0530" stop="20240626233000 +0530" channel="962">
+    <title lang="en">Tadka Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the latest Punjabi songs by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626962050.jpg"/>
+  </programme>
 </tv>

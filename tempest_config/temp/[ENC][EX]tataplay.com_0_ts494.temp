@@ -155,4 +155,85 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B13574E354C603E74E72D7FF1857402D54F24CB4Z.jpg"/>
   </programme>
+  <programme start="20240625195000 +0000" stop="20240625211500 +0000" channel="ts494">
+    <title lang="en">Fantastic Four: Rise Of The Silver Surfer</title>
+    <desc lang="en">The Fantastic Four faces the Silver Surfer, an intergalactic messenger who wants to prepare the Earth for the arrival of his planet-devouring master Galactus.</desc>
+    <credits>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Chris Evans</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kerry Washington</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D276C34C804CEBB3E87BD898DF2C740091686B5T.jpg"/>
+  </programme>
+  <programme start="20240625211500 +0000" stop="20240625223300 +0000" channel="ts494">
+    <title lang="en">In The Blood</title>
+    <desc lang="en">The sudden disappearance of her husband during their honeymoon compels Ava, a trained fighter, to put her fighting skills to good use and pursue Derek's kidnappers.</desc>
+    <credits>
+      <actor>Gina Carano</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Ismael Cruz Cordova</actor>
+      <actor>Luis Guzman</actor>
+      <actor>Treat Williams</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D97014410A92538CFE1CC3BB8E970FC5C85C03CD2.jpg"/>
+  </programme>
+  <programme start="20240625223300 +0000" stop="20240625231200 +0000" channel="ts494">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625231200 +0000" stop="20240626012900 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626012900 +0000" stop="20240626040900 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626040900 +0000" stop="20240626065700 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626065700 +0000" stop="20240626090700 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626090700 +0000" stop="20240626111400 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626111400 +0000" stop="20240626132500 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0000" stop="20240626162600 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626162600 +0000" stop="20240626183700 +0000" channel="ts494">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
 </tv>

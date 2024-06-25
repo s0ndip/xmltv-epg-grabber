@@ -250,7 +250,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.25.</episode-num>
   </programme>
-  <programme start="20240625192000 +0000" stop="20240625205000 +0000" channel="ts406">
+  <programme start="20240625191000 +0000" stop="20240625205000 +0000" channel="ts406">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Rohit Shetty asks the contestants to perform the stunts in pairs. During one of the tasks, Rajiv gets a literal shock due to electricity.</desc>
     <credits>
@@ -378,7 +378,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/810B2A219B6D868CEED13B94EEE371C5C0C158339.jpg"/>
     <episode-num system="xmltv_ns">.15.</episode-num>
   </programme>
-  <programme start="20240626062000 +0000" stop="20240626074000 +0000" channel="ts406">
+  <programme start="20240626062000 +0000" stop="20240626080000 +0000" channel="ts406">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -390,7 +390,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.25.</episode-num>
   </programme>
-  <programme start="20240626074000 +0000" stop="20240626090000 +0000" channel="ts406">
+  <programme start="20240626080000 +0000" stop="20240626093000 +0000" channel="ts406">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Kanika and Rubina team up for a task and they fail to complete the same. During the task, a misunderstanding leads to an argument between the duo.</desc>
     <credits>
@@ -399,17 +399,6 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
     <episode-num system="xmltv_ns">12.7.</episode-num>
-  </programme>
-  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts406">
-    <title lang="en">Elovator Pitch</title>
-    <desc lang="en">10 participants have to try and impress a girl within 30 seconds in an elevator and the winner gets a chance to go on a date with her.</desc>
-    <credits>
-      <actor>Cyrus Sahukar</actor>
-      <actor>Gaelyn Mendonca</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3178F6EC77FEA5195C6F5E1137E45C3C764F5133E.jpg"/>
-    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts406">
     <title lang="en">Splitsvilla</title>
@@ -423,33 +412,44 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.24.</episode-num>
   </programme>
-  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts406">
+  <programme start="20240626103000 +0000" stop="20240626112000 +0000" channel="ts406">
     <title lang="en">Roadies Karm Ya Kaand</title>
     <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts406">
+  <programme start="20240626112000 +0000" stop="20240626122000 +0000" channel="ts406">
     <title lang="en">Roadies Karm Ya Kaand</title>
     <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20240626123000 +0000" stop="20240626132000 +0000" channel="ts406">
+  <programme start="20240626122000 +0000" stop="20240626130000 +0000" channel="ts406">
     <title lang="en">Roadies Karm Ya Kaand</title>
     <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
     <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
-  <programme start="20240626132000 +0000" stop="20240626143000 +0000" channel="ts406">
+  <programme start="20240626130000 +0000" stop="20240626134000 +0000" channel="ts406">
     <title lang="en">Roadies Karm Ya Kaand</title>
     <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20240626134000 +0000" stop="20240626143000 +0000" channel="ts406">
+    <title lang="en">Elovator Pitch</title>
+    <desc lang="en">10 participants have to try and impress a girl within 30 seconds in an elevator and the winner gets a chance to go on a date with her.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Gaelyn Mendonca</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3178F6EC77FEA5195C6F5E1137E45C3C764F5133E.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
   <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts406">
     <title lang="en">Splitsvilla</title>
@@ -463,7 +463,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.23.</episode-num>
   </programme>
-  <programme start="20240626153000 +0000" stop="20240626165000 +0000" channel="ts406">
+  <programme start="20240626153000 +0000" stop="20240626170000 +0000" channel="ts406">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Kanika and Rubina team up for a task and they fail to complete the same. During the task, a misunderstanding leads to an argument between the duo.</desc>
     <credits>
@@ -473,7 +473,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
     <episode-num system="xmltv_ns">12.7.</episode-num>
   </programme>
-  <programme start="20240626165000 +0000" stop="20240626175000 +0000" channel="ts406">
+  <programme start="20240626170000 +0000" stop="20240626180000 +0000" channel="ts406">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -485,7 +485,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.22.</episode-num>
   </programme>
-  <programme start="20240626175000 +0000" stop="20240626192000 +0000" channel="ts406">
+  <programme start="20240626180000 +0000" stop="20240626191000 +0000" channel="ts406">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>

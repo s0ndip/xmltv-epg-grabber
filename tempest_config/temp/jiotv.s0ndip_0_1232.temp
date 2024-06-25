@@ -3,4 +3,558 @@
   <channel id="1232">
     <display-name lang="en">Hi Dost!</display-name>
   </channel>
+  <programme start="20240625060000 +0530" stop="20240625061500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232009.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0530" stop="20240625063000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232010.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625064500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232011.jpg"/>
+  </programme>
+  <programme start="20240625064500 +0530" stop="20240625070000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232012.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232013.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232014.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232015.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625101500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232016.jpg"/>
+  </programme>
+  <programme start="20240625101500 +0530" stop="20240625103000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232017.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625104500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232018.jpg"/>
+  </programme>
+  <programme start="20240625104500 +0530" stop="20240625110000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232019.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232020.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232021.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232022.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625141500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232023.jpg"/>
+  </programme>
+  <programme start="20240625141500 +0530" stop="20240625143000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232024.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625144500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232025.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0530" stop="20240625150000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232026.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232027.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232028.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232029.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625181500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232030.jpg"/>
+  </programme>
+  <programme start="20240625181500 +0530" stop="20240625183000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232031.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625184500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232032.jpg"/>
+  </programme>
+  <programme start="20240625184500 +0530" stop="20240625190000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232033.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232034.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232035.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232036.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625221500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232037.jpg"/>
+  </programme>
+  <programme start="20240625221500 +0530" stop="20240625223000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232038.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625224500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232039.jpg"/>
+  </programme>
+  <programme start="20240625224500 +0530" stop="20240625230000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232040.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251232041.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232000.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232001.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626021500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232002.jpg"/>
+  </programme>
+  <programme start="20240626021500 +0530" stop="20240626023000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232003.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626024500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232004.jpg"/>
+  </programme>
+  <programme start="20240626024500 +0530" stop="20240626030000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232006.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232007.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232008.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626061500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232009.jpg"/>
+  </programme>
+  <programme start="20240626061500 +0530" stop="20240626063000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232010.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626064500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232011.jpg"/>
+  </programme>
+  <programme start="20240626064500 +0530" stop="20240626070000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232012.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626080000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232013.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626090000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232014.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232015.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626101500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232016.jpg"/>
+  </programme>
+  <programme start="20240626101500 +0530" stop="20240626103000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232017.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626104500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232018.jpg"/>
+  </programme>
+  <programme start="20240626104500 +0530" stop="20240626110000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232019.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626120000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232020.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626130000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232021.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626140000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232022.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626141500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232023.jpg"/>
+  </programme>
+  <programme start="20240626141500 +0530" stop="20240626143000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232024.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626144500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232025.jpg"/>
+  </programme>
+  <programme start="20240626144500 +0530" stop="20240626150000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232026.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626160000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232027.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626170000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232028.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626180000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232029.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626181500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232030.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0530" stop="20240626183000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232031.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626184500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232032.jpg"/>
+  </programme>
+  <programme start="20240626184500 +0530" stop="20240626190000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232033.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626200000 +0530" channel="1232">
+    <title lang="en">Better Plan For Better Life</title>
+    <desc lang="en">The filmmaker sheds light on the technological advancements and scientific breakthroughs made over the years and showcases their influence on people's health.</desc>
+    <credits>
+      <director>Wang Milin</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232034.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626210000 +0530" channel="1232">
+    <title lang="en">Guardian of Ancient Oath</title>
+    <desc lang="en">Driven by vengeance, the children of a warring chieftain join hands with the demon to regain their lost empire. However, the demon secretly plans on unleashing a deadly monster upon mankind.</desc>
+    <credits>
+      <actor>Ren Gao</actor>
+      <actor>Junchen Guo</actor>
+      <actor>Lin Liu</actor>
+      <actor>Zhiwei Liu</actor>
+      <actor>Zuer Song</actor>
+      <actor>Karry Wang</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232035.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626220000 +0530" channel="1232">
+    <title lang="en">On The Road</title>
+    <desc lang="en">A look at some of the unfamiliar but charming tourist destinations in Korea through an exploration of its scenic spots and delicious cuisine.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232036.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626221500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232037.jpg"/>
+  </programme>
+  <programme start="20240626221500 +0530" stop="20240626223000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232038.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626224500 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232039.jpg"/>
+  </programme>
+  <programme start="20240626224500 +0530" stop="20240626230000 +0530" channel="1232">
+    <title lang="en">Amazing Yoyo</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261232040.jpg"/>
+  </programme>
 </tv>

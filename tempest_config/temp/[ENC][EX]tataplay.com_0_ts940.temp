@@ -256,10 +256,10 @@
     <episode-num system="xmltv_ns">.37.</episode-num>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts940">
-    <title lang="en">Naarigondu Seere Live</title>
-    <desc lang="en">S02 E26- The host highlights the features of different saris and invites viewers to guess the prices with a chance to win the saris, live.</desc>
+    <title lang="en">Narigondu Sire Live</title>
+    <desc lang="en">S02 E26- The host poses various questions to the viewers based on trivia and allows them an opportunity for the winners to claim sarees as prizes, live.</desc>
     <category lang="en">Game Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CE0127B3992AB4243DE901C03CE4E2AA813C4F8H.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3AC4436C3ABB3ECBC4FE1168CC92B21785C2D4FH.jpg"/>
     <episode-num system="xmltv_ns">1.25.</episode-num>
   </programme>
   <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts940">
@@ -270,17 +270,18 @@
     <episode-num system="xmltv_ns">.32.</episode-num>
   </programme>
   <programme start="20240626093000 +0000" stop="20240626125700 +0000" channel="ts940">
-    <title lang="en">Movie - Raja Raani Roarer Rocket</title>
-    <desc lang="en">A group of friends who constantly play pranks are dubbed the 'Brats of the village' but when one prank, which they did not commit, goes too far, they are exiled from the village.</desc>
+    <title lang="en">Movie - Sati Sakkubai</title>
+    <desc lang="en">Sakkubai is an ardent devotee of Lord Vitthal. After she gets married, her dream of visiting Pandharpur is fulfilled with the Almighty's blessing.</desc>
     <credits>
-      <actor>Kula Bhushan</actor>
-      <actor>Maanya Anand</actor>
-      <actor>Mugur Sundar</actor>
-      <actor>M D Kaushik</actor>
-      <actor>Manoj Achari</actor>
+      <actor>Aarathi</actor>
+      <actor>Srinath</actor>
+      <actor>Dinesh</actor>
+      <actor>Rajanand</actor>
+      <actor>Brahmavar</actor>
+      <actor>Bharath Kumar</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D9FE8A003A240FA5F0F3198ACAFF2A759229AF53.jpg"/>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C16F6446488D3C511A0EA3686571CBF9451D726I.jpg"/>
   </programme>
   <programme start="20240626125700 +0000" stop="20240626132700 +0000" channel="ts940">
     <title lang="en">Maya Bazar</title>

@@ -3,4 +3,228 @@
   <channel id="2256">
     <display-name lang="en">Zee Thirai</display-name>
   </channel>
+  <programme start="20240625070000 +0530" stop="20240625075800 +0530" channel="2256">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256004.jpg"/>
+  </programme>
+  <programme start="20240625075800 +0530" stop="20240625103000 +0530" channel="2256">
+    <title lang="en">Kolamavu Kokila</title>
+    <desc lang="en">When her mother is diagnosed with lung cancer, Kokila is forced to be a part of a group involved in drug trafficking. Later, she joins hands with the police to bust the racket.</desc>
+    <credits>
+      <director>Nelson Dilipkumar</director>
+      <actor>Nayanthara</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>R S Shivaji</actor>
+      <actor>Saravanan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256005.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625130000 +0530" channel="2256">
+    <title lang="en">Ayodhi</title>
+    <desc lang="en">When a man with his wife and son from Uttar Pradesh go on pilgrimage to Rameswaram, a fight with a taxi driver leads to a series of unfortunate events.</desc>
+    <credits>
+      <director>Manthira Moorthy</director>
+      <actor>Preethi Asrani</actor>
+      <actor>Master Advaith</actor>
+      <actor>Anju Asrani</actor>
+      <actor>Pugazh</actor>
+      <actor>Thaman Kumar</actor>
+      <actor>Pondy Ravi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256006.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="2256">
+    <title lang="en">Bhairavakottai</title>
+    <desc lang="en">After committing a robbery, a man and his companion run into a stranger and the trio end up in a village shrouded in mystery.</desc>
+    <credits>
+      <director>Vi Anand</director>
+      <actor>Sundeep Kishan</actor>
+      <actor>Kavya Thapar</actor>
+      <actor>Vennela Kishore</actor>
+      <actor>Varsha Bollamma</actor>
+      <actor>Kushee Ravi</actor>
+      <actor>Rajsekhar Aningi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256007.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625190200 +0530" channel="2256">
+    <title lang="en">Kamali From Nadukkaveri</title>
+    <desc lang="en">Kamali, a young woman, strives hard to land a seat in a prestigious educational institute. Her journey soon inspires others from her small village to follow in her footsteps.</desc>
+    <credits>
+      <director>Rajasekar Duraisamy</director>
+      <actor>Kayal Anandhi</actor>
+      <actor>Rohit Suresh Saraf</actor>
+      <actor>Prathap Pothen</actor>
+      <actor>Abitha Venkat</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256008.jpg"/>
+  </programme>
+  <programme start="20240625190200 +0530" stop="20240625213500 +0530" channel="2256">
+    <title lang="en">Karnan</title>
+    <desc lang="en">A small village in Tamil Nadu is inhabited by people belonging to a lower caste. Karnan, a young man, is revolted by the inhuman treatment given to his villagers and fights for their rights.</desc>
+    <credits>
+      <director>Mari Selvaraj</director>
+      <actor>Dhanush</actor>
+      <actor>Lal</actor>
+      <actor>Rajisha Vijayan</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Natarajan Subramaniam</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256009.jpg"/>
+  </programme>
+  <programme start="20240625213500 +0530" stop="20240626000000 +0530" channel="2256">
+    <title lang="en">Kaari</title>
+    <desc lang="en">After suffering under the reign of a tycoon, the villagers of Kariyoor find hope in the form of Sethu, a jockey. Trouble ensues when Sethu sets off to battle against the tyrant.</desc>
+    <credits>
+      <director>Hemanth Kumar</director>
+      <actor>M Sasikumar</actor>
+      <actor>Parvathy Arun</actor>
+      <actor>J D Chakravarthy</actor>
+      <actor>Balaji Sakthivel</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Ammu Abhirami</actor>
+      <actor>Redin Kingsley</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252256010.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="2256">
+    <title lang="en">En Peru Surya En Veedu India</title>
+    <desc lang="en">A soldier aspiring to be posted at the LOC suffers from anger management issues, due to which he gets court-martialled. He then sets out to meet a psychologist whose approval can get him back on duty.</desc>
+    <credits>
+      <director>Vakkantham Vamsi</director>
+      <actor>Allu Arjun</actor>
+      <actor>Anu Emmanuel</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>R Sarathkumar</actor>
+      <actor>Thakur Anoop Singh</actor>
+      <actor>Boman Irani</actor>
+      <actor>Rao Ramesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256000.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="2256">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256001.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="2256">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256002.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626070000 +0530" channel="2256">
+    <title lang="en">K.G.F: Chapter 2</title>
+    <desc lang="en">Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.</desc>
+    <credits>
+      <director>Prashanth Neel</director>
+      <actor>Naveen Kumar Gowda</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Srinidhi Shetty</actor>
+      <actor>Achyuth Kumar</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Malavika</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256003.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="2256">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256004.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="2256">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256005.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626103000 +0530" channel="2256">
+    <title lang="en">Mohini</title>
+    <desc lang="en">Vaishnavi and Sandeep, a couple in love, are engaged to be married. However, things spiral out of control when Vaishnavi gets possessed by a lookalike who is thirsty for vengeance.</desc>
+    <credits>
+      <director>Ramana Madhesh</director>
+      <actor>Trisha</actor>
+      <actor>Jackky Bhagnani</actor>
+      <actor>Mukesh Tiwari</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Poornima Bhagyaraj</actor>
+      <actor>Rama</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256006.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626130000 +0530" channel="2256">
+    <title lang="en">Lakshmi</title>
+    <desc lang="en">Lakshmi dreams of winning a national level dance competition but is scared to participate as her mother despises dancing. However, things take a turn when she meets Krishna, a cafe owner.</desc>
+    <credits>
+      <director>Vijay</director>
+      <actor>Prabhu Deva</actor>
+      <actor>Ditya Bhande</actor>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Salman Yusuff Khan</actor>
+      <actor>Karunakaran</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256007.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626163000 +0530" channel="2256">
+    <title lang="en">Bhagavanth Kesari</title>
+    <desc lang="en">A former prisoner is adamant about training his adoptive daughter to join the Indian Army. However, his mission is interrupted by a conflict with a ruthless businessman.</desc>
+    <credits>
+      <director>Anil Ravipudi</director>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Sreeleela</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Pallak Lalwani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256008.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626190000 +0530" channel="2256">
+    <title lang="en">Sindhubaadh</title>
+    <desc lang="en">Thiru, a crook, falls in love with Venba and marries her before she goes to Malaysia. However, everything turns upside down when her father sells her for the skin trade.</desc>
+    <credits>
+      <director>S U Arun Kumar</director>
+      <actor>Vijay Sethupathi</actor>
+      <actor>Anjali</actor>
+      <actor>Linga</actor>
+      <actor>Vivek Prasanna</actor>
+      <actor>Surya Vijay Sethupathi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256009.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626213000 +0530" channel="2256">
+    <title lang="en">Bhajarangi 2</title>
+    <desc lang="en">An evil drug baron named Araka kidnaps innocent villagers and forces them to produce drugs for him. Fortunately, a forest officer learns of this and decides to put a stop to it.</desc>
+    <credits>
+      <director>A Harsha</director>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Bhavana Menon</actor>
+      <actor>Shruthi</actor>
+      <actor>Saurav Lokesh</actor>
+      <actor>Shivaraj K R Pete</actor>
+      <actor>Cheluvaraj</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262256010.jpg"/>
+  </programme>
 </tv>

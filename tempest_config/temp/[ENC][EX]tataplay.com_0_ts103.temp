@@ -272,14 +272,22 @@
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/002F5126F06516B13CBB4D12B4D2A36C1E0E2E5C5.jpg"/>
   </programme>
-  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts103">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+  <programme start="20240626033000 +0000" stop="20240626042000 +0000" channel="ts103">
+    <title lang="en">Roadies</title>
+    <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
+    <credits>
+      <actor>Rannvijay Singh</actor>
+      <actor>Raghu Ram</actor>
+      <actor>Rajiv Lakshman</actor>
+      <actor>Bumpy</actor>
+      <actor>Neha Dhupia</actor>
+      <actor>Karan Kundrra</actor>
+    </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
-    <episode-num system="xmltv_ns">.9.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D92DEADDA3BB950407D0959BE102DE13296D2DFDM.jpg"/>
+    <episode-num system="xmltv_ns">18.9.</episode-num>
   </programme>
-  <programme start="20240626043000 +0000" stop="20240626052000 +0000" channel="ts103">
+  <programme start="20240626042000 +0000" stop="20240626050000 +0000" channel="ts103">
     <title lang="en">Roadies</title>
     <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
     <credits>
@@ -294,7 +302,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67EFC5CE2928482070720A98FB0D3C3AC3CB38B3N.jpg"/>
     <episode-num system="xmltv_ns">11.11.</episode-num>
   </programme>
-  <programme start="20240626052000 +0000" stop="20240626061500 +0000" channel="ts103">
+  <programme start="20240626050000 +0000" stop="20240626061500 +0000" channel="ts103">
     <title lang="en">Love School</title>
     <desc lang="en">Karan and Anusha shortlist the top 9 couples in Jaipur. Surprises and shocking revelations await the contestants as they gear up for their first day in the school of love.</desc>
     <credits>
@@ -319,7 +327,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.25.</episode-num>
   </programme>
-  <programme start="20240626080000 +0000" stop="20240626093000 +0000" channel="ts103">
+  <programme start="20240626080000 +0000" stop="20240626094000 +0000" channel="ts103">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Kanika and Rubina team up for a task and they fail to complete the same. During the task, a misunderstanding leads to an argument between the duo.</desc>
     <credits>
@@ -329,7 +337,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
     <episode-num system="xmltv_ns">12.7.</episode-num>
   </programme>
-  <programme start="20240626093000 +0000" stop="20240626104500 +0000" channel="ts103">
+  <programme start="20240626094000 +0000" stop="20240626104500 +0000" channel="ts103">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -403,7 +411,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7CED2B43DF90D49789E5C41231A5B55A5CE99C5I.jpg"/>
     <episode-num system="xmltv_ns">14.22.</episode-num>
   </programme>
-  <programme start="20240626181500 +0000" stop="20240626192000 +0000" channel="ts103">
+  <programme start="20240626181500 +0000" stop="20240626191000 +0000" channel="ts103">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>

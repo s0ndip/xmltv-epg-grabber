@@ -3,4 +3,508 @@
   <channel id="654">
     <display-name lang="en">Zee Punjabi HP Haryana</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="654">
+    <title lang="en">Sat Shri Akal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="654">
+    <title lang="en">Sat Shri Akal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="654">
+    <title lang="en">Good Morning Punjab</title>
+    <desc lang="en">The host sheds light on the latest social, economic and political news updates and developments from the across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="654">
+    <title lang="en">Sitare Ki Kehde Ne</title>
+    <desc lang="en">The show features Astrologer, P Khurrana, who reveals the importance of sun signs, the elements of different sun signs and how they influence overall life and other courses.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="654">
+    <title lang="en">Morning Prime</title>
+    <desc lang="en">The day's first detailed report on the important incidents, events and top stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="654">
+    <title lang="en">Morning Prime</title>
+    <desc lang="en">The day's first detailed report on the important incidents, events and top stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654022.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654023.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654024.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654025.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="654">
+    <title lang="en">Punjab Live Wire</title>
+    <desc lang="en">In a live telecast, the host announces the latest social, economic and political news stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654026.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="654">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654027.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654028.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654029.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="654">
+    <title lang="en">Punjab Live</title>
+    <desc lang="en">The host provides insights on the most recent socio-political developments and important news updates from across the state of Punjab, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654030.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="654">
+    <title lang="en">News Himachal</title>
+    <desc lang="en">The presenter sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654031.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654032.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="654">
+    <title lang="en">Commercial Or Syasi Lari</title>
+    <desc lang="en">The reporter gathers the personal views of the public concerning the 2024 Lok Sabha elections happening in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654033.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654034.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="654">
+    <title lang="en">News Himachal</title>
+    <desc lang="en">The presenter sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654035.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="654">
+    <title lang="en">Punjabi Bulletin</title>
+    <desc lang="en">The news anchor presents the latest news stories, updates and developments of global social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654036.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654037.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654038.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654039.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="654">
+    <title lang="en">Mudde Di Gal</title>
+    <desc lang="en">The host presents a detailed report on some of the important news updates and developments and invites influential personalities for a discussion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654040.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="654">
+    <title lang="en">Mudde Di Gal</title>
+    <desc lang="en">The host presents a detailed report on some of the important news updates and developments and invites influential personalities for a discussion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654041.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="654">
+    <title lang="en">Punjab @ 9</title>
+    <desc lang="en">Telecast of the latest and important social and political news updates from Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654042.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="654">
+    <title lang="en">Punjab @ 9</title>
+    <desc lang="en">Telecast of the latest and important social and political news updates from Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654043.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654044.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654045.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654046.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625654047.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="654">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="654">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="654">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654006.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="654">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654007.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654008.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654009.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654010.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="654">
+    <title lang="en">Sat Shri Akal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="654">
+    <title lang="en">Sat Shri Akal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="654">
+    <title lang="en">Good Morning Punjab</title>
+    <desc lang="en">The host sheds light on the latest social, economic and political news updates and developments from the across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="654">
+    <title lang="en">Sitare Ki Kehde Ne</title>
+    <desc lang="en">The show features Astrologer, P Khurrana, who reveals the importance of sun signs, the elements of different sun signs and how they influence overall life and other courses.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="654">
+    <title lang="en">Morning Prime</title>
+    <desc lang="en">The day's first detailed report on the important incidents, events and top stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="654">
+    <title lang="en">Morning Prime</title>
+    <desc lang="en">The day's first detailed report on the important incidents, events and top stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654022.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="654">
+    <title lang="en">Khabar Punjab Di</title>
+    <desc lang="en">The host sheds light on some of the most significant social, economic and political news stories and updates from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654023.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626123000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654024.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0530" stop="20240626130000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654025.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="654">
+    <title lang="en">Punjab Live Wire</title>
+    <desc lang="en">In a live telecast, the host announces the latest social, economic and political news stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654026.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="654">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654027.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626143000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654028.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0530" stop="20240626150000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654029.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="654">
+    <title lang="en">Punjab Live</title>
+    <desc lang="en">The host provides insights on the most recent socio-political developments and important news updates from across the state of Punjab, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654030.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="654">
+    <title lang="en">News Himachal</title>
+    <desc lang="en">The presenter sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654031.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626163000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654032.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0530" stop="20240626170000 +0530" channel="654">
+    <title lang="en">Commercial Or Syasi Lari</title>
+    <desc lang="en">The reporter gathers the personal views of the public concerning the 2024 Lok Sabha elections happening in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654033.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="654">
+    <title lang="en">Punjab Di Gal</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654034.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="654">
+    <title lang="en">News Himachal</title>
+    <desc lang="en">The presenter sheds light on some of the latest and the most important news, updates and developments from the state of Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654035.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="654">
+    <title lang="en">Punjabi Bulletin</title>
+    <desc lang="en">The news anchor presents the latest news stories, updates and developments of global social, political and economic significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654036.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="654">
+    <title lang="en">Superfast Punjab</title>
+    <desc lang="en">The host sheds light on the latest updates and developments in the fields of politics, economy and social affairs pertaining to the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654037.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654038.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654039.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="654">
+    <title lang="en">Mudde Di Gal</title>
+    <desc lang="en">The host presents a detailed report on some of the important news updates and developments and invites influential personalities for a discussion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654040.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="654">
+    <title lang="en">Mudde Di Gal</title>
+    <desc lang="en">The host presents a detailed report on some of the important news updates and developments and invites influential personalities for a discussion.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654041.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="654">
+    <title lang="en">Punjab @ 9</title>
+    <desc lang="en">Telecast of the latest and important social and political news updates from Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654042.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="654">
+    <title lang="en">Punjab @ 9</title>
+    <desc lang="en">Telecast of the latest and important social and political news updates from Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654043.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654044.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="654">
+    <title lang="en">Punjab Prime</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people living in Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654045.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="654">
+    <title lang="en">23 Zile 23 Khabar</title>
+    <desc lang="en">The host sheds light on the latest news and gives an update regarding the various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626654046.jpg"/>
+  </programme>
 </tv>

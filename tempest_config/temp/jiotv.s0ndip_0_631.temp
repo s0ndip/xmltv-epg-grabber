@@ -3,4 +3,484 @@
   <channel id="631">
     <display-name lang="en">MBC</display-name>
   </channel>
+  <programme start="20240625053000 +0530" stop="20240625055800 +0530" channel="631">
+    <title lang="en">Nirmalya</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631010.jpg"/>
+  </programme>
+  <programme start="20240625055800 +0530" stop="20240625060000 +0530" channel="631">
+    <title lang="en">Channel Song</title>
+    <desc lang="en">Various prominent musicians sing a song praising Odisha's resources and history while dancers and artists exhibit the state's cultural heritage.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631011.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="631">
+    <title lang="en">Bhakti Aradhana</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty in order to help devotees get closer to God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631012.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="631">
+    <title lang="en">Lokah Samastah Sukhino Bhavantu</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631013.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="631">
+    <title lang="en">7 AM News Live</title>
+    <desc lang="en">The host collates and presents the latest news and updates from entertainment, fashion, music, technology and science.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631014.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="631">
+    <title lang="en">MBC Bishesh</title>
+    <desc lang="en">The host provides comprehensive insights into a significant news story impacting the lives of people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631015.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631016.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631017.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="631">
+    <title lang="en">9 AM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631018.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="631">
+    <title lang="en">Show Time</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631019.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="631">
+    <title lang="en">Ajira Odisha</title>
+    <desc lang="en">The host sheds light on the latest developments regarding social, political, sports and economic events around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631020.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="631">
+    <title lang="en">Ajira Odisha</title>
+    <desc lang="en">The host sheds light on the latest developments regarding social, political, sports and economic events around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631021.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="631">
+    <title lang="en">11 AM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631022.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="631">
+    <title lang="en">MBC Bishesh</title>
+    <desc lang="en">The host provides comprehensive insights into a significant news story impacting the lives of people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631023.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="631">
+    <title lang="en">Big News Live</title>
+    <desc lang="en">A journalist reports the latest news stories, current affairs and socio-political developments occurring in India and the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631024.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="631">
+    <title lang="en">1 PM News Live</title>
+    <desc lang="en">In a live telecast, the host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631025.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="631">
+    <title lang="en">Show Time</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631026.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="631">
+    <title lang="en">Life Style Paribartan Dhara</title>
+    <desc lang="en">The host provides deeper insights into changing one's lifestyle for the better whilst highlighting factors that can aid in doing so.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631027.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="631">
+    <title lang="en">Life Style Paribartan Dhara</title>
+    <desc lang="en">The host provides deeper insights into changing one's lifestyle for the better whilst highlighting factors that can aid in doing so.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631028.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="631">
+    <title lang="en">Khabar Aparahna Live</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631029.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="631">
+    <title lang="en">MBC Bishesh</title>
+    <desc lang="en">The host provides comprehensive insights into a significant news story impacting the lives of people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631030.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="631">
+    <title lang="en">Ajira Odisha Live</title>
+    <desc lang="en">The host presents the latest updates and developments pertaining to social, political, sports and economic news around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631031.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="631">
+    <title lang="en">Chutki Re Khabar Live</title>
+    <desc lang="en">The host presents an in- depth analysis of some of the top social, economic and political stories from around the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631032.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631033.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="631">
+    <title lang="en">Zila Khabar Live</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the state of Odisha, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631034.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631035.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="631">
+    <title lang="en">7 PM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631036.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="631">
+    <title lang="en">Nirbachani Satranj</title>
+    <desc lang="en">The host interviews a political candidate who gives an insight into the latest updates and developments related to the upcoming elections in the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631037.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631038.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631039.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="631">
+    <title lang="en">9 PM News Live</title>
+    <desc lang="en">The host presents the latest news updates of significant socio-economic and political developments taking place around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631040.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="631">
+    <title lang="en">Swabalambi Abhijan</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631041.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631042.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631043.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="631">
+    <title lang="en">Ajira Khabar</title>
+    <desc lang="en">Take a look at the latest social, economic, sports and political news from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631044.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="631">
+    <title lang="en">MBC Bishesh</title>
+    <desc lang="en">The host provides comprehensive insights into a significant news story impacting the lives of people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625631045.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631000.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631001.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631002.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631003.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631004.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631005.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="631">
+    <title lang="en">Ajira Odisha Live</title>
+    <desc lang="en">The host presents the latest updates and developments pertaining to social, political, sports and economic news around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631006.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631007.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631008.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="631">
+    <title lang="en">Bhakti Aradhana</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty in order to help devotees get closer to God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631009.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0530" stop="20240626055800 +0530" channel="631">
+    <title lang="en">Nirmalya</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631010.jpg"/>
+  </programme>
+  <programme start="20240626055800 +0530" stop="20240626060000 +0530" channel="631">
+    <title lang="en">Channel Song</title>
+    <desc lang="en">Various prominent musicians sing a song praising Odisha's resources and history while dancers and artists exhibit the state's cultural heritage.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631011.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="631">
+    <title lang="en">Bhakti Aradhana</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty in order to help devotees get closer to God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631012.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="631">
+    <title lang="en">Lokah Samastah Sukhino Bhavantu</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631013.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="631">
+    <title lang="en">7 AM News Live</title>
+    <desc lang="en">The host collates and presents the latest news and updates from entertainment, fashion, music, technology and science.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631014.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0530" stop="20240626080000 +0530" channel="631">
+    <title lang="en">Nirbachani Satranj</title>
+    <desc lang="en">The host interviews a political candidate who gives an insight into the latest updates and developments related to the upcoming elections in the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631015.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0530" stop="20240626083000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631016.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0530" stop="20240626090000 +0530" channel="631">
+    <title lang="en">Good Morning Odisha</title>
+    <desc lang="en">The hosts invite and engage in conversation with individuals from all walks of life about a variety of topics and ideas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631017.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0530" stop="20240626093000 +0530" channel="631">
+    <title lang="en">9 AM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631018.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0530" stop="20240626100000 +0530" channel="631">
+    <title lang="en">Business Odisha</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest business news updates, developments and trends from the state of Odisha.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631019.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0530" stop="20240626103000 +0530" channel="631">
+    <title lang="en">Ajira Odisha</title>
+    <desc lang="en">The host sheds light on the latest developments regarding social, political, sports and economic events around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631020.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0530" stop="20240626110000 +0530" channel="631">
+    <title lang="en">Ajira Odisha</title>
+    <desc lang="en">The host sheds light on the latest developments regarding social, political, sports and economic events around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631021.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0530" stop="20240626113000 +0530" channel="631">
+    <title lang="en">11 AM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631022.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0530" stop="20240626120000 +0530" channel="631">
+    <title lang="en">Nirbachani Satranj</title>
+    <desc lang="en">The host interviews a political candidate who gives an insight into the latest updates and developments related to the upcoming elections in the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631023.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0530" stop="20240626130000 +0530" channel="631">
+    <title lang="en">Big News Live</title>
+    <desc lang="en">A journalist reports the latest news stories, current affairs and socio-political developments occurring in India and the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631024.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0530" stop="20240626133000 +0530" channel="631">
+    <title lang="en">1 PM News Live</title>
+    <desc lang="en">In a live telecast, the host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631025.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0530" stop="20240626140000 +0530" channel="631">
+    <title lang="en">Udyogpati Partners In Progress</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631026.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0530" stop="20240626150000 +0530" channel="631">
+    <title lang="en">Sikhya Niti: Sambhabana O Ahwana Live</title>
+    <desc lang="en">The host offers detailed insights into significant issues transpiring within the community to share relevant updates on their progress and impacts, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631027.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0530" stop="20240626153000 +0530" channel="631">
+    <title lang="en">Khabar Aparahna Live</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631028.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0530" stop="20240626160000 +0530" channel="631">
+    <title lang="en">Nirbachani Satranj</title>
+    <desc lang="en">The host interviews a political candidate who gives an insight into the latest updates and developments related to the upcoming elections in the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631029.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626170000 +0530" channel="631">
+    <title lang="en">Ajira Odisha Live</title>
+    <desc lang="en">The host presents the latest updates and developments pertaining to social, political, sports and economic news around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631030.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0530" stop="20240626173000 +0530" channel="631">
+    <title lang="en">Chutki Re Khabar Live</title>
+    <desc lang="en">The host presents an in- depth analysis of some of the top social, economic and political stories from around the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631031.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0530" stop="20240626180000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631032.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240626183000 +0530" channel="631">
+    <title lang="en">Zila Khabar Live</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments from various parts of the state of Odisha, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631033.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0530" stop="20240626190000 +0530" channel="631">
+    <title lang="en">Big News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631034.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0530" stop="20240626193000 +0530" channel="631">
+    <title lang="en">7 PM News Live</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631035.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0530" stop="20240626200000 +0530" channel="631">
+    <title lang="en">MBC Bishesh</title>
+    <desc lang="en">The host provides comprehensive insights into a significant news story impacting the lives of people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631036.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0530" stop="20240626203000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631037.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0530" stop="20240626210000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631038.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240626213000 +0530" channel="631">
+    <title lang="en">9 PM News Live</title>
+    <desc lang="en">The host presents the latest news updates of significant socio-economic and political developments taking place around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631039.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0530" stop="20240626220000 +0530" channel="631">
+    <title lang="en">Candid Interface</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631040.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240626223000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631041.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240626230000 +0530" channel="631">
+    <title lang="en">Views Tonight</title>
+    <desc lang="en">The host invites prominent experts to share their valuable insights on various issues faced by the people and the society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631042.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240626233000 +0530" channel="631">
+    <title lang="en">Ajira Khabar</title>
+    <desc lang="en">Take a look at the latest social, economic, sports and political news from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626631043.jpg"/>
+  </programme>
 </tv>
