@@ -614,11 +614,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3782C575BCD368C4A4040C72AAA27527683ED890J.jpg"/>
-    <episode-num system="xmltv_ns">.101.</episode-num>
+    <episode-num system="xmltv_ns">.111.</episode-num>
   </programme>
   <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts608">
     <title lang="en">Anna</title>
-    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while. Repeat - Mon - Sat 11:00 am.</desc>
+    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while.</desc>
     <credits>
       <actor>Senthil Kumar</actor>
       <actor>Nithya Ram</actor>
@@ -626,12 +626,12 @@
       <actor>Rithika Tamil Selvi</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/948E171E321246E1EF90B0E69BD769C6F1610934N.jpg"/>
-    <episode-num system="xmltv_ns">.365.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0C24C42E90464B531EA55E6222C2C8E2D5014AB8.jpg"/>
+    <episode-num system="xmltv_ns">.379.</episode-num>
   </programme>
   <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts608">
     <title lang="en">Karthigai Deepam</title>
-    <desc lang="en">Deepa, a brilliant singer, experiences prejudice due to her skin complexion. However, after meeting the prosperous businessman Karthikeyan, she undergoes a significant life change. Repeat - Mon - Sat 12:00 pm.</desc>
+    <desc lang="en">Deepa, a brilliant singer, experiences prejudice due to her skin complexion. However, after meeting the prosperous businessman Karthikeyan, she undergoes a significant life change.</desc>
     <credits>
       <actor>Karthik Raj</actor>
       <actor>Arthika</actor>
@@ -640,7 +640,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/156C6CE86A3646FF68092DC96C2EEE82152E53D2J.jpg"/>
-    <episode-num system="xmltv_ns">.504.</episode-num>
+    <episode-num system="xmltv_ns">.518.</episode-num>
   </programme>
   <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts608">
     <title lang="en">Idhayam</title>
@@ -652,7 +652,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF5ABF086B38A2F59E03148D223A8BDBA88F51FDU.jpg"/>
-    <episode-num system="xmltv_ns">.247.</episode-num>
+    <episode-num system="xmltv_ns">.259.</episode-num>
   </programme>
   <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts608">
     <title lang="en">Veera</title>
@@ -667,11 +667,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6D446762807922F7FFF0B9F7041B5BC106EEDAI.jpg"/>
-    <episode-num system="xmltv_ns">.76.</episode-num>
+    <episode-num system="xmltv_ns">.86.</episode-num>
   </programme>
   <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts608">
     <title lang="en">Meenakshi Ponnunga</title>
-    <desc lang="en">After her husband leaves her, a single mother of three attempts to take care of her children. Things take a turn when one of her daughters attempts to become an IAS officer. Repeat - Mon - Sat 10:30 am.</desc>
+    <desc lang="en">After her husband leaves her, a single mother of three attempts to take care of her children. Things take a turn when one of her daughters attempts to become an IAS officer.</desc>
     <credits>
       <actor>Mokshitha Pai</actor>
       <actor>Archana</actor>
@@ -682,7 +682,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D26F95325AD005C9E95530D1D5160DD57C26E17U.jpg"/>
-    <episode-num system="xmltv_ns">.586.</episode-num>
+    <episode-num system="xmltv_ns">.598.</episode-num>
   </programme>
   <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts608">
     <title lang="en">Sandhya Raagam</title>
@@ -697,11 +697,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7B080E290456EAA780A0A5E0EF4C624329A4813.jpg"/>
-    <episode-num system="xmltv_ns">.215.</episode-num>
+    <episode-num system="xmltv_ns">.229.</episode-num>
   </programme>
   <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts608">
     <title lang="en">Ninaithale Inikkum</title>
-    <desc lang="en">Bommi, a young saleswoman, wins the affection of a family of sweet traders. Soon, she is married to their business-minded son, Siddharth. Repeat - Mon - Fri 4:00 pm.</desc>
+    <desc lang="en">Bommi, a young saleswoman, wins the affection of a family of sweet traders. Soon, she is married to their business-minded son, Siddharth.</desc>
     <credits>
       <actor>Swathi Sharma</actor>
       <actor>Anand Selvan</actor>
@@ -711,30 +711,51 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C58F9FC2468EB5E038BFD1AB2A1BAFB585FE4094S.jpg"/>
-    <episode-num system="xmltv_ns">.927.</episode-num>
+    <episode-num system="xmltv_ns">.941.</episode-num>
   </programme>
-  <programme start="20240625223000 +0000" stop="20240626003000 +0000" channel="ts608">
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts608">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies. Repeat - Mon - Sat 4:00 am.</desc>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
-    <episode-num system="xmltv_ns">.44.</episode-num>
+    <episode-num system="xmltv_ns">.605.</episode-num>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts608">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.611.</episode-num>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts608">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.612.</episode-num>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts608">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.613.</episode-num>
   </programme>
   <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts608">
     <title lang="en">TWR Veda Aarachi</title>
-    <desc lang="en">TWR Veda Aarachi E04.</desc>
+    <desc lang="en">TWR Veda Aarachi E141.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4906D8D1F3C137C9D086326FA441260C38CA73843.jpg"/>
   </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts608">
     <title lang="en">Arputham Tharum Alayangal</title>
-    <desc lang="en">The host provides information about the history and significance of various temples in India, including the numerous gods and goddesses it holds. Repeat - Mon - Fri 6:30 am.</desc>
+    <desc lang="en">The host provides information about the history and significance of various temples in India, including the numerous gods and goddesses it holds.</desc>
     <credits>
       <actor>A R Balakrishna Reddy</actor>
     </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D48A0FADE669D92EF158DB39D737367CF627204W.jpg"/>
-    <episode-num system="xmltv_ns">.63.</episode-num>
+    <episode-num system="xmltv_ns">.2072.</episode-num>
   </programme>
   <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts608">
     <title lang="en">Olimayamana Ethirkaalam</title>
@@ -744,7 +765,7 @@
     </credits>
     <category lang="en">Astrology</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/409628E72B47956AB4F92D93E9E44DBA68A957A7A.jpg"/>
-    <episode-num system="xmltv_ns">.5057.</episode-num>
+    <episode-num system="xmltv_ns">.5071.</episode-num>
   </programme>
   <programme start="20240626023000 +0000" stop="20240626040000 +0000" channel="ts608">
     <title lang="en">Dance Jodi Dance Reloaded</title>
@@ -759,11 +780,11 @@
     </credits>
     <category lang="en">Dance Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/146E2ABF415F50E9078E82907FE6AA1C3750445B9.jpg"/>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
   </programme>
   <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts608">
     <title lang="en">Maari</title>
-    <desc lang="en">Maari, who is gifted with supernatural powers to predict the future, tries to help everyone around her but her own family abandons her. Repeat - Mon - Sat 9:30 am.</desc>
+    <desc lang="en">Maari, who is gifted with supernatural powers to predict the future, tries to help everyone around her but her own family abandons her.</desc>
     <credits>
       <actor>Adarsh HS</actor>
       <actor>Aashika Gopal Padukone</actor>
@@ -774,11 +795,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434A2F1EFFB0273AFE114C792D5AF5CB4838C948I.jpg"/>
-    <episode-num system="xmltv_ns">.580.</episode-num>
+    <episode-num system="xmltv_ns">.602.</episode-num>
   </programme>
   <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts608">
     <title lang="en">Maari</title>
-    <desc lang="en">Maari, who is gifted with supernatural powers to predict the future, tries to help everyone around her but her own family abandons her. Repeat - Mon - Sat 9:30 am.</desc>
+    <desc lang="en">Maari, who is gifted with supernatural powers to predict the future, tries to help everyone around her but her own family abandons her.</desc>
     <credits>
       <actor>Adarsh HS</actor>
       <actor>Aashika Gopal Padukone</actor>
@@ -789,11 +810,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434A2F1EFFB0273AFE114C792D5AF5CB4838C948I.jpg"/>
-    <episode-num system="xmltv_ns">.581.</episode-num>
+    <episode-num system="xmltv_ns">.603.</episode-num>
   </programme>
   <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts608">
     <title lang="en">Meenakshi Ponnunga</title>
-    <desc lang="en">After her husband leaves her, a single mother of three attempts to take care of her children. Things take a turn when one of her daughters attempts to become an IAS officer. Repeat - Mon - Sat 10:30 am.</desc>
+    <desc lang="en">After her husband leaves her, a single mother of three attempts to take care of her children. Things take a turn when one of her daughters attempts to become an IAS officer.</desc>
     <credits>
       <actor>Mokshitha Pai</actor>
       <actor>Archana</actor>
@@ -804,11 +825,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D26F95325AD005C9E95530D1D5160DD57C26E17U.jpg"/>
-    <episode-num system="xmltv_ns">.586.</episode-num>
+    <episode-num system="xmltv_ns">.598.</episode-num>
   </programme>
   <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts608">
     <title lang="en">Anna</title>
-    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while. Repeat - Mon - Sat 11:00 am.</desc>
+    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while.</desc>
     <credits>
       <actor>Senthil Kumar</actor>
       <actor>Nithya Ram</actor>
@@ -816,8 +837,8 @@
       <actor>Rithika Tamil Selvi</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/948E171E321246E1EF90B0E69BD769C6F1610934N.jpg"/>
-    <episode-num system="xmltv_ns">.365.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0C24C42E90464B531EA55E6222C2C8E2D5014AB8.jpg"/>
+    <episode-num system="xmltv_ns">.379.</episode-num>
   </programme>
   <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts608">
     <title lang="en">Sandhya Raagam</title>
@@ -832,11 +853,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7B080E290456EAA780A0A5E0EF4C624329A4813.jpg"/>
-    <episode-num system="xmltv_ns">.215.</episode-num>
+    <episode-num system="xmltv_ns">.229.</episode-num>
   </programme>
   <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts608">
     <title lang="en">Karthigai Deepam</title>
-    <desc lang="en">Deepa, a brilliant singer, experiences prejudice due to her skin complexion. However, after meeting the prosperous businessman Karthikeyan, she undergoes a significant life change. Repeat - Mon - Sat 12:00 pm.</desc>
+    <desc lang="en">Deepa, a brilliant singer, experiences prejudice due to her skin complexion. However, after meeting the prosperous businessman Karthikeyan, she undergoes a significant life change.</desc>
     <credits>
       <actor>Karthik Raj</actor>
       <actor>Arthika</actor>
@@ -845,7 +866,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/156C6CE86A3646FF68092DC96C2EEE82152E53D2J.jpg"/>
-    <episode-num system="xmltv_ns">.504.</episode-num>
+    <episode-num system="xmltv_ns">.518.</episode-num>
   </programme>
   <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts608">
     <title lang="en">Veera</title>
@@ -860,7 +881,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6D446762807922F7FFF0B9F7041B5BC106EEDAI.jpg"/>
-    <episode-num system="xmltv_ns">.76.</episode-num>
+    <episode-num system="xmltv_ns">.86.</episode-num>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts608">
     <title lang="en">Indira</title>
@@ -874,7 +895,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54178BBA21141824F6DF0A11691555FECA2E958AI.jpg"/>
-    <episode-num system="xmltv_ns">.479.</episode-num>
+    <episode-num system="xmltv_ns">.491.</episode-num>
   </programme>
   <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts608">
     <title lang="en">Idhayam</title>
@@ -886,7 +907,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF5ABF086B38A2F59E03148D223A8BDBA88F51FDU.jpg"/>
-    <episode-num system="xmltv_ns">.248.</episode-num>
+    <episode-num system="xmltv_ns">.260.</episode-num>
   </programme>
   <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts608">
     <title lang="en">Kanaa</title>
@@ -901,7 +922,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47C348E5B7D070C47534A5E920D8E024933B9D06G.jpg"/>
-    <episode-num system="xmltv_ns">.546.</episode-num>
+    <episode-num system="xmltv_ns">.558.</episode-num>
   </programme>
   <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts608">
     <title lang="en">Sandakozhi</title>
@@ -916,7 +937,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76C9516A1331E58555ECD2E6994D4A016457876EH.jpg"/>
-    <episode-num system="xmltv_ns">.385.</episode-num>
+    <episode-num system="xmltv_ns">.397.</episode-num>
   </programme>
   <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts608">
     <title lang="en">Naane Varuven</title>
@@ -931,7 +952,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0565DE99279CBEF1385EC87DD7B0D3BA40A54328Y.jpg"/>
-    <episode-num system="xmltv_ns">.27.</episode-num>
+    <episode-num system="xmltv_ns">.51.</episode-num>
   </programme>
   <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts608">
     <title lang="en">Naane Varuven</title>
@@ -946,11 +967,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0565DE99279CBEF1385EC87DD7B0D3BA40A54328Y.jpg"/>
-    <episode-num system="xmltv_ns">.28.</episode-num>
+    <episode-num system="xmltv_ns">.52.</episode-num>
   </programme>
   <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts608">
     <title lang="en">Ninaithale Inikkum</title>
-    <desc lang="en">Bommi, a young saleswoman, wins the affection of a family of sweet traders. Soon, she is married to their business-minded son, Siddharth. Repeat - Mon - Fri 4:00 pm.</desc>
+    <desc lang="en">Bommi, a young saleswoman, wins the affection of a family of sweet traders. Soon, she is married to their business-minded son, Siddharth.</desc>
     <credits>
       <actor>Swathi Sharma</actor>
       <actor>Anand Selvan</actor>
@@ -960,7 +981,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C58F9FC2468EB5E038BFD1AB2A1BAFB585FE4094S.jpg"/>
-    <episode-num system="xmltv_ns">.927.</episode-num>
+    <episode-num system="xmltv_ns">.941.</episode-num>
   </programme>
   <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts608">
     <title lang="en">Ninaithaen Vanthai</title>
@@ -975,11 +996,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3782C575BCD368C4A4040C72AAA27527683ED890J.jpg"/>
-    <episode-num system="xmltv_ns">.101.</episode-num>
+    <episode-num system="xmltv_ns">.111.</episode-num>
   </programme>
   <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts608">
     <title lang="en">Indira</title>
-    <desc lang="en">Indira, a teenage girl with a strong sense of empowerment, fights for her beloved sister against all the existing social injustices. Repeat - Mon - Fri 5:00 pm.</desc>
+    <desc lang="en">Indira, a teenage girl with a strong sense of empowerment, fights for her beloved sister against all the existing social injustices.</desc>
     <credits>
       <actor>Fouzil Hidhayah</actor>
       <actor>Akshay Kamal</actor>
@@ -989,7 +1010,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54178BBA21141824F6DF0A11691555FECA2E958AI.jpg"/>
-    <episode-num system="xmltv_ns">.479.</episode-num>
+    <episode-num system="xmltv_ns">.491.</episode-num>
   </programme>
   <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts608">
     <title lang="en">Idhayam</title>
@@ -1001,7 +1022,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF5ABF086B38A2F59E03148D223A8BDBA88F51FDU.jpg"/>
-    <episode-num system="xmltv_ns">.248.</episode-num>
+    <episode-num system="xmltv_ns">.260.</episode-num>
   </programme>
   <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts608">
     <title lang="en">Meenakshi Ponnunga</title>
@@ -1016,7 +1037,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D26F95325AD005C9E95530D1D5160DD57C26E17U.jpg"/>
-    <episode-num system="xmltv_ns">.587.</episode-num>
+    <episode-num system="xmltv_ns">.599.</episode-num>
   </programme>
   <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts608">
     <title lang="en">Maari</title>
@@ -1031,7 +1052,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434A2F1EFFB0273AFE114C792D5AF5CB4838C948I.jpg"/>
-    <episode-num system="xmltv_ns">.582.</episode-num>
+    <episode-num system="xmltv_ns">.604.</episode-num>
   </programme>
   <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts608">
     <title lang="en">Maari</title>
@@ -1046,7 +1067,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434A2F1EFFB0273AFE114C792D5AF5CB4838C948I.jpg"/>
-    <episode-num system="xmltv_ns">.583.</episode-num>
+    <episode-num system="xmltv_ns">.605.</episode-num>
   </programme>
   <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts608">
     <title lang="en">Ninaithaen Vanthai</title>
@@ -1061,7 +1082,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3782C575BCD368C4A4040C72AAA27527683ED890J.jpg"/>
-    <episode-num system="xmltv_ns">.102.</episode-num>
+    <episode-num system="xmltv_ns">.112.</episode-num>
   </programme>
   <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts608">
     <title lang="en">Veera</title>
@@ -1076,11 +1097,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6D446762807922F7FFF0B9F7041B5BC106EEDAI.jpg"/>
-    <episode-num system="xmltv_ns">.77.</episode-num>
+    <episode-num system="xmltv_ns">.87.</episode-num>
   </programme>
   <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts608">
     <title lang="en">Anna</title>
-    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while. Repeat - Mon - Sat 11:00 am.</desc>
+    <desc lang="en">A successful doctor, who is admired by all the people she meets, is taken by surprise when she encounters a man who has been in love with her for a while. Repeat - Mon - Fri 11:00 am.</desc>
     <credits>
       <actor>Senthil Kumar</actor>
       <actor>Nithya Ram</actor>
@@ -1088,8 +1109,8 @@
       <actor>Rithika Tamil Selvi</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/948E171E321246E1EF90B0E69BD769C6F1610934N.jpg"/>
-    <episode-num system="xmltv_ns">.366.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0C24C42E90464B531EA55E6222C2C8E2D5014AB8.jpg"/>
+    <episode-num system="xmltv_ns">.380.</episode-num>
   </programme>
   <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts608">
     <title lang="en">Karthigai Deepam</title>
@@ -1102,7 +1123,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/156C6CE86A3646FF68092DC96C2EEE82152E53D2J.jpg"/>
-    <episode-num system="xmltv_ns">.505.</episode-num>
+    <episode-num system="xmltv_ns">.519.</episode-num>
   </programme>
   <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts608">
     <title lang="en">Sandhya Raagam</title>
@@ -1117,7 +1138,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7B080E290456EAA780A0A5E0EF4C624329A4813.jpg"/>
-    <episode-num system="xmltv_ns">.216.</episode-num>
+    <episode-num system="xmltv_ns">.230.</episode-num>
   </programme>
   <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts608">
     <title lang="en">Ninaithale Inikkum</title>
@@ -1131,7 +1152,7 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C58F9FC2468EB5E038BFD1AB2A1BAFB585FE4094S.jpg"/>
-    <episode-num system="xmltv_ns">.928.</episode-num>
+    <episode-num system="xmltv_ns">.942.</episode-num>
   </programme>
   <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts608">
     <title lang="en">Lakshmi Kalyanam</title>
@@ -1146,11 +1167,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A83CB535C90D6E4526F5E7F57AA976B0B5A804E0U.jpg"/>
-    <episode-num system="xmltv_ns">.14.</episode-num>
+    <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts608">
     <title lang="en">Sandakozhi</title>
-    <desc lang="en">Vikram, a rich man with an aggressive personality, locks horns with Mahalakshmi, a fun-loving woman. Problems arise when they are forced to get married to each other. Repeat - Mon - Fri 11:00 pm.</desc>
+    <desc lang="en">Vikram, a rich man with an aggressive personality, locks horns with Mahalakshmi, a fun-loving woman. Problems arise when they are forced to get married to each other.</desc>
     <credits>
       <actor>Riya Vishwanathan</actor>
       <actor>Niyas</actor>
@@ -1161,11 +1182,11 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76C9516A1331E58555ECD2E6994D4A016457876EH.jpg"/>
-    <episode-num system="xmltv_ns">.385.</episode-num>
+    <episode-num system="xmltv_ns">.397.</episode-num>
   </programme>
   <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts608">
     <title lang="en">Kanaa</title>
-    <desc lang="en">An ambitious woman wants to pursue a career in athletics but faces stiff opposition from her parents. She then runs away from their house and competes in a prestigious running race. Repeat - Mon - Fri 11:30 pm.</desc>
+    <desc lang="en">An ambitious woman wants to pursue a career in athletics but faces stiff opposition from her parents. She then runs away from their house and competes in a prestigious running race.</desc>
     <credits>
       <actor>Dharshana Ashokan</actor>
       <actor>Vishnu Unni Krishnan</actor>
@@ -1176,6 +1197,6 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47C348E5B7D070C47534A5E920D8E024933B9D06G.jpg"/>
-    <episode-num system="xmltv_ns">.546.</episode-num>
+    <episode-num system="xmltv_ns">.558.</episode-num>
   </programme>
 </tv>

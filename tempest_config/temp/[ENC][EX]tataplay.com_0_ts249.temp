@@ -129,14 +129,14 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/242D2EEB728D1D0FB2620ACEEE67B5D9018AEB69G.jpg"/>
   </programme>
-  <programme start="20240625154800 +0000" stop="20240625183000 +0000" channel="ts249">
+  <programme start="20240625154800 +0000" stop="20240625184300 +0000" channel="ts249">
     <title lang="en">Comedychya Gudgulya</title>
     <desc lang="en">Talented comedians and stand-up artists enact funny scenarios and perform skits to entertain the judges and the audience.</desc>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DEB7A798FBD3E77B1764A13E7D9AF5B8BDB32AFJ.jpg"/>
     <episode-num system="xmltv_ns">.16.</episode-num>
   </programme>
-  <programme start="20240625184800 +0000" stop="20240625204100 +0000" channel="ts249">
+  <programme start="20240625184300 +0000" stop="20240625204100 +0000" channel="ts249">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
@@ -224,7 +224,7 @@
   </programme>
   <programme start="20240626123000 +0000" stop="20240626132900 +0000" channel="ts249">
     <title lang="en">Man Mandira</title>
-    <desc lang="en">During the festive month of Ashadi Ekadashi, various talented and renowned devotees perform devotional songs to praise the Almighty.</desc>
+    <desc lang="en">During the festive month of Ashadi Ekadashi, various talented and renowned devotees perform devotional songs to praise the Almighty. Repeat - Tue 6:00 pm.</desc>
     <credits>
       <actor>Purva Subhash</actor>
       <actor>Nivruti Maharaj Deshmukh</actor>

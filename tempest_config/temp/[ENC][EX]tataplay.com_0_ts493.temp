@@ -114,61 +114,64 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4B0CE0CACFE02B655F3338FA108C6F3BFCD604F5.jpg"/>
   </programme>
-  <programme start="20240625191400 +0000" stop="20240625215200 +0000" channel="ts493">
+  <programme start="20240625191400 +0000" stop="20240625213500 +0000" channel="ts493">
+    <title lang="en">F2 - Fun and Frustration</title>
+    <desc lang="en">Two young men hope to control their wives after their respective marriages. However, their chauvinistic attitude often lands them in hilarious situations.</desc>
+    <credits>
+      <actor>Venkatesh</actor>
+      <actor>Varun Tej</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36D4FDCD91E6503BA930F1B49AF9F67459882C59Y.jpg"/>
+  </programme>
+  <programme start="20240625213500 +0000" stop="20240626003000 +0000" channel="ts493">
+    <title lang="en">Dil Bechara</title>
+    <desc lang="en">While struggling to survive, Manny and Kizie, who each have a terminal illness, fall in love with each other. Thereafter, the two try to spend the rest of their days being happy and staying positive.</desc>
+    <credits>
+      <actor>Sushant Singh Rajput</actor>
+      <actor>Sanjana Sanghi</actor>
+      <actor>Sahil Vaid</actor>
+      <actor>Swastika Mukherjee</actor>
+      <actor>Subbalakshmi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CDE7906A110EA93D38CAEC25BE82B0819BB14787.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625215200 +0000" stop="20240626001400 +0000" channel="ts493">
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626001400 +0000" stop="20240626011700 +0000" channel="ts493">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240626011700 +0000" stop="20240626041900 +0000" channel="ts493">
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626041900 +0000" stop="20240626063900 +0000" channel="ts493">
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626063900 +0000" stop="20240626090800 +0000" channel="ts493">
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626090800 +0000" stop="20240626121100 +0000" channel="ts493">
-    <title lang="en">Prem Ki Pratibhasha Radha Krishna</title>
-    <desc lang="en">Prem Ki Pratibhasha Radha Krishna</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1975EEC6BEE4ADF7038BE491022928692358E83DW.jpg"/>
-  </programme>
-  <programme start="20240626121100 +0000" stop="20240626142500 +0000" channel="ts493">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626142500 +0000" stop="20240626172200 +0000" channel="ts493">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626172200 +0000" stop="20240626193000 +0000" channel="ts493">
+  <programme start="20240626153000 +0000" stop="20240626193000 +0000" channel="ts493">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

@@ -183,7 +183,7 @@
     <category lang="en">Sci - Fi</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B062F5566CDC2954C9891D03C83B197959CC58D2A.jpg"/>
   </programme>
-  <programme start="20240625184100 +0000" stop="20240625204500 +0000" channel="ts560">
+  <programme start="20240625184100 +0000" stop="20240625203300 +0000" channel="ts560">
     <title lang="en">The Mummy Hunters</title>
     <desc lang="en">Three tomb raiders retire from their roles and move to New York to enjoy the rest of their lives. However, they are asked to resume duty in order to find out the reason behind the loss of a loved one.</desc>
     <credits>
@@ -197,7 +197,13 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824DEB82A2F75391E285B9FFD4649B2E1E28C32D2.jpg"/>
   </programme>
-  <programme start="20240625204500 +0000" stop="20240625221500 +0000" channel="ts560">
+  <programme start="20240625203300 +0000" stop="20240625204900 +0000" channel="ts560">
+    <title lang="en">Movie In Focus</title>
+    <desc lang="en">A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/672302F6BCDFFDB84ED84206D7D25999688A2D55R.jpg"/>
+  </programme>
+  <programme start="20240625204900 +0000" stop="20240625221500 +0000" channel="ts560">
     <title lang="en">The Adventurers</title>
     <desc lang="en">After five years of imprisonment, a notorious thief teams up with his partner to conduct a heist in Europe. However, tension rises as a French detective starts pursuing them.</desc>
     <credits>

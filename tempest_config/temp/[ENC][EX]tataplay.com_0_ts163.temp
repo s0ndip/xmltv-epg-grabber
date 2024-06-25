@@ -128,17 +128,33 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F7C73F74FF8BF9320D397FDA4127A6DE045EA2DL.jpg"/>
   </programme>
-  <programme start="20240625190600 +0000" stop="20240625211200 +0000" channel="ts163">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240625190600 +0000" stop="20240625213000 +0000" channel="ts163">
+    <title lang="en">The Return Of Abhimanyu</title>
+    <desc lang="en">A military officer borrows money from a bank using fake papers for his sister's marriage. However, when the money goes missing from his account, he begins an investigation that leads him to a hacker.</desc>
+    <credits>
+      <actor>Vishal</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>Samantha Akkineni</actor>
+      <actor>Delhi Ganesh</actor>
+      <actor>Sreeja Ravi</actor>
+      <actor>Robo Shankar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DB22B95B98F05A420361A6EEC25299B57AA4B7I.jpg"/>
   </programme>
-  <programme start="20240625211200 +0000" stop="20240625222800 +0000" channel="ts163">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240625213000 +0000" stop="20240625222800 +0000" channel="ts163">
+    <title lang="en">The Real Hero</title>
+    <desc lang="en">After joining a Jamaican college, an aspiring dancer teams up with a local to win a dance competition but a two-time winner causes trouble for her.</desc>
+    <credits>
+      <actor>Sai Dharam Tej</actor>
+      <actor>Shraddha Das</actor>
+      <actor>Saiyami Kher</actor>
+      <actor>Farhad Shahnawaz</actor>
+      <actor>Mohammad Ali</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63DAFF29F8C27997227BCD79992B96F5F79B4A2CS.jpg"/>
   </programme>
   <programme start="20240625222800 +0000" stop="20240625225500 +0000" channel="ts163">
     <title lang="en">Filler</title>

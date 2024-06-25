@@ -383,7 +383,7 @@
   </programme>
   <programme start="20240626033000 +0000" stop="20240626034500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
@@ -401,7 +401,7 @@
   </programme>
   <programme start="20240626043000 +0000" stop="20240626044500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
@@ -437,7 +437,7 @@
   </programme>
   <programme start="20240626060000 +0000" stop="20240626061500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
@@ -447,23 +447,23 @@
     <category lang="en">Cricket</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3F4473174D58DF21BD350C2CFEAD8621DC18C2AQ.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626064500 +0000" channel="ts1067">
-    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
-  </programme>
-  <programme start="20240626064500 +0000" stop="20240626070000 +0000" channel="ts1067">
-    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
-    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/935CA5EEEF8FF79CADCEE6456F3B889A641369A6V.jpg"/>
-  </programme>
-  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts1067">
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts1067">
     <title lang="en">Match Point-ICC Men's T20I WC</title>
     <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/309F37E5394DFF9C145C3C7AE15A909CCE59176CS.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626071500 +0000" channel="ts1067">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3F4473174D58DF21BD350C2CFEAD8621DC18C2AQ.jpg"/>
+  </programme>
+  <programme start="20240626071500 +0000" stop="20240626073000 +0000" channel="ts1067">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/935CA5EEEF8FF79CADCEE6456F3B889A641369A6V.jpg"/>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts1067">
     <title lang="en">ICC Men's T20I World Cup Hlts IND v PAK</title>
@@ -503,23 +503,17 @@
   </programme>
   <programme start="20240626093000 +0000" stop="20240626094500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
   <programme start="20240626094500 +0000" stop="20240626100000 +0000" channel="ts1067">
-    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
-    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3F4473174D58DF21BD350C2CFEAD8621DC18C2AQ.jpg"/>
-  </programme>
-  <programme start="20240626100000 +0000" stop="20240626101500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
-  <programme start="20240626101500 +0000" stop="20240626103000 +0000" channel="ts1067">
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts1067">
     <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
     <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
     <category lang="en">Cricket</category>
@@ -605,7 +599,7 @@
   </programme>
   <programme start="20240626150000 +0000" stop="20240626151500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>
@@ -617,7 +611,7 @@
   </programme>
   <programme start="20240626153000 +0000" stop="20240626154500 +0000" channel="ts1067">
     <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
-    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <desc lang="en">Sports experts review player performance and team strategies from the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2304975348DF6A1999834FA8FCA784ADFAE43E6CF.jpg"/>
   </programme>

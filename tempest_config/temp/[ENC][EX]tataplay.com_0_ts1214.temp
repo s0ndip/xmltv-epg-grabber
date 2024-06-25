@@ -53,33 +53,35 @@
   </programme>
   <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts1214">
     <title lang="en">Gospel Songs In English</title>
-    <desc lang="en">Religious leaders and faithful devotees come together to sing devotional songs in praise of the Lord and seek his blessings.</desc>
+    <desc lang="en">Bade Gospel Team, Spot on FSSAI -4 (How to Read food Labels), G/S - Odyssey group: Religious leaders and faithful devotees come together to sing devotional songs in praise of the Lord and seek his blessings.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/971C4984C63FA0C17B2DCB56EC965BB8B78B463EJ.jpg"/>
   </programme>
   <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts1214">
     <title lang="en">Programme On Agri / Allied Programme / DD Kisan</title>
-    <desc lang="en">The host presents a variety of programmes concerning updates, innovations, schemes and developments in the field of agriculture.</desc>
+    <desc lang="en">E02- Global Holistic Healing Centre (GHHC), Promo on Dekho Apna Desh: The host presents a variety of programmes concerning updates, innovations, schemes and developments in the field of agriculture.</desc>
     <category lang="en">Agriculture &amp; Farming</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9AFCCFC2CC1F48AF2EC75AF79CBC05CB8425D6FDA.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
   <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1214">
     <title lang="en">Western Music</title>
-    <desc lang="en">Talented artists come together and perform a collection of melodious songs that are composed in the Western style of music.</desc>
+    <desc lang="en">The Rockies' - Kohima Science College, Promo on MKB - (1), Acoustic songs - 'The Hush Hour': Talented artists come together and perform a collection of melodious songs that are composed in the Western style of music.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4CF88DB99905999F6F219F5F72495E71895F30BU.jpg"/>
   </programme>
   <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts1214">
-    <title lang="en">Documentary On Youth Entrepreneurs</title>
-    <desc lang="en">Documentary On Youth Entrepreneurs</desc>
+    <title lang="en">Documentary On Youth Entrepreneurs / Local Transmission Follows</title>
+    <desc lang="en">E01- Youth Avenue, Promo on MKB - 2, Spot on Airforce AFCAT Campaign 2, Spot on RBI</desc>
     <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4E16199F7A73CA4117FB5C5C5A034C7DA4540AC7.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
   <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts1214">
-    <title lang="en">Regional News/ NE News</title>
-    <desc lang="en">The host presents the latest news updates and developments from around the region; the host presents the top stories from Northeast India.</desc>
+    <title lang="en">Regional News/ NE News Live</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact the people of Northeast India, live.</desc>
     <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D5B42774039DED24ED59CDD542A01A2FA6E6B9D4.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5920A0DE0699BD53ECB5EBA49770E9629416B289X.jpg"/>
   </programme>
   <programme start="20240625133000 +0000" stop="20240625153000 +0000" channel="ts1214">
     <title lang="en">TBA</title>

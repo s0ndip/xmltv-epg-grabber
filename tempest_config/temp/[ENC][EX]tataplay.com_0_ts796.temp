@@ -547,10 +547,17 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81BDE40512A6B00F4FB33E415AD8245DE157284E1.jpg"/>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts796">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+    <title lang="en">Movie - Tara Mira</title>
+    <desc lang="en">Tara inadvertently goes against his father's will and falls for a girl from another caste.</desc>
+    <credits>
+      <actor>Ranjit Bawa</actor>
+      <actor>Nazia Hussain</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Sudesh Lehri</actor>
+      <actor>Yograj Singh</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6D77E4565EF13C441F66B6025A1D26D01BF5162U.jpg"/>
   </programme>
   <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts796">
     <title lang="en">Sahajveer</title>

@@ -88,7 +88,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88256024BEA9106B8B1E9903E982EE1DBAF483DB.jpg"/>
   </programme>
-  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts229">
+  <programme start="20240625103000 +0000" stop="20240625130000 +0000" channel="ts229">
     <title lang="en">Vazhiyorakazchakal</title>
     <desc lang="en">When Baburaj, a police officer, gets injured in a deadly accident, a mysterious driver helps Sreedevi, Baburaj's wife, nurse him back to health.</desc>
     <credits>
@@ -100,6 +100,12 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB6C28524CD74CD40868F9F32BC2859BD9ADE1CDJ.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts229">
+    <title lang="en">Super Scenes</title>
+    <desc lang="en">Super Scenes</desc>
+    <category lang="en">Malayalam</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
   </programme>
   <programme start="20240625133000 +0000" stop="20240625163000 +0000" channel="ts229">
     <title lang="en">Sapthamashree Thaskaraha</title>
