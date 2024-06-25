@@ -3,7 +3,7 @@ name: copy_updated_epg_files
 on:
   workflow_run:
     workflows: ["tempest_epg_grabber"]
-          types:
+    types:
       - completed   
   workflow_dispatch:
   
