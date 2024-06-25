@@ -140,21 +140,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5CBD463194806FCD87D475F1C32F36FA9E7EFC0R.jpg"/>
   </programme>
-  <programme start="20240625190000 +0000" stop="20240625203000 +0000" channel="ts267">
-    <title lang="en">Forensic</title>
-    <desc lang="en">When an unknown murderer embarks on a killing spree, forensic expert Samuel Kattookkaaran uses his skills to uncover the killer's identity before it is too late.</desc>
-    <credits>
-      <actor>Tovino Thomas</actor>
-      <actor>Saiju Kurup</actor>
-      <actor>Mamta Mohandas</actor>
-      <actor>Renji Panicker</actor>
-      <actor>Reba Monica John</actor>
-      <actor>Thamanna Pramod</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C65DB868913DF269D65AFD81C3E6980A97DACCADZ.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0000" stop="20240625223000 +0000" channel="ts267">
+  <programme start="20240625195700 +0000" stop="20240625223000 +0000" channel="ts267">
     <title lang="en">Daas Dev</title>
     <desc lang="en">Dev, a political heir to the throne, finds himself in a dilemma when his lover Paro challenges him on the grounds of politics.</desc>
     <credits>
@@ -169,18 +155,17 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70C087215DBD07D04E6A5290A697CA0E95EA853D1.jpg"/>
   </programme>
   <programme start="20240625223000 +0000" stop="20240626001500 +0000" channel="ts267">
-    <title lang="en">Holiday: A Soldier Is Never Off Duty</title>
-    <desc lang="en">Virat, a soldier, accidentally bumps into a terrorist who plans to rip apart Mumbai with a series of bomb blasts. He then gathers his team to protect the city from the impending danger.</desc>
+    <title lang="en">Holiday</title>
+    <desc lang="en">While holidaying in Goa with her family, a shy Muskaan falls for Dino, a dancer at the resort. Problems ensue when her father objects to their relationship as he believes Dino has impregnated a woman.</desc>
     <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Sonakshi Sinha</actor>
-      <actor>Freddy Daruwala</actor>
-      <actor>Govinda</actor>
-      <actor>Sumeet Raghavan</actor>
-      <actor>Zakir Hussain</actor>
+      <actor>Dino Morea</actor>
+      <actor>Kashmira Shah</actor>
+      <actor>Onjolee Nair</actor>
+      <actor>Gulshan Grover</actor>
+      <actor>Jabed Ahmed Laskar</actor>
     </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C4BC787FD11858C87650EE6C8887A831ADD503EE.jpg"/>
+    <category lang="en">Musical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB12537BD1C75B25B374569956C6C16AE5AFEA52B.jpg"/>
   </programme>
   <programme start="20240626001500 +0000" stop="20240626023000 +0000" channel="ts267">
     <title lang="en">Yeh Hai Jalwa</title>
@@ -210,18 +195,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC00A0B370D5DF2E4D0F1F95F29D12C9CA564B8DT.jpg"/>
   </programme>
   <programme start="20240626053700 +0000" stop="20240626081600 +0000" channel="ts267">
-    <title lang="en">Hogi Pyaar Ki Jeet</title>
-    <desc lang="en">Two brothers reunite in order to fulfil the wish of their dying father whom Thakur bitterly humiliates and murders. They intend to marry Thakur's two daughters to seek revenge.</desc>
+    <title lang="en">Bob Biswas</title>
+    <desc lang="en">An assassin named Bob Biswas comes out of a prolonged coma and struggles to recall his identity. However, as he pieces together memories of his past, he faces a moral dilemma.</desc>
     <credits>
-      <actor>Ajay Devgn</actor>
-      <actor>Arshad Warsi</actor>
-      <actor>Shabana Raza</actor>
-      <actor>Mayuri Kango</actor>
-      <actor>Prithvi</actor>
-      <actor>Mohan Joshi</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Chitrangada Singh</actor>
+      <actor>Kaushik Raj Chakraborty</actor>
+      <actor>Paran Bandopadhyay</actor>
+      <actor>Barun Chanda</actor>
+      <actor>Bhanu Uday</actor>
     </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C28ED765ACEEE752F697FEDCCF31E6037F5F408B1.jpg"/>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC006FCCB5403437D4A81BA78E735F159CFC975E0.jpg"/>
   </programme>
   <programme start="20240626081600 +0000" stop="20240626110600 +0000" channel="ts267">
     <title lang="en">The Real Tevar</title>
@@ -264,7 +249,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58B17904E7AC1151F9FB7DC4F6E5EA4FCF5A54A53.jpg"/>
   </programme>
-  <programme start="20240626175200 +0000" stop="20240626201800 +0000" channel="ts267">
+  <programme start="20240626175200 +0000" stop="20240626203000 +0000" channel="ts267">
     <title lang="en">Darlings</title>
     <desc lang="en">Hamza and Badru's love marriage takes an ugly turn when he turns into an abusive and alcoholic husband. However, when his behaviour leads to a tragedy, she sets off to seek revenge.</desc>
     <credits>

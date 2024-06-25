@@ -128,10 +128,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13893EBB58706DD34285917597B3827016971762H.jpg"/>
   </programme>
   <programme start="20240625201200 +0000" stop="20240625213000 +0000" channel="ts164">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <title lang="en">Dishoom</title>
+    <desc lang="en">Kabir and Junaid, two policemen at odds with each other, embark on a mission to the Middle East to rescue Viraj, a leading cricketer who has been kidnapped.</desc>
+    <credits>
+      <actor>John Abraham</actor>
+      <actor>Varun Dhawan</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Akshaye Khanna</actor>
+      <actor>Rashmi Nigam</actor>
+      <actor>Saqib Saleem</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7EB4B02971EF3EF64A81B8454EFB815A448B933Z.jpg"/>
   </programme>
   <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts164">
     <title lang="en">Movie</title>

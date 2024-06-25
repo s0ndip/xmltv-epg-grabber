@@ -155,10 +155,9 @@
   </programme>
   <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts252">
     <title lang="en">Just Chill</title>
-    <desc lang="en">Just Chill Repeat - Tue,Wed,Thu,Sun 6:00 am.</desc>
+    <desc lang="en">Just Chill E03.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/369C4F3A69099B4B863DD68A1C2EE4DC3801AF45U.jpg"/>
-    <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts252">
     <title lang="en">Teleshopping</title>
@@ -181,7 +180,7 @@
   </programme>
   <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts252">
     <title lang="en">Drama Juniors</title>
-    <desc lang="en">Children get the opportunity to showcase their talent and enact various day-to-day situations to score maximum points and win the title.</desc>
+    <desc lang="en">Children get the opportunity to showcase their talent and enact various day-to-day situations to score maximum points and win the title. Repeat - Sat 7:00 am.</desc>
     <credits>
       <actor>Pradeep Machiraju</actor>
       <actor>Ali</actor>
@@ -190,7 +189,6 @@
     </credits>
     <category lang="en">Talent Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/776823B1561F00DB57B1C422A4FA61E0AF67447BY.jpg"/>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
   </programme>
   <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts252">
     <title lang="en">Brothers</title>

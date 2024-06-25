@@ -254,7 +254,7 @@
   </programme>
   <programme start="20240625122900 +0000" stop="20240625125900 +0000" channel="ts52">
     <title lang="en">Udaariyan</title>
-    <desc lang="en">Enraged by Meher's careless attitude, Sarab decides to leave the house for good. Repeat - Mon,Sun 3:00 am.</desc>
+    <desc lang="en">Following a fierce confrontation with Sakthi, Sarab manages to prove his innocence before the Gills. Regretting her past behaviour towards Sarab, Meher experiences a change of perspective. Repeat - Mon,Sun 3:00 am.</desc>
     <credits>
       <actor>Priyanka Chaudhary</actor>
       <actor>Ankit Gupta</actor>
@@ -279,7 +279,7 @@
   </programme>
   <programme start="20240625132900 +0000" stop="20240625135900 +0000" channel="ts52">
     <title lang="en">Krishna Mohini</title>
-    <desc lang="en">Armed with a video of Aryaman and Krishna, Sid instigates Mohan against his sister.</desc>
+    <desc lang="en">The police begin investigating Mohan's disappearance. Meanwhile, Aryaman's family prepares a surprise for his birthday at home but they are stunned when he arrives with Krishna.</desc>
     <credits>
       <actor>Sejal Jaiswal</actor>
       <actor>Debattama Saha</actor>
@@ -291,7 +291,7 @@
   </programme>
   <programme start="20240625135900 +0000" stop="20240625142900 +0000" channel="ts52">
     <title lang="en">Parineetii</title>
-    <desc lang="en">A shocking revelation awaits Pavitra when she chances upon Gurpreet at the event. Repeat - Mon,Sun 4:00 am.</desc>
+    <desc lang="en">Parvati remains defiant after Rajeev questions her dual identity. Later, Parvati prepares to execute her first assault against Neeti. Repeat - Mon,Sun 4:00 am.</desc>
     <credits>
       <actor>Ankur Verma</actor>
       <actor>Tanvi Dogra</actor>
@@ -303,7 +303,7 @@
   </programme>
   <programme start="20240625142900 +0000" stop="20240625145900 +0000" channel="ts52">
     <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
-    <desc lang="en">Mahishasur requests Brahmadev to bless him with a powerful boon.</desc>
+    <desc lang="en">Sage Parshuram vows to express his ire before Lord Shiv upon learning about the latter's boon to Mahishasur. However, Lord Ganesh intervenes and convinces the sage to reconsider his plans.</desc>
     <credits>
       <actor>Ram Yashvardhan</actor>
       <actor>Subha Rajput</actor>
@@ -314,7 +314,7 @@
   </programme>
   <programme start="20240625145900 +0000" stop="20240625152900 +0000" channel="ts52">
     <title lang="en">Doree</title>
-    <desc lang="en">The neighbours humiliate Rukmani as she is being escorted out of the house by the police.</desc>
+    <desc lang="en">Kailashi greets Ganga, the groom. However, Veerendra, whose intent is to stop the wedding, stabs him with a knife, which takes everyone by surprise.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
@@ -326,7 +326,7 @@
   </programme>
   <programme start="20240625152900 +0000" stop="20240625155900 +0000" channel="ts52">
     <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">Lakshmi is taken by surprise when Gayatri offers to revamp her appearance.</desc>
+    <desc lang="en">Gayathri warns Sanjana against interfering in Lakshmi's marital life.</desc>
     <credits>
       <actor>Deepika Singh</actor>
       <actor>Naman Shaw</actor>
@@ -341,7 +341,7 @@
   </programme>
   <programme start="20240625155900 +0000" stop="20240625163000 +0000" channel="ts52">
     <title lang="en">Mera Balam Thanedaar</title>
-    <desc lang="en">Bulbul is devastated to lean that Devendra is on the brink of financial ruin.</desc>
+    <desc lang="en">Devendra threatens to expose Bulbul's age fraud if the latter alerts Veer about his cunning ploy. Subsequently, Bulbul is devastated to witness a police entourage at Veer's house.</desc>
     <credits>
       <actor>Shagun Pandey</actor>
       <actor>Shruti Choudhary</actor>
@@ -352,7 +352,7 @@
   </programme>
   <programme start="20240625163000 +0000" stop="20240625165900 +0000" channel="ts52">
     <title lang="en">Laxmi Narayan</title>
-    <desc lang="en">Lord Narayan grows anxious about the consequences of Shukracharya and Brihaspati's battle.</desc>
+    <desc lang="en">Accompanied by a group of demons, Aditi requests Shukracharya to accept them as his students. Eventually, silence engulfs the universe when Shukracharya declares war against the Gods.</desc>
     <credits>
       <actor>Srikant Dwivedi</actor>
       <actor>Shivya Pathania</actor>
@@ -363,7 +363,7 @@
   </programme>
   <programme start="20240625165900 +0000" stop="20240625173000 +0000" channel="ts52">
     <title lang="en">Suhagan Chudail</title>
-    <desc lang="en">Nishi grows anxious upon learning about the prevalence of a red moon on the wedding day.</desc>
+    <desc lang="en">Moksh is surprised to feel Deeya's presence in his surroundings. Meanwhile, Nishigandha suspects an attempt to her life and executes a deadly countermeasure.</desc>
     <credits>
       <actor>Nia Sharma</actor>
     </credits>
@@ -373,7 +373,7 @@
   </programme>
   <programme start="20240625173000 +0000" stop="20240625190700 +0000" channel="ts52">
     <title lang="en">Laughter Chefs Unlimited Entertainment</title>
-    <desc lang="en">Six celebrity couples participate in communal activities and culinary challenges to enthral the audience with their interpersonal dynamics.</desc>
+    <desc lang="en">Celebrity Indian chef Harpal Singh Sokhi judges the contestants culinary skills, temperament and presentation acumen as they prepare a series of 'Shahi Tadka' cuisines.</desc>
     <credits>
       <actor>Karan Kundrra</actor>
       <actor>Arjun Bijlani</actor>
@@ -386,49 +386,60 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BF53103ACE43F2AA381AD4EF6CD62124669562BE.jpg"/>
     <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
-  <programme start="20240625193000 +0000" stop="20240625233000 +0000" channel="ts52">
-    <title lang="en">Khatra Khatra Khatra</title>
-    <desc lang="en">Famous celebrities from the television industry pull embarrassing pranks on each other to emerge as the ultimate prankster.</desc>
+  <programme start="20240625190700 +0000" stop="20240625200100 +0000" channel="ts52">
+    <title lang="en">Naagin</title>
+    <desc lang="en">A worried Sangram Singh decides to look for the book that can help him find a solution. Meanwhile, Yamini informs Shivanya that she wishes to save her family from Naagin.</desc>
     <credits>
-      <actor>Harsh Limbaachiya</actor>
-      <actor>Bharti Singh</actor>
-      <actor>Punit Pathak</actor>
-      <actor>Aditya Narayan</actor>
-      <actor>Gaurav Dubey</actor>
-      <actor>Ridhima Pandit</actor>
-    </credits>
-    <category lang="en">Game Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D91863D415E0FB46E9C2DA55C03C278196176AAL.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts52">
-    <title lang="en">Udaariyan</title>
-    <desc lang="en">Haniya struggles to control herself upon witnessing Sarab's efforts to win Meher's heart.</desc>
-    <credits>
-      <actor>Priyanka Chaudhary</actor>
-      <actor>Ankit Gupta</actor>
-      <actor>Isha Malviya</actor>
-      <actor>Abhishek Kumar</actor>
-      <actor>Rashmeet Kaur Sethi</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Arjun Bijlani</actor>
+      <actor>Adaa Khan</actor>
+      <actor>Sudha Chandran</actor>
+      <actor>Karanvir Bohra</actor>
+      <actor>Surbhi Jyoti</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5AC30962FC52CA2D44E3636C3248BA39D027ED32.jpg"/>
-    <episode-num system="xmltv_ns">.1091.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7FB7A9BFC5322D10CD2CA25FA85703C5D481729A.jpg"/>
+    <episode-num system="xmltv_ns">.42.</episode-num>
   </programme>
-  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts52">
-    <title lang="en">Parineetii</title>
-    <desc lang="en">Surprised by Pari's changed demeanour, Neeti decides to confront her nemesis.</desc>
+  <programme start="20240625200100 +0000" stop="20240625205500 +0000" channel="ts52">
+    <title lang="en">Naagin</title>
+    <desc lang="en">Shesha, who is with Ritik, realises that Shivanya may be in trouble. Later, Yamini asks Shesha to release Shivanya and marry Ritik.</desc>
     <credits>
-      <actor>Ankur Verma</actor>
-      <actor>Tanvi Dogra</actor>
-      <actor>Anchal Shau</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Arjun Bijlani</actor>
+      <actor>Adaa Khan</actor>
+      <actor>Sudha Chandran</actor>
+      <actor>Karanvir Bohra</actor>
+      <actor>Surbhi Jyoti</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6662360909EF6BFC4C525620F9C9E0475542F1116.jpg"/>
-    <episode-num system="xmltv_ns">.791.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF6CDC3F889E0B4EAC90B4A8E9E2B852726AFFCEQ.jpg"/>
+    <episode-num system="xmltv_ns">.43.</episode-num>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts52">
+  <programme start="20240625205500 +0000" stop="20240625212700 +0000" channel="ts52">
+    <title lang="en">Suhagan Chudail</title>
+    <desc lang="en">Moksh is surprised to feel Deeya's presence in his surroundings. Meanwhile, Nishigandha suspects an attempt to her life and executes a deadly countermeasure.</desc>
+    <credits>
+      <actor>Nia Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/619FA39318399FE8B08177D6F3EE25B5AA099991C.jpg"/>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20240625212700 +0000" stop="20240625215800 +0000" channel="ts52">
+    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
+    <desc lang="en">Sage Parshuram vows to express his ire before Lord Shiv upon learning about the latter's boon to Mahishasur. However, Lord Ganesh intervenes and convinces the sage to reconsider his plans.</desc>
+    <credits>
+      <actor>Ram Yashvardhan</actor>
+      <actor>Subha Rajput</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C460C04BCF2A82E6CD4B14BFB2EE0745859C3B2E.jpg"/>
+    <episode-num system="xmltv_ns">.365.</episode-num>
+  </programme>
+  <programme start="20240625215800 +0000" stop="20240625222900 +0000" channel="ts52">
     <title lang="en">Doree</title>
-    <desc lang="en">Anand kidnaps Doree and manipulates her into signing the property papers.</desc>
+    <desc lang="en">Kailashi greets Ganga, the groom. However, Veerendra, whose intent is to stop the wedding, stabs him with a knife, which takes everyone by surprise.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
@@ -438,82 +449,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/685436FC2A83C71D9E6A7B9CB0B5A7BD75C2691E6.jpg"/>
     <episode-num system="xmltv_ns">.225.</episode-num>
   </programme>
-  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts52">
-    <title lang="en">Parineetii</title>
-    <desc lang="en">Surprised by Pari's changed demeanour, Neeti decides to confront her nemesis.</desc>
-    <credits>
-      <actor>Ankur Verma</actor>
-      <actor>Tanvi Dogra</actor>
-      <actor>Anchal Shau</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6662360909EF6BFC4C525620F9C9E0475542F1116.jpg"/>
-    <episode-num system="xmltv_ns">.791.</episode-num>
-  </programme>
-  <programme start="20240626013000 +0000" stop="20240626053000 +0000" channel="ts52">
-    <title lang="en">Khatra Khatra Khatra</title>
-    <desc lang="en">Famous celebrities from the television industry pull embarrassing pranks on each other to emerge as the ultimate prankster.</desc>
-    <credits>
-      <actor>Harsh Limbaachiya</actor>
-      <actor>Bharti Singh</actor>
-      <actor>Punit Pathak</actor>
-      <actor>Aditya Narayan</actor>
-      <actor>Gaurav Dubey</actor>
-      <actor>Ridhima Pandit</actor>
-    </credits>
-    <category lang="en">Game Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D91863D415E0FB46E9C2DA55C03C278196176AAL.jpg"/>
-  </programme>
-  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts52">
-    <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
-    <desc lang="en">Following Lord Indra's orders, Karthikeya attempts to jeopardise Mahishasur's rituals.</desc>
-    <credits>
-      <actor>Ram Yashvardhan</actor>
-      <actor>Subha Rajput</actor>
-    </credits>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C460C04BCF2A82E6CD4B14BFB2EE0745859C3B2E.jpg"/>
-    <episode-num system="xmltv_ns">.365.</episode-num>
-  </programme>
-  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts52">
-    <title lang="en">Udaariyan</title>
-    <desc lang="en">Haniya struggles to control herself upon witnessing Sarab's efforts to win Meher's heart.</desc>
-    <credits>
-      <actor>Priyanka Chaudhary</actor>
-      <actor>Ankit Gupta</actor>
-      <actor>Isha Malviya</actor>
-      <actor>Abhishek Kumar</actor>
-      <actor>Rashmeet Kaur Sethi</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5AC30962FC52CA2D44E3636C3248BA39D027ED32.jpg"/>
-    <episode-num system="xmltv_ns">.1091.</episode-num>
-  </programme>
-  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts52">
-    <title lang="en">Mera Balam Thanedaar</title>
-    <desc lang="en">Veer is pleasantly surprised after Bulbul passes her examination with an exemplary score.</desc>
-    <credits>
-      <actor>Shagun Pandey</actor>
-      <actor>Shruti Choudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E83B6D47F9C7F0850A71012BC891CBC585E7D3718.jpg"/>
-    <episode-num system="xmltv_ns">.124.</episode-num>
-  </programme>
-  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts52">
-    <title lang="en">Laxmi Narayan</title>
-    <desc lang="en">The demons are delighted after Shukracharya vows to exact vengeance.</desc>
-    <credits>
-      <actor>Srikant Dwivedi</actor>
-      <actor>Shivya Pathania</actor>
-    </credits>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5BB4C52E5562DF7D281B87AB59365217566602BX.jpg"/>
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts52">
+  <programme start="20240625222900 +0000" stop="20240625225900 +0000" channel="ts52">
     <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">While the family awaits Mangal's felicitation ceremony, Adit invites his boss for lunch.</desc>
+    <desc lang="en">Gayathri warns Sanjana against interfering in Lakshmi's marital life.</desc>
     <credits>
       <actor>Deepika Singh</actor>
       <actor>Naman Shaw</actor>
@@ -526,9 +464,135 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D00102A44F58E5F7FF6D9536AFF2B8092117440V.jpg"/>
     <episode-num system="xmltv_ns">.119.</episode-num>
   </programme>
-  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts52">
+  <programme start="20240625225900 +0000" stop="20240625232900 +0000" channel="ts52">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Devendra threatens to expose Bulbul's age fraud if the latter alerts Veer about his cunning ploy. Subsequently, Bulbul is devastated to witness a police entourage at Veer's house.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E83B6D47F9C7F0850A71012BC891CBC585E7D3718.jpg"/>
+    <episode-num system="xmltv_ns">.124.</episode-num>
+  </programme>
+  <programme start="20240625232900 +0000" stop="20240625235900 +0000" channel="ts52">
+    <title lang="en">Udaariyan</title>
+    <desc lang="en">Following a fierce confrontation with Sakthi, Sarab manages to prove his innocence before the Gills. Regretting her past behaviour towards Sarab, Meher experiences a change of perspective.</desc>
+    <credits>
+      <actor>Priyanka Chaudhary</actor>
+      <actor>Ankit Gupta</actor>
+      <actor>Isha Malviya</actor>
+      <actor>Abhishek Kumar</actor>
+      <actor>Rashmeet Kaur Sethi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5AC30962FC52CA2D44E3636C3248BA39D027ED32.jpg"/>
+    <episode-num system="xmltv_ns">.1091.</episode-num>
+  </programme>
+  <programme start="20240625235900 +0000" stop="20240626003000 +0000" channel="ts52">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parvati remains defiant after Rajeev questions her dual identity. Later, Parvati prepares to execute her first assault against Neeti.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6662360909EF6BFC4C525620F9C9E0475542F1116.jpg"/>
+    <episode-num system="xmltv_ns">.791.</episode-num>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts52">
+    <title lang="en">Doree</title>
+    <desc lang="en">Kailashi greets Ganga, the groom. However, Veerendra, whose intent is to stop the wedding, stabs him with a knife, which takes everyone by surprise.</desc>
+    <credits>
+      <actor>Mahi Bhanushali</actor>
+      <actor>Amar Upadhyay</actor>
+      <actor>Sudha Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/685436FC2A83C71D9E6A7B9CB0B5A7BD75C2691E6.jpg"/>
+    <episode-num system="xmltv_ns">.225.</episode-num>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts52">
+    <title lang="en">Parineetii</title>
+    <desc lang="en">Parvati remains defiant after Rajeev questions her dual identity. Later, Parvati prepares to execute her first assault against Neeti.</desc>
+    <credits>
+      <actor>Ankur Verma</actor>
+      <actor>Tanvi Dogra</actor>
+      <actor>Anchal Shau</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6662360909EF6BFC4C525620F9C9E0475542F1116.jpg"/>
+    <episode-num system="xmltv_ns">.791.</episode-num>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626043000 +0000" channel="ts52">
+    <title lang="en">Khatra Khatra Khatra</title>
+    <desc lang="en">Famous celebrities from the television industry pull embarrassing pranks on each other to emerge as the ultimate prankster.</desc>
+    <credits>
+      <actor>Harsh Limbaachiya</actor>
+      <actor>Bharti Singh</actor>
+      <actor>Punit Pathak</actor>
+      <actor>Aditya Narayan</actor>
+      <actor>Gaurav Dubey</actor>
+      <actor>Ridhima Pandit</actor>
+    </credits>
+    <category lang="en">Game Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D91863D415E0FB46E9C2DA55C03C278196176AAL.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626063000 +0000" channel="ts52">
+    <title lang="en">Laughter Chefs Unlimited Entertainment</title>
+    <desc lang="en">Six celebrity couples participate in communal activities and culinary challenges to enthral the audience with their interpersonal dynamics.</desc>
+    <credits>
+      <actor>Karan Kundrra</actor>
+      <actor>Arjun Bijlani</actor>
+      <actor>Jannat Zubair</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Kashmera Shah</actor>
+      <actor>Sudesh Lehri</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BF53103ACE43F2AA381AD4EF6CD62124669562BE.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts52">
+    <title lang="en">Mera Balam Thanedaar</title>
+    <desc lang="en">Devendra threatens to expose Bulbul's age fraud if the latter alerts Veer about his cunning ploy. Subsequently, Bulbul is devastated to witness a police entourage at Veer's house.</desc>
+    <credits>
+      <actor>Shagun Pandey</actor>
+      <actor>Shruti Choudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E83B6D47F9C7F0850A71012BC891CBC585E7D3718.jpg"/>
+    <episode-num system="xmltv_ns">.124.</episode-num>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts52">
+    <title lang="en">Laxmi Narayan</title>
+    <desc lang="en">Accompanied by a group of demons, Aditi requests Shukracharya to accept them as his students. Eventually, silence engulfs the universe when Shukracharya declares war against the Gods.</desc>
+    <credits>
+      <actor>Srikant Dwivedi</actor>
+      <actor>Shivya Pathania</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5BB4C52E5562DF7D281B87AB59365217566602BX.jpg"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts52">
+    <title lang="en">Mangal Laxmi</title>
+    <desc lang="en">Gayathri warns Sanjana against interfering in Lakshmi's marital life.</desc>
+    <credits>
+      <actor>Deepika Singh</actor>
+      <actor>Naman Shaw</actor>
+      <actor>RJ Sanika</actor>
+      <actor>Urvashi Upadhya</actor>
+      <actor>Gayatri Soham</actor>
+      <actor>Shubham Dipta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D00102A44F58E5F7FF6D9536AFF2B8092117440V.jpg"/>
+    <episode-num system="xmltv_ns">.119.</episode-num>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626090000 +0000" channel="ts52">
     <title lang="en">Sasural Simar Ka 2</title>
-    <desc lang="en">When Avinash does not arrive at the party, Indu begins to feel restless. Avinash, on the other hand, pays a visit to Tanu at her house.</desc>
+    <desc lang="en">Gitanjali Devi entrusts Simar Bhardwaj with the task of finding an ideal bride for her grandson. Simar's quest ends when she meets her namesake, Simar Narayan, who dreams of making it big as a singer.</desc>
     <credits>
       <actor>Dipika Kakar</actor>
       <actor>Shoaib Ibrahim</actor>
@@ -538,10 +602,9 @@
       <actor>Karan Sharma</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36C00A66922EB01409665872859797B552DA5E762.jpg"/>
-    <episode-num system="xmltv_ns">.14.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AC9F7A1285D2FDC13A0986627D7196809E543C0G.jpg"/>
   </programme>
-  <programme start="20240626083000 +0000" stop="20240626123000 +0000" channel="ts52">
+  <programme start="20240626090000 +0000" stop="20240626123000 +0000" channel="ts52">
     <title lang="en">Kasam</title>
     <desc lang="en">After Tanuja and Rishi, two lovers, die, they are reincarnated as Ranbir and Kritika. They must meet each other and lead a happy life together, which they were unable to do in their past life.</desc>
     <credits>
@@ -557,7 +620,7 @@
   </programme>
   <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts52">
     <title lang="en">Udaariyan</title>
-    <desc lang="en">Haniya struggles to control herself upon witnessing Sarab's efforts to win Meher's heart. Repeat - Mon,Sun 3:00 am.</desc>
+    <desc lang="en">Following a fierce confrontation with Sakthi, Sarab manages to prove his innocence. Repeat - Mon,Sun 3:00 am.</desc>
     <credits>
       <actor>Priyanka Chaudhary</actor>
       <actor>Ankit Gupta</actor>
@@ -571,7 +634,7 @@
   </programme>
   <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts52">
     <title lang="en">Suhaagan</title>
-    <desc lang="en">While Dhwani remains unmoved, Swara races against time to save a dying man's life. Repeat - Mon,Sun 2:30 am.</desc>
+    <desc lang="en">Shlok is taken aback after Baldev announces his marital alliance with Naina. Repeat - Sun 2:30 am.</desc>
     <credits>
       <actor>Aakriti Sharma</actor>
       <actor>Kurangi Nagraj</actor>
@@ -582,7 +645,7 @@
   </programme>
   <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts52">
     <title lang="en">Krishna Mohini</title>
-    <desc lang="en">Aryaman threatens to end her relationship with Krishna if she supports Mohan's decision.</desc>
+    <desc lang="en">The police probe Mohan's disappearance. Later, Aryaman comes home with Krishna.</desc>
     <credits>
       <actor>Sejal Jaiswal</actor>
       <actor>Debattama Saha</actor>
@@ -594,7 +657,7 @@
   </programme>
   <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts52">
     <title lang="en">Parineetii</title>
-    <desc lang="en">Surprised by Pari's changed demeanour, Neeti decides to confront her nemesis. Repeat - Mon,Sun 4:00 am.</desc>
+    <desc lang="en">Following a confrontation with Rajeev, Parvati executes her first assault against Neeti. Repeat - Mon,Sun 4:00 am.</desc>
     <credits>
       <actor>Ankur Verma</actor>
       <actor>Tanvi Dogra</actor>
@@ -606,7 +669,7 @@
   </programme>
   <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts52">
     <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
-    <desc lang="en">Following Lord Indra's orders, Karthikeya attempts to jeopardise Mahishasur's rituals.</desc>
+    <desc lang="en">Ganesh intervenes when Sage Parshuram vows to question Lord Shiv's boon to Mahishasur.</desc>
     <credits>
       <actor>Ram Yashvardhan</actor>
       <actor>Subha Rajput</actor>
@@ -617,7 +680,7 @@
   </programme>
   <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts52">
     <title lang="en">Doree</title>
-    <desc lang="en">Anand kidnaps Doree and manipulates her into signing the property papers.</desc>
+    <desc lang="en">Veerendra stabs Ganga with a knife, which takes everyone by surprise.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
@@ -629,7 +692,7 @@
   </programme>
   <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts52">
     <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">While the family awaits Mangal's felicitation ceremony, Adit invites his boss for lunch.</desc>
+    <desc lang="en">Gayathri warns Sanjana against interfering in Lakshmi's marital life.</desc>
     <credits>
       <actor>Deepika Singh</actor>
       <actor>Naman Shaw</actor>
@@ -644,7 +707,7 @@
   </programme>
   <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts52">
     <title lang="en">Mera Balam Thanedaar</title>
-    <desc lang="en">Veer is pleasantly surprised after Bulbul passes her examination with an exemplary score.</desc>
+    <desc lang="en">Devendra threatens to expose Bulbul's age fraud if the latter alerts Veer about his trap.</desc>
     <credits>
       <actor>Shagun Pandey</actor>
       <actor>Shruti Choudhary</actor>
@@ -655,7 +718,7 @@
   </programme>
   <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts52">
     <title lang="en">Laxmi Narayan</title>
-    <desc lang="en">The demons are delighted after Shukracharya vows to exact vengeance.</desc>
+    <desc lang="en">Silence engulfs the universe when Shukracharya declares war against the Gods.</desc>
     <credits>
       <actor>Srikant Dwivedi</actor>
       <actor>Shivya Pathania</actor>
@@ -666,7 +729,7 @@
   </programme>
   <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts52">
     <title lang="en">Suhagan Chudail</title>
-    <desc lang="en">Nishi grows anxious upon learning about the prevalence of a red moon on the wedding day.</desc>
+    <desc lang="en">Nishigandha suspects an attempt to her life and executes a deadly countermeasure.</desc>
     <credits>
       <actor>Nia Sharma</actor>
     </credits>
@@ -675,17 +738,17 @@
     <episode-num system="xmltv_ns">.22.</episode-num>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626193000 +0000" channel="ts52">
-    <title lang="en">Naagin</title>
-    <desc lang="en">Shivanya, the daughter of a shape-shifting snake couple, sets out to avenge her parents, who are murdered. While on her mission, she marries Ritik, the son of one of the murderers.</desc>
+    <title lang="en">Laughter Chefs Unlimited Entertainment</title>
+    <desc lang="en">Six celebrity couples participate in communal activities and culinary challenges to enthral the audience with their interpersonal dynamics.</desc>
     <credits>
-      <actor>Mouni Roy</actor>
+      <actor>Karan Kundrra</actor>
       <actor>Arjun Bijlani</actor>
-      <actor>Adaa Khan</actor>
-      <actor>Sudha Chandran</actor>
-      <actor>Karanvir Bohra</actor>
-      <actor>Surbhi Jyoti</actor>
+      <actor>Jannat Zubair</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Kashmera Shah</actor>
+      <actor>Sudesh Lehri</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07C37A408EED1F4A789C08DE95D7C0A1554BE7E2S.jpg"/>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BF53103ACE43F2AA381AD4EF6CD62124669562BE.jpg"/>
   </programme>
 </tv>

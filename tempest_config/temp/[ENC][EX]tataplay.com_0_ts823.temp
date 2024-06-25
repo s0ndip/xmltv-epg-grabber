@@ -102,61 +102,57 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7E935A3C9D703961FA362879034F6C6719A609AV.jpg"/>
   </programme>
-  <programme start="20240625194800 +0000" stop="20240625215600 +0000" channel="ts823">
+  <programme start="20240625194800 +0000" stop="20240625220100 +0000" channel="ts823">
+    <title lang="en">Vel</title>
+    <desc lang="en">Twin brothers, Vasu and Vel, get separated at birth and grow up in different families. One becomes an officer while the other turns into a rough character.</desc>
+    <credits>
+      <actor>Asin Thottumkal</actor>
+      <actor>Surya</actor>
+      <actor>Vadivelu Natrajapillai</actor>
+      <actor>Kalabavan Mani</actor>
+      <actor>Lakshmi</actor>
+      <actor>Saranya Ponvannan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B65A232F43836560CE272DB7C4CFB274CFCFF5BA3.jpg"/>
+  </programme>
+  <programme start="20240625220100 +0000" stop="20240626003000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625215600 +0000" stop="20240625223100 +0000" channel="ts823">
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625223100 +0000" stop="20240626003700 +0000" channel="ts823">
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626003700 +0000" stop="20240626030100 +0000" channel="ts823">
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626030100 +0000" stop="20240626062400 +0000" channel="ts823">
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626062400 +0000" stop="20240626091800 +0000" channel="ts823">
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626091800 +0000" stop="20240626122400 +0000" channel="ts823">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626122400 +0000" stop="20240626145400 +0000" channel="ts823">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626145400 +0000" stop="20240626172700 +0000" channel="ts823">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626172700 +0000" stop="20240626195000 +0000" channel="ts823">
+  <programme start="20240626153000 +0000" stop="20240626195000 +0000" channel="ts823">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

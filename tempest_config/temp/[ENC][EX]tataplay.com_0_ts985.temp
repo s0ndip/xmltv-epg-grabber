@@ -134,10 +134,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DC660B88C52F766E536ED78AD7BDD26ED36CFF4E.jpg"/>
   </programme>
   <programme start="20240625202400 +0000" stop="20240626233000 +0000" channel="ts985">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <title lang="en">Hrudayat Something Something</title>
+    <desc lang="en">When Ramesh, a sales manager, falls in love with Priya, his superior offers to help him impress her on the condition that he becomes more sincere towards his job.</desc>
+    <credits>
+      <actor>Aniket Vishwasrao</actor>
+      <actor>Sneha Chavan</actor>
+      <actor>Ashok Saraf</actor>
+      <actor>Priyanka Yadav</actor>
+      <actor>Bhushan Kadu</actor>
+      <actor>Amita Kulkarni</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/139B35DA6235BDC3A2849CF5E509D36ABB07B71D2.jpg"/>
   </programme>
   <programme start="20240625233000 +0000" stop="20240627020400 +0000" channel="ts985">
     <title lang="en">Movie</title>

@@ -944,7 +944,7 @@
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E99F53C5A00DB2231025AAEFA97A9FFA7573B19U.jpg"/>
   </programme>
-  <programme start="20240626133000 +0000" stop="20240626134500 +0000" channel="ts243">
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts243">
     <title lang="en">Connect The World</title>
     <desc lang="en">Host Becky Anderson presents the latest happenings and developments around the world and sheds light on their impact on the global level.</desc>
     <credits>
@@ -952,19 +952,6 @@
     </credits>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E99F53C5A00DB2231025AAEFA97A9FFA7573B19U.jpg"/>
-  </programme>
-  <programme start="20240626134500 +0000" stop="20240626140000 +0000" channel="ts243">
-    <title lang="en">World Sport</title>
-    <desc lang="en">Correspondents and journalists share news from the world of sports including analysis, interviews and profiles of the legends.</desc>
-    <credits>
-      <actor>Alex Thomas</actor>
-      <actor>Amanda Davies</actor>
-      <actor>Don Riddell</actor>
-      <actor>Patrick Snell</actor>
-      <actor>Christina Macfarlane</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6733E748508C6B642584CD7ED5499F5E746E31A2.jpg"/>
   </programme>
   <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts243">
     <title lang="en">Connect The World</title>

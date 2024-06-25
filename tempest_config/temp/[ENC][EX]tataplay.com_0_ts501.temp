@@ -685,14 +685,15 @@
     <episode-num system="xmltv_ns">.261.</episode-num>
   </programme>
   <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts501">
-    <title lang="en">Vedh Bhavishyacha 20</title>
-    <desc lang="en">An astrologer predicts the future of people based on their horoscopes, offers solutions to minimise the effects of planetary transitions and narrates tales from ancient Hindu texts.</desc>
+    <title lang="en">Vedh Bhavishyacha</title>
+    <desc lang="en">An astrology expert predicts the future of the 12 zodiac signs on the basis of the positions of the planets and the stars. He also narrates and interprets the stories from ancient Hindu texts.</desc>
     <credits>
-      <actor>Atulshashtri Bhagare</actor>
+      <actor>Vijay Kelkar</actor>
+      <actor>Bhagare Guruji</actor>
     </credits>
     <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C641A17F12520BD8744C1AB58554D6F674782DE29.jpg"/>
-    <episode-num system="xmltv_ns">.1479.</episode-num>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DBAAABB7EC8629A5BDFB5B3930DADB6262E05E5P.jpg"/>
+    <episode-num system="xmltv_ns">19.1479.</episode-num>
   </programme>
   <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts501">
     <title lang="en">Paru</title>

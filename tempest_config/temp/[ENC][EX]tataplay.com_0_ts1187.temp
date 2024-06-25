@@ -645,13 +645,7 @@
     <category lang="en">Cricket</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BB9CBCEBB47FEBF1F156C37212CB950C9C33484U.jpg"/>
   </programme>
-  <programme start="20240626070000 +0000" stop="20240626091500 +0000" channel="ts1187">
-    <title lang="en">Live Bengal Pro T20 League SF1</title>
-    <desc lang="en">Men's, 1st Semifinal- Eden Gardens, Kolkata, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4FDD84EE703D60DA034A5C5F5A3037C20B0B1BFV.jpg"/>
-  </programme>
-  <programme start="20240626091500 +0000" stop="20240626104500 +0000" channel="ts1187">
+  <programme start="20240626070000 +0000" stop="20240626104500 +0000" channel="ts1187">
     <title lang="en">Live Bengal Pro T20 League SF1</title>
     <desc lang="en">Men's, 1st Semifinal- Eden Gardens, Kolkata, India</desc>
     <category lang="en">Cricket</category>
@@ -711,13 +705,7 @@
     <category lang="en">Cricket</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BB9CBCEBB47FEBF1F156C37212CB950C9C33484U.jpg"/>
   </programme>
-  <programme start="20240626130000 +0000" stop="20240626151500 +0000" channel="ts1187">
-    <title lang="en">Live Bengal Pro T20 League SF2</title>
-    <desc lang="en">Men's, 2nd Semifinal- Eden Gardens, Kolkata, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4FDD84EE703D60DA034A5C5F5A3037C20B0B1BFV.jpg"/>
-  </programme>
-  <programme start="20240626151500 +0000" stop="20240626164500 +0000" channel="ts1187">
+  <programme start="20240626130000 +0000" stop="20240626164500 +0000" channel="ts1187">
     <title lang="en">Live Bengal Pro T20 League SF2</title>
     <desc lang="en">Men's, 2nd Semifinal- Eden Gardens, Kolkata, India</desc>
     <category lang="en">Cricket</category>

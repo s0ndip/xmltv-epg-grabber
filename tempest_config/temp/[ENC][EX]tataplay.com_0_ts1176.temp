@@ -92,7 +92,7 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/141CA96BAE7A67DE76F8FEDF44AAEC1451367FE9L.jpg"/>
   </programme>
-  <programme start="20240625103000 +0000" stop="20240625130000 +0000" channel="ts1176">
+  <programme start="20240625103000 +0000" stop="20240625124500 +0000" channel="ts1176">
     <title lang="en">Movie - Nenjamundu Nermaiyundu Odu Raja</title>
     <desc lang="en">Youtubers Shiva and Vicky decide to work for Jeepakaran when he offers them money.</desc>
     <credits>
@@ -104,6 +104,12 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B7FBD6F97A40A831BB3D68E6E59AA68CC2702FG.jpg"/>
+  </programme>
+  <programme start="20240625124500 +0000" stop="20240625130000 +0000" channel="ts1176">
+    <title lang="en">Vijay Mini Bytes</title>
+    <desc lang="en">Vijay Mini Bytes</desc>
+    <category lang="en">Tamil</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
   </programme>
   <programme start="20240625130000 +0000" stop="20240625160000 +0000" channel="ts1176">
     <title lang="en">Movie - Magadheera</title>

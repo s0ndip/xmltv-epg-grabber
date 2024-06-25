@@ -148,79 +148,65 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B581E4AEEC02D32D09587FD365C95FA53A5627DE.jpg"/>
   </programme>
-  <programme start="20240625193400 +0000" stop="20240625213500 +0000" channel="ts461">
+  <programme start="20240625193400 +0000" stop="20240625212600 +0000" channel="ts461">
+    <title lang="en">Satta</title>
+    <desc lang="en">Anuradha relocates to Mumbai where she meets Vivek, an aspiring politician, and marries him. Things take a turn when he is arrested for murder and she has to take his place in the upcoming elections.</desc>
+    <credits>
+      <actor>Raveena Tandon</actor>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Govind Namdev</actor>
+      <actor>Shrivallabh Vyas</actor>
+      <actor>Amardeep Jha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C543E9B2D83A1BE63A6E806EDF785305A390F5A66.jpg"/>
+  </programme>
+  <programme start="20240625212600 +0000" stop="20240626003000 +0000" channel="ts461">
+    <title lang="en">Chhapaak</title>
+    <desc lang="en">Malti falls victim to an acid attack and is forced to go through the ordeal of a court procedure while trying to heal mentally. In the process, she decides to fight for justice for those like herself.</desc>
+    <credits>
+      <actor>Deepika Padukone</actor>
+      <actor>Vikrant Massey</actor>
+      <actor>Madhurjeet Sarghi</actor>
+      <actor>Anand Tiwari</actor>
+      <actor>Vaibhavi Upadhyay</actor>
+      <actor>Payal Nair</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B41A55CA8C97C4330BB415BF9BAF5D1BF23070A4S.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625213500 +0000" stop="20240625233200 +0000" channel="ts461">
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625233200 +0000" stop="20240626002300 +0000" channel="ts461">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240626002300 +0000" stop="20240626021000 +0000" channel="ts461">
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626021000 +0000" stop="20240626035400 +0000" channel="ts461">
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626035400 +0000" stop="20240626052500 +0000" channel="ts461">
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626052500 +0000" stop="20240626074000 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626074000 +0000" stop="20240626092400 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626092400 +0000" stop="20240626112500 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626112500 +0000" stop="20240626132500 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626132500 +0000" stop="20240626153000 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626153000 +0000" stop="20240626174100 +0000" channel="ts461">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626174100 +0000" stop="20240626202700 +0000" channel="ts461">
+  <programme start="20240626153000 +0000" stop="20240626202700 +0000" channel="ts461">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

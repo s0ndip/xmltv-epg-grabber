@@ -1121,18 +1121,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86BA569708A8D47F1AE2D84114951D4C27387CAD4.jpg"/>
   </programme>
   <programme start="20240626025100 +0000" stop="20240626025800 +0000" channel="ts1066">
-    <title lang="en">Mickey Mouse Shorts</title>
-    <desc lang="en">Mickey Mouse, along with his friends Minnie Mouse, Donald Duck, Goofy and Daisy Duck, embarks on a series of adventures and overcomes obstacles.</desc>
+    <title lang="en">Mickey Mouse</title>
+    <desc lang="en">Mickey Mouse engages in a series of fun-filled adventures and solves numerous problems with the help of his friends.</desc>
     <credits>
       <actor>Chris Diamantopoulos</actor>
       <actor>Russi Taylor</actor>
       <actor>Bill Farmer</actor>
       <actor>Tony Anselmo</actor>
       <actor>Tress MacNeille</actor>
-      <actor>John Kassir</actor>
     </credits>
     <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8119778E243F18ED0D6C5C4874A09870B9A304AFL.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F412453475053ABDEF11F4A4CB9946DF526C09CAH.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
   <programme start="20240626025800 +0000" stop="20240626031900 +0000" channel="ts1066">
     <title lang="en">Mickey And The Roadster Racers</title>
@@ -1217,7 +1217,7 @@
   </programme>
   <programme start="20240626045600 +0000" stop="20240626051800 +0000" channel="ts1066">
     <title lang="en">Jake And The Never Land Pirates</title>
-    <desc lang="en">Hook Seals A Deal!/ Emerald Coconut, The: Captain Hook and Jake form a truce as they set out to find their stolen belongings; Jake's crew photographs the legendary emerald coconut for Cubby's scrap.</desc>
+    <desc lang="en">Hook Seals A Deal!/ The Emerald Coconut: Captain Hook and Jake form a truce and embark on an adventure to find some treasure; Jake and his friends try to photograph a legendary emerald coconut.</desc>
     <credits>
       <actor>Colin Ford</actor>
       <actor>Madison Pettis</actor>
@@ -1231,7 +1231,7 @@
   </programme>
   <programme start="20240626051800 +0000" stop="20240626052900 +0000" channel="ts1066">
     <title lang="en">Jake And The Never Land Pirates</title>
-    <desc lang="en">Pirate Princess, The/ Rainbow Wand, The: Izzy tells her friends that her favourite heroine is under a magic spell; Jake and his crew set out to return the rainbow wand to the Pirate Princess.</desc>
+    <desc lang="en">The Pirate Princess / The Rainbow Wand: Izzy tells her friends that her favourite heroine is under a magic spell cast by an evil sea witch; Jake and his crew find the Pirate Princess's rainbow wand.</desc>
     <credits>
       <actor>Colin Ford</actor>
       <actor>Madison Pettis</actor>
@@ -1507,18 +1507,18 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
   </programme>
   <programme start="20240626125300 +0000" stop="20240626130000 +0000" channel="ts1066">
-    <title lang="en">Mickey Mouse Shorts</title>
-    <desc lang="en">Mickey Mouse, along with his friends Minnie Mouse, Donald Duck, Goofy and Daisy Duck, embarks on a series of adventures and overcomes obstacles.</desc>
+    <title lang="en">Mickey Mouse</title>
+    <desc lang="en">Mickey Mouse engages in a series of fun-filled adventures and solves numerous problems with the help of his friends.</desc>
     <credits>
       <actor>Chris Diamantopoulos</actor>
       <actor>Russi Taylor</actor>
       <actor>Bill Farmer</actor>
       <actor>Tony Anselmo</actor>
       <actor>Tress MacNeille</actor>
-      <actor>John Kassir</actor>
     </credits>
     <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8119778E243F18ED0D6C5C4874A09870B9A304AFL.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F412453475053ABDEF11F4A4CB9946DF526C09CAH.jpg"/>
+    <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
   <programme start="20240626130000 +0000" stop="20240626131000 +0000" channel="ts1066">
     <title lang="en">Selfie With Bajrangi</title>
