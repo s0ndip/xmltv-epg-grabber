@@ -2,7 +2,7 @@
 /*     Tempest EPG Generator (made by Kvanc)
 https://github.com/K-vanc/Tempest-EPG-Generator.git  */
 return array (
-  'filename' => 'jio.s0ndip',
+  'filename' => 'jiotv.s0ndip',
   'creator_name' => 's0ndip',
   'creation_date' => '2024-05-21',
   'rev_no' => 'R0',
