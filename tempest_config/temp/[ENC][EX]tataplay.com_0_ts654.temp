@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts654">
+    <display-name lang="en">India News Gujarat</display-name>
+  </channel>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts654">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Morari Bapu reads out and explains significant excerpts from the Rama Katha while giving his interpretation of the same and highlighting its importance.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E664AEC1AE1B6EA5B050944F3C05CE314832AA9N.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts654">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Morari Bapu reads out and explains significant excerpts from the Rama Katha while giving his interpretation of the same and highlighting its importance.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E664AEC1AE1B6EA5B050944F3C05CE314832AA9N.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts654">
+    <title lang="en">Bhakti Geet</title>
+    <desc lang="en">A comprehensive compilation of devotional songs composed and sung by various renowned artists is played in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F24C210B43A122C8B3C037A22B9099CC38B31EB4F.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts654">
+    <title lang="en">Aapanu Surat</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from the city of Surat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19A6B76F7ABF25DD99482E4D58B5C93D42C7715CK.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts654">
+    <title lang="en">Aapanu Gujarat</title>
+    <desc lang="en">The host sheds light on several important updates and developments of public interest from the state of Gujarat in a detailed manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B35E0AF309152EED6CDCAC979418B32F8DF855BE.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts654">
+    <title lang="en">Aapanu Gujarat</title>
+    <desc lang="en">The host sheds light on several important updates and developments of public interest from the state of Gujarat in a detailed manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B35E0AF309152EED6CDCAC979418B32F8DF855BE.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts654">
+    <title lang="en">Aapanu Surat</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from the city of Surat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19A6B76F7ABF25DD99482E4D58B5C93D42C7715CK.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts654">
+    <title lang="en">Dayro</title>
+    <desc lang="en">Renowned Gujarati folksingers and musicians entertain the audience and perform some of their most popular songs at an event.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E32873C14041958C0E872936AD2FD197F95034FEU.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625230000 +0000" channel="ts654">
+    <title lang="en">Dayro</title>
+    <desc lang="en">Renowned Gujarati folksingers and musicians entertain the audience and perform some of their most popular songs at an event.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E32873C14041958C0E872936AD2FD197F95034FEU.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts654">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Morari Bapu reads out and explains significant excerpts from the Rama Katha while giving his interpretation of the same and highlighting its importance.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E664AEC1AE1B6EA5B050944F3C05CE314832AA9N.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts654">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Morari Bapu reads out and explains significant excerpts from the Rama Katha while giving his interpretation of the same and highlighting its importance.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E664AEC1AE1B6EA5B050944F3C05CE314832AA9N.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts654">
+    <title lang="en">Bhakti Geet</title>
+    <desc lang="en">A comprehensive compilation of devotional songs composed and sung by various renowned artists is played in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F24C210B43A122C8B3C037A22B9099CC38B31EB4F.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts654">
+    <title lang="en">Aapanu Surat</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from the city of Surat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19A6B76F7ABF25DD99482E4D58B5C93D42C7715CK.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts654">
+    <title lang="en">Aapanu Gujarat</title>
+    <desc lang="en">The host sheds light on several important updates and developments of public interest from the state of Gujarat in a detailed manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B35E0AF309152EED6CDCAC979418B32F8DF855BE.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts654">
+    <title lang="en">Aapanu Gujarat</title>
+    <desc lang="en">The host sheds light on several important updates and developments of public interest from the state of Gujarat in a detailed manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B35E0AF309152EED6CDCAC979418B32F8DF855BE.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts654">
+    <title lang="en">Aapanu Surat</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from the city of Surat.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19A6B76F7ABF25DD99482E4D58B5C93D42C7715CK.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts654">
+    <title lang="en">Discussion Show</title>
+    <desc lang="en">The host offers detailed insights into national and regional concerns to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70EAE93F75ABB36E4CD976C9973751B8D86CF6025.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts654">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts654">
+    <title lang="en">Dayro</title>
+    <desc lang="en">Renowned Gujarati folksingers and musicians entertain the audience and perform some of their most popular songs at an event.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E32873C14041958C0E872936AD2FD197F95034FEU.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626230000 +0000" channel="ts654">
+    <title lang="en">Dayro</title>
+    <desc lang="en">Renowned Gujarati folksingers and musicians entertain the audience and perform some of their most popular songs at an event.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E32873C14041958C0E872936AD2FD197F95034FEU.jpg"/>
+  </programme>
+</tv>

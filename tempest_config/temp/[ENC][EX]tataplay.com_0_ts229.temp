@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts229">
+    <display-name lang="en">Surya Movies</display-name>
+  </channel>
+  <programme start="20240624193000 +0000" stop="20240624220000 +0000" channel="ts229">
+    <title lang="en">Thakarachenda</title>
+    <desc lang="en">Chakrapani and Latha, two completely different individuals, come together to raise their voice against the atrocities in their slum.</desc>
+    <credits>
+      <actor>Srinivasan</actor>
+      <actor>Geethu Mohandas</actor>
+      <actor>Seema G Nair</actor>
+      <actor>Manikandan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BB9FA996B698B339F074706FE91BBE41BFCFD40M.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240625003000 +0000" channel="ts229">
+    <title lang="en">The Campus</title>
+    <desc lang="en">Rajeev, who is from a broken family, tries to find happiness in his college life. But Vishnu, Rajeev's opponent in college, plots against him.</desc>
+    <credits>
+      <actor>Madhu Warrier</actor>
+      <actor>Rajeev Parameswaran</actor>
+      <actor>Jijoy Rajagopal</actor>
+      <actor>Saji Soman</actor>
+      <actor>Eva Pavithran</actor>
+      <actor>Narendra Prasad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/525FCBB08C9E612918D591C7901864CF98338B67Q.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts229">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC00FC7E93517CACC33389AB1FFFBB79C8A99C93O.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts229">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC00FC7E93517CACC33389AB1FFFBB79C8A99C93O.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625040000 +0000" channel="ts229">
+    <title lang="en">Killadi</title>
+    <desc lang="en">Five people, who come from different walks of life, find their destinies get entangled with each other when they are victims of a terrorist attack that occurs in a hospital.</desc>
+    <credits>
+      <actor>Allu Arjun</actor>
+      <actor>Anushka Shetty</actor>
+      <actor>Manoj Manchu</actor>
+      <actor>Manoj Bajpai</actor>
+      <actor>Saranya Ponvannan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3C2B790B1481188848139769C90F4197ADF78CFO.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625053000 +0000" channel="ts229">
+    <title lang="en">Super Scenes</title>
+    <desc lang="en">Super Scenes</desc>
+    <category lang="en">Malayalam</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625073000 +0000" channel="ts229">
+    <title lang="en">Oru Sayahnathinte Swapnam</title>
+    <desc lang="en">Inmates of an old age home adhere to the rules and regulations set by the owners. Tired of being suppressed, the inmates decide to revolt against the authorities.</desc>
+    <credits>
+      <actor>Suhasini</actor>
+      <actor>Madhu</actor>
+      <actor>Mukesh</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Bahadoor</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41418F55FC3D8DA31C993133219D963C2F7C56CDN.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts229">
+    <title lang="en">Nivedyam</title>
+    <desc lang="en">Mohana Krishan, who is looking for a job, is appointed as a priest of a temple. His charismatic personality attracts the young women in the village, particularly Sathya Bhama, who falls for him.</desc>
+    <credits>
+      <actor>Vinu Mohan</actor>
+      <actor>Bhama</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Bharat Gopi</actor>
+      <actor>M B Padmakumar</actor>
+      <actor>Sreehari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88256024BEA9106B8B1E9903E982EE1DBAF483DB.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts229">
+    <title lang="en">Vazhiyorakazchakal</title>
+    <desc lang="en">When Baburaj, a police officer, gets injured in a deadly accident, a mysterious driver helps Sreedevi, Baburaj's wife, nurse him back to health.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Ratheesh</actor>
+      <actor>Ambika</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Suresh Gopi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB6C28524CD74CD40868F9F32BC2859BD9ADE1CDJ.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625163000 +0000" channel="ts229">
+    <title lang="en">Sapthamashree Thaskaraha</title>
+    <desc lang="en">Seven men, after getting acquainted in prison and finding out that all of their lives have been affected by the same con man, decide to raid the fraudster's life savings.</desc>
+    <credits>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Asif Ali</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Sudheer Karamana</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Neeraj Madhav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30737139DE7266584A56FDAAF3195B48140C8C9BG.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625193000 +0000" channel="ts229">
+    <title lang="en">Ore Mukham</title>
+    <desc lang="en">A group of old college friends is targeted by a serial killer and the police suspect the group's leader, Zachariah, to be the culprit. However, the investigation hits a block when he turns up dead.</desc>
+    <credits>
+      <actor>Dhyan Sreenivasan</actor>
+      <actor>Prayaga Martin</actor>
+      <actor>Aju Varghese</actor>
+      <actor>Deepak Parambol</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Gayathri Suresh</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78B0517969D29DE7C9FE2449B6C4D0E2816E84F21.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625220000 +0000" channel="ts229">
+    <title lang="en">Kausthubham</title>
+    <desc lang="en">Yamuna, whose life is filled with troubles, is distraught when her young son goes missing at a temple festival. Out of despair, she turns to Lord Krishna to bring him back to her.</desc>
+    <credits>
+      <actor>Vijayaraghavan</actor>
+      <actor>Master Saikumar</actor>
+      <actor>Karthika</actor>
+      <actor>Jagannatha Varma</actor>
+      <actor>Sukumari</actor>
+      <actor>Indrans</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5D325DBB34BA143D37FB0DBB2566204C9DC0B1B8.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240626003000 +0000" channel="ts229">
+    <title lang="en">Ezra</title>
+    <desc lang="en">Priya and Ranjan have paranormal experiences after she buys an antique box from a dealer. Soon, they learn that the box is a dybbuk and take the help of a rabbi to learn about its history.</desc>
+    <credits>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Priya Anand</actor>
+      <actor>Sujith Sankar</actor>
+      <actor>Sudev Nair</actor>
+      <actor>Tovino Thomas</actor>
+      <actor>Vijayaraghavan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD00C8720BBCFA3EBAC8F614EF240E9146E9CB7E9.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts229">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC00FC7E93517CACC33389AB1FFFBB79C8A99C93O.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts229">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC00FC7E93517CACC33389AB1FFFBB79C8A99C93O.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626043000 +0000" channel="ts229">
+    <title lang="en">Spyder</title>
+    <desc lang="en">Shiva, an intelligence officer, develops a phone software that helps him track those in need of help. He sets out to save the people of Hyderabad when he realises that a serial killer is on the loose.</desc>
+    <credits>
+      <actor>Mahesh Babu</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>S J Surya</actor>
+      <actor>Bharath</actor>
+      <actor>Priyadarshi Pullikonda</actor>
+      <actor>RJ Balaji</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61F04D9AED20B14A7B7DF263E7A8195C0E9409391.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626073000 +0000" channel="ts229">
+    <title lang="en">Manikyan</title>
+    <desc lang="en">Nirmala, a successful writer, is approached by Anitha for an interview about her award-winning novel. During the interview, she talks about her life, struggles and the people who inspired her.</desc>
+    <credits>
+      <actor>Kalabhavan Mani</actor>
+      <actor>Nandini</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Siddique</actor>
+      <actor>Kaviraj</actor>
+      <actor>Salim Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D2AB9AB5DE3BC5671DC0D1F66318B2DD60229C75.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts229">
+    <title lang="en">Kaazhcha</title>
+    <desc lang="en">Madhavan, a villager, comes across Pavan, a young boy who lost his family in the Gujarat earthquake. He welcomes Pavan into his family and the rapport between them strengthens over time.</desc>
+    <credits>
+      <actor>Mammootty</actor>
+      <actor>Padmapriya</actor>
+      <actor>Yash Pathak</actor>
+      <actor>Sanusha</actor>
+      <actor>Manoj K. Jayan</actor>
+      <actor>Innocent</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4D029E1FB95B15FF7529E80052C84F3F2A7DAF8W.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626133000 +0000" channel="ts229">
+    <title lang="en">Ivar</title>
+    <desc lang="en">Raghava Menon, an undercover police officer, enters a mafia gang led by Jose and becomes his private henchman with the intention of exposing and destroying their entire illegitimate business.</desc>
+    <credits>
+      <actor>Jayaram</actor>
+      <actor>Biju Menon</actor>
+      <actor>Bhavana</actor>
+      <actor>Devi Ajith</actor>
+      <actor>Siddique</actor>
+      <actor>Janardhanan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BF95A83FF50433145C235714AC2230678186B28F.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626163000 +0000" channel="ts229">
+    <title lang="en">Pathram</title>
+    <desc lang="en">Nandagopal, an editor in a leading daily, meets Sekharan, an old naxalite who also runs a newspaper. Due to his courageous writing, Sekharan gets killed and Nandagopal decides to avenge his death.</desc>
+    <credits>
+      <actor>Suresh Gopi</actor>
+      <actor>Manju Warrier</actor>
+      <actor>Murali</actor>
+      <actor>N F Varghese</actor>
+      <actor>Biju Menon</actor>
+      <actor>Janardhanan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D53F3068B5F714C8C5E1DADB1626EAF6448EB8AI.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626193000 +0000" channel="ts229">
+    <title lang="en">Thrissivaperoor Kliptham</title>
+    <desc lang="en">David Pauly's aim in life is to witness the downfall of his school arch-enemy, Chembaden Joey. At David's wedding, when things go wrong, his friends make a plan to outdo Joey for good.</desc>
+    <credits>
+      <actor>Asif Ali</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Aparna Balamurali</actor>
+      <actor>Baburaj</actor>
+      <actor>Vijayakumar</actor>
+      <actor>Rony David</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6405EB54080A5D4233BF60D1729AE939B07238F6.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts397">
+    <display-name lang="en">MH One Shraddha</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624222000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240624222000 +0000" stop="20240624232000 +0000" channel="ts397">
+    <title lang="en">Harichetnyapuri Ji Maharaj</title>
+    <desc lang="en">Hari Chaitanya Puri Ji Maharaj delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <credits>
+      <actor>Hari Chaitanya Puri Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4C9480AD2424A272D3E214E1F2AE9607CAA5EF1N.jpg"/>
+  </programme>
+  <programme start="20240624232000 +0000" stop="20240625002000 +0000" channel="ts397">
+    <title lang="en">Art Of Living</title>
+    <desc lang="en">Morning Yoga: Ravi Shankar, a religious leader, delivers discourses on yoga, meditation and teaches the people the art of living happily.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCA4D35EC16CA3186FDB7FD52D4E6BCAC04EC310S.jpg"/>
+  </programme>
+  <programme start="20240625002000 +0000" stop="20240625004000 +0000" channel="ts397">
+    <title lang="en">Tantra Devi Suktam</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various artists in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A3DA82246B9DFE854C75DE7A3789C4C8292A22EZ.jpg"/>
+  </programme>
+  <programme start="20240625004000 +0000" stop="20240625005000 +0000" channel="ts397">
+    <title lang="en">Maa Durga Devi Saptshlok</title>
+    <desc lang="en">A comprehensive compilation of 'shlokas' and devotional songs composed and chanted in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F49199604CEB366B49BA845842665D302B9DB0BD.jpg"/>
+  </programme>
+  <programme start="20240625005000 +0000" stop="20240625024000 +0000" channel="ts397">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEE84249ECBA0B41018C66945E11CAC82FF59274J.jpg"/>
+  </programme>
+  <programme start="20240625024000 +0000" stop="20240625030000 +0000" channel="ts397">
+    <title lang="en">Brahmrishi Shree Kumar Swami Ji</title>
+    <desc lang="en">Motivational Speaker: Brahmrishi Shree Kumar Swami ji delivers a discourse on the teachings of Holy Bhagavad Gita and the importance of living a moral life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DAC7B9E9BA262DB2742F3873D67909097EC5CBAE3.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625040000 +0000" channel="ts397">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">Rajendran Krishnan: An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47D6368CA7E7A519DB9A8876129DEC3EDEACEBF01.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625041500 +0000" channel="ts397">
+    <title lang="en">Anmol Vachan</title>
+    <desc lang="en">A religious leader educates his followers on a variety of spiritual topics and urges them to follow the path of God.</desc>
+    <credits>
+      <actor>Maharaj Sudhanshu</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B0363F4326C82115EAFBF4B6EC3B5CFDC06BC99K.jpg"/>
+  </programme>
+  <programme start="20240625041500 +0000" stop="20240625043000 +0000" channel="ts397">
+    <title lang="en">Ratan Rashi Or Aap</title>
+    <desc lang="en">Dr. Nitesh Astro And Vaastu: An astrologer studies the relative movement and position of celestial objects and provides predictions for various zodiac signs.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C030A15D140FC21DAAFA72ECA39CA248B57AB4F.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts397">
+    <title lang="en">Mantra Of Success</title>
+    <desc lang="en">Paras Bhai Ji - Motivational Speaker: Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90B8D01DAAA25FA7BA7F4A4ACF8655F0BF2790F4B.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625083000 +0000" channel="ts397">
+    <title lang="en">Movie - Kahaani 2: Durga Rani Singh</title>
+    <desc lang="en">Vidya lives in a small town with Minnie, a girl with paralysis. When someone kidnaps Minnie, Vidya tries to save her, but she meets with an accident on the way, landing herself in a hospital.</desc>
+    <credits>
+      <actor>Vidya Balan</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Tunisha Sharma</actor>
+      <actor>Naisha Khanna</actor>
+      <actor>Jugal Hansraj</actor>
+      <actor>Amba Sanyal</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D6B878EB6B120BB18A8CBFBD6F172F269C971C5K.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts397">
+    <title lang="en">Sant Rampal Ji Maharaj</title>
+    <desc lang="en">Motivational Speaker: Sant Rampalji Maharaj, a religious leader of the Kabir panth, delivers a speech on worship and spirituality to his devout followers.</desc>
+    <credits>
+      <actor>Sant Rampal Ji Maharaj</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE08B1BAB196D2C27B70F5D66116752BBDC08B9EC.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625135000 +0000" channel="ts397">
+    <title lang="en">Rajat Nayar Ji</title>
+    <desc lang="en">Vaastu and Numerology: Rajat Nayar, a renowned astrologer, predicts the future on the basis of the position of the stars and planets.</desc>
+    <credits>
+      <actor>Rajat Nayar</actor>
+    </credits>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9B004E50A24A341B71E4CEAEDC6FB83A643AB7FU.jpg"/>
+  </programme>
+  <programme start="20240625135000 +0000" stop="20240625154500 +0000" channel="ts397">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEE84249ECBA0B41018C66945E11CAC82FF59274J.jpg"/>
+  </programme>
+  <programme start="20240625154500 +0000" stop="20240625161500 +0000" channel="ts397">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">Rajendran Krishnan: An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47D6368CA7E7A519DB9A8876129DEC3EDEACEBF01.jpg"/>
+  </programme>
+  <programme start="20240625161500 +0000" stop="20240625163000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625222000 +0000" channel="ts397">
+    <title lang="en">Baba Sukhdev Singh Ji Special</title>
+    <desc lang="en">Religious leader Baba Sukhdev Singh recites verses from the Guru Granth Sahib and offers prayers and praise to the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7F8A93AF69D033624A2CF9EEFFAA759BAA0046A3.jpg"/>
+  </programme>
+  <programme start="20240625222000 +0000" stop="20240625232000 +0000" channel="ts397">
+    <title lang="en">Harichetnyapuri Ji Maharaj</title>
+    <desc lang="en">Hari Chaitanya Puri Ji Maharaj delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <credits>
+      <actor>Hari Chaitanya Puri Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4C9480AD2424A272D3E214E1F2AE9607CAA5EF1N.jpg"/>
+  </programme>
+  <programme start="20240625232000 +0000" stop="20240626002000 +0000" channel="ts397">
+    <title lang="en">Art Of Living</title>
+    <desc lang="en">Morning Yoga: Ravi Shankar, a religious leader, delivers discourses on yoga, meditation and teaches the people the art of living happily.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCA4D35EC16CA3186FDB7FD52D4E6BCAC04EC310S.jpg"/>
+  </programme>
+  <programme start="20240626002000 +0000" stop="20240626004000 +0000" channel="ts397">
+    <title lang="en">Tantra Devi Suktam</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various artists in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A3DA82246B9DFE854C75DE7A3789C4C8292A22EZ.jpg"/>
+  </programme>
+  <programme start="20240626004000 +0000" stop="20240626005000 +0000" channel="ts397">
+    <title lang="en">Maa Durga Devi Saptshlok</title>
+    <desc lang="en">A comprehensive compilation of 'shlokas' and devotional songs composed and chanted in praise of Goddess Durga is played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F49199604CEB366B49BA845842665D302B9DB0BD.jpg"/>
+  </programme>
+  <programme start="20240626005000 +0000" stop="20240626024000 +0000" channel="ts397">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEE84249ECBA0B41018C66945E11CAC82FF59274J.jpg"/>
+  </programme>
+  <programme start="20240626024000 +0000" stop="20240626030000 +0000" channel="ts397">
+    <title lang="en">Brahmrishi Shree Kumar Swami Ji</title>
+    <desc lang="en">Motivational Speaker: Brahmrishi Shree Kumar Swami ji delivers a discourse on the teachings of Holy Bhagavad Gita and the importance of living a moral life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DAC7B9E9BA262DB2742F3873D67909097EC5CBAE3.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626040000 +0000" channel="ts397">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">Rajendran Krishnan: An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47D6368CA7E7A519DB9A8876129DEC3EDEACEBF01.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626041500 +0000" channel="ts397">
+    <title lang="en">Dr. Gaurav Sharma Ji</title>
+    <desc lang="en">Health And Wellbeing Arthritis: Dr Gaurav Sharma provides various tips for one to lead a healthy lifestyle along with remedies to treat simple ailments.</desc>
+    <credits>
+      <actor>Dr Gaurav Sharma</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A81CFAD16B395624C061ADC4F66F69C8E6EF5757L.jpg"/>
+  </programme>
+  <programme start="20240626041500 +0000" stop="20240626043000 +0000" channel="ts397">
+    <title lang="en">Ratan Rashi Or Aap</title>
+    <desc lang="en">Dr. Nitesh Astro And Vaastu: An astrologer studies the relative movement and position of celestial objects and provides predictions for various zodiac signs.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C030A15D140FC21DAAFA72ECA39CA248B57AB4F.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts397">
+    <title lang="en">Mantra Of Success</title>
+    <desc lang="en">Paras Bhai Ji - Motivational Speaker: Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90B8D01DAAA25FA7BA7F4A4ACF8655F0BF2790F4B.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626083000 +0000" channel="ts397">
+    <title lang="en">Movie - Satyagraha</title>
+    <desc lang="en">Dwarka Anand serves prison time for assaulting a corrupt official while trying to obtain due compensation for his son's death. Manav, his son's friend, organises a multi-faceted campaign to free him.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Ajay Devgn</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Amrita Rao</actor>
+      <actor>Manoj Bajpai</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CB541F1BA92679679FEE7DFE562A9831B95C5FCS.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts397">
+    <title lang="en">Sant Rampal Ji Maharaj</title>
+    <desc lang="en">Motivational Speaker: Sant Rampalji Maharaj, a religious leader of the Kabir panth, delivers a speech on worship and spirituality to his devout followers.</desc>
+    <credits>
+      <actor>Sant Rampal Ji Maharaj</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE08B1BAB196D2C27B70F5D66116752BBDC08B9EC.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts397">
+    <title lang="en">Shrimad Bhagvad Katha</title>
+    <desc lang="en">Shrimad Bhagvad Katha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70AE454AC5CA3D9A873521390E667A6801A49CE5S.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626135000 +0000" channel="ts397">
+    <title lang="en">Rajat Nayar Ji</title>
+    <desc lang="en">Vaastu and Numerology: Rajat Nayar, a renowned astrologer, predicts the future on the basis of the position of the stars and planets.</desc>
+    <credits>
+      <actor>Rajat Nayar</actor>
+    </credits>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9B004E50A24A341B71E4CEAEDC6FB83A643AB7FU.jpg"/>
+  </programme>
+  <programme start="20240626135000 +0000" stop="20240626154500 +0000" channel="ts397">
+    <title lang="en">Aarti - Maa Vaishno Devi Ji</title>
+    <desc lang="en">Priests and devout Hindus offer prayers to Goddess Vaishno Devi and perform rituals along with singing devotional songs.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEE84249ECBA0B41018C66945E11CAC82FF59274J.jpg"/>
+  </programme>
+  <programme start="20240626154500 +0000" stop="20240626161500 +0000" channel="ts397">
+    <title lang="en">Studio Telecast Prabhu Darbar</title>
+    <desc lang="en">Rajendran Krishnan: An astrologer provides insights into the importance of the 12 houses of the horoscope along with the different fields of experience that they represent.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47D6368CA7E7A519DB9A8876129DEC3EDEACEBF01.jpg"/>
+  </programme>
+  <programme start="20240626161500 +0000" stop="20240626163000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts397">
+    <title lang="en">Bharat Darshan The Travel Show</title>
+    <desc lang="en">The host travels around India while exploring some of the holiest destinations and shedding light on the serene locations of the nation.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152CAC9801F5046A9D35D9777BD7B557F1894F132.jpg"/>
+  </programme>
+</tv>

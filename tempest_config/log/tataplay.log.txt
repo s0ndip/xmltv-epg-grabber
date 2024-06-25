@@ -1,0 +1,4487 @@
+﻿[                   ]
+[                   ]-------------------------------------
+[                   ]        Tempest EPG Generator
+[                   ]
+[                   ]   The Most Advanced Programmable
+[                   ]       GUI XMLTV EPG Generator
+[                   ]     by Kivanc Altug aka "Kvanc"
+[                   ]-------------------------------------
+[                   ]
+[25-06-2024 07:29:11] Tempest Version : rv1.7.0.0-2405061442
+[25-06-2024 07:29:11] System Info : Linux fv-az885-473 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024 x86_64
+[25-06-2024 07:29:11] PHP Version : 8.3.8
+[25-06-2024 07:29:11] Server Info : Command Line Interface (Cli)
+[25-06-2024 07:29:11] Initializing...
+[25-06-2024 07:29:11] Checking required modules...
+[25-06-2024 07:29:11] Inverter mode enabled...
+[25-06-2024 07:29:11] Fusion mode (Level 0) enabled...
+[25-06-2024 07:29:11] tataplay_original.xml generated...
+[25-06-2024 07:29:11] Grabbing started for 2 days
+[                   ]
+[25-06-2024 07:29:11] (1/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:11] Channel id: 917
+[25-06-2024 07:29:11] Xmltv id: ts917
+[      Warning      ] 
+[25-06-2024 07:29:12] No show grabbed in 1.32 seconds
+[                   ]
+[25-06-2024 07:29:12] (2/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:12] Channel id: 967
+[25-06-2024 07:29:12] Xmltv id: ts967
+[25-06-2024 07:29:16] 74 shows grabbed in 3.64 seconds
+[                   ]
+[25-06-2024 07:29:16] (3/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:16] Channel id: 951
+[25-06-2024 07:29:16] Xmltv id: ts951
+[25-06-2024 07:29:17] 46 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:29:17] (4/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:17] Channel id: 786
+[25-06-2024 07:29:17] Xmltv id: ts786
+[      Warning      ] 
+[25-06-2024 07:29:17] No show grabbed in 0.43 seconds
+[                   ]
+[25-06-2024 07:29:17] (5/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:17] Channel id: 121
+[25-06-2024 07:29:17] Xmltv id: ts121
+[25-06-2024 07:29:19] 96 shows grabbed in 1.27 seconds
+[                   ]
+[25-06-2024 07:29:19] (6/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:19] Channel id: 618
+[25-06-2024 07:29:19] Xmltv id: ts618
+[25-06-2024 07:29:19] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:29:19] (7/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:19] Channel id: 641
+[25-06-2024 07:29:19] Xmltv id: ts641
+[25-06-2024 07:29:20] 96 shows grabbed in 1.03 seconds
+[                   ]
+[25-06-2024 07:29:20] (8/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:20] Channel id: 959
+[25-06-2024 07:29:20] Xmltv id: ts959
+[25-06-2024 07:29:21] 58 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:29:21] (9/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:21] Channel id: 8
+[25-06-2024 07:29:21] Xmltv id: ts8
+[25-06-2024 07:29:22] 60 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:29:22] (10/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:22] Channel id: 508
+[25-06-2024 07:29:22] Xmltv id: ts508
+[25-06-2024 07:29:23] 60 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:29:23] (11/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:23] Channel id: 550
+[25-06-2024 07:29:23] Xmltv id: ts550
+[25-06-2024 07:29:24] 60 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:29:24] (12/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:24] Channel id: 743
+[25-06-2024 07:29:24] Xmltv id: ts743
+[      Warning      ] 
+[25-06-2024 07:29:24] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:29:24] (13/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:24] Channel id: 244
+[25-06-2024 07:29:24] Xmltv id: ts244
+[25-06-2024 07:29:25] 59 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:29:25] (14/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:25] Channel id: 86
+[25-06-2024 07:29:25] Xmltv id: ts86
+[25-06-2024 07:29:26] 59 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:29:26] (15/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:26] Channel id: 15
+[25-06-2024 07:29:26] Xmltv id: ts15
+[25-06-2024 07:29:28] 56 shows grabbed in 2.43 seconds
+[                   ]
+[25-06-2024 07:29:28] (16/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:28] Channel id: 556
+[25-06-2024 07:29:28] Xmltv id: ts556
+[25-06-2024 07:29:29] 56 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:29:29] (17/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:29] Channel id: 748
+[25-06-2024 07:29:29] Xmltv id: ts748
+[25-06-2024 07:29:30] 11 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:29:30] (18/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:30] Channel id: 48
+[25-06-2024 07:29:30] Xmltv id: ts48
+[25-06-2024 07:29:31] 96 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:29:31] (19/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:31] Channel id: 559
+[25-06-2024 07:29:31] Xmltv id: ts559
+[25-06-2024 07:29:31] 101 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:29:31] (20/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:31] Channel id: 744
+[25-06-2024 07:29:31] Xmltv id: ts744
+[25-06-2024 07:29:33] 76 shows grabbed in 1.47 seconds
+[                   ]
+[25-06-2024 07:29:33] (21/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:33] Channel id: 40
+[25-06-2024 07:29:33] Xmltv id: ts40
+[25-06-2024 07:29:34] 76 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:29:34] (22/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:34] Channel id: 578
+[25-06-2024 07:29:34] Xmltv id: ts578
+[25-06-2024 07:29:34] 62 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:29:34] (23/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:34] Channel id: 764
+[25-06-2024 07:29:34] Xmltv id: ts764
+[25-06-2024 07:29:35] 48 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:29:35] (24/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:35] Channel id: 63
+[25-06-2024 07:29:35] Xmltv id: ts63
+[25-06-2024 07:29:36] 124 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:29:36] (25/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:36] Channel id: 584
+[25-06-2024 07:29:36] Xmltv id: ts584
+[25-06-2024 07:29:37] 123 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:29:37] (26/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:37] Channel id: 557
+[25-06-2024 07:29:37] Xmltv id: ts557
+[25-06-2024 07:29:38] 83 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:29:38] (27/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:38] Channel id: 811
+[25-06-2024 07:29:38] Xmltv id: ts811
+[25-06-2024 07:29:38] 44 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:29:38] (28/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:38] Channel id: 776
+[25-06-2024 07:29:38] Xmltv id: ts776
+[      Warning      ] 
+[25-06-2024 07:29:39] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:29:39] (29/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:39] Channel id: 52
+[25-06-2024 07:29:39] Xmltv id: ts52
+[25-06-2024 07:29:39] 54 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:29:39] (30/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:39] Channel id: 513
+[25-06-2024 07:29:39] Xmltv id: ts513
+[25-06-2024 07:29:40] 54 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:29:40] (31/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:40] Channel id: 543
+[25-06-2024 07:29:40] Xmltv id: ts543
+[25-06-2024 07:29:41] 57 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:29:41] (32/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:41] Channel id: 95
+[25-06-2024 07:29:41] Xmltv id: ts95
+[25-06-2024 07:29:42] 48 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:29:42] (33/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:42] Channel id: 943
+[25-06-2024 07:29:42] Xmltv id: ts943
+[25-06-2024 07:29:42] 72 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:29:42] (34/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:42] Channel id: 964
+[25-06-2024 07:29:42] Xmltv id: ts964
+[25-06-2024 07:29:43] 96 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:29:43] (35/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:43] Channel id: 142
+[25-06-2024 07:29:43] Xmltv id: ts142
+[25-06-2024 07:29:44] 18 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:29:44] (36/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:44] Channel id: 986
+[25-06-2024 07:29:44] Xmltv id: ts986
+[25-06-2024 07:29:45] 36 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:29:45] (37/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:45] Channel id: 633
+[25-06-2024 07:29:45] Xmltv id: ts633
+[25-06-2024 07:29:45] 64 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:29:45] (38/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:45] Channel id: 619
+[25-06-2024 07:29:45] Xmltv id: ts619
+[      Warning      ] 
+[25-06-2024 07:29:46] No show grabbed in 0.39 seconds
+[                   ]
+[25-06-2024 07:29:46] (39/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:46] Channel id: 634
+[25-06-2024 07:29:46] Xmltv id: ts634
+[      Warning      ] 
+[25-06-2024 07:29:46] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:29:46] (40/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:46] Channel id: 551
+[25-06-2024 07:29:46] Xmltv id: ts551
+[25-06-2024 07:29:47] 36 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:29:47] (41/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:47] Channel id: 523
+[25-06-2024 07:29:47] Xmltv id: ts523
+[25-06-2024 07:29:48] 50 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:29:48] (42/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:48] Channel id: 438
+[25-06-2024 07:29:48] Xmltv id: ts438
+[25-06-2024 07:29:48] 40 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:29:48] (43/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:48] Channel id: 554
+[25-06-2024 07:29:48] Xmltv id: ts554
+[25-06-2024 07:29:49] 82 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:29:49] (44/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:49] Channel id: 54
+[25-06-2024 07:29:49] Xmltv id: ts54
+[25-06-2024 07:29:50] 98 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:29:50] (45/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:50] Channel id: 297
+[25-06-2024 07:29:50] Xmltv id: ts297
+[25-06-2024 07:29:51] 63 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:29:51] (46/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:51] Channel id: 51
+[25-06-2024 07:29:51] Xmltv id: ts51
+[25-06-2024 07:29:52] 61 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:29:52] (47/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:52] Channel id: 180
+[25-06-2024 07:29:52] Xmltv id: ts180
+[25-06-2024 07:29:52] 80 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:29:52] (48/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:52] Channel id: 734
+[25-06-2024 07:29:52] Xmltv id: ts734
+[25-06-2024 07:29:53] 48 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:29:53] (49/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:53] Channel id: 1146
+[25-06-2024 07:29:53] Xmltv id: ts1146
+[      Warning      ] 
+[25-06-2024 07:29:54] No show grabbed in 0.40 seconds
+[                   ]
+[25-06-2024 07:29:54] (50/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:54] Channel id: 818
+[25-06-2024 07:29:54] Xmltv id: ts818
+[25-06-2024 07:29:54] 40 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:29:54] (51/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:54] Channel id: 888
+[25-06-2024 07:29:54] Xmltv id: ts888
+[25-06-2024 07:29:55] 46 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:29:55] (52/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:55] Channel id: 941
+[25-06-2024 07:29:55] Xmltv id: ts941
+[      Warning      ] 
+[25-06-2024 07:29:55] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:29:55] (53/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:55] Channel id: 194
+[25-06-2024 07:29:55] Xmltv id: ts194
+[25-06-2024 07:29:56] 24 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:29:56] (54/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:56] Channel id: 1045
+[25-06-2024 07:29:56] Xmltv id: ts1045
+[25-06-2024 07:29:57] 48 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:29:57] (55/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:57] Channel id: 1184
+[25-06-2024 07:29:57] Xmltv id: ts1184
+[25-06-2024 07:29:58] 68 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:29:58] (56/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:58] Channel id: 1218
+[25-06-2024 07:29:58] Xmltv id: ts1218
+[25-06-2024 07:29:59] 78 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:29:59] (57/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:59] Channel id: 191
+[25-06-2024 07:29:59] Xmltv id: ts191
+[25-06-2024 07:29:59] 78 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:29:59] (58/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:29:59] Channel id: 326
+[25-06-2024 07:29:59] Xmltv id: ts326
+[25-06-2024 07:30:00] 91 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:30:00] (59/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:00] Channel id: 808
+[25-06-2024 07:30:00] Xmltv id: ts808
+[25-06-2024 07:30:01] 63 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:30:01] (60/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:01] Channel id: 724
+[25-06-2024 07:30:01] Xmltv id: ts724
+[25-06-2024 07:30:02] 50 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:30:02] (61/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:02] Channel id: 502
+[25-06-2024 07:30:02] Xmltv id: ts502
+[25-06-2024 07:30:03] 60 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:30:03] (62/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:03] Channel id: 602
+[25-06-2024 07:30:03] Xmltv id: ts602
+[25-06-2024 07:30:04] 61 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:30:04] (63/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:04] Channel id: 187
+[25-06-2024 07:30:04] Xmltv id: ts187
+[25-06-2024 07:30:05] 53 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:30:05] (64/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:05] Channel id: 544
+[25-06-2024 07:30:05] Xmltv id: ts544
+[25-06-2024 07:30:06] 53 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:30:06] (65/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:06] Channel id: 307
+[25-06-2024 07:30:06] Xmltv id: ts307
+[25-06-2024 07:30:07] 103 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:30:07] (66/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:07] Channel id: 306
+[25-06-2024 07:30:07] Xmltv id: ts306
+[25-06-2024 07:30:07] 103 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:30:07] (67/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:07] Channel id: 265
+[25-06-2024 07:30:07] Xmltv id: ts265
+[25-06-2024 07:30:08] 114 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:30:08] (68/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:08] Channel id: 1101
+[25-06-2024 07:30:08] Xmltv id: ts1101
+[25-06-2024 07:30:09] 59 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:30:09] (69/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:09] Channel id: 852
+[25-06-2024 07:30:09] Xmltv id: ts852
+[      Warning      ] 
+[25-06-2024 07:30:10] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:30:10] (70/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:10] Channel id: 982
+[25-06-2024 07:30:10] Xmltv id: ts982
+[      Warning      ] 
+[25-06-2024 07:30:10] No show grabbed in 0.46 seconds
+[                   ]
+[25-06-2024 07:30:10] (71/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:10] Channel id: 850
+[25-06-2024 07:30:10] Xmltv id: ts850
+[      Warning      ] 
+[25-06-2024 07:30:10] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:30:10] (72/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:10] Channel id: 983
+[25-06-2024 07:30:10] Xmltv id: ts983
+[      Warning      ] 
+[25-06-2024 07:30:11] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:30:11] (73/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:11] Channel id: 319
+[25-06-2024 07:30:11] Xmltv id: ts319
+[25-06-2024 07:30:11] 48 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:30:11] (74/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:11] Channel id: 486
+[25-06-2024 07:30:11] Xmltv id: ts486
+[25-06-2024 07:30:12] 48 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:30:12] (75/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:12] Channel id: 789
+[25-06-2024 07:30:12] Xmltv id: ts789
+[25-06-2024 07:30:13] 44 shows grabbed in 1.14 seconds
+[                   ]
+[25-06-2024 07:30:13] (76/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:13] Channel id: 632
+[25-06-2024 07:30:13] Xmltv id: ts632
+[25-06-2024 07:30:14] 17 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:30:14] (77/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:14] Channel id: 245
+[25-06-2024 07:30:14] Xmltv id: ts245
+[25-06-2024 07:30:15] 18 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:15] (78/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:15] Channel id: 581
+[25-06-2024 07:30:15] Xmltv id: ts581
+[25-06-2024 07:30:16] 18 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:30:16] (79/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:16] Channel id: 164
+[25-06-2024 07:30:16] Xmltv id: ts164
+[25-06-2024 07:30:17] 17 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:30:17] (80/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:17] Channel id: 1062
+[25-06-2024 07:30:17] Xmltv id: ts1062
+[25-06-2024 07:30:17] 48 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:30:17] (81/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:17] Channel id: 1130
+[25-06-2024 07:30:17] Xmltv id: ts1130
+[25-06-2024 07:30:18] 25 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:30:18] (82/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:18] Channel id: 80
+[25-06-2024 07:30:18] Xmltv id: ts80
+[25-06-2024 07:30:19] 24 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:19] (83/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:19] Channel id: 132
+[25-06-2024 07:30:19] Xmltv id: ts132
+[25-06-2024 07:30:20] 19 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:30:20] (84/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:20] Channel id: 745
+[25-06-2024 07:30:20] Xmltv id: ts745
+[25-06-2024 07:30:21] 30 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:30:21] (85/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:21] Channel id: 1072
+[25-06-2024 07:30:21] Xmltv id: ts1072
+[25-06-2024 07:30:22] 22 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:30:22] (86/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:22] Channel id: 163
+[25-06-2024 07:30:22] Xmltv id: ts163
+[25-06-2024 07:30:22] 19 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:30:22] (87/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:22] Channel id: 741
+[25-06-2024 07:30:22] Xmltv id: ts741
+[25-06-2024 07:30:23] 41 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:30:23] (88/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:23] Channel id: 503
+[25-06-2024 07:30:23] Xmltv id: ts503
+[25-06-2024 07:30:24] 17 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:30:24] (89/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:24] Channel id: 574
+[25-06-2024 07:30:24] Xmltv id: ts574
+[25-06-2024 07:30:25] 17 shows grabbed in 0.54 seconds
+[                   ]
+[25-06-2024 07:30:25] (90/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:25] Channel id: 123
+[25-06-2024 07:30:25] Xmltv id: ts123
+[25-06-2024 07:30:26] 19 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:30:26] (91/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:26] Channel id: 493
+[25-06-2024 07:30:26] Xmltv id: ts493
+[25-06-2024 07:30:26] 18 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:30:26] (92/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:26] Channel id: 778
+[25-06-2024 07:30:26] Xmltv id: ts778
+[25-06-2024 07:30:27] 11 shows grabbed in 1.21 seconds
+[                   ]
+[25-06-2024 07:30:27] (93/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:27] Channel id: 494
+[25-06-2024 07:30:27] Xmltv id: ts494
+[25-06-2024 07:30:28] 22 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:30:28] (94/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:28] Channel id: 175
+[25-06-2024 07:30:28] Xmltv id: ts175
+[25-06-2024 07:30:29] 18 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:30:29] (95/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:29] Channel id: 727
+[25-06-2024 07:30:29] Xmltv id: ts727
+[25-06-2024 07:30:29] 16 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:30:29] (96/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:29] Channel id: 666
+[25-06-2024 07:30:29] Xmltv id: ts666
+[25-06-2024 07:30:30] 30 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:30:30] (97/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:30] Channel id: 267
+[25-06-2024 07:30:30] Xmltv id: ts267
+[25-06-2024 07:30:31] 20 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:30:31] (98/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:31] Channel id: 148
+[25-06-2024 07:30:31] Xmltv id: ts148
+[25-06-2024 07:30:32] 18 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:30:32] (99/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:32] Channel id: 1183
+[25-06-2024 07:30:32] Xmltv id: ts1183
+[25-06-2024 07:30:32] 22 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:30:32] (100/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:32] Channel id: 677
+[25-06-2024 07:30:32] Xmltv id: ts677
+[25-06-2024 07:30:33] 49 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:30:33] (101/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:33] Channel id: 61
+[25-06-2024 07:30:33] Xmltv id: ts61
+[25-06-2024 07:30:34] 21 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:30:34] (102/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:34] Channel id: 53
+[25-06-2024 07:30:34] Xmltv id: ts53
+[25-06-2024 07:30:35] 18 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:30:35] (103/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:35] Channel id: 730
+[25-06-2024 07:30:35] Xmltv id: ts730
+[25-06-2024 07:30:36] 15 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:30:36] (104/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:36] Channel id: 100
+[25-06-2024 07:30:36] Xmltv id: ts100
+[25-06-2024 07:30:37] 18 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:30:37] (105/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:37] Channel id: 1003
+[25-06-2024 07:30:37] Xmltv id: ts1003
+[25-06-2024 07:30:37] 16 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:30:37] (106/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:37] Channel id: 56
+[25-06-2024 07:30:37] Xmltv id: ts56
+[25-06-2024 07:30:38] 27 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:30:38] (107/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:38] Channel id: 7
+[25-06-2024 07:30:38] Xmltv id: ts7
+[25-06-2024 07:30:39] 15 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:30:39] (108/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:39] Channel id: 120
+[25-06-2024 07:30:39] Xmltv id: ts120
+[25-06-2024 07:30:40] 16 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:30:40] (109/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:40] Channel id: 595
+[25-06-2024 07:30:40] Xmltv id: ts595
+[25-06-2024 07:30:40] 24 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:30:40] (110/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:40] Channel id: 461
+[25-06-2024 07:30:40] Xmltv id: ts461
+[25-06-2024 07:30:41] 24 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:30:41] (111/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:41] Channel id: 182
+[25-06-2024 07:30:41] Xmltv id: ts182
+[      Warning      ] 
+[25-06-2024 07:30:42] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:30:42] (112/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:42] Channel id: 276
+[25-06-2024 07:30:42] Xmltv id: ts276
+[25-06-2024 07:30:42] 16 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:42] (113/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:42] Channel id: 296
+[25-06-2024 07:30:42] Xmltv id: ts296
+[25-06-2024 07:30:43] 20 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:43] (114/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:43] Channel id: 470
+[25-06-2024 07:30:43] Xmltv id: ts470
+[25-06-2024 07:30:44] 19 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:30:44] (115/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:44] Channel id: 64
+[25-06-2024 07:30:44] Xmltv id: ts64
+[25-06-2024 07:30:44] 16 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:30:44] (116/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:44] Channel id: 1117
+[25-06-2024 07:30:44] Xmltv id: ts1117
+[      Warning      ] 
+[25-06-2024 07:30:45] No show grabbed in 0.46 seconds
+[                   ]
+[25-06-2024 07:30:45] (117/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:45] Channel id: 823
+[25-06-2024 07:30:45] Xmltv id: ts823
+[25-06-2024 07:30:45] 19 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:30:45] (118/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:45] Channel id: 731
+[25-06-2024 07:30:45] Xmltv id: ts731
+[25-06-2024 07:30:46] 31 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:46] (119/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:46] Channel id: 965
+[25-06-2024 07:30:46] Xmltv id: ts965
+[25-06-2024 07:30:47] 40 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:30:47] (120/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:47] Channel id: 1000
+[25-06-2024 07:30:47] Xmltv id: ts1000
+[25-06-2024 07:30:48] 16 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:30:48] (121/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:48] Channel id: 1025
+[25-06-2024 07:30:48] Xmltv id: ts1025
+[25-06-2024 07:30:49] 23 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:30:49] (122/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:49] Channel id: 1037
+[25-06-2024 07:30:49] Xmltv id: ts1037
+[      Warning      ] 
+[25-06-2024 07:30:49] No show grabbed in 0.44 seconds
+[                   ]
+[25-06-2024 07:30:49] (123/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:49] Channel id: 714
+[25-06-2024 07:30:49] Xmltv id: ts714
+[25-06-2024 07:30:50] 40 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:30:50] (124/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:50] Channel id: 560
+[25-06-2024 07:30:50] Xmltv id: ts560
+[25-06-2024 07:30:51] 26 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:30:51] (125/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:51] Channel id: 273
+[25-06-2024 07:30:51] Xmltv id: ts273
+[25-06-2024 07:30:52] 26 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:30:52] (126/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:52] Channel id: 32
+[25-06-2024 07:30:52] Xmltv id: ts32
+[25-06-2024 07:30:52] 25 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:30:52] (127/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:52] Channel id: 558
+[25-06-2024 07:30:52] Xmltv id: ts558
+[25-06-2024 07:30:53] 25 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:53] (128/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:53] Channel id: 506
+[25-06-2024 07:30:53] Xmltv id: ts506
+[25-06-2024 07:30:54] 30 shows grabbed in 1.03 seconds
+[                   ]
+[25-06-2024 07:30:54] (129/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:54] Channel id: 592
+[25-06-2024 07:30:54] Xmltv id: ts592
+[25-06-2024 07:30:55] 29 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:30:55] (130/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:55] Channel id: 593
+[25-06-2024 07:30:55] Xmltv id: ts593
+[25-06-2024 07:30:56] 28 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:30:56] (131/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:56] Channel id: 1069
+[25-06-2024 07:30:56] Xmltv id: ts1069
+[25-06-2024 07:30:56] 28 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:30:56] (132/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:56] Channel id: 562
+[25-06-2024 07:30:56] Xmltv id: ts562
+[25-06-2024 07:30:57] 32 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:30:57] (133/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:57] Channel id: 173
+[25-06-2024 07:30:57] Xmltv id: ts173
+[25-06-2024 07:30:58] 32 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:30:58] (134/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:58] Channel id: 210
+[25-06-2024 07:30:58] Xmltv id: ts210
+[25-06-2024 07:30:58] 29 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:30:58] (135/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:58] Channel id: 599
+[25-06-2024 07:30:58] Xmltv id: ts599
+[25-06-2024 07:30:59] 34 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:30:59] (136/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:30:59] Channel id: 234
+[25-06-2024 07:30:59] Xmltv id: ts234
+[25-06-2024 07:31:00] 34 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:31:00] (137/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:00] Channel id: 174
+[25-06-2024 07:31:00] Xmltv id: ts174
+[25-06-2024 07:31:01] 37 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:31:01] (138/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:01] Channel id: 530
+[25-06-2024 07:31:01] Xmltv id: ts530
+[25-06-2024 07:31:02] 30 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:31:02] (139/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:02] Channel id: 763
+[25-06-2024 07:31:02] Xmltv id: ts763
+[25-06-2024 07:31:03] 7 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:31:03] (140/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:03] Channel id: 1191
+[25-06-2024 07:31:03] Xmltv id: ts1191
+[25-06-2024 07:31:03] 43 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:31:03] (141/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:03] Channel id: 223
+[25-06-2024 07:31:03] Xmltv id: ts223
+[25-06-2024 07:31:04] 43 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:04] (142/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:04] Channel id: 78
+[25-06-2024 07:31:04] Xmltv id: ts78
+[25-06-2024 07:31:05] 93 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:31:05] (143/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:05] Channel id: 600
+[25-06-2024 07:31:05] Xmltv id: ts600
+[25-06-2024 07:31:06] 95 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:31:06] (144/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:06] Channel id: 235
+[25-06-2024 07:31:06] Xmltv id: ts235
+[25-06-2024 07:31:06] 93 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:31:06] (145/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:06] Channel id: 609
+[25-06-2024 07:31:06] Xmltv id: ts609
+[25-06-2024 07:31:07] 95 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:31:07] (146/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:07] Channel id: 664
+[25-06-2024 07:31:07] Xmltv id: ts664
+[25-06-2024 07:31:08] 96 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:31:08] (147/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:08] Channel id: 24
+[25-06-2024 07:31:08] Xmltv id: ts24
+[25-06-2024 07:31:09] 94 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:31:09] (148/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:09] Channel id: 601
+[25-06-2024 07:31:09] Xmltv id: ts601
+[25-06-2024 07:31:09] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:31:09] (149/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:09] Channel id: 746
+[25-06-2024 07:31:09] Xmltv id: ts746
+[25-06-2024 07:31:11] 29 shows grabbed in 1.49 seconds
+[                   ]
+[25-06-2024 07:31:11] (150/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:11] Channel id: 246
+[25-06-2024 07:31:11] Xmltv id: ts246
+[25-06-2024 07:31:11] 68 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:31:11] (151/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:11] Channel id: 141
+[25-06-2024 07:31:11] Xmltv id: ts141
+[25-06-2024 07:31:12] 68 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:31:12] (152/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:12] Channel id: 463
+[25-06-2024 07:31:12] Xmltv id: ts463
+[25-06-2024 07:31:13] 66 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:31:13] (153/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:13] Channel id: 603
+[25-06-2024 07:31:13] Xmltv id: ts603
+[25-06-2024 07:31:13] 66 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:31:13] (154/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:13] Channel id: 81
+[25-06-2024 07:31:13] Xmltv id: ts81
+[25-06-2024 07:31:15] 37 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:31:15] (155/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:15] Channel id: 150
+[25-06-2024 07:31:15] Xmltv id: ts150
+[25-06-2024 07:31:15] 37 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:31:15] (156/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:15] Channel id: 462
+[25-06-2024 07:31:15] Xmltv id: ts462
+[25-06-2024 07:31:16] 57 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:31:16] (157/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:16] Channel id: 170
+[25-06-2024 07:31:16] Xmltv id: ts170
+[25-06-2024 07:31:17] 57 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:31:17] (158/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:17] Channel id: 464
+[25-06-2024 07:31:17] Xmltv id: ts464
+[25-06-2024 07:31:17] 44 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:31:17] (159/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:17] Channel id: 171
+[25-06-2024 07:31:17] Xmltv id: ts171
+[25-06-2024 07:31:18] 44 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:31:18] (160/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:18] Channel id: 35
+[25-06-2024 07:31:18] Xmltv id: ts35
+[25-06-2024 07:31:19] 52 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:19] (161/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:19] Channel id: 610
+[25-06-2024 07:31:19] Xmltv id: ts610
+[25-06-2024 07:31:19] 52 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:31:19] (162/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:19] Channel id: 1033
+[25-06-2024 07:31:19] Xmltv id: ts1033
+[25-06-2024 07:31:20] 138 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:31:20] (163/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:20] Channel id: 980
+[25-06-2024 07:31:20] Xmltv id: ts980
+[25-06-2024 07:31:21] 151 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:31:21] (164/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:21] Channel id: 1186
+[25-06-2024 07:31:21] Xmltv id: ts1186
+[25-06-2024 07:31:22] 173 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:31:22] (165/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:22] Channel id: 1187
+[25-06-2024 07:31:22] Xmltv id: ts1187
+[25-06-2024 07:31:23] 126 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:31:23] (166/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:23] Channel id: 812
+[25-06-2024 07:31:23] Xmltv id: ts812
+[25-06-2024 07:31:23] 31 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:31:23] (167/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:23] Channel id: 693
+[25-06-2024 07:31:23] Xmltv id: ts693
+[25-06-2024 07:31:24] 31 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:31:24] (168/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:24] Channel id: 683
+[25-06-2024 07:31:24] Xmltv id: ts683
+[25-06-2024 07:31:25] 91 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:31:25] (169/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:25] Channel id: 691
+[25-06-2024 07:31:25] Xmltv id: ts691
+[25-06-2024 07:31:25] 68 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:31:25] (170/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:25] Channel id: 322
+[25-06-2024 07:31:25] Xmltv id: ts322
+[25-06-2024 07:31:26] 68 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:26] (171/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:26] Channel id: 177
+[25-06-2024 07:31:26] Xmltv id: ts177
+[25-06-2024 07:31:27] 98 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:31:27] (172/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:27] Channel id: 783
+[25-06-2024 07:31:27] Xmltv id: ts783
+[25-06-2024 07:31:27] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:31:27] (173/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:27] Channel id: 179
+[25-06-2024 07:31:27] Xmltv id: ts179
+[25-06-2024 07:31:28] 51 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:28] (174/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:28] Channel id: 779
+[25-06-2024 07:31:28] Xmltv id: ts779
+[25-06-2024 07:31:29] 7 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:31:29] (175/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:29] Channel id: 689
+[25-06-2024 07:31:29] Xmltv id: ts689
+[25-06-2024 07:31:30] 130 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:31:30] (176/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:30] Channel id: 153
+[25-06-2024 07:31:30] Xmltv id: ts153
+[25-06-2024 07:31:30] 116 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:31:30] (177/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:30] Channel id: 1056
+[25-06-2024 07:31:30] Xmltv id: ts1056
+[25-06-2024 07:31:32] 96 shows grabbed in 1.08 seconds
+[                   ]
+[25-06-2024 07:31:32] (178/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:32] Channel id: 259
+[25-06-2024 07:31:32] Xmltv id: ts259
+[25-06-2024 07:31:32] 94 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:31:32] (179/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:32] Channel id: 872
+[25-06-2024 07:31:32] Xmltv id: ts872
+[25-06-2024 07:31:33] 96 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:31:33] (180/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:33] Channel id: 104
+[25-06-2024 07:31:33] Xmltv id: ts104
+[25-06-2024 07:31:34] 74 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:34] (181/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:34] Channel id: 209
+[25-06-2024 07:31:34] Xmltv id: ts209
+[25-06-2024 07:31:34] 94 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:31:34] (182/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:34] Channel id: 929
+[25-06-2024 07:31:34] Xmltv id: ts929
+[25-06-2024 07:31:35] 48 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:31:35] (183/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:35] Channel id: 928
+[25-06-2024 07:31:35] Xmltv id: ts928
+[25-06-2024 07:31:36] 48 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:31:36] (184/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:36] Channel id: 106
+[25-06-2024 07:31:36] Xmltv id: ts106
+[25-06-2024 07:31:36] 34 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:31:36] (185/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:36] Channel id: 514
+[25-06-2024 07:31:36] Xmltv id: ts514
+[25-06-2024 07:31:37] 96 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:31:37] (186/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:37] Channel id: 696
+[25-06-2024 07:31:37] Xmltv id: ts696
+[25-06-2024 07:31:38] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:31:38] (187/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:38] Channel id: 183
+[25-06-2024 07:31:38] Xmltv id: ts183
+[25-06-2024 07:31:38] 54 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:31:38] (188/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:38] Channel id: 36
+[25-06-2024 07:31:38] Xmltv id: ts36
+[25-06-2024 07:31:39] 94 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:31:39] (189/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:39] Channel id: 706
+[25-06-2024 07:31:39] Xmltv id: ts706
+[25-06-2024 07:31:40] 78 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:31:40] (190/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:40] Channel id: 278
+[25-06-2024 07:31:40] Xmltv id: ts278
+[25-06-2024 07:31:41] 78 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:31:41] (191/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:41] Channel id: 485
+[25-06-2024 07:31:41] Xmltv id: ts485
+[25-06-2024 07:31:41] 84 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:31:41] (192/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:41] Channel id: 932
+[25-06-2024 07:31:41] Xmltv id: ts932
+[25-06-2024 07:31:42] 48 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:31:42] (193/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:42] Channel id: 966
+[25-06-2024 07:31:42] Xmltv id: ts966
+[25-06-2024 07:31:42] 48 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:31:42] (194/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:42] Channel id: 831
+[25-06-2024 07:31:42] Xmltv id: ts831
+[25-06-2024 07:31:43] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:31:43] (195/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:43] Channel id: 1010
+[25-06-2024 07:31:43] Xmltv id: ts1010
+[25-06-2024 07:31:44] 90 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:31:44] (196/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:44] Channel id: 1145
+[25-06-2024 07:31:44] Xmltv id: ts1145
+[      Warning      ] 
+[25-06-2024 07:31:44] No show grabbed in 0.31 seconds
+[                   ]
+[25-06-2024 07:31:44] (197/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:44] Channel id: 1031
+[25-06-2024 07:31:44] Xmltv id: ts1031
+[25-06-2024 07:31:45] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:31:45] (198/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:45] Channel id: 475
+[25-06-2024 07:31:45] Xmltv id: ts475
+[25-06-2024 07:31:45] 70 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:31:45] (199/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:45] Channel id: 1051
+[25-06-2024 07:31:45] Xmltv id: ts1051
+[25-06-2024 07:31:46] 96 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:31:46] (200/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:46] Channel id: 1084
+[25-06-2024 07:31:46] Xmltv id: ts1084
+[25-06-2024 07:31:47] 70 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:31:47] (201/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:47] Channel id: 1161
+[25-06-2024 07:31:47] Xmltv id: ts1161
+[25-06-2024 07:31:47] 46 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:31:47] (202/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:47] Channel id: 286
+[25-06-2024 07:31:47] Xmltv id: ts286
+[25-06-2024 07:31:49] 563 shows grabbed in 1.56 seconds
+[                   ]
+[25-06-2024 07:31:49] (203/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:49] Channel id: 685
+[25-06-2024 07:31:49] Xmltv id: ts685
+[25-06-2024 07:31:50] 94 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:31:50] (204/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:50] Channel id: 415
+[25-06-2024 07:31:50] Xmltv id: ts415
+[25-06-2024 07:31:50] 94 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:31:50] (205/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:50] Channel id: 414
+[25-06-2024 07:31:50] Xmltv id: ts414
+[25-06-2024 07:31:51] 92 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:31:51] (206/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:51] Channel id: 344
+[25-06-2024 07:31:51] Xmltv id: ts344
+[25-06-2024 07:31:52] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:31:52] (207/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:52] Channel id: 291
+[25-06-2024 07:31:52] Xmltv id: ts291
+[25-06-2024 07:31:52] 98 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:31:52] (208/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:52] Channel id: 384
+[25-06-2024 07:31:52] Xmltv id: ts384
+[25-06-2024 07:31:53] 91 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:31:53] (209/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:53] Channel id: 441
+[25-06-2024 07:31:53] Xmltv id: ts441
+[25-06-2024 07:31:54] 72 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:31:54] (210/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:54] Channel id: 848
+[25-06-2024 07:31:54] Xmltv id: ts848
+[25-06-2024 07:31:55] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:31:55] (211/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:55] Channel id: 701
+[25-06-2024 07:31:55] Xmltv id: ts701
+[25-06-2024 07:31:55] 70 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:31:55] (212/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:55] Channel id: 869
+[25-06-2024 07:31:55] Xmltv id: ts869
+[      Warning      ] 
+[25-06-2024 07:31:56] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:31:56] (213/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:56] Channel id: 988
+[25-06-2024 07:31:56] Xmltv id: ts988
+[25-06-2024 07:31:56] 80 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:31:56] (214/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:56] Channel id: 784
+[25-06-2024 07:31:56] Xmltv id: ts784
+[25-06-2024 07:31:57] 46 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:31:57] (215/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:57] Channel id: 260
+[25-06-2024 07:31:57] Xmltv id: ts260
+[25-06-2024 07:31:58] 94 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:31:58] (216/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:58] Channel id: 204
+[25-06-2024 07:31:58] Xmltv id: ts204
+[25-06-2024 07:31:58] 110 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:31:58] (217/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:58] Channel id: 950
+[25-06-2024 07:31:58] Xmltv id: ts950
+[25-06-2024 07:31:59] 78 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:31:59] (218/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:31:59] Channel id: 1032
+[25-06-2024 07:31:59] Xmltv id: ts1032
+[25-06-2024 07:32:00] 138 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:32:00] (219/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:00] Channel id: 213
+[25-06-2024 07:32:00] Xmltv id: ts213
+[25-06-2024 07:32:01] 134 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:32:01] (220/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:01] Channel id: 212
+[25-06-2024 07:32:01] Xmltv id: ts212
+[25-06-2024 07:32:02] 138 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:32:02] (221/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:02] Channel id: 208
+[25-06-2024 07:32:02] Xmltv id: ts208
+[25-06-2024 07:32:02] 54 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:02] (222/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:02] Channel id: 547
+[25-06-2024 07:32:02] Xmltv id: ts547
+[25-06-2024 07:32:03] 96 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:32:03] (223/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:03] Channel id: 90
+[25-06-2024 07:32:03] Xmltv id: ts90
+[25-06-2024 07:32:04] 47 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:32:04] (224/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:04] Channel id: 1
+[25-06-2024 07:32:04] Xmltv id: ts1
+[25-06-2024 07:32:04] 95 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:32:04] (225/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:04] Channel id: 206
+[25-06-2024 07:32:04] Xmltv id: ts206
+[25-06-2024 07:32:05] 52 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:32:05] (226/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:05] Channel id: 189
+[25-06-2024 07:32:05] Xmltv id: ts189
+[25-06-2024 07:32:05] 64 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:05] (227/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:05] Channel id: 591
+[25-06-2024 07:32:05] Xmltv id: ts591
+[25-06-2024 07:32:06] 60 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:32:06] (228/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:06] Channel id: 255
+[25-06-2024 07:32:06] Xmltv id: ts255
+[25-06-2024 07:32:07] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:07] (229/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:07] Channel id: 72
+[25-06-2024 07:32:07] Xmltv id: ts72
+[25-06-2024 07:32:07] 60 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:07] (230/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:07] Channel id: 1219
+[25-06-2024 07:32:07] Xmltv id: ts1219
+[25-06-2024 07:32:08] 76 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:32:08] (231/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:08] Channel id: 324
+[25-06-2024 07:32:08] Xmltv id: ts324
+[25-06-2024 07:32:09] 76 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:32:09] (232/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:09] Channel id: 93
+[25-06-2024 07:32:09] Xmltv id: ts93
+[25-06-2024 07:32:09] 86 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:32:09] (233/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:09] Channel id: 2
+[25-06-2024 07:32:09] Xmltv id: ts2
+[      Warning      ] 
+[25-06-2024 07:32:10] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:32:10] (234/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:10] Channel id: 304
+[25-06-2024 07:32:10] Xmltv id: ts304
+[25-06-2024 07:32:10] 36 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:10] (235/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:10] Channel id: 168
+[25-06-2024 07:32:10] Xmltv id: ts168
+[25-06-2024 07:32:11] 70 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:32:11] (236/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:11] Channel id: 88
+[25-06-2024 07:32:11] Xmltv id: ts88
+[25-06-2024 07:32:12] 72 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:32:12] (237/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:12] Channel id: 1136
+[25-06-2024 07:32:12] Xmltv id: ts1136
+[25-06-2024 07:32:12] 38 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:32:12] (238/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:12] Channel id: 243
+[25-06-2024 07:32:12] Xmltv id: ts243
+[25-06-2024 07:32:13] 100 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:13] (239/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:13] Channel id: 188
+[25-06-2024 07:32:13] Xmltv id: ts188
+[25-06-2024 07:32:14] 120 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:32:14] (240/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:14] Channel id: 190
+[25-06-2024 07:32:14] Xmltv id: ts190
+[25-06-2024 07:32:15] 78 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:15] (241/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:15] Channel id: 157
+[25-06-2024 07:32:15] Xmltv id: ts157
+[25-06-2024 07:32:15] 46 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:32:15] (242/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:15] Channel id: 131
+[25-06-2024 07:32:15] Xmltv id: ts131
+[25-06-2024 07:32:16] 238 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:32:16] (243/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:16] Channel id: 65
+[25-06-2024 07:32:16] Xmltv id: ts65
+[25-06-2024 07:32:17] 98 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:32:17] (244/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:17] Channel id: 60
+[25-06-2024 07:32:17] Xmltv id: ts60
+[25-06-2024 07:32:18] 119 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:32:18] (245/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:18] Channel id: 105
+[25-06-2024 07:32:18] Xmltv id: ts105
+[25-06-2024 07:32:19] 61 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:19] (246/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:19] Channel id: 98
+[25-06-2024 07:32:19] Xmltv id: ts98
+[25-06-2024 07:32:19] 14 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:32:19] (247/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:19] Channel id: 976
+[25-06-2024 07:32:19] Xmltv id: ts976
+[25-06-2024 07:32:20] 177 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:32:20] (248/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:20] Channel id: 345
+[25-06-2024 07:32:20] Xmltv id: ts345
+[25-06-2024 07:32:21] 187 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:32:21] (249/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:21] Channel id: 761
+[25-06-2024 07:32:21] Xmltv id: ts761
+[25-06-2024 07:32:22] 48 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:32:22] (250/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:22] Channel id: 587
+[25-06-2024 07:32:22] Xmltv id: ts587
+[25-06-2024 07:32:22] 121 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:32:22] (251/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:22] Channel id: 736
+[25-06-2024 07:32:22] Xmltv id: ts736
+[25-06-2024 07:32:23] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:32:23] (252/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:23] Channel id: 1066
+[25-06-2024 07:32:23] Xmltv id: ts1066
+[25-06-2024 07:32:24] 190 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:32:24] (253/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:24] Channel id: 114
+[25-06-2024 07:32:24] Xmltv id: ts114
+[25-06-2024 07:32:25] 160 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:32:25] (254/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:25] Channel id: 71
+[25-06-2024 07:32:25] Xmltv id: ts71
+[25-06-2024 07:32:26] 48 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:32:26] (255/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:26] Channel id: 433
+[25-06-2024 07:32:26] Xmltv id: ts433
+[25-06-2024 07:32:26] 58 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:32:26] (256/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:26] Channel id: 138
+[25-06-2024 07:32:26] Xmltv id: ts138
+[25-06-2024 07:32:27] 28 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:32:27] (257/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:27] Channel id: 626
+[25-06-2024 07:32:27] Xmltv id: ts626
+[25-06-2024 07:32:27] 48 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:27] (258/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:27] Channel id: 627
+[25-06-2024 07:32:27] Xmltv id: ts627
+[25-06-2024 07:32:28] 16 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:32:28] (259/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:28] Channel id: 681
+[25-06-2024 07:32:28] Xmltv id: ts681
+[25-06-2024 07:32:29] 48 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:29] (260/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:29] Channel id: 238
+[25-06-2024 07:32:29] Xmltv id: ts238
+[25-06-2024 07:32:29] 68 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:32:29] (261/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:29] Channel id: 738
+[25-06-2024 07:32:29] Xmltv id: ts738
+[25-06-2024 07:32:30] 48 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:32:30] (262/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:30] Channel id: 239
+[25-06-2024 07:32:30] Xmltv id: ts239
+[25-06-2024 07:32:31] 111 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:32:31] (263/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:31] Channel id: 119
+[25-06-2024 07:32:31] Xmltv id: ts119
+[25-06-2024 07:32:32] 210 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:32:32] (264/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:32] Channel id: 127
+[25-06-2024 07:32:32] Xmltv id: ts127
+[25-06-2024 07:32:32] 32 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:32:32] (265/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:32] Channel id: 45
+[25-06-2024 07:32:32] Xmltv id: ts45
+[25-06-2024 07:32:33] 257 shows grabbed in 1.09 seconds
+[                   ]
+[25-06-2024 07:32:33] (266/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:33] Channel id: 994
+[25-06-2024 07:32:33] Xmltv id: ts994
+[25-06-2024 07:32:34] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:34] (267/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:34] Channel id: 867
+[25-06-2024 07:32:34] Xmltv id: ts867
+[25-06-2024 07:32:35] 22 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:32:35] (268/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:35] Channel id: 905
+[25-06-2024 07:32:35] Xmltv id: ts905
+[25-06-2024 07:32:35] 74 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:32:35] (269/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:35] Channel id: 118
+[25-06-2024 07:32:35] Xmltv id: ts118
+[25-06-2024 07:32:36] 38 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:36] (270/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:36] Channel id: 144
+[25-06-2024 07:32:36] Xmltv id: ts144
+[25-06-2024 07:32:37] 146 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:32:37] (271/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:37] Channel id: 816
+[25-06-2024 07:32:37] Xmltv id: ts816
+[25-06-2024 07:32:38] 302 shows grabbed in 1.21 seconds
+[                   ]
+[25-06-2024 07:32:38] (272/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:38] Channel id: 383
+[25-06-2024 07:32:38] Xmltv id: ts383
+[25-06-2024 07:32:39] 41 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:32:39] (273/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:39] Channel id: 302
+[25-06-2024 07:32:39] Xmltv id: ts302
+[25-06-2024 07:32:39] 40 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:32:39] (274/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:39] Channel id: 561
+[25-06-2024 07:32:39] Xmltv id: ts561
+[25-06-2024 07:32:40] 30 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:32:40] (275/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:40] Channel id: 82
+[25-06-2024 07:32:40] Xmltv id: ts82
+[25-06-2024 07:32:41] 52 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:32:41] (276/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:41] Channel id: 1164
+[25-06-2024 07:32:41] Xmltv id: ts1164
+[25-06-2024 07:32:41] 70 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:32:41] (277/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:41] Channel id: 111
+[25-06-2024 07:32:41] Xmltv id: ts111
+[25-06-2024 07:32:42] 46 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:32:42] (278/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:42] Channel id: 167
+[25-06-2024 07:32:42] Xmltv id: ts167
+[25-06-2024 07:32:43] 46 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:32:43] (279/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:43] Channel id: 605
+[25-06-2024 07:32:43] Xmltv id: ts605
+[25-06-2024 07:32:43] 63 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:43] (280/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:43] Channel id: 137
+[25-06-2024 07:32:43] Xmltv id: ts137
+[25-06-2024 07:32:44] 65 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:44] (281/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:44] Channel id: 413
+[25-06-2024 07:32:44] Xmltv id: ts413
+[25-06-2024 07:32:45] 56 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:45] (282/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:45] Channel id: 184
+[25-06-2024 07:32:45] Xmltv id: ts184
+[25-06-2024 07:32:45] 56 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:32:45] (283/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:45] Channel id: 341
+[25-06-2024 07:32:45] Xmltv id: ts341
+[25-06-2024 07:32:46] 62 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:32:46] (284/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:46] Channel id: 219
+[25-06-2024 07:32:46] Xmltv id: ts219
+[25-06-2024 07:32:47] 62 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:47] (285/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:47] Channel id: 287
+[25-06-2024 07:32:47] Xmltv id: ts287
+[25-06-2024 07:32:47] 64 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:32:47] (286/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:47] Channel id: 130
+[25-06-2024 07:32:47] Xmltv id: ts130
+[25-06-2024 07:32:48] 50 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:48] (287/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:48] Channel id: 113
+[25-06-2024 07:32:48] Xmltv id: ts113
+[25-06-2024 07:32:48] 48 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:32:48] (288/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:48] Channel id: 616
+[25-06-2024 07:32:48] Xmltv id: ts616
+[25-06-2024 07:32:49] 102 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:49] (289/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:49] Channel id: 172
+[25-06-2024 07:32:49] Xmltv id: ts172
+[25-06-2024 07:32:50] 102 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:32:50] (290/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:50] Channel id: 460
+[25-06-2024 07:32:50] Xmltv id: ts460
+[25-06-2024 07:32:51] 74 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:32:51] (291/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:51] Channel id: 158
+[25-06-2024 07:32:51] Xmltv id: ts158
+[25-06-2024 07:32:51] 74 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:32:51] (292/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:51] Channel id: 923
+[25-06-2024 07:32:51] Xmltv id: ts923
+[25-06-2024 07:32:52] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:32:52] (293/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:52] Channel id: 126
+[25-06-2024 07:32:52] Xmltv id: ts126
+[25-06-2024 07:32:53] 70 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:32:53] (294/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:53] Channel id: 367
+[25-06-2024 07:32:53] Xmltv id: ts367
+[25-06-2024 07:32:53] 77 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:32:53] (295/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:53] Channel id: 185
+[25-06-2024 07:32:53] Xmltv id: ts185
+[25-06-2024 07:32:54] 77 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:54] (296/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:54] Channel id: 646
+[25-06-2024 07:32:54] Xmltv id: ts646
+[25-06-2024 07:32:55] 81 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:32:55] (297/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:55] Channel id: 480
+[25-06-2024 07:32:55] Xmltv id: ts480
+[25-06-2024 07:32:56] 74 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:32:56] (298/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:56] Channel id: 135
+[25-06-2024 07:32:56] Xmltv id: ts135
+[25-06-2024 07:32:56] 74 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:32:56] (299/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:56] Channel id: 136
+[25-06-2024 07:32:56] Xmltv id: ts136
+[25-06-2024 07:32:57] 76 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:32:57] (300/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:57] Channel id: 228
+[25-06-2024 07:32:57] Xmltv id: ts228
+[25-06-2024 07:32:58] 54 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:32:58] (301/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:58] Channel id: 484
+[25-06-2024 07:32:58] Xmltv id: ts484
+[25-06-2024 07:32:58] 100 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:32:58] (302/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:58] Channel id: 55
+[25-06-2024 07:32:58] Xmltv id: ts55
+[25-06-2024 07:32:59] 96 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:32:59] (303/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:32:59] Channel id: 117
+[25-06-2024 07:32:59] Xmltv id: ts117
+[25-06-2024 07:33:00] 136 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:33:00] (304/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:00] Channel id: 382
+[25-06-2024 07:33:00] Xmltv id: ts382
+[25-06-2024 07:33:01] 117 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:33:01] (305/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:01] Channel id: 504
+[25-06-2024 07:33:01] Xmltv id: ts504
+[25-06-2024 07:33:01] 108 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:33:01] (306/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:01] Channel id: 1030
+[25-06-2024 07:33:01] Xmltv id: ts1030
+[25-06-2024 07:33:02] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:33:02] (307/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:02] Channel id: 227
+[25-06-2024 07:33:02] Xmltv id: ts227
+[25-06-2024 07:33:03] 92 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:33:03] (308/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:03] Channel id: 735
+[25-06-2024 07:33:03] Xmltv id: ts735
+[25-06-2024 07:33:03] 70 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:03] (309/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:03] Channel id: 406
+[25-06-2024 07:33:03] Xmltv id: ts406
+[25-06-2024 07:33:04] 46 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:04] (310/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:04] Channel id: 103
+[25-06-2024 07:33:04] Xmltv id: ts103
+[25-06-2024 07:33:05] 40 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:05] (311/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:05] Channel id: 139
+[25-06-2024 07:33:05] Xmltv id: ts139
+[25-06-2024 07:33:05] 98 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:33:05] (312/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:05] Channel id: 96
+[25-06-2024 07:33:05] Xmltv id: ts96
+[25-06-2024 07:33:06] 27 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:33:06] (313/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:06] Channel id: 224
+[25-06-2024 07:33:06] Xmltv id: ts224
+[25-06-2024 07:33:07] 62 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:33:07] (314/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:07] Channel id: 737
+[25-06-2024 07:33:07] Xmltv id: ts737
+[25-06-2024 07:33:07] 48 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:33:07] (315/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:07] Channel id: 405
+[25-06-2024 07:33:07] Xmltv id: ts405
+[25-06-2024 07:33:08] 32 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:08] (316/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:08] Channel id: 236
+[25-06-2024 07:33:08] Xmltv id: ts236
+[25-06-2024 07:33:08] 32 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:33:08] (317/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:08] Channel id: 9
+[25-06-2024 07:33:08] Xmltv id: ts9
+[25-06-2024 07:33:09] 40 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:33:09] (318/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:09] Channel id: 749
+[25-06-2024 07:33:09] Xmltv id: ts749
+[25-06-2024 07:33:10] 50 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:10] (319/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:10] Channel id: 17
+[25-06-2024 07:33:10] Xmltv id: ts17
+[25-06-2024 07:33:10] 28 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:33:10] (320/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:10] Channel id: 517
+[25-06-2024 07:33:10] Xmltv id: ts517
+[25-06-2024 07:33:11] 44 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:33:11] (321/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:11] Channel id: 726
+[25-06-2024 07:33:11] Xmltv id: ts726
+[25-06-2024 07:33:12] 48 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:33:12] (322/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:12] Channel id: 39
+[25-06-2024 07:33:12] Xmltv id: ts39
+[25-06-2024 07:33:12] 84 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:12] (323/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:12] Channel id: 733
+[25-06-2024 07:33:12] Xmltv id: ts733
+[25-06-2024 07:33:13] 58 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:13] (324/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:13] Channel id: 539
+[25-06-2024 07:33:13] Xmltv id: ts539
+[25-06-2024 07:33:13] 39 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:33:13] (325/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:13] Channel id: 498
+[25-06-2024 07:33:13] Xmltv id: ts498
+[25-06-2024 07:33:14] 39 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:33:14] (326/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:14] Channel id: 750
+[25-06-2024 07:33:14] Xmltv id: ts750
+[      Warning      ] 
+[25-06-2024 07:33:14] No show grabbed in 0.47 seconds
+[                   ]
+[25-06-2024 07:33:14] (327/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:14] Channel id: 742
+[25-06-2024 07:33:14] Xmltv id: ts742
+[25-06-2024 07:33:15] 70 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:15] (328/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:15] Channel id: 38
+[25-06-2024 07:33:15] Xmltv id: ts38
+[25-06-2024 07:33:16] 66 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:33:16] (329/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:16] Channel id: 43
+[25-06-2024 07:33:16] Xmltv id: ts43
+[25-06-2024 07:33:16] 87 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:33:16] (330/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:16] Channel id: 446
+[25-06-2024 07:33:16] Xmltv id: ts446
+[25-06-2024 07:33:17] 100 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:17] (331/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:17] Channel id: 397
+[25-06-2024 07:33:17] Xmltv id: ts397
+[25-06-2024 07:33:18] 68 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:33:18] (332/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:18] Channel id: 447
+[25-06-2024 07:33:18] Xmltv id: ts447
+[25-06-2024 07:33:18] 62 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:18] (333/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:18] Channel id: 385
+[25-06-2024 07:33:18] Xmltv id: ts385
+[25-06-2024 07:33:19] 117 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:19] (334/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:19] Channel id: 420
+[25-06-2024 07:33:19] Xmltv id: ts420
+[25-06-2024 07:33:20] 72 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:33:20] (335/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:20] Channel id: 373
+[25-06-2024 07:33:20] Xmltv id: ts373
+[25-06-2024 07:33:21] 114 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:33:21] (336/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:21] Channel id: 288
+[25-06-2024 07:33:21] Xmltv id: ts288
+[25-06-2024 07:33:21] 130 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:33:21] (337/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:21] Channel id: 594
+[25-06-2024 07:33:21] Xmltv id: ts594
+[25-06-2024 07:33:22] 56 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:33:22] (338/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:22] Channel id: 456
+[25-06-2024 07:33:22] Xmltv id: ts456
+[25-06-2024 07:33:23] 55 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:33:23] (339/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:23] Channel id: 458
+[25-06-2024 07:33:23] Xmltv id: ts458
+[25-06-2024 07:33:23] 72 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:23] (340/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:23] Channel id: 283
+[25-06-2024 07:33:23] Xmltv id: ts283
+[25-06-2024 07:33:24] 88 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:33:24] (341/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:24] Channel id: 500
+[25-06-2024 07:33:24] Xmltv id: ts500
+[25-06-2024 07:33:25] 94 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:25] (342/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:25] Channel id: 728
+[25-06-2024 07:33:25] Xmltv id: ts728
+[25-06-2024 07:33:25] 48 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:25] (343/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:25] Channel id: 775
+[25-06-2024 07:33:25] Xmltv id: ts775
+[25-06-2024 07:33:26] 105 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:33:26] (344/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:26] Channel id: 935
+[25-06-2024 07:33:26] Xmltv id: ts935
+[25-06-2024 07:33:27] 77 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:27] (345/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:27] Channel id: 911
+[25-06-2024 07:33:27] Xmltv id: ts911
+[25-06-2024 07:33:27] 47 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:27] (346/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:27] Channel id: 969
+[25-06-2024 07:33:27] Xmltv id: ts969
+[25-06-2024 07:33:28] 102 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:33:28] (347/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:28] Channel id: 1119
+[25-06-2024 07:33:28] Xmltv id: ts1119
+[      Warning      ] 
+[25-06-2024 07:33:28] No show grabbed in 0.26 seconds
+[                   ]
+[25-06-2024 07:33:28] (348/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:28] Channel id: 837
+[25-06-2024 07:33:28] Xmltv id: ts837
+[25-06-2024 07:33:29] 88 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:33:29] (349/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:29] Channel id: 12
+[25-06-2024 07:33:29] Xmltv id: ts12
+[25-06-2024 07:33:30] 20 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:33:30] (350/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:30] Channel id: 970
+[25-06-2024 07:33:30] Xmltv id: ts970
+[25-06-2024 07:33:30] 24 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:33:30] (351/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:30] Channel id: 814
+[25-06-2024 07:33:30] Xmltv id: ts814
+[25-06-2024 07:33:31] 24 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:33:31] (352/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:31] Channel id: 830
+[25-06-2024 07:33:31] Xmltv id: ts830
+[25-06-2024 07:33:31] 17 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:33:31] (353/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:31] Channel id: 431
+[25-06-2024 07:33:31] Xmltv id: ts431
+[25-06-2024 07:33:32] 56 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:32] (354/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:32] Channel id: 181
+[25-06-2024 07:33:32] Xmltv id: ts181
+[25-06-2024 07:33:33] 17 shows grabbed in 0.53 seconds
+[                   ]
+[25-06-2024 07:33:33] (355/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:33] Channel id: 729
+[25-06-2024 07:33:33] Xmltv id: ts729
+[25-06-2024 07:33:33] 18 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:33:33] (356/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:33] Channel id: 899
+[25-06-2024 07:33:33] Xmltv id: ts899
+[25-06-2024 07:33:34] 66 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:34] (357/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:34] Channel id: 1165
+[25-06-2024 07:33:34] Xmltv id: ts1165
+[25-06-2024 07:33:34] 23 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:33:34] (358/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:34] Channel id: 79
+[25-06-2024 07:33:34] Xmltv id: ts79
+[25-06-2024 07:33:35] 70 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:35] (359/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:35] Channel id: 637
+[25-06-2024 07:33:35] Xmltv id: ts637
+[25-06-2024 07:33:36] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:33:36] (360/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:36] Channel id: 166
+[25-06-2024 07:33:36] Xmltv id: ts166
+[25-06-2024 07:33:36] 94 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:33:36] (361/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:36] Channel id: 20
+[25-06-2024 07:33:36] Xmltv id: ts20
+[25-06-2024 07:33:37] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:33:37] (362/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:37] Channel id: 30
+[25-06-2024 07:33:37] Xmltv id: ts30
+[25-06-2024 07:33:38] 122 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:33:38] (363/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:38] Channel id: 613
+[25-06-2024 07:33:38] Xmltv id: ts613
+[25-06-2024 07:33:39] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:33:39] (364/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:39] Channel id: 827
+[25-06-2024 07:33:39] Xmltv id: ts827
+[25-06-2024 07:33:39] 76 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:39] (365/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:39] Channel id: 838
+[25-06-2024 07:33:39] Xmltv id: ts838
+[25-06-2024 07:33:40] 95 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:40] (366/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:40] Channel id: 973
+[25-06-2024 07:33:40] Xmltv id: ts973
+[25-06-2024 07:33:41] 88 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:33:41] (367/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:41] Channel id: 1213
+[25-06-2024 07:33:41] Xmltv id: ts1213
+[25-06-2024 07:33:41] 100 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:33:41] (368/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:41] Channel id: 1188
+[25-06-2024 07:33:41] Xmltv id: ts1188
+[25-06-2024 07:33:42] 105 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:42] (369/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:42] Channel id: 316
+[25-06-2024 07:33:42] Xmltv id: ts316
+[25-06-2024 07:33:43] 88 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:33:43] (370/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:43] Channel id: 339
+[25-06-2024 07:33:43] Xmltv id: ts339
+[25-06-2024 07:33:44] 80 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:33:44] (371/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:44] Channel id: 317
+[25-06-2024 07:33:44] Xmltv id: ts317
+[25-06-2024 07:33:45] 116 shows grabbed in 1.08 seconds
+[                   ]
+[25-06-2024 07:33:45] (372/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:45] Channel id: 203
+[25-06-2024 07:33:45] Xmltv id: ts203
+[25-06-2024 07:33:45] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:45] (373/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:45] Channel id: 512
+[25-06-2024 07:33:45] Xmltv id: ts512
+[25-06-2024 07:33:46] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:46] (374/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:46] Channel id: 27
+[25-06-2024 07:33:46] Xmltv id: ts27
+[25-06-2024 07:33:47] 100 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:47] (375/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:47] Channel id: 652
+[25-06-2024 07:33:47] Xmltv id: ts652
+[25-06-2024 07:33:47] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:47] (376/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:47] Channel id: 698
+[25-06-2024 07:33:47] Xmltv id: ts698
+[25-06-2024 07:33:48] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:48] (377/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:48] Channel id: 222
+[25-06-2024 07:33:48] Xmltv id: ts222
+[25-06-2024 07:33:49] 68 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:33:49] (378/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:49] Channel id: 643
+[25-06-2024 07:33:49] Xmltv id: ts643
+[25-06-2024 07:33:49] 92 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:49] (379/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:49] Channel id: 577
+[25-06-2024 07:33:49] Xmltv id: ts577
+[25-06-2024 07:33:50] 94 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:50] (380/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:50] Channel id: 829
+[25-06-2024 07:33:50] Xmltv id: ts829
+[25-06-2024 07:33:51] 80 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:33:51] (381/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:51] Channel id: 902
+[25-06-2024 07:33:51] Xmltv id: ts902
+[25-06-2024 07:33:51] 96 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:51] (382/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:51] Channel id: 937
+[25-06-2024 07:33:51] Xmltv id: ts937
+[25-06-2024 07:33:52] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:52] (383/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:52] Channel id: 993
+[25-06-2024 07:33:52] Xmltv id: ts993
+[25-06-2024 07:33:53] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:33:53] (384/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:53] Channel id: 1009
+[25-06-2024 07:33:53] Xmltv id: ts1009
+[25-06-2024 07:33:53] 96 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:33:53] (385/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:53] Channel id: 1024
+[25-06-2024 07:33:53] Xmltv id: ts1024
+[25-06-2024 07:33:54] 84 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:33:54] (386/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:54] Channel id: 1053
+[25-06-2024 07:33:54] Xmltv id: ts1053
+[25-06-2024 07:33:55] 102 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:55] (387/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:55] Channel id: 1074
+[25-06-2024 07:33:55] Xmltv id: ts1074
+[25-06-2024 07:33:55] 94 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:33:55] (388/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:55] Channel id: 1159
+[25-06-2024 07:33:55] Xmltv id: ts1159
+[25-06-2024 07:33:57] 82 shows grabbed in 1.68 seconds
+[                   ]
+[25-06-2024 07:33:57] (389/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:57] Channel id: 1216
+[25-06-2024 07:33:57] Xmltv id: ts1216
+[25-06-2024 07:33:58] 14 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:33:58] (390/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:58] Channel id: 330
+[25-06-2024 07:33:58] Xmltv id: ts330
+[25-06-2024 07:33:59] 83 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:33:59] (391/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:33:59] Channel id: 205
+[25-06-2024 07:33:59] Xmltv id: ts205
+[25-06-2024 07:34:00] 90 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:34:00] (392/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:00] Channel id: 583
+[25-06-2024 07:34:00] Xmltv id: ts583
+[25-06-2024 07:34:00] 96 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:34:00] (393/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:00] Channel id: 650
+[25-06-2024 07:34:00] Xmltv id: ts650
+[25-06-2024 07:34:01] 86 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:34:01] (394/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:01] Channel id: 14
+[25-06-2024 07:34:01] Xmltv id: ts14
+[25-06-2024 07:34:02] 96 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:34:02] (395/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:02] Channel id: 870
+[25-06-2024 07:34:02] Xmltv id: ts870
+[25-06-2024 07:34:03] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:34:03] (396/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:03] Channel id: 1075
+[25-06-2024 07:34:03] Xmltv id: ts1075
+[25-06-2024 07:34:03] 71 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:34:03] (397/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:03] Channel id: 1152
+[25-06-2024 07:34:03] Xmltv id: ts1152
+[25-06-2024 07:34:04] 94 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:34:04] (398/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:04] Channel id: 332
+[25-06-2024 07:34:04] Xmltv id: ts332
+[25-06-2024 07:34:05] 103 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:34:05] (399/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:05] Channel id: 354
+[25-06-2024 07:34:05] Xmltv id: ts354
+[25-06-2024 07:34:06] 98 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:34:06] (400/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:06] Channel id: 518
+[25-06-2024 07:34:06] Xmltv id: ts518
+[25-06-2024 07:34:06] 80 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:34:06] (401/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:06] Channel id: 161
+[25-06-2024 07:34:06] Xmltv id: ts161
+[25-06-2024 07:34:07] 84 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:34:07] (402/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:07] Channel id: 365
+[25-06-2024 07:34:07] Xmltv id: ts365
+[25-06-2024 07:34:08] 92 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:34:08] (403/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:08] Channel id: 338
+[25-06-2024 07:34:08] Xmltv id: ts338
+[25-06-2024 07:34:09] 82 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:34:09] (404/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:09] Channel id: 308
+[25-06-2024 07:34:09] Xmltv id: ts308
+[25-06-2024 07:34:10] 92 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:34:10] (405/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:10] Channel id: 134
+[25-06-2024 07:34:10] Xmltv id: ts134
+[25-06-2024 07:34:11] 92 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:34:11] (406/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:11] Channel id: 501
+[25-06-2024 07:34:11] Xmltv id: ts501
+[25-06-2024 07:34:12] 88 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:34:12] (407/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:12] Channel id: 251
+[25-06-2024 07:34:12] Xmltv id: ts251
+[25-06-2024 07:34:13] 88 shows grabbed in 1.09 seconds
+[                   ]
+[25-06-2024 07:34:13] (408/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:13] Channel id: 622
+[25-06-2024 07:34:13] Xmltv id: ts622
+[25-06-2024 07:34:14] 57 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:34:14] (409/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:14] Channel id: 469
+[25-06-2024 07:34:14] Xmltv id: ts469
+[25-06-2024 07:34:15] 96 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:34:15] (410/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:15] Channel id: 466
+[25-06-2024 07:34:15] Xmltv id: ts466
+[25-06-2024 07:34:17] 96 shows grabbed in 1.80 seconds
+[                   ]
+[25-06-2024 07:34:17] (411/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:17] Channel id: 1061
+[25-06-2024 07:34:17] Xmltv id: ts1061
+[      Warning      ] 
+[25-06-2024 07:34:17] No show grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:34:17] (412/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:17] Channel id: 248
+[25-06-2024 07:34:17] Xmltv id: ts248
+[25-06-2024 07:34:18] 46 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:34:18] (413/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:18] Channel id: 658
+[25-06-2024 07:34:18] Xmltv id: ts658
+[25-06-2024 07:34:19] 58 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:34:19] (414/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:19] Channel id: 999
+[25-06-2024 07:34:19] Xmltv id: ts999
+[25-06-2024 07:34:20] 96 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:34:20] (415/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:20] Channel id: 1221
+[25-06-2024 07:34:20] Xmltv id: ts1221
+[25-06-2024 07:34:21] 94 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:34:21] (416/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:21] Channel id: 955
+[25-06-2024 07:34:21] Xmltv id: ts955
+[25-06-2024 07:34:22] 94 shows grabbed in 1.07 seconds
+[                   ]
+[25-06-2024 07:34:22] (417/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:22] Channel id: 1225
+[25-06-2024 07:34:22] Xmltv id: ts1225
+[      Warning      ] 
+[25-06-2024 07:34:23] No show grabbed in 0.45 seconds
+[                   ]
+[25-06-2024 07:34:23] (418/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:23] Channel id: 747
+[25-06-2024 07:34:23] Xmltv id: ts747
+[25-06-2024 07:34:25] 29 shows grabbed in 2.10 seconds
+[                   ]
+[25-06-2024 07:34:25] (419/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:25] Channel id: 515
+[25-06-2024 07:34:25] Xmltv id: ts515
+[25-06-2024 07:34:26] 37 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:34:26] (420/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:26] Channel id: 249
+[25-06-2024 07:34:26] Xmltv id: ts249
+[25-06-2024 07:34:26] 30 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:34:26] (421/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:26] Channel id: 1175
+[25-06-2024 07:34:26] Xmltv id: ts1175
+[25-06-2024 07:34:27] 29 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:34:27] (422/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:27] Channel id: 985
+[25-06-2024 07:34:27] Xmltv id: ts985
+[25-06-2024 07:34:28] 26 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:34:28] (423/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:28] Channel id: 192
+[25-06-2024 07:34:28] Xmltv id: ts192
+[25-06-2024 07:34:29] 34 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:34:29] (424/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:29] Channel id: 800
+[25-06-2024 07:34:29] Xmltv id: ts800
+[25-06-2024 07:34:30] 30 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:34:30] (425/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:30] Channel id: 155
+[25-06-2024 07:34:30] Xmltv id: ts155
+[25-06-2024 07:34:31] 108 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:34:31] (426/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:31] Channel id: 140
+[25-06-2024 07:34:31] Xmltv id: ts140
+[25-06-2024 07:34:32] 92 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:34:32] (427/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:32] Channel id: 261
+[25-06-2024 07:34:32] Xmltv id: ts261
+[25-06-2024 07:34:33] 96 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:34:33] (428/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:33] Channel id: 546
+[25-06-2024 07:34:33] Xmltv id: ts546
+[25-06-2024 07:34:34] 100 shows grabbed in 1.06 seconds
+[                   ]
+[25-06-2024 07:34:34] (429/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:34] Channel id: 233
+[25-06-2024 07:34:34] Xmltv id: ts233
+[25-06-2024 07:34:35] 140 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:34:35] (430/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:35] Channel id: 97
+[25-06-2024 07:34:35] Xmltv id: ts97
+[25-06-2024 07:34:36] 94 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:34:36] (431/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:36] Channel id: 826
+[25-06-2024 07:34:36] Xmltv id: ts826
+[25-06-2024 07:34:37] 96 shows grabbed in 1.18 seconds
+[                   ]
+[25-06-2024 07:34:37] (432/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:37] Channel id: 1102
+[25-06-2024 07:34:37] Xmltv id: ts1102
+[25-06-2024 07:34:38] 152 shows grabbed in 1.11 seconds
+[                   ]
+[25-06-2024 07:34:38] (433/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:38] Channel id: 336
+[25-06-2024 07:34:38] Xmltv id: ts336
+[25-06-2024 07:34:39] 84 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:34:39] (434/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:39] Channel id: 1149
+[25-06-2024 07:34:39] Xmltv id: ts1149
+[      Warning      ] 
+[25-06-2024 07:34:40] No show grabbed in 0.41 seconds
+[                   ]
+[25-06-2024 07:34:40] (435/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:40] Channel id: 217
+[25-06-2024 07:34:40] Xmltv id: ts217
+[25-06-2024 07:34:41] 48 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:34:41] (436/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:41] Channel id: 751
+[25-06-2024 07:34:41] Xmltv id: ts751
+[25-06-2024 07:34:42] 28 shows grabbed in 1.68 seconds
+[                   ]
+[25-06-2024 07:34:42] (437/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:42] Channel id: 305
+[25-06-2024 07:34:42] Xmltv id: ts305
+[25-06-2024 07:34:43] 82 shows grabbed in 1.13 seconds
+[                   ]
+[25-06-2024 07:34:43] (438/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:43] Channel id: 26
+[25-06-2024 07:34:43] Xmltv id: ts26
+[25-06-2024 07:34:44] 82 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:34:44] (439/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:44] Channel id: 614
+[25-06-2024 07:34:44] Xmltv id: ts614
+[25-06-2024 07:34:45] 36 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:34:45] (440/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:45] Channel id: 522
+[25-06-2024 07:34:45] Xmltv id: ts522
+[25-06-2024 07:34:46] 85 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:34:46] (441/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:46] Channel id: 253
+[25-06-2024 07:34:46] Xmltv id: ts253
+[25-06-2024 07:34:47] 80 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:34:47] (442/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:47] Channel id: 468
+[25-06-2024 07:34:47] Xmltv id: ts468
+[25-06-2024 07:34:48] 66 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:34:48] (443/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:48] Channel id: 465
+[25-06-2024 07:34:48] Xmltv id: ts465
+[25-06-2024 07:34:49] 66 shows grabbed in 1.05 seconds
+[                   ]
+[25-06-2024 07:34:49] (444/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:49] Channel id: 1144
+[25-06-2024 07:34:49] Xmltv id: ts1144
+[      Warning      ] 
+[25-06-2024 07:34:50] No show grabbed in 0.45 seconds
+[                   ]
+[25-06-2024 07:34:50] (445/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:50] Channel id: 34
+[25-06-2024 07:34:50] Xmltv id: ts34
+[25-06-2024 07:34:51] 67 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:34:51] (446/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:51] Channel id: 1222
+[25-06-2024 07:34:51] Xmltv id: ts1222
+[25-06-2024 07:34:52] 80 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:34:52] (447/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:52] Channel id: 697
+[25-06-2024 07:34:52] Xmltv id: ts697
+[25-06-2024 07:34:53] 80 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:34:53] (448/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:53] Channel id: 995
+[25-06-2024 07:34:53] Xmltv id: ts995
+[25-06-2024 07:34:54] 96 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:34:54] (449/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:54] Channel id: 129
+[25-06-2024 07:34:54] Xmltv id: ts129
+[25-06-2024 07:34:55] 66 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:34:55] (450/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:55] Channel id: 3
+[25-06-2024 07:34:55] Xmltv id: ts3
+[25-06-2024 07:34:55] 72 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:34:55] (451/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:55] Channel id: 788
+[25-06-2024 07:34:55] Xmltv id: ts788
+[25-06-2024 07:34:56] 37 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:34:56] (452/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:56] Channel id: 537
+[25-06-2024 07:34:56] Xmltv id: ts537
+[25-06-2024 07:34:57] 32 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:34:57] (453/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:57] Channel id: 572
+[25-06-2024 07:34:57] Xmltv id: ts572
+[25-06-2024 07:34:58] 38 shows grabbed in 1.26 seconds
+[                   ]
+[25-06-2024 07:34:58] (454/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:58] Channel id: 254
+[25-06-2024 07:34:58] Xmltv id: ts254
+[25-06-2024 07:34:59] 36 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:34:59] (455/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:34:59] Channel id: 896
+[25-06-2024 07:34:59] Xmltv id: ts896
+[25-06-2024 07:35:00] 24 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:35:00] (456/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:00] Channel id: 379
+[25-06-2024 07:35:00] Xmltv id: ts379
+[25-06-2024 07:35:01] 18 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:35:01] (457/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:01] Channel id: 1134
+[25-06-2024 07:35:01] Xmltv id: ts1134
+[      Warning      ] 
+[25-06-2024 07:35:01] No show grabbed in 0.39 seconds
+[                   ]
+[25-06-2024 07:35:01] (458/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:01] Channel id: 1132
+[25-06-2024 07:35:01] Xmltv id: ts1132
+[25-06-2024 07:35:02] 102 shows grabbed in 1.06 seconds
+[                   ]
+[25-06-2024 07:35:02] (459/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:02] Channel id: 102
+[25-06-2024 07:35:02] Xmltv id: ts102
+[25-06-2024 07:35:03] 108 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:35:03] (460/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:03] Channel id: 258
+[25-06-2024 07:35:03] Xmltv id: ts258
+[25-06-2024 07:35:04] 96 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:35:04] (461/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:04] Channel id: 381
+[25-06-2024 07:35:04] Xmltv id: ts381
+[25-06-2024 07:35:05] 100 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:35:05] (462/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:05] Channel id: 23
+[25-06-2024 07:35:05] Xmltv id: ts23
+[25-06-2024 07:35:06] 72 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:35:06] (463/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:06] Channel id: 873
+[25-06-2024 07:35:06] Xmltv id: ts873
+[25-06-2024 07:35:07] 80 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:35:07] (464/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:07] Channel id: 890
+[25-06-2024 07:35:07] Xmltv id: ts890
+[25-06-2024 07:35:08] 84 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:35:08] (465/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:08] Channel id: 207
+[25-06-2024 07:35:08] Xmltv id: ts207
+[25-06-2024 07:35:09] 148 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:35:09] (466/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:09] Channel id: 311
+[25-06-2024 07:35:09] Xmltv id: ts311
+[25-06-2024 07:35:10] 102 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:35:10] (467/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:10] Channel id: 648
+[25-06-2024 07:35:10] Xmltv id: ts648
+[25-06-2024 07:35:11] 280 shows grabbed in 1.31 seconds
+[                   ]
+[25-06-2024 07:35:11] (468/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:11] Channel id: 1103
+[25-06-2024 07:35:11] Xmltv id: ts1103
+[25-06-2024 07:35:13] 86 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:35:13] (469/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:13] Channel id: 1133
+[25-06-2024 07:35:13] Xmltv id: ts1133
+[25-06-2024 07:35:13] 164 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:35:13] (470/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:13] Channel id: 314
+[25-06-2024 07:35:13] Xmltv id: ts314
+[25-06-2024 07:35:14] 82 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:35:14] (471/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:14] Channel id: 215
+[25-06-2024 07:35:14] Xmltv id: ts215
+[25-06-2024 07:35:15] 36 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:35:15] (472/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:15] Channel id: 657
+[25-06-2024 07:35:15] Xmltv id: ts657
+[25-06-2024 07:35:16] 36 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:35:16] (473/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:16] Channel id: 635
+[25-06-2024 07:35:16] Xmltv id: ts635
+[25-06-2024 07:35:16] 70 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:35:16] (474/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:16] Channel id: 250
+[25-06-2024 07:35:16] Xmltv id: ts250
+[25-06-2024 07:35:17] 71 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:35:17] (475/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:17] Channel id: 355
+[25-06-2024 07:35:17] Xmltv id: ts355
+[25-06-2024 07:35:18] 46 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:35:18] (476/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:18] Channel id: 195
+[25-06-2024 07:35:18] Xmltv id: ts195
+[25-06-2024 07:35:18] 46 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:35:18] (477/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:18] Channel id: 516
+[25-06-2024 07:35:18] Xmltv id: ts516
+[25-06-2024 07:35:19] 56 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:35:19] (478/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:19] Channel id: 956
+[25-06-2024 07:35:19] Xmltv id: ts956
+[25-06-2024 07:35:20] 56 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:35:20] (479/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:20] Channel id: 538
+[25-06-2024 07:35:20] Xmltv id: ts538
+[25-06-2024 07:35:21] 56 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:35:21] (480/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:21] Channel id: 359
+[25-06-2024 07:35:21] Xmltv id: ts359
+[25-06-2024 07:35:22] 69 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:35:22] (481/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:22] Channel id: 145
+[25-06-2024 07:35:22] Xmltv id: ts145
+[25-06-2024 07:35:23] 69 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:35:23] (482/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:23] Channel id: 1064
+[25-06-2024 07:35:23] Xmltv id: ts1064
+[      Warning      ] 
+[25-06-2024 07:35:23] No show grabbed in 0.31 seconds
+[                   ]
+[25-06-2024 07:35:23] (483/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:23] Channel id: 361
+[25-06-2024 07:35:23] Xmltv id: ts361
+[25-06-2024 07:35:24] 50 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:35:24] (484/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:24] Channel id: 352
+[25-06-2024 07:35:24] Xmltv id: ts352
+[25-06-2024 07:35:25] 48 shows grabbed in 1.06 seconds
+[                   ]
+[25-06-2024 07:35:25] (485/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:25] Channel id: 996
+[25-06-2024 07:35:25] Xmltv id: ts996
+[25-06-2024 07:35:25] 96 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:35:25] (486/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:25] Channel id: 590
+[25-06-2024 07:35:25] Xmltv id: ts590
+[25-06-2024 07:35:26] 96 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:35:26] (487/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:26] Channel id: 585
+[25-06-2024 07:35:26] Xmltv id: ts585
+[25-06-2024 07:35:27] 85 shows grabbed in 1.06 seconds
+[                   ]
+[25-06-2024 07:35:27] (488/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:27] Channel id: 645
+[25-06-2024 07:35:27] Xmltv id: ts645
+[25-06-2024 07:35:28] 48 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:35:28] (489/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:28] Channel id: 1135
+[25-06-2024 07:35:28] Xmltv id: ts1135
+[25-06-2024 07:35:29] 72 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:35:29] (490/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:29] Channel id: 362
+[25-06-2024 07:35:29] Xmltv id: ts362
+[25-06-2024 07:35:30] 20 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:35:30] (491/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:30] Channel id: 162
+[25-06-2024 07:35:30] Xmltv id: ts162
+[25-06-2024 07:35:30] 20 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:35:30] (492/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:30] Channel id: 957
+[25-06-2024 07:35:30] Xmltv id: ts957
+[25-06-2024 07:35:31] 20 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:35:31] (493/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:31] Channel id: 387
+[25-06-2024 07:35:31] Xmltv id: ts387
+[25-06-2024 07:35:32] 20 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:35:32] (494/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:32] Channel id: 277
+[25-06-2024 07:35:32] Xmltv id: ts277
+[25-06-2024 07:35:33] 20 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:35:33] (495/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:33] Channel id: 954
+[25-06-2024 07:35:33] Xmltv id: ts954
+[25-06-2024 07:35:34] 25 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:35:34] (496/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:34] Channel id: 388
+[25-06-2024 07:35:34] Xmltv id: ts388
+[25-06-2024 07:35:35] 25 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:35:35] (497/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:35] Channel id: 1168
+[25-06-2024 07:35:35] Xmltv id: ts1168
+[25-06-2024 07:35:35] 44 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:35:35] (498/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:35] Channel id: 636
+[25-06-2024 07:35:35] Xmltv id: ts636
+[25-06-2024 07:35:36] 20 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:35:36] (499/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:36] Channel id: 252
+[25-06-2024 07:35:36] Xmltv id: ts252
+[25-06-2024 07:35:37] 20 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:35:37] (500/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:37] Channel id: 128
+[25-06-2024 07:35:37] Xmltv id: ts128
+[25-06-2024 07:35:37] 21 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:35:37] (501/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:37] Channel id: 1073
+[25-06-2024 07:35:37] Xmltv id: ts1073
+[25-06-2024 07:35:38] 26 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:35:38] (502/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:38] Channel id: 360
+[25-06-2024 07:35:38] Xmltv id: ts360
+[25-06-2024 07:35:39] 52 shows grabbed in 1.09 seconds
+[                   ]
+[25-06-2024 07:35:39] (503/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:39] Channel id: 1068
+[25-06-2024 07:35:39] Xmltv id: ts1068
+[25-06-2024 07:35:40] 113 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:35:40] (504/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:40] Channel id: 688
+[25-06-2024 07:35:40] Xmltv id: ts688
+[25-06-2024 07:35:41] 113 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:35:41] (505/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:41] Channel id: 268
+[25-06-2024 07:35:41] Xmltv id: ts268
+[25-06-2024 07:35:42] 96 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:35:42] (506/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:42] Channel id: 358
+[25-06-2024 07:35:42] Xmltv id: ts358
+[25-06-2024 07:35:43] 119 shows grabbed in 1.14 seconds
+[                   ]
+[25-06-2024 07:35:43] (507/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:43] Channel id: 596
+[25-06-2024 07:35:43] Xmltv id: ts596
+[25-06-2024 07:35:44] 76 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:35:44] (508/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:44] Channel id: 146
+[25-06-2024 07:35:44] Xmltv id: ts146
+[25-06-2024 07:35:44] 98 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:35:44] (509/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:44] Channel id: 320
+[25-06-2024 07:35:44] Xmltv id: ts320
+[25-06-2024 07:35:45] 72 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:35:45] (510/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:45] Channel id: 11
+[25-06-2024 07:35:45] Xmltv id: ts11
+[25-06-2024 07:35:46] 98 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:35:46] (511/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:46] Channel id: 160
+[25-06-2024 07:35:46] Xmltv id: ts160
+[25-06-2024 07:35:47] 92 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:35:47] (512/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:47] Channel id: 225
+[25-06-2024 07:35:47] Xmltv id: ts225
+[25-06-2024 07:35:48] 84 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:35:48] (513/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:48] Channel id: 49
+[25-06-2024 07:35:48] Xmltv id: ts49
+[25-06-2024 07:35:49] 94 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:35:49] (514/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:49] Channel id: 274
+[25-06-2024 07:35:49] Xmltv id: ts274
+[25-06-2024 07:35:49] 83 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:35:49] (515/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:49] Channel id: 83
+[25-06-2024 07:35:49] Xmltv id: ts83
+[25-06-2024 07:35:50] 98 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:35:50] (516/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:50] Channel id: 349
+[25-06-2024 07:35:50] Xmltv id: ts349
+[25-06-2024 07:35:51] 102 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:35:51] (517/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:51] Channel id: 430
+[25-06-2024 07:35:51] Xmltv id: ts430
+[25-06-2024 07:35:52] 83 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:35:52] (518/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:52] Channel id: 266
+[25-06-2024 07:35:52] Xmltv id: ts266
+[25-06-2024 07:35:53] 111 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:35:53] (519/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:53] Channel id: 1027
+[25-06-2024 07:35:53] Xmltv id: ts1027
+[25-06-2024 07:35:53] 89 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:35:53] (520/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:53] Channel id: 774
+[25-06-2024 07:35:53] Xmltv id: ts774
+[25-06-2024 07:35:54] 72 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:35:54] (521/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:54] Channel id: 1099
+[25-06-2024 07:35:54] Xmltv id: ts1099
+[25-06-2024 07:35:55] 86 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:35:55] (522/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:55] Channel id: 1100
+[25-06-2024 07:35:55] Xmltv id: ts1100
+[25-06-2024 07:35:56] 70 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:35:56] (523/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:56] Channel id: 1118
+[25-06-2024 07:35:56] Xmltv id: ts1118
+[25-06-2024 07:35:57] 46 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:35:57] (524/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:57] Channel id: 1151
+[25-06-2024 07:35:57] Xmltv id: ts1151
+[25-06-2024 07:35:58] 88 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:35:58] (525/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:58] Channel id: 1194
+[25-06-2024 07:35:58] Xmltv id: ts1194
+[25-06-2024 07:35:59] 48 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:35:59] (526/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:59] Channel id: 1249
+[25-06-2024 07:35:59] Xmltv id: ts1249
+[25-06-2024 07:35:59] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:35:59] (527/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:35:59] Channel id: 337
+[25-06-2024 07:35:59] Xmltv id: ts337
+[25-06-2024 07:36:00] 82 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:36:00] (528/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:00] Channel id: 548
+[25-06-2024 07:36:00] Xmltv id: ts548
+[25-06-2024 07:36:01] 84 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:36:01] (529/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:01] Channel id: 363
+[25-06-2024 07:36:01] Xmltv id: ts363
+[25-06-2024 07:36:02] 46 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:36:02] (530/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:02] Channel id: 389
+[25-06-2024 07:36:02] Xmltv id: ts389
+[25-06-2024 07:36:02] 56 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:36:02] (531/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:02] Channel id: 429
+[25-06-2024 07:36:02] Xmltv id: ts429
+[25-06-2024 07:36:03] 69 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:36:03] (532/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:03] Channel id: 1141
+[25-06-2024 07:36:03] Xmltv id: ts1141
+[      Warning      ] 
+[25-06-2024 07:36:03] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:36:03] (533/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:03] Channel id: 290
+[25-06-2024 07:36:03] Xmltv id: ts290
+[25-06-2024 07:36:04] 96 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:36:04] (534/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:04] Channel id: 445
+[25-06-2024 07:36:04] Xmltv id: ts445
+[25-06-2024 07:36:05] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:36:05] (535/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:05] Channel id: 285
+[25-06-2024 07:36:05] Xmltv id: ts285
+[25-06-2024 07:36:06] 96 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:06] (536/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:06] Channel id: 351
+[25-06-2024 07:36:06] Xmltv id: ts351
+[25-06-2024 07:36:07] 81 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:36:07] (537/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:07] Channel id: 630
+[25-06-2024 07:36:07] Xmltv id: ts630
+[25-06-2024 07:36:08] 81 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:36:08] (538/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:08] Channel id: 450
+[25-06-2024 07:36:08] Xmltv id: ts450
+[25-06-2024 07:36:09] 74 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:36:09] (539/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:09] Channel id: 663
+[25-06-2024 07:36:09] Xmltv id: ts663
+[25-06-2024 07:36:09] 34 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:36:09] (540/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:09] Channel id: 521
+[25-06-2024 07:36:09] Xmltv id: ts521
+[25-06-2024 07:36:10] 72 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:36:10] (541/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:10] Channel id: 165
+[25-06-2024 07:36:10] Xmltv id: ts165
+[25-06-2024 07:36:10] 72 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:36:10] (542/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:10] Channel id: 752
+[25-06-2024 07:36:10] Xmltv id: ts752
+[25-06-2024 07:36:12] 21 shows grabbed in 1.39 seconds
+[                   ]
+[25-06-2024 07:36:12] (543/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:12] Channel id: 474
+[25-06-2024 07:36:12] Xmltv id: ts474
+[25-06-2024 07:36:12] 38 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:36:12] (544/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:12] Channel id: 496
+[25-06-2024 07:36:12] Xmltv id: ts496
+[25-06-2024 07:36:13] 80 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:36:13] (545/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:13] Channel id: 527
+[25-06-2024 07:36:13] Xmltv id: ts527
+[25-06-2024 07:36:14] 80 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:14] (546/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:14] Channel id: 1167
+[25-06-2024 07:36:14] Xmltv id: ts1167
+[25-06-2024 07:36:14] 44 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:14] (547/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:14] Channel id: 608
+[25-06-2024 07:36:14] Xmltv id: ts608
+[25-06-2024 07:36:15] 87 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:36:15] (548/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:15] Channel id: 257
+[25-06-2024 07:36:15] Xmltv id: ts257
+[25-06-2024 07:36:16] 87 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:36:16] (549/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:16] Channel id: 1063
+[25-06-2024 07:36:16] Xmltv id: ts1063
+[      Warning      ] 
+[25-06-2024 07:36:16] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:36:16] (550/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:16] Channel id: 1176
+[25-06-2024 07:36:16] Xmltv id: ts1176
+[25-06-2024 07:36:17] 20 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:36:17] (551/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:17] Channel id: 275
+[25-06-2024 07:36:17] Xmltv id: ts275
+[25-06-2024 07:36:17] 20 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:36:17] (552/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:17] Channel id: 674
+[25-06-2024 07:36:17] Xmltv id: ts674
+[25-06-2024 07:36:18] 38 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:18] (553/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:18] Channel id: 418
+[25-06-2024 07:36:18] Xmltv id: ts418
+[25-06-2024 07:36:19] 38 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:19] (554/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:19] Channel id: 708
+[25-06-2024 07:36:19] Xmltv id: ts708
+[25-06-2024 07:36:19] 40 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:36:19] (555/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:19] Channel id: 200
+[25-06-2024 07:36:19] Xmltv id: ts200
+[25-06-2024 07:36:20] 62 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:36:20] (556/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:20] Channel id: 997
+[25-06-2024 07:36:20] Xmltv id: ts997
+[25-06-2024 07:36:21] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:36:21] (557/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:21] Channel id: 439
+[25-06-2024 07:36:21] Xmltv id: ts439
+[25-06-2024 07:36:21] 52 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:36:21] (558/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:21] Channel id: 99
+[25-06-2024 07:36:21] Xmltv id: ts99
+[25-06-2024 07:36:22] 64 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:36:22] (559/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:22] Channel id: 426
+[25-06-2024 07:36:22] Xmltv id: ts426
+[25-06-2024 07:36:22] 30 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:36:22] (560/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:22] Channel id: 37
+[25-06-2024 07:36:22] Xmltv id: ts37
+[25-06-2024 07:36:23] 52 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:36:23] (561/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:23] Channel id: 396
+[25-06-2024 07:36:23] Xmltv id: ts396
+[25-06-2024 07:36:24] 52 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:36:24] (562/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:24] Channel id: 723
+[25-06-2024 07:36:24] Xmltv id: ts723
+[25-06-2024 07:36:24] 56 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:36:24] (563/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:24] Channel id: 499
+[25-06-2024 07:36:24] Xmltv id: ts499
+[25-06-2024 07:36:25] 64 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:36:25] (564/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:25] Channel id: 611
+[25-06-2024 07:36:25] Xmltv id: ts611
+[25-06-2024 07:36:26] 42 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:36:26] (565/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:26] Channel id: 272
+[25-06-2024 07:36:26] Xmltv id: ts272
+[25-06-2024 07:36:26] 60 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:36:26] (566/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:26] Channel id: 392
+[25-06-2024 07:36:26] Xmltv id: ts392
+[25-06-2024 07:36:27] 107 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:36:27] (567/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:27] Channel id: 421
+[25-06-2024 07:36:27] Xmltv id: ts421
+[25-06-2024 07:36:28] 76 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:36:28] (568/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:28] Channel id: 659
+[25-06-2024 07:36:28] Xmltv id: ts659
+[25-06-2024 07:36:28] 54 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:36:28] (569/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:28] Channel id: 1166
+[25-06-2024 07:36:28] Xmltv id: ts1166
+[      Warning      ] 
+[25-06-2024 07:36:29] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:36:29] (570/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:29] Channel id: 380
+[25-06-2024 07:36:29] Xmltv id: ts380
+[25-06-2024 07:36:29] 18 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:36:29] (571/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:29] Channel id: 147
+[25-06-2024 07:36:29] Xmltv id: ts147
+[25-06-2024 07:36:30] 18 shows grabbed in 0.54 seconds
+[                   ]
+[25-06-2024 07:36:30] (572/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:30] Channel id: 284
+[25-06-2024 07:36:30] Xmltv id: ts284
+[25-06-2024 07:36:30] 48 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:36:30] (573/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:30] Channel id: 201
+[25-06-2024 07:36:30] Xmltv id: ts201
+[25-06-2024 07:36:31] 16 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:36:31] (574/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:31] Channel id: 1182
+[25-06-2024 07:36:31] Xmltv id: ts1182
+[25-06-2024 07:36:31] 24 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:36:31] (575/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:31] Channel id: 797
+[25-06-2024 07:36:31] Xmltv id: ts797
+[25-06-2024 07:36:32] 24 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:36:32] (576/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:32] Channel id: 1067
+[25-06-2024 07:36:32] Xmltv id: ts1067
+[25-06-2024 07:36:33] 111 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:36:33] (577/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:33] Channel id: 77
+[25-06-2024 07:36:33] Xmltv id: ts77
+[25-06-2024 07:36:33] 111 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:36:33] (578/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:33] Channel id: 914
+[25-06-2024 07:36:33] Xmltv id: ts914
+[25-06-2024 07:36:34] 45 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:36:34] (579/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:34] Channel id: 444
+[25-06-2024 07:36:34] Xmltv id: ts444
+[25-06-2024 07:36:35] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:36:35] (580/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:35] Channel id: 1192
+[25-06-2024 07:36:35] Xmltv id: ts1192
+[25-06-2024 07:36:35] 45 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:35] (581/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:35] Channel id: 220
+[25-06-2024 07:36:35] Xmltv id: ts220
+[25-06-2024 07:36:36] 96 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:36] (582/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:36] Channel id: 524
+[25-06-2024 07:36:36] Xmltv id: ts524
+[25-06-2024 07:36:37] 62 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:36:37] (583/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:37] Channel id: 198
+[25-06-2024 07:36:37] Xmltv id: ts198
+[25-06-2024 07:36:37] 94 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:36:37] (584/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:37] Channel id: 443
+[25-06-2024 07:36:37] Xmltv id: ts443
+[25-06-2024 07:36:38] 54 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:36:38] (585/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:38] Channel id: 509
+[25-06-2024 07:36:38] Xmltv id: ts509
+[25-06-2024 07:36:39] 88 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:39] (586/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:39] Channel id: 58
+[25-06-2024 07:36:39] Xmltv id: ts58
+[25-06-2024 07:36:39] 66 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:36:39] (587/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:39] Channel id: 44
+[25-06-2024 07:36:39] Xmltv id: ts44
+[25-06-2024 07:36:40] 92 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:36:40] (588/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:40] Channel id: 525
+[25-06-2024 07:36:40] Xmltv id: ts525
+[25-06-2024 07:36:41] 78 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:36:41] (589/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:41] Channel id: 455
+[25-06-2024 07:36:41] Xmltv id: ts455
+[25-06-2024 07:36:42] 112 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:36:42] (590/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:42] Channel id: 391
+[25-06-2024 07:36:42] Xmltv id: ts391
+[25-06-2024 07:36:42] 96 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:36:42] (591/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:42] Channel id: 702
+[25-06-2024 07:36:42] Xmltv id: ts702
+[25-06-2024 07:36:43] 68 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:36:43] (592/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:43] Channel id: 968
+[25-06-2024 07:36:43] Xmltv id: ts968
+[25-06-2024 07:36:44] 74 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:36:44] (593/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:44] Channel id: 334
+[25-06-2024 07:36:44] Xmltv id: ts334
+[25-06-2024 07:36:44] 98 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:36:44] (594/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:44] Channel id: 520
+[25-06-2024 07:36:44] Xmltv id: ts520
+[25-06-2024 07:36:45] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:36:45] (595/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:45] Channel id: 511
+[25-06-2024 07:36:45] Xmltv id: ts511
+[25-06-2024 07:36:46] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:36:46] (596/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:46] Channel id: 199
+[25-06-2024 07:36:46] Xmltv id: ts199
+[25-06-2024 07:36:46] 42 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:46] (597/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:46] Channel id: 425
+[25-06-2024 07:36:46] Xmltv id: ts425
+[25-06-2024 07:36:47] 38 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:36:47] (598/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:47] Channel id: 906
+[25-06-2024 07:36:47] Xmltv id: ts906
+[25-06-2024 07:36:47] 20 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:36:47] (599/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:47] Channel id: 647
+[25-06-2024 07:36:47] Xmltv id: ts647
+[25-06-2024 07:36:48] 44 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:36:48] (600/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:48] Channel id: 411
+[25-06-2024 07:36:48] Xmltv id: ts411
+[25-06-2024 07:36:49] 36 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:36:49] (601/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:49] Channel id: 400
+[25-06-2024 07:36:49] Xmltv id: ts400
+[25-06-2024 07:36:49] 42 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:36:49] (602/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:49] Channel id: 434
+[25-06-2024 07:36:49] Xmltv id: ts434
+[25-06-2024 07:36:50] 77 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:50] (603/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:50] Channel id: 1148
+[25-06-2024 07:36:50] Xmltv id: ts1148
+[      Warning      ] 
+[25-06-2024 07:36:50] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:36:50] (604/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:50] Channel id: 390
+[25-06-2024 07:36:50] Xmltv id: ts390
+[25-06-2024 07:36:51] 98 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:36:51] (605/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:51] Channel id: 282
+[25-06-2024 07:36:51] Xmltv id: ts282
+[25-06-2024 07:36:52] 81 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:36:52] (606/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:52] Channel id: 408
+[25-06-2024 07:36:52] Xmltv id: ts408
+[25-06-2024 07:36:52] 96 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:36:52] (607/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:52] Channel id: 490
+[25-06-2024 07:36:52] Xmltv id: ts490
+[25-06-2024 07:36:53] 82 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:36:53] (608/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:53] Channel id: 785
+[25-06-2024 07:36:53] Xmltv id: ts785
+[25-06-2024 07:36:54] 34 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:36:54] (609/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:54] Channel id: 492
+[25-06-2024 07:36:54] Xmltv id: ts492
+[25-06-2024 07:36:54] 54 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:36:54] (610/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:54] Channel id: 76
+[25-06-2024 07:36:54] Xmltv id: ts76
+[25-06-2024 07:36:55] 54 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:36:55] (611/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:55] Channel id: 612
+[25-06-2024 07:36:55] Xmltv id: ts612
+[25-06-2024 07:36:56] 78 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:36:56] (612/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:56] Channel id: 108
+[25-06-2024 07:36:56] Xmltv id: ts108
+[25-06-2024 07:36:56] 76 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:36:56] (613/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:56] Channel id: 1065
+[25-06-2024 07:36:56] Xmltv id: ts1065
+[      Warning      ] 
+[25-06-2024 07:36:57] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:36:57] (614/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:57] Channel id: 467
+[25-06-2024 07:36:57] Xmltv id: ts467
+[25-06-2024 07:36:57] 80 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:36:57] (615/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:57] Channel id: 579
+[25-06-2024 07:36:57] Xmltv id: ts579
+[25-06-2024 07:36:58] 80 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:36:58] (616/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:58] Channel id: 675
+[25-06-2024 07:36:58] Xmltv id: ts675
+[25-06-2024 07:36:59] 73 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:36:59] (617/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:36:59] Channel id: 256
+[25-06-2024 07:36:59] Xmltv id: ts256
+[25-06-2024 07:37:00] 70 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:37:00] (618/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:00] Channel id: 533
+[25-06-2024 07:37:00] Xmltv id: ts533
+[25-06-2024 07:37:00] 50 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:37:00] (619/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:00] Channel id: 566
+[25-06-2024 07:37:00] Xmltv id: ts566
+[25-06-2024 07:37:01] 56 shows grabbed in 0.64 seconds
+[                   ]
+[25-06-2024 07:37:01] (620/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:01] Channel id: 940
+[25-06-2024 07:37:01] Xmltv id: ts940
+[25-06-2024 07:37:02] 50 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:37:02] (621/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:02] Channel id: 754
+[25-06-2024 07:37:02] Xmltv id: ts754
+[25-06-2024 07:37:03] 21 shows grabbed in 1.51 seconds
+[                   ]
+[25-06-2024 07:37:03] (622/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:03] Channel id: 231
+[25-06-2024 07:37:03] Xmltv id: ts231
+[25-06-2024 07:37:04] 20 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:37:04] (623/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:04] Channel id: 1140
+[25-06-2024 07:37:04] Xmltv id: ts1140
+[      Warning      ] 
+[25-06-2024 07:37:04] No show grabbed in 0.30 seconds
+[                   ]
+[25-06-2024 07:37:04] (624/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:04] Channel id: 491
+[25-06-2024 07:37:04] Xmltv id: ts491
+[25-06-2024 07:37:05] 64 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:37:05] (625/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:05] Channel id: 540
+[25-06-2024 07:37:05] Xmltv id: ts540
+[25-06-2024 07:37:05] 26 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:37:05] (626/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:05] Channel id: 667
+[25-06-2024 07:37:05] Xmltv id: ts667
+[25-06-2024 07:37:06] 16 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:37:06] (627/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:06] Channel id: 1181
+[25-06-2024 07:37:06] Xmltv id: ts1181
+[25-06-2024 07:37:06] 37 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:37:06] (628/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:06] Channel id: 810
+[25-06-2024 07:37:06] Xmltv id: ts810
+[25-06-2024 07:37:07] 20 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:37:07] (629/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:07] Channel id: 661
+[25-06-2024 07:37:07] Xmltv id: ts661
+[25-06-2024 07:37:07] 26 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:37:07] (630/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:07] Channel id: 690
+[25-06-2024 07:37:07] Xmltv id: ts690
+[25-06-2024 07:37:08] 112 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:37:08] (631/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:08] Channel id: 196
+[25-06-2024 07:37:08] Xmltv id: ts196
+[      Warning      ] 
+[25-06-2024 07:37:08] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:37:08] (632/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:08] Channel id: 152
+[25-06-2024 07:37:08] Xmltv id: ts152
+[25-06-2024 07:37:09] 94 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:37:09] (633/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:09] Channel id: 555
+[25-06-2024 07:37:09] Xmltv id: ts555
+[25-06-2024 07:37:10] 86 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:37:10] (634/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:10] Channel id: 33
+[25-06-2024 07:37:10] Xmltv id: ts33
+[25-06-2024 07:37:10] 63 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:37:10] (635/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:10] Channel id: 85
+[25-06-2024 07:37:10] Xmltv id: ts85
+[25-06-2024 07:37:11] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:37:11] (636/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:11] Channel id: 629
+[25-06-2024 07:37:11] Xmltv id: ts629
+[25-06-2024 07:37:12] 70 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:37:12] (637/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:12] Channel id: 510
+[25-06-2024 07:37:12] Xmltv id: ts510
+[25-06-2024 07:37:12] 72 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:37:12] (638/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:12] Channel id: 342
+[25-06-2024 07:37:12] Xmltv id: ts342
+[25-06-2024 07:37:13] 72 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:37:13] (639/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:13] Channel id: 824
+[25-06-2024 07:37:13] Xmltv id: ts824
+[25-06-2024 07:37:14] 96 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:37:14] (640/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:14] Channel id: 913
+[25-06-2024 07:37:14] Xmltv id: ts913
+[25-06-2024 07:37:14] 87 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:37:14] (641/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:14] Channel id: 1077
+[25-06-2024 07:37:14] Xmltv id: ts1077
+[25-06-2024 07:37:15] 90 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:37:15] (642/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:15] Channel id: 1116
+[25-06-2024 07:37:15] Xmltv id: ts1116
+[      Warning      ] 
+[25-06-2024 07:37:15] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:37:15] (643/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:15] Channel id: 321
+[25-06-2024 07:37:15] Xmltv id: ts321
+[25-06-2024 07:37:16] 81 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:37:16] (644/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:16] Channel id: 442
+[25-06-2024 07:37:16] Xmltv id: ts442
+[25-06-2024 07:37:17] 70 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:37:17] (645/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:17] Channel id: 427
+[25-06-2024 07:37:17] Xmltv id: ts427
+[25-06-2024 07:37:17] 38 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:37:17] (646/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:17] Channel id: 424
+[25-06-2024 07:37:17] Xmltv id: ts424
+[25-06-2024 07:37:18] 44 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:37:18] (647/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:18] Channel id: 477
+[25-06-2024 07:37:18] Xmltv id: ts477
+[25-06-2024 07:37:19] 101 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:37:19] (648/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:19] Channel id: 660
+[25-06-2024 07:37:19] Xmltv id: ts660
+[25-06-2024 07:37:20] 78 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:37:20] (649/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:20] Channel id: 971
+[25-06-2024 07:37:20] Xmltv id: ts971
+[25-06-2024 07:37:20] 76 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:37:20] (650/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:20] Channel id: 107
+[25-06-2024 07:37:20] Xmltv id: ts107
+[25-06-2024 07:37:21] 88 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:37:21] (651/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:21] Channel id: 772
+[25-06-2024 07:37:21] Xmltv id: ts772
+[25-06-2024 07:37:22] 43 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:37:22] (652/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:22] Channel id: 692
+[25-06-2024 07:37:22] Xmltv id: ts692
+[25-06-2024 07:37:23] 28 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:37:23] (653/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:23] Channel id: 489
+[25-06-2024 07:37:23] Xmltv id: ts489
+[25-06-2024 07:37:23] 84 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:37:23] (654/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:23] Channel id: 552
+[25-06-2024 07:37:23] Xmltv id: ts552
+[25-06-2024 07:37:24] 96 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:37:24] (655/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:24] Channel id: 586
+[25-06-2024 07:37:24] Xmltv id: ts586
+[25-06-2024 07:37:25] 118 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:37:25] (656/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:25] Channel id: 303
+[25-06-2024 07:37:25] Xmltv id: ts303
+[25-06-2024 07:37:26] 94 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:37:26] (657/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:26] Channel id: 6
+[25-06-2024 07:37:26] Xmltv id: ts6
+[25-06-2024 07:37:27] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:37:27] (658/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:27] Channel id: 73
+[25-06-2024 07:37:27] Xmltv id: ts73
+[25-06-2024 07:37:28] 96 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:37:28] (659/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:28] Channel id: 497
+[25-06-2024 07:37:28] Xmltv id: ts497
+[25-06-2024 07:37:30] 96 shows grabbed in 2.18 seconds
+[                   ]
+[25-06-2024 07:37:30] (660/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:30] Channel id: 1143
+[25-06-2024 07:37:30] Xmltv id: ts1143
+[      Warning      ] 
+[25-06-2024 07:37:30] No show grabbed in 0.38 seconds
+[                   ]
+[25-06-2024 07:37:30] (661/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:30] Channel id: 507
+[25-06-2024 07:37:30] Xmltv id: ts507
+[25-06-2024 07:37:31] 96 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:37:31] (662/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:31] Channel id: 654
+[25-06-2024 07:37:31] Xmltv id: ts654
+[25-06-2024 07:37:32] 78 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:37:32] (663/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:32] Channel id: 891
+[25-06-2024 07:37:32] Xmltv id: ts891
+[      Warning      ] 
+[25-06-2024 07:37:32] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:37:32] (664/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:32] Channel id: 974
+[25-06-2024 07:37:32] Xmltv id: ts974
+[25-06-2024 07:37:33] 96 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:37:33] (665/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:33] Channel id: 1087
+[25-06-2024 07:37:33] Xmltv id: ts1087
+[      Warning      ] 
+[25-06-2024 07:37:33] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:37:33] (666/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:33] Channel id: 323
+[25-06-2024 07:37:33] Xmltv id: ts323
+[25-06-2024 07:37:34] 91 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:37:34] (667/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:34] Channel id: 1097
+[25-06-2024 07:37:34] Xmltv id: ts1097
+[25-06-2024 07:37:36] 79 shows grabbed in 2.18 seconds
+[                   ]
+[25-06-2024 07:37:36] (668/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:36] Channel id: 115
+[25-06-2024 07:37:36] Xmltv id: ts115
+[25-06-2024 07:37:37] 64 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:37:37] (669/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:37] Channel id: 237
+[25-06-2024 07:37:37] Xmltv id: ts237
+[25-06-2024 07:37:39] 86 shows grabbed in 2.20 seconds
+[                   ]
+[25-06-2024 07:37:39] (670/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:39] Channel id: 597
+[25-06-2024 07:37:39] Xmltv id: ts597
+[25-06-2024 07:37:40] 78 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:37:40] (671/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:40] Channel id: 978
+[25-06-2024 07:37:40] Xmltv id: ts978
+[25-06-2024 07:37:41] 76 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:37:41] (672/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:41] Channel id: 159
+[25-06-2024 07:37:41] Xmltv id: ts159
+[      Warning      ] 
+[25-06-2024 07:37:41] No show grabbed in 0.41 seconds
+[                   ]
+[25-06-2024 07:37:41] (673/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:41] Channel id: 1174
+[25-06-2024 07:37:41] Xmltv id: ts1174
+[25-06-2024 07:37:42] 50 shows grabbed in 0.63 seconds
+[                   ]
+[25-06-2024 07:37:42] (674/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:42] Channel id: 987
+[25-06-2024 07:37:42] Xmltv id: ts987
+[25-06-2024 07:37:43] 50 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:37:43] (675/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:43] Channel id: 28
+[25-06-2024 07:37:43] Xmltv id: ts28
+[25-06-2024 07:37:43] 28 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:37:43] (676/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:43] Channel id: 1170
+[25-06-2024 07:37:43] Xmltv id: ts1170
+[25-06-2024 07:37:44] 42 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:37:44] (677/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:44] Channel id: 419
+[25-06-2024 07:37:44] Xmltv id: ts419
+[25-06-2024 07:37:45] 92 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:37:45] (678/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:45] Channel id: 376
+[25-06-2024 07:37:45] Xmltv id: ts376
+[25-06-2024 07:37:46] 100 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:37:46] (679/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:46] Channel id: 41
+[25-06-2024 07:37:46] Xmltv id: ts41
+[25-06-2024 07:37:47] 98 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:37:47] (680/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:47] Channel id: 375
+[25-06-2024 07:37:47] Xmltv id: ts375
+[25-06-2024 07:37:48] 104 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:37:48] (681/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:48] Channel id: 448
+[25-06-2024 07:37:48] Xmltv id: ts448
+[25-06-2024 07:37:49] 96 shows grabbed in 1.09 seconds
+[                   ]
+[25-06-2024 07:37:49] (682/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:49] Channel id: 805
+[25-06-2024 07:37:49] Xmltv id: ts805
+[25-06-2024 07:37:50] 94 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:37:50] (683/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:50] Channel id: 907
+[25-06-2024 07:37:50] Xmltv id: ts907
+[25-06-2024 07:37:50] 104 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:37:50] (684/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:50] Channel id: 1131
+[25-06-2024 07:37:50] Xmltv id: ts1131
+[      Warning      ] 
+[25-06-2024 07:37:51] No show grabbed in 0.39 seconds
+[                   ]
+[25-06-2024 07:37:51] (685/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:51] Channel id: 333
+[25-06-2024 07:37:51] Xmltv id: ts333
+[25-06-2024 07:37:52] 115 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:37:52] (686/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:52] Channel id: 50
+[25-06-2024 07:37:52] Xmltv id: ts50
+[25-06-2024 07:37:53] 60 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:37:53] (687/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:53] Channel id: 568
+[25-06-2024 07:37:53] Xmltv id: ts568
+[25-06-2024 07:37:54] 104 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:37:54] (688/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:54] Channel id: 1026
+[25-06-2024 07:37:54] Xmltv id: ts1026
+[25-06-2024 07:37:55] 93 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:37:55] (689/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:55] Channel id: 1169
+[25-06-2024 07:37:55] Xmltv id: ts1169
+[25-06-2024 07:37:56] 60 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:37:56] (690/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:56] Channel id: 479
+[25-06-2024 07:37:56] Xmltv id: ts479
+[25-06-2024 07:37:57] 76 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:37:57] (691/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:57] Channel id: 230
+[25-06-2024 07:37:57] Xmltv id: ts230
+[25-06-2024 07:37:59] 76 shows grabbed in 2.10 seconds
+[                   ]
+[25-06-2024 07:37:59] (692/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:37:59] Channel id: 868
+[25-06-2024 07:37:59] Xmltv id: ts868
+[25-06-2024 07:38:00] 36 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:38:00] (693/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:00] Channel id: 292
+[25-06-2024 07:38:00] Xmltv id: ts292
+[25-06-2024 07:38:01] 64 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:01] (694/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:01] Channel id: 289
+[25-06-2024 07:38:01] Xmltv id: ts289
+[25-06-2024 07:38:02] 64 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:38:02] (695/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:02] Channel id: 953
+[25-06-2024 07:38:02] Xmltv id: ts953
+[25-06-2024 07:38:03] 38 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:38:03] (696/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:03] Channel id: 294
+[25-06-2024 07:38:03] Xmltv id: ts294
+[25-06-2024 07:38:04] 38 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:38:04] (697/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:04] Channel id: 694
+[25-06-2024 07:38:04] Xmltv id: ts694
+[25-06-2024 07:38:05] 88 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:38:05] (698/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:05] Channel id: 684
+[25-06-2024 07:38:05] Xmltv id: ts684
+[25-06-2024 07:38:06] 88 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:06] (699/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:06] Channel id: 10
+[25-06-2024 07:38:06] Xmltv id: ts10
+[25-06-2024 07:38:07] 54 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:38:07] (700/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:07] Channel id: 904
+[25-06-2024 07:38:07] Xmltv id: ts904
+[      Warning      ] 
+[25-06-2024 07:38:07] No show grabbed in 0.46 seconds
+[                   ]
+[25-06-2024 07:38:07] (701/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:07] Channel id: 395
+[25-06-2024 07:38:07] Xmltv id: ts395
+[25-06-2024 07:38:08] 66 shows grabbed in 1.03 seconds
+[                   ]
+[25-06-2024 07:38:08] (702/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:08] Channel id: 31
+[25-06-2024 07:38:08] Xmltv id: ts31
+[25-06-2024 07:38:09] 66 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:09] (703/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:09] Channel id: 25
+[25-06-2024 07:38:09] Xmltv id: ts25
+[25-06-2024 07:38:10] 27 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:38:10] (704/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:10] Channel id: 553
+[25-06-2024 07:38:10] Xmltv id: ts553
+[25-06-2024 07:38:12] 26 shows grabbed in 2.12 seconds
+[                   ]
+[25-06-2024 07:38:12] (705/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:12] Channel id: 178
+[25-06-2024 07:38:12] Xmltv id: ts178
+[25-06-2024 07:38:13] 56 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:38:13] (706/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:13] Channel id: 229
+[25-06-2024 07:38:13] Xmltv id: ts229
+[25-06-2024 07:38:14] 21 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:38:14] (707/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:14] Channel id: 1150
+[25-06-2024 07:38:14] Xmltv id: ts1150
+[      Warning      ] 
+[25-06-2024 07:38:14] No show grabbed in 0.41 seconds
+[                   ]
+[25-06-2024 07:38:14] (708/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:14] Channel id: 1173
+[25-06-2024 07:38:14] Xmltv id: ts1173
+[25-06-2024 07:38:15] 20 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:38:15] (709/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:15] Channel id: 933
+[25-06-2024 07:38:15] Xmltv id: ts933
+[25-06-2024 07:38:16] 18 shows grabbed in 0.85 seconds
+[                   ]
+[25-06-2024 07:38:16] (710/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:16] Channel id: 293
+[25-06-2024 07:38:16] Xmltv id: ts293
+[25-06-2024 07:38:17] 18 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:38:17] (711/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:17] Channel id: 481
+[25-06-2024 07:38:17] Xmltv id: ts481
+[25-06-2024 07:38:18] 45 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:38:18] (712/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:18] Channel id: 436
+[25-06-2024 07:38:18] Xmltv id: ts436
+[25-06-2024 07:38:19] 96 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:38:19] (713/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:19] Channel id: 532
+[25-06-2024 07:38:19] Xmltv id: ts532
+[25-06-2024 07:38:20] 120 shows grabbed in 1.07 seconds
+[                   ]
+[25-06-2024 07:38:20] (714/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:20] Channel id: 211
+[25-06-2024 07:38:20] Xmltv id: ts211
+[25-06-2024 07:38:21] 68 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:38:21] (715/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:21] Channel id: 87
+[25-06-2024 07:38:21] Xmltv id: ts87
+[25-06-2024 07:38:22] 82 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:22] (716/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:22] Channel id: 394
+[25-06-2024 07:38:22] Xmltv id: ts394
+[25-06-2024 07:38:23] 78 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:23] (717/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:23] Channel id: 66
+[25-06-2024 07:38:23] Xmltv id: ts66
+[25-06-2024 07:38:24] 66 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:24] (718/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:24] Channel id: 370
+[25-06-2024 07:38:24] Xmltv id: ts370
+[25-06-2024 07:38:25] 84 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:25] (719/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:25] Channel id: 372
+[25-06-2024 07:38:25] Xmltv id: ts372
+[25-06-2024 07:38:26] 106 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:26] (720/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:26] Channel id: 576
+[25-06-2024 07:38:26] Xmltv id: ts576
+[25-06-2024 07:38:27] 72 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:38:27] (721/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:27] Channel id: 270
+[25-06-2024 07:38:27] Xmltv id: ts270
+[25-06-2024 07:38:27] 62 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:38:27] (722/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:27] Channel id: 378
+[25-06-2024 07:38:27] Xmltv id: ts378
+[25-06-2024 07:38:28] 112 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:38:28] (723/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:28] Channel id: 428
+[25-06-2024 07:38:28] Xmltv id: ts428
+[25-06-2024 07:38:29] 84 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:38:29] (724/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:29] Channel id: 799
+[25-06-2024 07:38:29] Xmltv id: ts799
+[25-06-2024 07:38:30] 61 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:38:30] (725/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:30] Channel id: 1124
+[25-06-2024 07:38:30] Xmltv id: ts1124
+[25-06-2024 07:38:31] 6 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:38:31] (726/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:31] Channel id: 328
+[25-06-2024 07:38:31] Xmltv id: ts328
+[25-06-2024 07:38:32] 89 shows grabbed in 1.04 seconds
+[                   ]
+[25-06-2024 07:38:32] (727/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:32] Channel id: 483
+[25-06-2024 07:38:32] Xmltv id: ts483
+[25-06-2024 07:38:33] 52 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:38:33] (728/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:33] Channel id: 541
+[25-06-2024 07:38:33] Xmltv id: ts541
+[25-06-2024 07:38:34] 85 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:34] (729/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:34] Channel id: 377
+[25-06-2024 07:38:34] Xmltv id: ts377
+[25-06-2024 07:38:35] 106 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:38:35] (730/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:35] Channel id: 269
+[25-06-2024 07:38:35] Xmltv id: ts269
+[25-06-2024 07:38:36] 88 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:38:36] (731/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:36] Channel id: 356
+[25-06-2024 07:38:36] Xmltv id: ts356
+[25-06-2024 07:38:37] 85 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:38:37] (732/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:37] Channel id: 457
+[25-06-2024 07:38:37] Xmltv id: ts457
+[25-06-2024 07:38:38] 92 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:38:38] (733/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:38] Channel id: 348
+[25-06-2024 07:38:38] Xmltv id: ts348
+[25-06-2024 07:38:39] 96 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:38:39] (734/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:39] Channel id: 218
+[25-06-2024 07:38:39] Xmltv id: ts218
+[25-06-2024 07:38:40] 74 shows grabbed in 1.02 seconds
+[                   ]
+[25-06-2024 07:38:40] (735/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:40] Channel id: 571
+[25-06-2024 07:38:40] Xmltv id: ts571
+[25-06-2024 07:38:41] 38 shows grabbed in 0.88 seconds
+[                   ]
+[25-06-2024 07:38:41] (736/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:41] Channel id: 796
+[25-06-2024 07:38:41] Xmltv id: ts796
+[25-06-2024 07:38:42] 70 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:42] (737/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:42] Channel id: 122
+[25-06-2024 07:38:42] Xmltv id: ts122
+[25-06-2024 07:38:43] 36 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:38:43] (738/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:43] Channel id: 399
+[25-06-2024 07:38:43] Xmltv id: ts399
+[25-06-2024 07:38:44] 38 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:38:44] (739/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:44] Channel id: 998
+[25-06-2024 07:38:44] Xmltv id: ts998
+[25-06-2024 07:38:45] 96 shows grabbed in 1.05 seconds
+[                   ]
+[25-06-2024 07:38:45] (740/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:45] Channel id: 1083
+[25-06-2024 07:38:45] Xmltv id: ts1083
+[25-06-2024 07:38:46] 28 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:38:46] (741/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:46] Channel id: 624
+[25-06-2024 07:38:46] Xmltv id: ts624
+[25-06-2024 07:38:46] 24 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:38:46] (742/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:46] Channel id: 794
+[25-06-2024 07:38:46] Xmltv id: ts794
+[25-06-2024 07:38:47] 30 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:38:47] (743/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:47] Channel id: 580
+[25-06-2024 07:38:47] Xmltv id: ts580
+[25-06-2024 07:38:48] 96 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:48] (744/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:48] Channel id: 91
+[25-06-2024 07:38:48] Xmltv id: ts91
+[25-06-2024 07:38:49] 74 shows grabbed in 0.98 seconds
+[                   ]
+[25-06-2024 07:38:49] (745/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:49] Channel id: 232
+[25-06-2024 07:38:49] Xmltv id: ts232
+[25-06-2024 07:38:50] 96 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:38:50] (746/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:50] Channel id: 366
+[25-06-2024 07:38:50] Xmltv id: ts366
+[25-06-2024 07:38:51] 150 shows grabbed in 1.03 seconds
+[                   ]
+[25-06-2024 07:38:51] (747/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:51] Channel id: 13
+[25-06-2024 07:38:51] Xmltv id: ts13
+[25-06-2024 07:38:52] 96 shows grabbed in 1.03 seconds
+[                   ]
+[25-06-2024 07:38:52] (748/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:52] Channel id: 371
+[25-06-2024 07:38:52] Xmltv id: ts371
+[25-06-2024 07:38:53] 84 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:38:53] (749/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:53] Channel id: 401
+[25-06-2024 07:38:53] Xmltv id: ts401
+[25-06-2024 07:38:54] 80 shows grabbed in 0.96 seconds
+[                   ]
+[25-06-2024 07:38:54] (750/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:54] Channel id: 787
+[25-06-2024 07:38:54] Xmltv id: ts787
+[25-06-2024 07:38:55] 96 shows grabbed in 0.99 seconds
+[                   ]
+[25-06-2024 07:38:55] (751/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:55] Channel id: 793
+[25-06-2024 07:38:55] Xmltv id: ts793
+[25-06-2024 07:38:56] 96 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:38:56] (752/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:56] Channel id: 972
+[25-06-2024 07:38:56] Xmltv id: ts972
+[25-06-2024 07:38:57] 92 shows grabbed in 1.05 seconds
+[                   ]
+[25-06-2024 07:38:57] (753/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:57] Channel id: 262
+[25-06-2024 07:38:57] Xmltv id: ts262
+[25-06-2024 07:38:58] 96 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:38:58] (754/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:58] Channel id: 989
+[25-06-2024 07:38:58] Xmltv id: ts989
+[25-06-2024 07:38:59] 62 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:38:59] (755/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:38:59] Channel id: 1078
+[25-06-2024 07:38:59] Xmltv id: ts1078
+[25-06-2024 07:39:00] 80 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:39:00] (756/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:00] Channel id: 1085
+[25-06-2024 07:39:00] Xmltv id: ts1085
+[25-06-2024 07:39:01] 82 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:39:01] (757/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:01] Channel id: 335
+[25-06-2024 07:39:01] Xmltv id: ts335
+[25-06-2024 07:39:02] 101 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:39:02] (758/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:02] Channel id: 1217
+[25-06-2024 07:39:02] Xmltv id: ts1217
+[25-06-2024 07:39:03] 32 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:39:03] (759/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:03] Channel id: 1212
+[25-06-2024 07:39:03] Xmltv id: ts1212
+[25-06-2024 07:39:04] 46 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:39:04] (760/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:04] Channel id: 92
+[25-06-2024 07:39:04] Xmltv id: ts92
+[25-06-2024 07:39:05] 54 shows grabbed in 0.89 seconds
+[                   ]
+[25-06-2024 07:39:05] (761/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:05] Channel id: 922
+[25-06-2024 07:39:05] Xmltv id: ts922
+[25-06-2024 07:39:05] 50 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:39:05] (762/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:05] Channel id: 936
+[25-06-2024 07:39:05] Xmltv id: ts936
+[25-06-2024 07:39:06] 20 shows grabbed in 0.86 seconds
+[                   ]
+[25-06-2024 07:39:06] (763/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:06] Channel id: 193
+[25-06-2024 07:39:06] Xmltv id: ts193
+[25-06-2024 07:39:07] 72 shows grabbed in 0.97 seconds
+[                   ]
+[25-06-2024 07:39:07] (764/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:07] Channel id: 773
+[25-06-2024 07:39:07] Xmltv id: ts773
+[25-06-2024 07:39:08] 50 shows grabbed in 1.07 seconds
+[                   ]
+[25-06-2024 07:39:08] (765/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:08] Channel id: 1142
+[25-06-2024 07:39:08] Xmltv id: ts1142
+[      Warning      ] 
+[25-06-2024 07:39:09] No show grabbed in 0.41 seconds
+[                   ]
+[25-06-2024 07:39:09] (766/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:09] Channel id: 567
+[25-06-2024 07:39:09] Xmltv id: ts567
+[25-06-2024 07:39:10] 88 shows grabbed in 1.01 seconds
+[                   ]
+[25-06-2024 07:39:10] (767/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:10] Channel id: 101
+[25-06-2024 07:39:10] Xmltv id: ts101
+[25-06-2024 07:39:10] 90 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:39:10] (768/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:10] Channel id: 214
+[25-06-2024 07:39:10] Xmltv id: ts214
+[25-06-2024 07:39:11] 96 shows grabbed in 0.92 seconds
+[                   ]
+[25-06-2024 07:39:11] (769/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:11] Channel id: 1047
+[25-06-2024 07:39:11] Xmltv id: ts1047
+[25-06-2024 07:39:12] 96 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:39:12] (770/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:12] Channel id: 1082
+[25-06-2024 07:39:12] Xmltv id: ts1082
+[25-06-2024 07:39:13] 64 shows grabbed in 0.74 seconds
+[                   ]
+[25-06-2024 07:39:13] (771/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:13] Channel id: 368
+[25-06-2024 07:39:13] Xmltv id: ts368
+[25-06-2024 07:39:14] 29 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:39:14] (772/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:14] Channel id: 353
+[25-06-2024 07:39:14] Xmltv id: ts353
+[25-06-2024 07:39:15] 94 shows grabbed in 1.00 seconds
+[                   ]
+[25-06-2024 07:39:15] (773/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:15] Channel id: 68
+[25-06-2024 07:39:15] Xmltv id: ts68
+[25-06-2024 07:39:16] 90 shows grabbed in 0.76 seconds
+[                   ]
+[25-06-2024 07:39:16] (774/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:16] Channel id: 1147
+[25-06-2024 07:39:16] Xmltv id: ts1147
+[      Warning      ] 
+[25-06-2024 07:39:16] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:39:16] (775/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:16] Channel id: 226
+[25-06-2024 07:39:16] Xmltv id: ts226
+[25-06-2024 07:39:16] 38 shows grabbed in 0.58 seconds
+[                   ]
+[25-06-2024 07:39:16] (776/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:16] Channel id: 221
+[25-06-2024 07:39:16] Xmltv id: ts221
+[25-06-2024 07:39:17] 56 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:39:17] (777/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:17] Channel id: 423
+[25-06-2024 07:39:17] Xmltv id: ts423
+[25-06-2024 07:39:18] 60 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:39:18] (778/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:18] Channel id: 417
+[25-06-2024 07:39:18] Xmltv id: ts417
+[25-06-2024 07:39:19] 57 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:39:19] (779/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:19] Channel id: 894
+[25-06-2024 07:39:19] Xmltv id: ts894
+[25-06-2024 07:39:20] 96 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:39:20] (780/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:20] Channel id: 977
+[25-06-2024 07:39:20] Xmltv id: ts977
+[25-06-2024 07:39:20] 24 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:39:20] (781/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:20] Channel id: 1076
+[25-06-2024 07:39:20] Xmltv id: ts1076
+[25-06-2024 07:39:21] 50 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:39:21] (782/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:21] Channel id: 1115
+[25-06-2024 07:39:21] Xmltv id: ts1115
+[25-06-2024 07:39:22] 98 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:39:22] (783/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:22] Channel id: 833
+[25-06-2024 07:39:22] Xmltv id: ts833
+[25-06-2024 07:39:24] 20 shows grabbed in 1.93 seconds
+[                   ]
+[25-06-2024 07:39:24] (784/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:24] Channel id: 758
+[25-06-2024 07:39:24] Xmltv id: ts758
+[25-06-2024 07:39:25] 95 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:39:25] (785/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:25] Channel id: 329
+[25-06-2024 07:39:25] Xmltv id: ts329
+[25-06-2024 07:39:26] 97 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:39:26] (786/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:26] Channel id: 331
+[25-06-2024 07:39:26] Xmltv id: ts331
+[25-06-2024 07:39:27] 66 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:39:27] (787/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:27] Channel id: 325
+[25-06-2024 07:39:27] Xmltv id: ts325
+[25-06-2024 07:39:27] 119 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:39:27] (788/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:27] Channel id: 449
+[25-06-2024 07:39:27] Xmltv id: ts449
+[25-06-2024 07:39:28] 66 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:39:28] (789/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:28] Channel id: 991
+[25-06-2024 07:39:28] Xmltv id: ts991
+[25-06-2024 07:39:29] 46 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:39:29] (790/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:29] Channel id: 1210
+[25-06-2024 07:39:29] Xmltv id: ts1210
+[25-06-2024 07:39:29] 72 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:39:29] (791/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:29] Channel id: 1211
+[25-06-2024 07:39:29] Xmltv id: ts1211
+[25-06-2024 07:39:30] 61 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:39:30] (792/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:30] Channel id: 1214
+[25-06-2024 07:39:30] Xmltv id: ts1214
+[25-06-2024 07:39:31] 30 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:39:31] (793/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:31] Channel id: 1215
+[25-06-2024 07:39:31] Xmltv id: ts1215
+[25-06-2024 07:39:31] 78 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:39:31] (794/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:31] Channel id: 806
+[25-06-2024 07:39:31] Xmltv id: ts806
+[      Warning      ] 
+[25-06-2024 07:39:32] No show grabbed in 0.37 seconds
+[                   ]
+[25-06-2024 07:39:32] (795/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:32] Channel id: 790
+[25-06-2024 07:39:32] Xmltv id: ts790
+[25-06-2024 07:39:32] 36 shows grabbed in 0.62 seconds
+[                   ]
+[25-06-2024 07:39:32] (796/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:32] Channel id: 791
+[25-06-2024 07:39:32] Xmltv id: ts791
+[25-06-2024 07:39:33] 83 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:39:33] (797/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:33] Channel id: 912
+[25-06-2024 07:39:33] Xmltv id: ts912
+[25-06-2024 07:39:34] 96 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:39:34] (798/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:34] Channel id: 821
+[25-06-2024 07:39:34] Xmltv id: ts821
+[      Warning      ] 
+[25-06-2024 07:39:34] No show grabbed in 0.39 seconds
+[                   ]
+[25-06-2024 07:39:34] (799/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:34] Channel id: 807
+[25-06-2024 07:39:34] Xmltv id: ts807
+[25-06-2024 07:39:35] 96 shows grabbed in 0.94 seconds
+[                   ]
+[25-06-2024 07:39:35] (800/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:35] Channel id: 782
+[25-06-2024 07:39:35] Xmltv id: ts782
+[25-06-2024 07:39:36] 70 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:39:36] (801/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:36] Channel id: 781
+[25-06-2024 07:39:36] Xmltv id: ts781
+[25-06-2024 07:39:37] 96 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:39:37] (802/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:37] Channel id: 819
+[25-06-2024 07:39:37] Xmltv id: ts819
+[25-06-2024 07:39:37] 90 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:39:37] (803/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:37] Channel id: 845
+[25-06-2024 07:39:37] Xmltv id: ts845
+[      Warning      ] 
+[25-06-2024 07:39:38] No show grabbed in 0.41 seconds
+[                   ]
+[25-06-2024 07:39:38] (804/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:38] Channel id: 846
+[25-06-2024 07:39:38] Xmltv id: ts846
+[      Warning      ] 
+[25-06-2024 07:39:38] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:39:38] (805/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:38] Channel id: 847
+[25-06-2024 07:39:38] Xmltv id: ts847
+[      Warning      ] 
+[25-06-2024 07:39:38] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:39:38] (806/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:38] Channel id: 865
+[25-06-2024 07:39:38] Xmltv id: ts865
+[25-06-2024 07:39:39] 50 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:39:39] (807/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:39] Channel id: 866
+[25-06-2024 07:39:39] Xmltv id: ts866
+[25-06-2024 07:39:39] 22 shows grabbed in 0.56 seconds
+[                   ]
+[25-06-2024 07:39:39] (808/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:39] Channel id: 887
+[25-06-2024 07:39:39] Xmltv id: ts887
+[25-06-2024 07:39:40] 100 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:39:40] (809/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:40] Channel id: 883
+[25-06-2024 07:39:40] Xmltv id: ts883
+[25-06-2024 07:39:41] 100 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:39:41] (810/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:41] Channel id: 893
+[25-06-2024 07:39:41] Xmltv id: ts893
+[25-06-2024 07:39:42] 96 shows grabbed in 0.82 seconds
+[                   ]
+[25-06-2024 07:39:42] (811/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:42] Channel id: 908
+[25-06-2024 07:39:42] Xmltv id: ts908
+[      Warning      ] 
+[25-06-2024 07:39:42] No show grabbed in 0.39 seconds
+[                   ]
+[25-06-2024 07:39:42] (812/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:42] Channel id: 910
+[25-06-2024 07:39:42] Xmltv id: ts910
+[25-06-2024 07:39:43] 94 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:39:43] (813/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:43] Channel id: 1254
+[25-06-2024 07:39:43] Xmltv id: ts1254
+[25-06-2024 07:39:44] 48 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:39:44] (814/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:44] Channel id: 759
+[25-06-2024 07:39:44] Xmltv id: ts759
+[      Warning      ] 
+[25-06-2024 07:39:44] No show grabbed in 0.40 seconds
+[                   ]
+[25-06-2024 07:39:44] (815/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:44] Channel id: 1256
+[25-06-2024 07:39:44] Xmltv id: ts1256
+[25-06-2024 07:39:45] 48 shows grabbed in 0.70 seconds
+[                   ]
+[25-06-2024 07:39:45] (816/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:45] Channel id: 760
+[25-06-2024 07:39:45] Xmltv id: ts760
+[      Warning      ] 
+[25-06-2024 07:39:45] No show grabbed in 0.40 seconds
+[                   ]
+[25-06-2024 07:39:45] (817/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:45] Channel id: 1257
+[25-06-2024 07:39:45] Xmltv id: ts1257
+[25-06-2024 07:39:46] 40 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:39:46] (818/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:46] Channel id: 1255
+[25-06-2024 07:39:46] Xmltv id: ts1255
+[25-06-2024 07:39:47] 48 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:39:47] (819/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:47] Channel id: 841
+[25-06-2024 07:39:47] Xmltv id: ts841
+[25-06-2024 07:39:47] 26 shows grabbed in 0.68 seconds
+[                   ]
+[25-06-2024 07:39:47] (820/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:47] Channel id: 842
+[25-06-2024 07:39:47] Xmltv id: ts842
+[25-06-2024 07:39:48] 34 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:39:48] (821/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:48] Channel id: 843
+[25-06-2024 07:39:48] Xmltv id: ts843
+[      Warning      ] 
+[25-06-2024 07:39:48] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:39:48] (822/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:48] Channel id: 840
+[25-06-2024 07:39:48] Xmltv id: ts840
+[25-06-2024 07:39:49] 42 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:39:49] (823/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:49] Channel id: 931
+[25-06-2024 07:39:49] Xmltv id: ts931
+[25-06-2024 07:39:50] 74 shows grabbed in 0.77 seconds
+[                   ]
+[25-06-2024 07:39:50] (824/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:50] Channel id: 892
+[25-06-2024 07:39:50] Xmltv id: ts892
+[25-06-2024 07:39:51] 60 shows grabbed in 0.73 seconds
+[                   ]
+[25-06-2024 07:39:51] (825/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:51] Channel id: 947
+[25-06-2024 07:39:51] Xmltv id: ts947
+[25-06-2024 07:39:51] 30 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:39:51] (826/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:51] Channel id: 949
+[25-06-2024 07:39:51] Xmltv id: ts949
+[25-06-2024 07:39:52] 26 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:39:52] (827/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:52] Channel id: 960
+[25-06-2024 07:39:52] Xmltv id: ts960
+[25-06-2024 07:39:53] 36 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:39:53] (828/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:53] Channel id: 961
+[25-06-2024 07:39:53] Xmltv id: ts961
+[      Warning      ] 
+[25-06-2024 07:39:53] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:39:53] (829/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:53] Channel id: 962
+[25-06-2024 07:39:53] Xmltv id: ts962
+[25-06-2024 07:39:54] 48 shows grabbed in 0.71 seconds
+[                   ]
+[25-06-2024 07:39:54] (830/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:54] Channel id: 1002
+[25-06-2024 07:39:54] Xmltv id: ts1002
+[25-06-2024 07:39:55] 72 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:39:55] (831/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:55] Channel id: 1004
+[25-06-2024 07:39:55] Xmltv id: ts1004
+[25-06-2024 07:39:56] 6 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:39:56] (832/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:56] Channel id: 1008
+[25-06-2024 07:39:56] Xmltv id: ts1008
+[25-06-2024 07:39:56] 26 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:39:56] (833/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:56] Channel id: 1007
+[25-06-2024 07:39:56] Xmltv id: ts1007
+[25-06-2024 07:39:57] 16 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:39:57] (834/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:57] Channel id: 1006
+[25-06-2024 07:39:57] Xmltv id: ts1006
+[25-06-2024 07:39:58] 14 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:39:58] (835/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:58] Channel id: 1005
+[25-06-2024 07:39:58] Xmltv id: ts1005
+[25-06-2024 07:39:58] 16 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:39:58] (836/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:58] Channel id: 1023
+[25-06-2024 07:39:58] Xmltv id: ts1023
+[25-06-2024 07:39:59] 71 shows grabbed in 0.66 seconds
+[                   ]
+[25-06-2024 07:39:59] (837/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:39:59] Channel id: 1018
+[25-06-2024 07:39:59] Xmltv id: ts1018
+[25-06-2024 07:40:00] 80 shows grabbed in 0.75 seconds
+[                   ]
+[25-06-2024 07:40:00] (838/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:00] Channel id: 1019
+[25-06-2024 07:40:00] Xmltv id: ts1019
+[25-06-2024 07:40:00] 35 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:40:00] (839/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:00] Channel id: 1040
+[25-06-2024 07:40:00] Xmltv id: ts1040
+[25-06-2024 07:40:01] 96 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:40:01] (840/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:01] Channel id: 1041
+[25-06-2024 07:40:01] Xmltv id: ts1041
+[      Warning      ] 
+[25-06-2024 07:40:02] No show grabbed in 0.48 seconds
+[                   ]
+[25-06-2024 07:40:02] (841/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:02] Channel id: 1042
+[25-06-2024 07:40:02] Xmltv id: ts1042
+[25-06-2024 07:40:03] 100 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:40:03] (842/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:03] Channel id: 1043
+[25-06-2024 07:40:03] Xmltv id: ts1043
+[25-06-2024 07:40:03] 28 shows grabbed in 0.81 seconds
+[                   ]
+[25-06-2024 07:40:03] (843/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:03] Channel id: 1044
+[25-06-2024 07:40:03] Xmltv id: ts1044
+[25-06-2024 07:40:04] 116 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:40:04] (844/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:04] Channel id: 1060
+[25-06-2024 07:40:04] Xmltv id: ts1060
+[25-06-2024 07:40:05] 46 shows grabbed in 0.84 seconds
+[                   ]
+[25-06-2024 07:40:05] (845/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:05] Channel id: 1057
+[25-06-2024 07:40:05] Xmltv id: ts1057
+[      Warning      ] 
+[25-06-2024 07:40:05] No show grabbed in 0.40 seconds
+[                   ]
+[25-06-2024 07:40:05] (846/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:05] Channel id: 1058
+[25-06-2024 07:40:05] Xmltv id: ts1058
+[25-06-2024 07:40:06] 96 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:40:06] (847/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:06] Channel id: 1059
+[25-06-2024 07:40:06] Xmltv id: ts1059
+[25-06-2024 07:40:07] 94 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:40:07] (848/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:07] Channel id: 1070
+[25-06-2024 07:40:07] Xmltv id: ts1070
+[25-06-2024 07:40:08] 96 shows grabbed in 0.78 seconds
+[                   ]
+[25-06-2024 07:40:08] (849/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:08] Channel id: 1079
+[25-06-2024 07:40:08] Xmltv id: ts1079
+[25-06-2024 07:40:08] 58 shows grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:40:08] (850/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:08] Channel id: 1080
+[25-06-2024 07:40:08] Xmltv id: ts1080
+[25-06-2024 07:40:09] 96 shows grabbed in 0.91 seconds
+[                   ]
+[25-06-2024 07:40:09] (851/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:09] Channel id: 1171
+[25-06-2024 07:40:09] Xmltv id: ts1171
+[25-06-2024 07:40:10] 16 shows grabbed in 0.80 seconds
+[                   ]
+[25-06-2024 07:40:10] (852/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:10] Channel id: 1196
+[25-06-2024 07:40:10] Xmltv id: ts1196
+[25-06-2024 07:40:11] 68 shows grabbed in 0.87 seconds
+[                   ]
+[25-06-2024 07:40:11] (853/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:11] Channel id: 1197
+[25-06-2024 07:40:11] Xmltv id: ts1197
+[25-06-2024 07:40:12] 46 shows grabbed in 0.72 seconds
+[                   ]
+[25-06-2024 07:40:12] (854/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:12] Channel id: 1198
+[25-06-2024 07:40:12] Xmltv id: ts1198
+[25-06-2024 07:40:12] 26 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:40:12] (855/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:12] Channel id: 1199
+[25-06-2024 07:40:12] Xmltv id: ts1199
+[25-06-2024 07:40:13] 28 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:40:13] (856/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:13] Channel id: 1200
+[25-06-2024 07:40:13] Xmltv id: ts1200
+[25-06-2024 07:40:14] 96 shows grabbed in 0.83 seconds
+[                   ]
+[25-06-2024 07:40:14] (857/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:14] Channel id: 1201
+[25-06-2024 07:40:14] Xmltv id: ts1201
+[25-06-2024 07:40:15] 96 shows grabbed in 0.95 seconds
+[                   ]
+[25-06-2024 07:40:15] (858/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:15] Channel id: 1202
+[25-06-2024 07:40:15] Xmltv id: ts1202
+[25-06-2024 07:40:15] 34 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:40:15] (859/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:15] Channel id: 1203
+[25-06-2024 07:40:15] Xmltv id: ts1203
+[25-06-2024 07:40:16] 96 shows grabbed in 0.90 seconds
+[                   ]
+[25-06-2024 07:40:16] (860/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:16] Channel id: 1204
+[25-06-2024 07:40:16] Xmltv id: ts1204
+[25-06-2024 07:40:17] 14 shows grabbed in 0.93 seconds
+[                   ]
+[25-06-2024 07:40:17] (861/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:17] Channel id: 1205
+[25-06-2024 07:40:17] Xmltv id: ts1205
+[25-06-2024 07:40:18] 94 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:40:18] (862/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:18] Channel id: 1206
+[25-06-2024 07:40:18] Xmltv id: ts1206
+[25-06-2024 07:40:18] 30 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:40:18] (863/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:18] Channel id: 1207
+[25-06-2024 07:40:18] Xmltv id: ts1207
+[25-06-2024 07:40:19] 30 shows grabbed in 0.57 seconds
+[                   ]
+[25-06-2024 07:40:19] (864/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:19] Channel id: 1208
+[25-06-2024 07:40:19] Xmltv id: ts1208
+[25-06-2024 07:40:20] 96 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:40:20] (865/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:20] Channel id: 1209
+[25-06-2024 07:40:20] Xmltv id: ts1209
+[25-06-2024 07:40:20] 72 shows grabbed in 0.67 seconds
+[                   ]
+[25-06-2024 07:40:20] (866/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:20] Channel id: 1245
+[25-06-2024 07:40:20] Xmltv id: ts1245
+[25-06-2024 07:40:21] 18 shows grabbed in 0.55 seconds
+[                   ]
+[25-06-2024 07:40:21] (867/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:21] Channel id: 1244
+[25-06-2024 07:40:21] Xmltv id: ts1244
+[      Warning      ] 
+[25-06-2024 07:40:21] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:40:21] (868/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:21] Channel id: 1247
+[25-06-2024 07:40:21] Xmltv id: ts1247
+[25-06-2024 07:40:22] 30 shows grabbed in 0.79 seconds
+[                   ]
+[25-06-2024 07:40:22] (869/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:22] Channel id: 1242
+[25-06-2024 07:40:22] Xmltv id: ts1242
+[25-06-2024 07:40:23] 88 shows grabbed in 0.69 seconds
+[                   ]
+[25-06-2024 07:40:23] (870/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:23] Channel id: 1243
+[25-06-2024 07:40:23] Xmltv id: ts1243
+[      Warning      ] 
+[25-06-2024 07:40:23] No show grabbed in 0.28 seconds
+[                   ]
+[25-06-2024 07:40:23] (871/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:23] Channel id: 1246
+[25-06-2024 07:40:23] Xmltv id: ts1246
+[25-06-2024 07:40:24] 82 shows grabbed in 0.65 seconds
+[                   ]
+[25-06-2024 07:40:24] (872/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:24] Channel id: 1252
+[25-06-2024 07:40:24] Xmltv id: ts1252
+[25-06-2024 07:40:24] 48 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:40:24] (873/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:24] Channel id: 1253
+[25-06-2024 07:40:24] Xmltv id: ts1253
+[25-06-2024 07:40:25] 44 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:40:25] (874/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:25] Channel id: 716
+[25-06-2024 07:40:25] Xmltv id: ts716
+[25-06-2024 07:40:25] 40 shows grabbed in 0.59 seconds
+[                   ]
+[25-06-2024 07:40:25] (875/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:25] Channel id: 874
+[25-06-2024 07:40:25] Xmltv id: ts874
+[      Warning      ] 
+[25-06-2024 07:40:26] No show grabbed in 0.61 seconds
+[                   ]
+[25-06-2024 07:40:26] (876/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:26] Channel id: 952
+[25-06-2024 07:40:26] Xmltv id: ts952
+[25-06-2024 07:40:29] 72 shows grabbed in 3.13 seconds
+[                   ]
+[25-06-2024 07:40:29] (877/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:29] Channel id: 725
+[25-06-2024 07:40:29] Xmltv id: ts725
+[25-06-2024 07:40:30] 50 shows grabbed in 0.60 seconds
+[                   ]
+[25-06-2024 07:40:30] (878/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:30] Channel id: 732
+[25-06-2024 07:40:30] Xmltv id: ts732
+[      Warning      ] 
+[25-06-2024 07:40:30] No show grabbed in 0.27 seconds
+[                   ]
+[25-06-2024 07:40:30] (879/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:30] Channel id: 22
+[25-06-2024 07:40:30] Xmltv id: ts22
+[      Warning      ] 
+[25-06-2024 07:40:30] No show grabbed in 0.29 seconds
+[                   ]
+[25-06-2024 07:40:30] (880/880) Site: [ENC][EX]tataplay.com_0
+[25-06-2024 07:40:30] Channel id: 753
+[25-06-2024 07:40:30] Xmltv id: ts753
+[25-06-2024 07:40:32] 28 shows grabbed in 1.40 seconds
+[                   ]
+[25-06-2024 07:40:33] Grabbing completed...
+[25-06-2024 07:40:33] 56216 shows grabbed in 11 minutes 22.48 seconds (682.48 seconds)
+[     Completed     ]
+[25-06-2024 07:40:33] Tempest Overall Memory Usage: 8300KB
+[25-06-2024 07:40:33] Tempest Peak Memory Usage: 16297KB
+[25-06-2024 07:40:34] 
+[25-06-2024 07:40:34] tataplay.xml.gz file created

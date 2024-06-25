@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="SONYMAX2.in">
+    <display-name lang="en">SONY MAX 2</display-name>
+  </channel>
+  <programme start="20240624200200 +0000" stop="20240624213000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Do Bhai</title>
+    <desc lang="en">Balaramaiah does not accept his stepbrother and stepsister because his stepmother was from a different caste. Things change when his daughter falls in love with a man from a different caste.</desc>
+    <credits>
+      <actor>Sobhan Babu</actor>
+      <actor>Rajasekhar</actor>
+      <actor>Jagapati Babu</actor>
+      <actor>Ramya Krishna</actor>
+      <actor>Gollapudi Maruthi Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4359921473F4F821332D31BBC23B05BEA91C67CBU.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625033000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625042000 +0000" stop="20240625075500 +0000" channel="SONYMAX2.in">
+    <title lang="en">Anari</title>
+    <desc lang="en">Rama, a simpleton, is appointed as the bodyguard of Rajnandini, a rich girl. She soon falls in love with him but her brothers' violent nature gets in the way of her uniting with Rama.</desc>
+    <credits>
+      <actor>Venkatesh</actor>
+      <actor>Karisma Kapoor</actor>
+      <actor>Raakhee Gulzar</actor>
+      <actor>Suresh Oberoi</actor>
+      <actor>Ajitesh</actor>
+      <actor>Gulshan Grover</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F0BAA37C5C06C3277859BF48C277B200CEE9D3FH.jpg"/>
+  </programme>
+  <programme start="20240625075500 +0000" stop="20240625110900 +0000" channel="SONYMAX2.in">
+    <title lang="en">Tiger Zinda Hai</title>
+    <desc lang="en">RAW Agent Tiger joins forces with Zoya in order to rescue a group of nurses who are held hostage by a terrorist organisation.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Sajjad Delafrooz</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Angad Bedi</actor>
+      <actor>Kumud Mishra</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F91AD5854FAD7F9A0414711E13C5B4E84DC0E7B3V.jpg"/>
+  </programme>
+  <programme start="20240625110900 +0000" stop="20240625142700 +0000" channel="SONYMAX2.in">
+    <title lang="en">Prem Qaidi</title>
+    <desc lang="en">A young man and woman from different backgrounds fall in love with each other. However, her father disapproves of the match and tries to create problems between them.</desc>
+    <credits>
+      <actor>Bharat Bhushan</actor>
+      <actor>Karisma Kapoor</actor>
+      <actor>Harish Kumar</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Dalip Tahil</actor>
+      <actor>Rama Vij</actor>
+    </credits>
+    <category lang="en">Musical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/558E0011229C7E8B68A04D3F305A8360479E76A2X.jpg"/>
+  </programme>
+  <programme start="20240625142700 +0000" stop="20240625173200 +0000" channel="SONYMAX2.in">
+    <title lang="en">Shaan</title>
+    <desc lang="en">DCP Shiv Kumar, an honest police officer, lives with his family and two brothers, who are conmen. During a case, Shiv Kumar gets killed and the two brothers avenge his death.</desc>
+    <credits>
+      <actor>Sunil Dutt</actor>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Shashi Kapoor</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Rakhee Gulzar</actor>
+      <actor>Parveen Babi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A8A4805707A5888ED12F073A98CB884A0D229FAQ.jpg"/>
+  </programme>
+  <programme start="20240625173200 +0000" stop="20240625200900 +0000" channel="SONYMAX2.in">
+    <title lang="en">Dadagiri</title>
+    <desc lang="en">Barkha, a young heiress, is abused by her uncle and his family for her inheritance. Later, she runs away but is captured and taken back to her abusive relatives by her mother's ex-lover, Dharma.</desc>
+    <credits>
+      <actor>Dharmendra</actor>
+      <actor>Padmini Kolhapure</actor>
+      <actor>Govinda</actor>
+      <actor>Rati Agnihotri</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Rakesh Bedi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50A91E7BF6EEA7BF4A179AF28B4372F57B5AF4FFD.jpg"/>
+  </programme>
+  <programme start="20240625200900 +0000" stop="20240625223000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Chitralekha</title>
+    <desc lang="en">Bijgupt frequently visits Chitralekha, a dancer, and ignores Yashodhara, who he is supposed to marry. However, things take a turn when a priest asks Chitralekha to stop seeing Bijgupt.</desc>
+    <credits>
+      <actor>Meena Kumari</actor>
+      <actor>Ashok Kumar</actor>
+      <actor>Pradeep Kumar</actor>
+      <actor>Mehmood</actor>
+      <actor>Minoo Mumtaz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0609B9AB108E95503F5D7F5B9CDAE401EF94E7B2.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240626003000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

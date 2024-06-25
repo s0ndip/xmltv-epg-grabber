@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1218">
+    <display-name lang="en">DD National HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts1218">
+    <title lang="en">Dehleez</title>
+    <desc lang="en">Dehleez</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0650E267263CCDE2B174812E12C017536742E188.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts1218">
+    <title lang="en">Paltan</title>
+    <desc lang="en">The challenging life of patriotic army personals who give up their personal lives and families in order to serve their country.</desc>
+    <credits>
+      <actor>Amit Behl</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Gurpreet Singh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Parikshit Sahani</actor>
+      <actor>Vishwas Jade</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F0B393557E3CCB271C58EED43686D96B9C002D97.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1218">
+    <title lang="en">Sankat Mochan Hanuman</title>
+    <desc lang="en">A pandit tells a group of villagers about the life story of Lord Hanuman, the son of Anjana and Kesari, right from the time of his birth. He narrates his great deeds and the challenges he faced.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D32EA07A5878150207A3F5DEAC622E2846FA78ECA.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1218">
+    <title lang="en">Yug</title>
+    <desc lang="en">A group of brave men and women from India devote their youth to free their motherland from the tyrannical rule of the British.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/727BDBE860861EC1239EF9A4445ADEC6FF5905E8E.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts1218">
+    <title lang="en">Mujhe Sikkim Se Pyar Hai</title>
+    <desc lang="en">The host visits the scenic landscapes, religious places and tourist spots across Sikkim to learn about its local culture and lifestyle.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23720D1D2993EB74D6AAEE95F04B9E76FC487A310.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1218">
+    <title lang="en">Aaradhana</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung to express veneration for divine figures in a bid to imbibe a sense of peace and calm in devotees.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F08B4C235E64A3F7CD459D22A04635A5B1273FA9P.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625000100 +0000" channel="ts1218">
+    <title lang="en">Vande Mataram</title>
+    <desc lang="en">The host interviews different religious and political personalities and talks about several trending issues related to the growth and development of India.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DAA945A7698E32ED2254213C3E14BF83D6B55F41X.jpg"/>
+  </programme>
+  <programme start="20240625000100 +0000" stop="20240625003000 +0000" channel="ts1218">
+    <title lang="en">Aaradhana</title>
+    <desc lang="en">Mata Ke Bhajan By Rajan Sajan Mishra &amp; Krishna Bhajan By Banwari Lal Sharma: A comprehensive compilation of devotional songs sung to express veneration for divine figures in a bid to imbibe a sense of peace and calm in devotees.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F08B4C235E64A3F7CD459D22A04635A5B1273FA9P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts1218">
+    <title lang="en">Sringaar Aarti Of Ram Lalla Live</title>
+    <desc lang="en">Hindu priests and devotees participate in the religious rituals at the Ram Mandir, wherein the idol of Balak Ram is worshipped, live.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB12A861E2FC767886095246A9E20196F5B683181.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts1218">
+    <title lang="en">Soch Badlo Jeevan Badlo</title>
+    <desc lang="en">A religious leader delivers a discourse on various teachings and principles and highlights how one's thoughts can change their way of living.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CAE211DD0EADA55AF3B454C4D0CFAA3BDFCB5984.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1218">
+    <title lang="en">Yoga With Ira Trivedi</title>
+    <desc lang="en">Yoga expert Ira Trivedi demonstrates a variety of yoga asanas and talks about how they help one to maintain good health.</desc>
+    <credits>
+      <actor>Ira Trivedi</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B52154977029CB0EA54C19DBC93D1A9075CEDC04M.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts1218">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">The host presents the latest updates and developments pertaining to political, social and economic news from across India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/358A9F12B4756554B631724F404E4D3135BA756AE.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts1218">
+    <title lang="en">Sai Baba</title>
+    <desc lang="en">Sai Baba, a revered saint, tries to help people out of their miseries whilst spreading the ideals of devotion, kindness and unity.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1932C0A47EBC58E25356AA8F4759DE19072C07D3.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts1218">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Dronacharya disqualifies Bheem as he breaks the contest rules and injures Duryodhana. Later, Duryodhana is forced to compete against Arjuna when Shakuni and Ashwatthama's plan to defeat Arjuna fails.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Pallavi Subhash</actor>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Vivana Singh</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Aarav Chowdhary</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75428C269077ACEA2B9D46C4D420CE6FC096C345H.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts1218">
+    <title lang="en">Aatish</title>
+    <desc lang="en">Baba turns to crime to support his brother, Avinash, but keeps him distant from the underworld nexus. Problems escalate when Avinash becomes a police officer and is assigned to arrest his own brother.</desc>
+    <credits>
+      <actor>Sanjay Dutt</actor>
+      <actor>Atul Agnihotri</actor>
+      <actor>Aditya Pancholi</actor>
+      <actor>Karisma Kapoor</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Shakti Kapoor</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0D6A46A65B4B30A64A3F99B4C0F961251AE6048Q.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts1218">
+    <title lang="en">Piggy Bank</title>
+    <desc lang="en">The siblings Gattu and Chinky indulge in several mischievous and interesting adventures and make new friends along the way.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8129D0B9179B40F54EB4100AF591C26B6F97EE9FP.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts1218">
+    <title lang="en">Galli Galli Sim Sim</title>
+    <desc lang="en">Boombah, Aanchoo, Googly and the rest of the gang go on exciting adventures as they learn new things and meet new people.</desc>
+    <credits>
+      <actor>Manish Ram Sachdeva</actor>
+      <actor>Gaurav Srivastava</actor>
+      <actor>Sangya Ojha</actor>
+      <actor>Ghazal Javed</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14F0FEF41A73B06728B53BEDB8D69C920A964D30X.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts1218">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Dronacharya declares Arjuna as the world's greatest archer when he defeats Duryodhana. Later, Duryodhana crowns Karna as king when Dronacharya forbids him from competing against Arjuna.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Pallavi Subhash</actor>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Vivana Singh</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Aarav Chowdhary</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75428C269077ACEA2B9D46C4D420CE6FC096C345H.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625132500 +0000" channel="ts1218">
+    <title lang="en">Sai Baba</title>
+    <desc lang="en">Sai Baba, a revered saint, tries to help people out of their miseries whilst spreading the ideals of devotion, kindness and unity.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1932C0A47EBC58E25356AA8F4759DE19072C07D3.jpg"/>
+  </programme>
+  <programme start="20240625132500 +0000" stop="20240625133000 +0000" channel="ts1218">
+    <title lang="en">Sos</title>
+    <desc lang="en">Notifications and detailed descriptions about people who are reported missing in a bid to help their friends and relatives find them.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62FBC5E684875F21583469B31563120B3DD4B459P.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts1218">
+    <title lang="en">Sankat Mochan Hanuman</title>
+    <desc lang="en">A pandit tells a group of villagers about the life story of Lord Hanuman, the son of Anjana and Kesari, right from the time of his birth. He narrates his great deeds and the challenges he faced.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D32EA07A5878150207A3F5DEAC622E2846FA78ECA.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1218">
+    <title lang="en">Paltan</title>
+    <desc lang="en">The challenging life of patriotic army personals who give up their personal lives and families in order to serve their country.</desc>
+    <credits>
+      <actor>Amit Behl</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Gurpreet Singh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Parikshit Sahani</actor>
+      <actor>Vishwas Jade</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F0B393557E3CCB271C58EED43686D96B9C002D97.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts1218">
+    <title lang="en">Yug</title>
+    <desc lang="en">A group of brave men and women from India devote their youth to free their motherland from the tyrannical rule of the British.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/727BDBE860861EC1239EF9A4445ADEC6FF5905E8E.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1218">
+    <title lang="en">Mujhe Sikkim Se Pyar Hai</title>
+    <desc lang="en">The host visits the scenic landscapes, religious places and tourist spots across Sikkim to learn about its local culture and lifestyle.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23720D1D2993EB74D6AAEE95F04B9E76FC487A310.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts1218">
+    <title lang="en">Dholki Wala</title>
+    <desc lang="en">An expert dholki player enjoys playing his instrument during prayer rituals in the village temple. However, his son tries to stop him from playing after his new bride instigates him to do so.</desc>
+    <credits>
+      <actor>Asoke Singh</actor>
+      <actor>Nandini</actor>
+      <actor>Subrat Chowdhury</actor>
+      <actor>Sohini Mukherjee</actor>
+      <actor>Pradip Rai</actor>
+      <actor>Manish Barmar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF725886F99E411C92D039A63378C6235C315722E.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts1218">
+    <title lang="en">Paltan</title>
+    <desc lang="en">The challenging life of patriotic army personals who give up their personal lives and families in order to serve their country.</desc>
+    <credits>
+      <actor>Amit Behl</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Gurpreet Singh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Parikshit Sahani</actor>
+      <actor>Vishwas Jade</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F0B393557E3CCB271C58EED43686D96B9C002D97.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts1218">
+    <title lang="en">Sankat Mochan Hanuman</title>
+    <desc lang="en">A pandit tells a group of villagers about the life story of Lord Hanuman, the son of Anjana and Kesari, right from the time of his birth. He narrates his great deeds and the challenges he faced.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D32EA07A5878150207A3F5DEAC622E2846FA78ECA.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts1218">
+    <title lang="en">Yug</title>
+    <desc lang="en">A group of brave men and women from India devote their youth to free their motherland from the tyrannical rule of the British.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/727BDBE860861EC1239EF9A4445ADEC6FF5905E8E.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts1218">
+    <title lang="en">Mujhe Sikkim Se Pyar Hai</title>
+    <desc lang="en">The host visits the scenic landscapes, religious places and tourist spots across Sikkim to learn about its local culture and lifestyle.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23720D1D2993EB74D6AAEE95F04B9E76FC487A310.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts1218">
+    <title lang="en">Aaradhana</title>
+    <desc lang="en">Mata Ke Bhajan By Rajan Sajan Mishra &amp; Krishna Bhajan By Banwari Lal Sharma: A comprehensive compilation of devotional songs sung to express veneration for divine figures in a bid to imbibe a sense of peace and calm in devotees.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F08B4C235E64A3F7CD459D22A04635A5B1273FA9P.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626000100 +0000" channel="ts1218">
+    <title lang="en">Vande Mataram</title>
+    <desc lang="en">The host interviews different religious and political personalities and talks about several trending issues related to the growth and development of India.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DAA945A7698E32ED2254213C3E14BF83D6B55F41X.jpg"/>
+  </programme>
+  <programme start="20240626000100 +0000" stop="20240626003000 +0000" channel="ts1218">
+    <title lang="en">Aaradhana</title>
+    <desc lang="en">A comprehensive compilation of devotional songs sung to express veneration for divine figures in a bid to imbibe a sense of peace and calm in devotees.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F08B4C235E64A3F7CD459D22A04635A5B1273FA9P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts1218">
+    <title lang="en">Sringaar Aarti Of Ram Lalla Live</title>
+    <desc lang="en">Hindu priests and devotees participate in the religious rituals at the Ram Mandir, wherein the idol of Balak Ram is worshipped, live.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB12A861E2FC767886095246A9E20196F5B683181.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts1218">
+    <title lang="en">Soch Badlo Jeevan Badlo</title>
+    <desc lang="en">A religious leader delivers a discourse on various teachings and principles and highlights how one's thoughts can change their way of living.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CAE211DD0EADA55AF3B454C4D0CFAA3BDFCB5984.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts1218">
+    <title lang="en">Yoga With Ira Trivedi</title>
+    <desc lang="en">Yoga expert Ira Trivedi demonstrates a variety of yoga asanas and talks about how they help one to maintain good health.</desc>
+    <credits>
+      <actor>Ira Trivedi</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B52154977029CB0EA54C19DBC93D1A9075CEDC04M.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts1218">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">The host presents the latest updates and developments pertaining to political, social and economic news from across India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/358A9F12B4756554B631724F404E4D3135BA756AE.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts1218">
+    <title lang="en">Sai Baba</title>
+    <desc lang="en">Sai Baba, a revered saint, tries to help people out of their miseries whilst spreading the ideals of devotion, kindness and unity.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1932C0A47EBC58E25356AA8F4759DE19072C07D3.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts1218">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Dronacharya declares Arjuna as the world's greatest archer when he defeats Duryodhana. Later, Duryodhana crowns Karna as king when Dronacharya forbids him from competing against Arjuna.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Pallavi Subhash</actor>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Vivana Singh</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Aarav Chowdhary</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75428C269077ACEA2B9D46C4D420CE6FC096C345H.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts1218">
+    <title lang="en">Yaaron Ka Yaar</title>
+    <desc lang="en">Nathu, who belongs to a lower caste, is punished for taking water from Jaimal's pond. To avenge this, he abducts Jaimal's son and trains him to become a thief.</desc>
+    <credits>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Leena Chandavarkar</actor>
+      <actor>Premnath</actor>
+      <actor>Ramayan Tiwari</actor>
+      <actor>Helen</actor>
+      <actor>Indrani Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FE44518D9D89D142BC1420AFB97F2754E64D6867.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts1218">
+    <title lang="en">Piggy Bank</title>
+    <desc lang="en">The siblings Gattu and Chinky indulge in several mischievous and interesting adventures and make new friends along the way.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8129D0B9179B40F54EB4100AF591C26B6F97EE9FP.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts1218">
+    <title lang="en">Galli Galli Sim Sim</title>
+    <desc lang="en">Boombah, Aanchoo, Googly and the rest of the gang go on exciting adventures as they learn new things and meet new people.</desc>
+    <credits>
+      <actor>Manish Ram Sachdeva</actor>
+      <actor>Gaurav Srivastava</actor>
+      <actor>Sangya Ojha</actor>
+      <actor>Ghazal Javed</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14F0FEF41A73B06728B53BEDB8D69C920A964D30X.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts1218">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Bhishma is furious when Dhritarashtra supports Duryodhana's decision. Later, when Karna and Arjuna begin their fight, Kunti is shocked on seeing the armour on Karna's body.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Pallavi Subhash</actor>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Vivana Singh</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Aarav Chowdhary</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75428C269077ACEA2B9D46C4D420CE6FC096C345H.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626132500 +0000" channel="ts1218">
+    <title lang="en">Sai Baba</title>
+    <desc lang="en">Sai Baba, a revered saint, tries to help people out of their miseries whilst spreading the ideals of devotion, kindness and unity.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1932C0A47EBC58E25356AA8F4759DE19072C07D3.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0000" stop="20240626133000 +0000" channel="ts1218">
+    <title lang="en">Sos</title>
+    <desc lang="en">Notifications and detailed descriptions about people who are reported missing in a bid to help their friends and relatives find them.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62FBC5E684875F21583469B31563120B3DD4B459P.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts1218">
+    <title lang="en">Sankat Mochan Hanuman</title>
+    <desc lang="en">A pandit tells a group of villagers about the life story of Lord Hanuman, the son of Anjana and Kesari, right from the time of his birth. He narrates his great deeds and the challenges he faced.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D32EA07A5878150207A3F5DEAC622E2846FA78ECA.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts1218">
+    <title lang="en">Golmaal Asptaal</title>
+    <desc lang="en">Patients visit Mahalakshmi Nursing Home to treat their ailments but are met with a staff who use unorthodox treatment methods and create hilarious situations.</desc>
+    <credits>
+      <actor>Sooraj Thapar</actor>
+      <actor>Rakesh Srivastav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B209CAC3D222B211FB49F6B4D34792DD96DBB25A.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts1218">
+    <title lang="en">Jaanki</title>
+    <desc lang="en">A married couple from a modern but patriarchal family are excited about welcoming their first child but want it to be a male.</desc>
+    <credits>
+      <actor>Prem Gulati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186A9D635F79FAA32047225CE3172E6A8635F96F8.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts1218">
+    <title lang="en">Avantika</title>
+    <desc lang="en">The rich cultural and mythological heritage of Ujjain is showcased through the lives of various historically significant characters.</desc>
+    <credits>
+      <actor>Rushita Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E59C6A42C04E1826FE0DE8B0318439D0AAD3AC59V.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts1218">
+    <title lang="en">Paltan</title>
+    <desc lang="en">The challenging life of patriotic army personals who give up their personal lives and families in order to serve their country.</desc>
+    <credits>
+      <actor>Amit Behl</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Gurpreet Singh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Parikshit Sahani</actor>
+      <actor>Vishwas Jade</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F0B393557E3CCB271C58EED43686D96B9C002D97.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts1218">
+    <title lang="en">Yug</title>
+    <desc lang="en">A group of brave men and women from India devote their youth to free their motherland from the tyrannical rule of the British.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/727BDBE860861EC1239EF9A4445ADEC6FF5905E8E.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts1218">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56C2633A20C72808B4B76E5393FF1B170C307AFB7.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts1218">
+    <title lang="en">Sautela</title>
+    <desc lang="en">The individuals go about their daily routine while simultaneously dealing with the twists and turns that life throws at them.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Ajit Mehra</actor>
+      <actor>Mukesh Khanna</actor>
+      <actor>Abhishek Sharma</actor>
+      <actor>Krushna Abhishek</actor>
+      <actor>Shahbaaz Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E954924D0E33741898EF910BA6F25A9FE71A1FE8S.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240627000000 +0000" channel="ts1218">
+    <title lang="en">Mujhe Sikkim Se Pyar Hai</title>
+    <desc lang="en">Travelogue Show: The host visits the scenic landscapes, religious places and tourist spots across Sikkim to learn about its local culture and lifestyle.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23720D1D2993EB74D6AAEE95F04B9E76FC487A310.jpg"/>
+  </programme>
+</tv>

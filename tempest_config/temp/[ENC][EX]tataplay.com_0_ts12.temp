@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts12">
+    <display-name lang="en">Zee Ganga</display-name>
+  </channel>
+  <programme start="20240624191200 +0000" stop="20240624222700 +0000" channel="ts12">
+    <title lang="en">Sab Moh Maya Hai</title>
+    <desc lang="en">Ramnaresh confronts clashes with his son, Piyush, over job expectations, leading to a surprising proposal from Piyush. However, as their agreement progresses, Piyush realises his responsibilities.</desc>
+    <credits>
+      <actor>Sharman Joshi</actor>
+      <actor>Annu Kapoor</actor>
+      <actor>Tanmay Nagar</actor>
+      <actor>Harry Meena</actor>
+      <actor>Rupesh Chauhan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2273526CDD966FE8EA6C140D3BB86552F9649BBCS.jpg"/>
+  </programme>
+  <programme start="20240624222700 +0000" stop="20240625032700 +0000" channel="ts12">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Veronica welcomes her boyfriend Gautam and her new friend Meera into her home. Though they are happy for a while, their lives get complicated when Gautam falls in love with Meera.</desc>
+    <credits>
+      <actor>Deepika Padukone</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Diana Penty</actor>
+      <actor>Dimple Kapadia</actor>
+      <actor>Boman Irani</actor>
+      <actor>Randeep Hooda</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/219AB12E4CEC9AF529653696DD2E2ADBA1CB7D8EG.jpg"/>
+  </programme>
+  <programme start="20240625032100 +0000" stop="20240625052100 +0000" channel="ts12">
+    <title lang="en">Apna Sapna Money Money</title>
+    <desc lang="en">Satyabol, a devout Hindu, is against his daughter Shivani's relationship with Arjun, a Christian. Resultantly, Arjun asks his conniving cousin, Kishan, to help him unite with his lover.</desc>
+    <credits>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Shreyas Talpade</actor>
+      <actor>Sunil Shetty</actor>
+      <actor>Celina Jaitly</actor>
+      <actor>Koena Mitra</actor>
+      <actor>Anupam Kher</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/821D429F80A32076F8DC1DAE6AB2C8B370F318B2I.jpg"/>
+  </programme>
+  <programme start="20240625052100 +0000" stop="20240625073000 +0000" channel="ts12">
+    <title lang="en">Good Newwz</title>
+    <desc lang="en">Two married couples are unsuccessful in conceiving and seek medical treatment. However, they end up in a complicated situation after their doctor makes a blunder.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Diljit Dosanjh</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Tisca Chopra</actor>
+      <actor>Adil Hussain</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/429E9F52D6AA9C63426A14C729844CCC34D67606V.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625095900 +0000" channel="ts12">
+    <title lang="en">Players</title>
+    <desc lang="en">Two professional robbers, an illusionist, an expert make-up artist, a gadget expert and a hacker come together to steal Romanian gold ingots while it is in transit.</desc>
+    <credits>
+      <actor>Vinod Khanna</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Bipasha Basu</actor>
+      <actor>Sonam Kapoor</actor>
+      <actor>Bobby Deol</actor>
+      <actor>Neil Nitin Mukesh</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC00A0B370D5DF2E4D0F1F95F29D12C9CA564B8DT.jpg"/>
+  </programme>
+  <programme start="20240625095900 +0000" stop="20240625115800 +0000" channel="ts12">
+    <title lang="en">Tees Maar Khan</title>
+    <desc lang="en">A con artist decides to rob a train carrying precious treasure by pretending to be a famous movie producer and enlisting the help of a village in his heist.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Akshaye Khanna</actor>
+      <actor>Arya Babbar</actor>
+      <actor>Viju Khote</actor>
+      <actor>Ali Asgar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B850D4177B698F4320AE0007A6A32876A81A6A7FV.jpg"/>
+  </programme>
+  <programme start="20240625115800 +0000" stop="20240625133000 +0000" channel="ts12">
+    <title lang="en">Maya Mall Bhoot Ka Khel</title>
+    <desc lang="en">A couple plan to elope since their parents object to their marriage. However, things take a turn when they get trapped inside a mall and experience paranormal activity.</desc>
+    <credits>
+      <actor>Dilip</actor>
+      <actor>Eesha</actor>
+      <actor>Thagubothu Ramesh</actor>
+      <actor>Shakalaka Shankar</actor>
+      <actor>Nagineedu</actor>
+      <actor>Prudhvi</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A996AA3D70470F17408756F67CBD4E33C12574D9.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625152600 +0000" channel="ts12">
+    <title lang="en">Encounter Shankar</title>
+    <desc lang="en">An honest police officer banishes a boy he cares from his home after he is accused of murder. The child grows up to become a police officer himself and is sent to a village ruled by a cruel gangster.</desc>
+    <credits>
+      <actor>Mahesh Babu</actor>
+      <actor>Tamannaah</actor>
+      <actor>Sonu Sood</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Nassar</actor>
+      <actor>Ashish Vidyarthi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF658A4F3535221CFB4B203A954234911F672E6EY.jpg"/>
+  </programme>
+  <programme start="20240625152600 +0000" stop="20240625171600 +0000" channel="ts12">
+    <title lang="en">Flight</title>
+    <desc lang="en">Multi-millionaire Ranveer Malhotra goes against all odds and takes on some life-threatening obstacles in a bid for survival on an aeroplane after his manufacturing company deals with a massive fiasco.</desc>
+    <credits>
+      <actor>Mohit Chadda</actor>
+      <actor>Pavan Malhotra</actor>
+      <actor>Zakir Hussain</actor>
+      <actor>Shibani Bedi</actor>
+      <actor>Ishita Sharma</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/195973725051DFD815049386B41AD880DFD68EE1C.jpg"/>
+  </programme>
+  <programme start="20240625171600 +0000" stop="20240625191200 +0000" channel="ts12">
+    <title lang="en">Velle</title>
+    <desc lang="en">When six individuals cross paths with three criminals, their lives get intertwined with one another. What follows is a series of hilarious events as each one of them navigates their way out of chaos.</desc>
+    <credits>
+      <actor>Karan Deol</actor>
+      <actor>Anya Singh</actor>
+      <actor>Abhay Deol</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Zakhir Hussain</actor>
+      <actor>Visshesh Tiwari</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/238BFA52B937432B7B1275E0524FE46FFE19C948Y.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625222800 +0000" channel="ts12">
+    <title lang="en">Toonpur Ka Superrhero</title>
+    <desc lang="en">The world is in chaos as there is a constant quarrel between Devtoons, good cartoons, and Toonasurs, bad cartoons. Thereafter, Devtoons decide to abduct Aditya, a superhero, to save them.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Kajol</actor>
+      <actor>Tanuja</actor>
+      <actor>Sanjay Mishra</actor>
+      <actor>Delnaaz Paul</actor>
+      <actor>Mukesh Tiwari</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56090C79467AEAB32F32BB020EA2B6F36FE8B03D0.jpg"/>
+  </programme>
+  <programme start="20240625222800 +0000" stop="20240626024300 +0000" channel="ts12">
+    <title lang="en">Namaste England</title>
+    <desc lang="en">Param and Jasmeet's relationship undergoes stress and changes as they struggle to fulfil their dreams of relocating to England.</desc>
+    <credits>
+      <actor>Arjun Kapoor</actor>
+      <actor>Parineeti Chopra</actor>
+      <actor>Aditya Seal</actor>
+      <actor>Alankrita Sahai</actor>
+      <actor>Anil Mange</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/848C6D8AE6487BCCF814FCFEE5E5F9985C6C3A6F3.jpg"/>
+  </programme>
+  <programme start="20240626024300 +0000" stop="20240626050500 +0000" channel="ts12">
+    <title lang="en">Encounter Man 2</title>
+    <desc lang="en">An NRI, who is on the verge of bankruptcy, learns that he owns a palace in India and sets out to sell it. However, his visit to India turns into an insane journey when he gets kidnapped.</desc>
+    <credits>
+      <actor>Nikhil Siddharth</actor>
+      <actor>Nanditha Raj</actor>
+      <actor>Anjali</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Suman</actor>
+      <actor>Sithara</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4390EA79D9C58258B894315CB3B13642BE7443FB2.jpg"/>
+  </programme>
+  <programme start="20240626050500 +0000" stop="20240626070900 +0000" channel="ts12">
+    <title lang="en">Muni</title>
+    <desc lang="en">When Ganesh, along with his wife and his parents, migrates to Chennai, he gets possessed by the spirit of a kind-hearted person who was murdered by an ambitious and corrupt political leader.</desc>
+    <credits>
+      <actor>Raghava Lawrence</actor>
+      <actor>Vedhika</actor>
+      <actor>Rajkiran</actor>
+      <actor>Meera Krishnan</actor>
+      <actor>Vinu Chakravarthy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46F97A87CA8E3729B5102B6D068A75ED511900ACW.jpg"/>
+  </programme>
+  <programme start="20240626070900 +0000" stop="20240626094500 +0000" channel="ts12">
+    <title lang="en">Taare Zameen Par</title>
+    <desc lang="en">Ishaan is criticised by his parents for his poor academic performance and is sent away to a boarding school. Ram, an art teacher, however, realises he has dyslexia and helps him uncover his potential.</desc>
+    <credits>
+      <actor>Darsheel Safary</actor>
+      <actor>Aamir Khan</actor>
+      <actor>Tisca Chopra</actor>
+      <actor>Vipin Sharma</actor>
+      <actor>Tanay Chheda</actor>
+      <actor>Sachet Engineer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64CB5E612988C45D5EA5F65CEB94640723F754D4N.jpg"/>
+  </programme>
+  <programme start="20240626094500 +0000" stop="20240626114300 +0000" channel="ts12">
+    <title lang="en">Gabbar Sher</title>
+    <desc lang="en">Sakthi receives an invitation from his ex-girlfriend Rupa to go to Bangkok. However, he faces danger after going through a series of life-threatening situations.</desc>
+    <credits>
+      <actor>Vishal</actor>
+      <actor>Trisha Krishnan</actor>
+      <actor>Sunaina</actor>
+      <actor>Narayan</actor>
+      <actor>Manoj Bajpayee</actor>
+      <actor>Sampath Raj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F28BF05BB3B5BAFEB2D47474195D9AC0A1669FB52.jpg"/>
+  </programme>
+  <programme start="20240626114300 +0000" stop="20240626133000 +0000" channel="ts12">
+    <title lang="en">Power Play</title>
+    <desc lang="en">Vijay, a young man, convinces his family to let him marry Keerthy. However, their wedding plans are jeopardised when he is accused of a scam.</desc>
+    <credits>
+      <actor>Raj Tarun</actor>
+      <actor>Hemal Ingle</actor>
+      <actor>Poorna</actor>
+      <actor>Kota Srinivasa Rao</actor>
+      <actor>Ajay</actor>
+      <actor>Raja Ravindra</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DB7A53DF2D3C66CEC790EAF55E8298E258E3329O.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626155800 +0000" channel="ts12">
+    <title lang="en">Kaho Naa... Pyaar Hai</title>
+    <desc lang="en">Sonia and Rohit love each other but Rohit is mysteriously killed. To cope up, Sonia moves to New Zealand, where she meets Rohit's lookalike, Raj, who helps her trace Rohit's killer.</desc>
+    <credits>
+      <actor>Hrithik Roshan</actor>
+      <actor>Ameesha Patel</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Dalip Tahil</actor>
+      <actor>Mohnish Bahl</actor>
+      <actor>Ashish Vidhyarthi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41F973BA06798B88AB79CD52883136305A6A3054E.jpg"/>
+  </programme>
+  <programme start="20240626155800 +0000" stop="20240626180900 +0000" channel="ts12">
+    <title lang="en">Bindas Rani</title>
+    <desc lang="en">When her mother is diagnosed with a life-threatening illness, Kokila is forced to be a part of a group involved in drug trafficking.</desc>
+    <credits>
+      <actor>Nayanthara</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>R S Shivaji</actor>
+      <actor>Hareesh Peradi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4AAD6616D8BF9E0DB18A756F2A9B5A518FD5B10C.jpg"/>
+  </programme>
+  <programme start="20240626180900 +0000" stop="20240626203000 +0000" channel="ts12">
+    <title lang="en">Subrahmanyapuram</title>
+    <desc lang="en">Karthik, an atheist, visits the Lord Subrahmanya Swamy Temple located in a village named Subramanyapuram. A series of suicides makes him investigate the mystery behind it.</desc>
+    <credits>
+      <actor>Sumanth</actor>
+      <actor>Eesha Rebba</actor>
+      <actor>Vajja Venkata Giridhar</actor>
+      <actor>Harshini</actor>
+      <actor>Sai Kumar</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41373E3AE214053AD64EE3029CA7DB20BD5453AFA.jpg"/>
+  </programme>
+</tv>

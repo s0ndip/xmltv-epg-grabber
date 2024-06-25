@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts622">
+    <display-name lang="en">Tata Play Marathi Cinema</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624212400 +0000" channel="ts622">
+    <title lang="en">Pyar Mein Kabhi Kabhi</title>
+    <desc lang="en">When Sharvari and Akshay set off for their honeymoon, befriend another married couple, Uday and Manasi, at their hotel. However, things get complicated when Uday shows interest in Sharvari.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89C89D20AE83785523DAEDD634AEA11050BE25FFS.jpg"/>
+  </programme>
+  <programme start="20240624212400 +0000" stop="20240624213000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624233100 +0000" channel="ts622">
+    <title lang="en">Hamal De Dhamal</title>
+    <desc lang="en">Nandini, an actress, is given an ultimatum by her co-star to find a commoner to star in their upcoming movie. Desperate, Nandini finds her perfect commoner in Raja, a destitute porter.</desc>
+    <credits>
+      <actor>Laxmikant Berde</actor>
+      <actor>Varsha Usgaonkar</actor>
+      <actor>Nilu Phule</actor>
+      <actor>Ravindra Berde</actor>
+      <actor>Aadesh Bandekar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/505A64E1330A2ADBFD37F652033D76773B3C38469.jpg"/>
+  </programme>
+  <programme start="20240624233100 +0000" stop="20240625000000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625033100 +0000" channel="ts622">
+    <title lang="en">Hamal De Dhamal</title>
+    <desc lang="en">Nandini, an actress, is given an ultimatum by her co-star to find a commoner to star in their upcoming movie. Desperate, Nandini finds her perfect commoner in Raja, a destitute porter.</desc>
+    <credits>
+      <actor>Laxmikant Berde</actor>
+      <actor>Varsha Usgaonkar</actor>
+      <actor>Nilu Phule</actor>
+      <actor>Ravindra Berde</actor>
+      <actor>Aadesh Bandekar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/505A64E1330A2ADBFD37F652033D76773B3C38469.jpg"/>
+  </programme>
+  <programme start="20240625033100 +0000" stop="20240625040000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts622">
+    <title lang="en">Assa Maher Nako Ga Bai</title>
+    <desc lang="en">Sakhi looks forward to returning to her parental home after getting married. However, it is not long before she wishes to escape to the house of her in-laws.</desc>
+    <credits>
+      <actor>Swanandi Tikekar</actor>
+      <actor>Pushkaraj Chirputkar</actor>
+      <actor>Rajan Bhise</actor>
+      <actor>Supriya Pathare</actor>
+      <actor>Sameer Chowgule</actor>
+      <actor>Kalyani Pathare</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6178158FF558F02B0B4027B68C77364108FA2D39D.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts622">
+    <title lang="en">Gajar Maulicha</title>
+    <desc lang="en">A speaker narrates religious stories and praises the Almighty as a dedication to the devotees of Lord Vitthala, a revered deity in Maharashtra and Karnataka.</desc>
+    <credits>
+      <actor>Neha Tai Bhosale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts622">
+    <title lang="en">Jogeshwaricha Pati Bhairavnath</title>
+    <desc lang="en">Goddess Jogeshwari prays to Goddess Parvati and seeks a husband like Lord Shiva. Soon, she marries Lord Bhairavnath and their relationship goes on to become the symbol of love, respect and devotion.</desc>
+    <credits>
+      <actor>Pratik Nikam</actor>
+      <actor>Kshama Deshpande</actor>
+      <actor>Rohan Ekke</actor>
+      <actor>Shweta Naik</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16E531C44A31A0BB47F1DB004DCBF6EC58C39105U.jpg"/>
+    <episode-num system="xmltv_ns">.160.</episode-num>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts622">
+    <title lang="en">Sau Pratap Mansi Supekar</title>
+    <desc lang="en">A man defies societal norms by marrying his senior, an accomplished police officer. Together, they inspire others to break free from stereotypes.</desc>
+    <credits>
+      <actor>Pradeep Ghule</actor>
+      <actor>Tanvee Kiran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C5523295C8B60DEE934DFA5BE5E8E5C8DF107AS.jpg"/>
+    <episode-num system="xmltv_ns">.125.</episode-num>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625083400 +0000" channel="ts622">
+    <title lang="en">Tu Hi Re</title>
+    <desc lang="en">A woman, strongly opposed to arranged marriages, gets married to a man against her choice. Years later, their marital bliss is interrupted with the arrival of his former lover.</desc>
+    <credits>
+      <actor>Swapnil Joshi</actor>
+      <actor>Sai Tamhankar</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Girish Oak</actor>
+      <actor>Sushant Shelar</actor>
+      <actor>Mrunal Jadhav</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A9BBAFA140D301EEC24CCF4638F56DC0CE74DFB52.jpg"/>
+  </programme>
+  <programme start="20240625083400 +0000" stop="20240625090000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625114700 +0000" channel="ts622">
+    <title lang="en">Girlfriend</title>
+    <desc lang="en">Under peer pressure from his family and friends, Nachiket fabricates the story of dating a girl online. However, things take an unexpected turn when she appears before him.</desc>
+    <credits>
+      <actor>Amey Wagh</actor>
+      <actor>Sai Tamhankar</actor>
+      <actor>Kavita Lad</actor>
+      <actor>Yatin Karyekar</actor>
+      <actor>Isha Keskar</actor>
+      <actor>Uday Nene</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5041B0C69D116EA43304DFE81E82FD3B7709C27BY.jpg"/>
+  </programme>
+  <programme start="20240625114700 +0000" stop="20240625120000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts622">
+    <title lang="en">Gajar Maulicha</title>
+    <desc lang="en">A speaker narrates religious stories and praises the Almighty as a dedication to the devotees of Lord Vitthala, a revered deity in Maharashtra and Karnataka.</desc>
+    <credits>
+      <actor>Neha Tai Bhosale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts622">
+    <title lang="en">Sau Pratap Mansi Supekar</title>
+    <desc lang="en">A man defies societal norms by marrying his senior, an accomplished police officer. Together, they inspire others to break free from stereotypes.</desc>
+    <credits>
+      <actor>Pradeep Ghule</actor>
+      <actor>Tanvee Kiran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C5523295C8B60DEE934DFA5BE5E8E5C8DF107AS.jpg"/>
+    <episode-num system="xmltv_ns">.126.</episode-num>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts622">
+    <title lang="en">Jogeshwaricha Pati Bhairavnath</title>
+    <desc lang="en">Goddess Jogeshwari prays to Goddess Parvati and seeks a husband like Lord Shiva. Soon, she marries Lord Bhairavnath and their relationship goes on to become the symbol of love, respect and devotion.</desc>
+    <credits>
+      <actor>Pratik Nikam</actor>
+      <actor>Kshama Deshpande</actor>
+      <actor>Rohan Ekke</actor>
+      <actor>Shweta Naik</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16E531C44A31A0BB47F1DB004DCBF6EC58C39105U.jpg"/>
+    <episode-num system="xmltv_ns">.161.</episode-num>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts622">
+    <title lang="en">Assa Maher Nako Ga Bai</title>
+    <desc lang="en">Sakhi looks forward to returning to her parental home after getting married. However, it is not long before she wishes to escape to the house of her in-laws.</desc>
+    <credits>
+      <actor>Swanandi Tikekar</actor>
+      <actor>Pushkaraj Chirputkar</actor>
+      <actor>Rajan Bhise</actor>
+      <actor>Supriya Pathare</actor>
+      <actor>Sameer Chowgule</actor>
+      <actor>Kalyani Pathare</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6178158FF558F02B0B4027B68C77364108FA2D39D.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625173700 +0000" channel="ts622">
+    <title lang="en">Balak Palak</title>
+    <desc lang="en">The curiosity of four adolescents leads them to develop a bond with their elderly schoolmate Vishu who introduces them to a world they were completely unaware of.</desc>
+    <credits>
+      <actor>Shashwati Pimplikar</actor>
+      <actor>Madan Deodhar</actor>
+      <actor>Bhagyashree Shankpal</actor>
+      <actor>Rohit Phalke</actor>
+      <actor>Prathamesh Parab</actor>
+      <actor>Subodh Bhave</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A8FEC806EDE6671F898F8934CA643D5C71186BDA4.jpg"/>
+  </programme>
+  <programme start="20240625173700 +0000" stop="20240625180000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625213900 +0000" channel="ts622">
+    <title lang="en">Sahi Hai Yaar</title>
+    <desc lang="en">A man fears being around women, so he requests his friend to hire a male secretary to help him. However, chaos ensues when his companion instead decides to help him overcome his fear.</desc>
+    <credits>
+      <actor>Kishori Ambiye</actor>
+      <actor>Anand Karekar</actor>
+      <actor>Yashodhan Mavalkar</actor>
+      <actor>Kishore Chougule</actor>
+      <actor>Harshada Bamne</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D599996AA31FB83672C82E65B578DC27A4FCE07E0.jpg"/>
+  </programme>
+  <programme start="20240625213900 +0000" stop="20240625214000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240625214000 +0000" stop="20240625234800 +0000" channel="ts622">
+    <title lang="en">Ekda Yevun Tar Bagha</title>
+    <desc lang="en">A family decides to transform their ancestral property into a hotel when they learn about the future of their village but soon, the problem arises when the guests arrive.</desc>
+    <credits>
+      <actor>Girish Kulkarni</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Prasad Khandekar</actor>
+      <actor>Namrata Sambherao</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Bhau Kadam</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA0486284126D215EAC5B0A23DBF720E004A93ADH.jpg"/>
+  </programme>
+  <programme start="20240625234800 +0000" stop="20240626000000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626013000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626033900 +0000" channel="ts622">
+    <title lang="en">Ekda Yevun Tar Bagha</title>
+    <desc lang="en">A family decides to transform their ancestral property into a hotel when they learn about the future of their village but soon, the problem arises when the guests arrive.</desc>
+    <credits>
+      <actor>Girish Kulkarni</actor>
+      <actor>Tejaswini Pandit</actor>
+      <actor>Prasad Khandekar</actor>
+      <actor>Namrata Sambherao</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Bhau Kadam</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA0486284126D215EAC5B0A23DBF720E004A93ADH.jpg"/>
+  </programme>
+  <programme start="20240626033900 +0000" stop="20240626040000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts622">
+    <title lang="en">Assa Maher Nako Ga Bai</title>
+    <desc lang="en">Sakhi looks forward to returning to her parental home after getting married. However, it is not long before she wishes to escape to the house of her in-laws.</desc>
+    <credits>
+      <actor>Swanandi Tikekar</actor>
+      <actor>Pushkaraj Chirputkar</actor>
+      <actor>Rajan Bhise</actor>
+      <actor>Supriya Pathare</actor>
+      <actor>Sameer Chowgule</actor>
+      <actor>Kalyani Pathare</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6178158FF558F02B0B4027B68C77364108FA2D39D.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts622">
+    <title lang="en">Gajar Maulicha</title>
+    <desc lang="en">A speaker narrates religious stories and praises the Almighty as a dedication to the devotees of Lord Vitthala, a revered deity in Maharashtra and Karnataka.</desc>
+    <credits>
+      <actor>Neha Tai Bhosale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts622">
+    <title lang="en">Jogeshwaricha Pati Bhairavnath</title>
+    <desc lang="en">Goddess Jogeshwari prays to Goddess Parvati and seeks a husband like Lord Shiva. Soon, she marries Lord Bhairavnath and their relationship goes on to become the symbol of love, respect and devotion.</desc>
+    <credits>
+      <actor>Pratik Nikam</actor>
+      <actor>Kshama Deshpande</actor>
+      <actor>Rohan Ekke</actor>
+      <actor>Shweta Naik</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16E531C44A31A0BB47F1DB004DCBF6EC58C39105U.jpg"/>
+    <episode-num system="xmltv_ns">.161.</episode-num>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts622">
+    <title lang="en">Sau Pratap Mansi Supekar</title>
+    <desc lang="en">A man defies societal norms by marrying his senior, an accomplished police officer. Together, they inspire others to break free from stereotypes.</desc>
+    <credits>
+      <actor>Pradeep Ghule</actor>
+      <actor>Tanvee Kiran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C5523295C8B60DEE934DFA5BE5E8E5C8DF107AS.jpg"/>
+    <episode-num system="xmltv_ns">.126.</episode-num>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626085700 +0000" channel="ts622">
+    <title lang="en">Majha Navra Tujhi Bayko</title>
+    <desc lang="en">Naina and Vijay, a married couple, reunite with their college sweethearts, Pooja and Vitthal. As they become each others' new neighbours, things begin to get complicated.</desc>
+    <credits>
+      <actor>Ankush Choudhary</actor>
+      <actor>Kishori Godbole</actor>
+      <actor>Bharat Jadhav</actor>
+      <actor>Kranti Redkar</actor>
+      <actor>Siddhartha Jadhav</actor>
+      <actor>Avinash Kharshikar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B254208D1DF88503A32FC5C4665F03519F116DC1P.jpg"/>
+  </programme>
+  <programme start="20240626085700 +0000" stop="20240626090000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626105500 +0000" channel="ts622">
+    <title lang="en">Nirop</title>
+    <desc lang="en">Shekhar is a musician who wants to visit his hometown with his wife before he leaves for France to work. Their trip to the hometown transforms them, giving them a new perspective on life.</desc>
+    <credits>
+      <actor>Sameer Dharmadhikari</actor>
+      <actor>Devika Daftardar</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Astad Kale</actor>
+      <actor>Seema Deshmukh</actor>
+      <actor>Ujwala Jog</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79AD865422332A45A74EFE219177CD2BE0E3A94DV.jpg"/>
+  </programme>
+  <programme start="20240626105500 +0000" stop="20240626113000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts622">
+    <title lang="en">Gajar Maulicha</title>
+    <desc lang="en">A speaker narrates religious stories and praises the Almighty as a dedication to the devotees of Lord Vitthala, a revered deity in Maharashtra and Karnataka.</desc>
+    <credits>
+      <actor>Neha Tai Bhosale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts622">
+    <title lang="en">Sau Pratap Mansi Supekar</title>
+    <desc lang="en">A man defies societal norms by marrying his senior, an accomplished police officer. Together, they inspire others to break free from stereotypes.</desc>
+    <credits>
+      <actor>Pradeep Ghule</actor>
+      <actor>Tanvee Kiran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C5523295C8B60DEE934DFA5BE5E8E5C8DF107AS.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts622">
+    <title lang="en">Jogeshwaricha Pati Bhairavnath</title>
+    <desc lang="en">Goddess Jogeshwari prays to Goddess Parvati and seeks a husband like Lord Shiva. Soon, she marries Lord Bhairavnath and their relationship goes on to become the symbol of love, respect and devotion.</desc>
+    <credits>
+      <actor>Pratik Nikam</actor>
+      <actor>Kshama Deshpande</actor>
+      <actor>Rohan Ekke</actor>
+      <actor>Shweta Naik</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16E531C44A31A0BB47F1DB004DCBF6EC58C39105U.jpg"/>
+    <episode-num system="xmltv_ns">.162.</episode-num>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts622">
+    <title lang="en">Assa Maher Nako Ga Bai</title>
+    <desc lang="en">Sakhi looks forward to returning to her parental home after getting married. However, it is not long before she wishes to escape to the house of her in-laws.</desc>
+    <credits>
+      <actor>Swanandi Tikekar</actor>
+      <actor>Pushkaraj Chirputkar</actor>
+      <actor>Rajan Bhise</actor>
+      <actor>Supriya Pathare</actor>
+      <actor>Sameer Chowgule</actor>
+      <actor>Kalyani Pathare</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6178158FF558F02B0B4027B68C77364108FA2D39D.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626175200 +0000" channel="ts622">
+    <title lang="en">Bhai - Vyakti Ki Valli</title>
+    <desc lang="en">An exploration into the life and achievements of Purushottam Laxman Deshpande, India's first stand-up comedian and a legendary figure in Marathi literature.</desc>
+    <credits>
+      <actor>Sagar Deshmukh</actor>
+      <actor>Saksham Kulkarni</actor>
+      <actor>Vijay Kenkre</actor>
+      <actor>Mrunmayee Deshpande</actor>
+      <actor>Iravati Harshe</actor>
+      <actor>Satish Alekar</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C325FE3161D4FBC93128EC26670FE4A1E0BA7B76P.jpg"/>
+  </programme>
+  <programme start="20240626175200 +0000" stop="20240626180000 +0000" channel="ts622">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77367C6EED32F8C4441DC1AA4097BF350AFEBB2A2.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts622">
+    <title lang="en">Sur Taal</title>
+    <desc lang="en">A pleasing compilation of soulful and melodious Marathi songs from popular motion pictures in the Maharashtrian film industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93FC0D6095CBA59BABF9A09F0077560B329BC529P.jpg"/>
+  </programme>
+</tv>

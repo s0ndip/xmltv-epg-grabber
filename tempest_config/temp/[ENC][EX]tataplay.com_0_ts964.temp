@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts964">
+    <display-name lang="en">Tata Play Classic TV</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep05-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep06-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep61 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">Ep16 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep61 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP39 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep05-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep06-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep61 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">Ep16 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep61 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP39 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep32 - It is the journey of a girl, Kalyani, from a teenager to an upright Indian police officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep05-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep06-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep61 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">Ep16 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep61 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP39 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep32 - It is the journey of a girl, Kalyani, from a teenager to an upright Indian police officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep48 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep44 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts964">
+    <title lang="en">Sunhare Sangeet</title>
+    <desc lang="en">EP145 - Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3EEF05AE53396994A96B09309EB22995C8E1A59Q.jpg"/>
+    <episode-num system="xmltv_ns">.144.</episode-num>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep61 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">Ep16 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep61 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP39 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep32 - It is the journey of a girl, Kalyani, from a teenager to an upright Indian police officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep48 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep44 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts964">
+    <title lang="en">Dekh Bhai Dekh</title>
+    <desc lang="en">Ep07 - Three generations of the Diwan family live together in their ancestral house in Mumbai suburbs. They often find themselves in hilarious situations as they face relationship and business...</desc>
+    <credits>
+      <actor>Sushma Seth</actor>
+      <actor>N K Shivpuri</actor>
+      <actor>Navin Nischol</actor>
+      <actor>Shekhar Suman</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76BB366E5DFA57E805FAA025FF0C480CA5545CAA3.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep01 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep49 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep45 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP40 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts964">
+    <title lang="en">Sunhare Sangeet</title>
+    <desc lang="en">EP146 - Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3EEF05AE53396994A96B09309EB22995C8E1A59Q.jpg"/>
+    <episode-num system="xmltv_ns">.145.</episode-num>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP07 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP08 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts964">
+    <title lang="en">Dekh Bhai Dekh</title>
+    <desc lang="en">Ep07 - Three generations of the Diwan family live together in their ancestral house in Mumbai suburbs. They often find themselves in hilarious situations as they face relationship and business...</desc>
+    <credits>
+      <actor>Sushma Seth</actor>
+      <actor>N K Shivpuri</actor>
+      <actor>Navin Nischol</actor>
+      <actor>Shekhar Suman</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76BB366E5DFA57E805FAA025FF0C480CA5545CAA3.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep01 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep49 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep45 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP07 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP08 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP40 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP07 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP08 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP40 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep01 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP07 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts964">
+    <title lang="en">Vikram Aur Betal</title>
+    <desc lang="en">EP08 - The series contained stories from Indian mythology. The concept of the program was based on Baital Pachisi, a collection of tales and legends within a frame story, from India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD24141E717A897287E33495F760998FB3883D64L.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP40 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep01 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep49 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep45 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts964">
+    <title lang="en">Sunhare Sangeet</title>
+    <desc lang="en">EP146 - Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3EEF05AE53396994A96B09309EB22995C8E1A59Q.jpg"/>
+    <episode-num system="xmltv_ns">.145.</episode-num>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep62 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP17 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep62 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP40 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep01 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep49 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep45 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts964">
+    <title lang="en">Dekh Bhai Dekh</title>
+    <desc lang="en">Ep08 - Three generations of the Diwan family live together in their ancestral house in Mumbai suburbs. They often find themselves in hilarious situations as they face relationship and business...</desc>
+    <credits>
+      <actor>Sushma Seth</actor>
+      <actor>N K Shivpuri</actor>
+      <actor>Navin Nischol</actor>
+      <actor>Shekhar Suman</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76BB366E5DFA57E805FAA025FF0C480CA5545CAA3.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep02 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep50 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep46 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep63 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP18 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep63 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts964">
+    <title lang="en">Movers and Shakers</title>
+    <desc lang="en">EP41 - Shekhar Suman is back with this hugely popular talk show, doing what he does best by sprinkling a good dose of humour on current affairs, celebrities and situations.</desc>
+    <credits>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8FCB150A44D90D501F57FC6275E8A295FF43F81R.jpg"/>
+    <episode-num system="xmltv_ns">.40.</episode-num>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts964">
+    <title lang="en">Sunhare Sangeet</title>
+    <desc lang="en">EP147 - Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3EEF05AE53396994A96B09309EB22995C8E1A59Q.jpg"/>
+    <episode-num system="xmltv_ns">.146.</episode-num>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep05-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts964">
+    <title lang="en">Zamana Badal Gaya</title>
+    <desc lang="en">Ep06-This is the story that briefs the generation gap &amp; standard of life. People want some change to take place, but are not ready to accept when it happens in their home.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788F314543C0A140966FA74EBC5A1027D5DAA65D.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts964">
+    <title lang="en">Dekh Bhai Dekh</title>
+    <desc lang="en">Ep08 - Three generations of the Diwan family live together in their ancestral house in Mumbai suburbs. They often find themselves in hilarious situations as they face relationship and business...</desc>
+    <credits>
+      <actor>Sushma Seth</actor>
+      <actor>N K Shivpuri</actor>
+      <actor>Navin Nischol</actor>
+      <actor>Shekhar Suman</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76BB366E5DFA57E805FAA025FF0C480CA5545CAA3.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts964">
+    <title lang="en">Udaan</title>
+    <desc lang="en">Ep02 - It Is The Journey Of A Girl, Kalyani, From A Teenager To An Upright Indian Police Officer.</desc>
+    <credits>
+      <actor>Kavita Choudhary</actor>
+      <actor>Shekhar Kapur</actor>
+      <actor>Uttara Baokar</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Akhilendra Mishra</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/116FCD26990D297E3694BA63558A23C1DF43A065E.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts964">
+    <title lang="en">Dard</title>
+    <desc lang="en">Ep50 - It is story of Radha, a rich unmarried woman who has a mysterious past. This serial depicts the emotional pain of Radha in her past and present and how she deals with it.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69DF7171145527E3496371B92204A29236C7AA49G.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts964">
+    <title lang="en">Yug</title>
+    <desc lang="en">Ep46 - Yug is a fictional series depicting the story of Indian freedom fighters and their struggle to win freedom for India.</desc>
+    <credits>
+      <actor>Hema Malini</actor>
+      <actor>Ashwini Bhave</actor>
+      <actor>Javed Khan</actor>
+      <actor>Shahbaz Khan</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EC9349ACC43989CAF47A8F262A470FE14DF5046U.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts964">
+    <title lang="en">Just Mohobbat</title>
+    <desc lang="en">Ep63 - The show follows the life of a young Jai who is friendly and quiet but enjoys a good time with his closest friends</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DDC048F966C71987488EAF7BF69B46F56077A58K.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts964">
+    <title lang="en">Chamatkar</title>
+    <desc lang="en">EP18 - Prem is blessed with a special gift that allows him to listen to people's thoughts though he has a hearing problem. With the help of this gift, he helps solve many cases for the police.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07E1E191BA45E9DB8984240A5905DF93067966E6T.jpg"/>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts964">
+    <title lang="en">Zabaan Sambhalke</title>
+    <desc lang="en">Ep63 - Mohan Bharti teaches Hindi at the National Institute of Language. His students come from all over India &amp; he constantly struggles to correct their understanding &amp; pronunciation of...</desc>
+    <credits>
+      <actor>Pankaj Kapur</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Meenakshi Shukla</actor>
+      <actor>Chandu Parkhi</actor>
+      <actor>Bhavana Balsavar</actor>
+      <actor>Tom Alter</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47A882C491FD666B56A95F11C1E06C2BE7499DC18.jpg"/>
+  </programme>
+</tv>

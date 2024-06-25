@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts252">
+    <display-name lang="en">Zee Cinemalu</display-name>
+  </channel>
+  <programme start="20240624183400 +0000" stop="20240624213000 +0000" channel="ts252">
+    <title lang="en">Ready</title>
+    <desc lang="en">Chandu, an engineering student, falls in love with Pooja, the girl he mistakenly abducts. However, before he can marry her, he must deal with two warring clans.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Genelia D'souza</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Nasser</actor>
+      <actor>Chandra Mohan</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CA957995956B21FD4305F5C1A7C4F2425620ED8S.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts252">
+    <title lang="en">Kousalya Supraja Rama</title>
+    <desc lang="en">Inspired by his father's values, Ram grows up to become a chauvinist with a rigid view of masculinity. However, a woman named Shivani begins to transform him into a better man.</desc>
+    <credits>
+      <actor>Darling Krishna</actor>
+      <actor>Brinda Acharya</actor>
+      <actor>Milana Nagaraj</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Sudha Belawadi</actor>
+      <actor>Achyuth Kumar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C10F21349E512210909C8BB4B8EE837436170E08M.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts252">
+    <title lang="en">Just Chill</title>
+    <desc lang="en">Just Chill E02.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/369C4F3A69099B4B863DD68A1C2EE4DC3801AF45U.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts252">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625033000 +0000" channel="ts252">
+    <title lang="en">Chikati Gadilo Chithakotudu</title>
+    <desc lang="en">Two young couples go on a trip to Bangkok and get stuck in a haunted home, where they must find a way to fight a sexually deprived ghost.</desc>
+    <credits>
+      <actor>Bhagyashree Mote</actor>
+      <actor>Raghu Babu</actor>
+      <actor>Motta Rajendran</actor>
+      <actor>Krishna Murali Posani</actor>
+      <actor>Nikki Tamboli</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11456334F5DC993EE2BBA48DCF45D03FEBD9B96AI.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts252">
+    <title lang="en">Konchem Ishtam Konchem Kashtam</title>
+    <desc lang="en">Siddhu and Geeta fall in love with each other but her father objects to their alliance because Siddhu's parents are divorced. Then, the lovers strive to reunite Siddhu's parents to set things right.</desc>
+    <credits>
+      <actor>Siddharth</actor>
+      <actor>Tamanna</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Ramya Krishna</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B285A11F03128DE655041B1D59828D09B4BB94F5Y.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts252">
+    <title lang="en">Babu Bangaram</title>
+    <desc lang="en">Krishna, a police officer, helps a woman named Sailaja as a pretext for finding and catching her father Sastry, who is on the run from the law. However, he soon finds himself falling in love with her.</desc>
+    <credits>
+      <actor>Venkatesh Daggubati</actor>
+      <actor>Nayanthara</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Jayaprakash</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2C2B9F2862553C507DFD918869C24F5143413096.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts252">
+    <title lang="en">Dangal</title>
+    <desc lang="en">Mahavir is forced to leave his wrestling career for conventional work. However, when he sees his daughters' potential, he trains them to become the best wrestlers and bring home a gold medal.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Sakshi Tanwar</actor>
+      <actor>Fatima Sana Shaikh</actor>
+      <actor>Sanya Malhotra</actor>
+      <actor>Aparshakti Khurana</actor>
+      <actor>Ananya Sharma</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57F82CC42566E81D8221BB92FC77DDBE468C5A1ET.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625153000 +0000" channel="ts252">
+    <title lang="en">Dhammu</title>
+    <desc lang="en">Rama Chandra, an orphan, gets involved in a feud between two royal families while trying to woo Sathya, his lady love. He soon realises that the lives of his fellow villagers depend on his choices.</desc>
+    <credits>
+      <actor>Jr NTR</actor>
+      <actor>Trisha Krishnan</actor>
+      <actor>Karthika Nair</actor>
+      <actor>Nassar</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C160E3BC243B5A6BC521ED39D52AE31DAAB1B030C.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625183000 +0000" channel="ts252">
+    <title lang="en">Mr. Majnu</title>
+    <desc lang="en">A charming flirt who has never been in a serious relationship with anyone finds himself in unfamiliar territory when he finally falls in love with a woman.</desc>
+    <credits>
+      <actor>Akhil Akkineni</actor>
+      <actor>Nidhhi Agerwal</actor>
+      <actor>Izabelle Leite</actor>
+      <actor>Kailash Reddy</actor>
+      <actor>Naga Babu</actor>
+      <actor>Subbaraju</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9363F8524D21A30FD29FEF0D1D7E7E2FA3EBC1017.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts252">
+    <title lang="en">Babu Bangaram</title>
+    <desc lang="en">Krishna, a police officer, helps a woman named Sailaja as a pretext for finding and catching her father Sastry, who is on the run from the law. However, he soon finds himself falling in love with her.</desc>
+    <credits>
+      <actor>Venkatesh Daggubati</actor>
+      <actor>Nayanthara</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Jayaprakash</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2C2B9F2862553C507DFD918869C24F5143413096.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts252">
+    <title lang="en">Dangal</title>
+    <desc lang="en">Mahavir is forced to leave his wrestling career for conventional work. However, when he sees his daughters' potential, he trains them to become the best wrestlers and bring home a gold medal.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Sakshi Tanwar</actor>
+      <actor>Fatima Sana Shaikh</actor>
+      <actor>Sanya Malhotra</actor>
+      <actor>Aparshakti Khurana</actor>
+      <actor>Ananya Sharma</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57F82CC42566E81D8221BB92FC77DDBE468C5A1ET.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts252">
+    <title lang="en">Just Chill</title>
+    <desc lang="en">Just Chill Repeat - Tue,Wed,Thu,Sun 6:00 am.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/369C4F3A69099B4B863DD68A1C2EE4DC3801AF45U.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts252">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626033000 +0000" channel="ts252">
+    <title lang="en">Chandamama</title>
+    <desc lang="en">After Ranga Rao fixes his daughter Mahalakshmi's marriage with Dhorababu, an honest man, she reveals that she had fallen in with a man named Kishore. Soon, Dhorababu goes looking for Kishore.</desc>
+    <credits>
+      <actor>Navdeep</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Nagababu</actor>
+      <actor>Siva Balaji</actor>
+      <actor>Sindhu Menon</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9BFA5F0BCF7F29D35C492E763B7766D3C7ABBB7B4.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts252">
+    <title lang="en">Drama Juniors</title>
+    <desc lang="en">Children get the opportunity to showcase their talent and enact various day-to-day situations to score maximum points and win the title.</desc>
+    <credits>
+      <actor>Pradeep Machiraju</actor>
+      <actor>Ali</actor>
+      <actor>Anasuya Bharadwaj</actor>
+      <actor>Omkar</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/776823B1561F00DB57B1C422A4FA61E0AF67447BY.jpg"/>
+    <episode-num system="xmltv_ns">6.1.</episode-num>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts252">
+    <title lang="en">Brothers</title>
+    <desc lang="en">Conjoined twins Akhilan and Vimalan assist their father in their thriving family business. However, issues arise when a spy joins their company to steal their trade secrets.</desc>
+    <credits>
+      <actor>Suriya</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Sachin Khedekar</actor>
+      <actor>Tara</actor>
+      <actor>Irina Maleva</actor>
+      <actor>Julia Bliss</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769860FCB45047B0EEBF9EAC98ED261195DB470ER.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts252">
+    <title lang="en">Bendu Apparao R.M.P</title>
+    <desc lang="en">Dr Bendu uses any means possible to swindle money from his unsuspecting patients. A dying man leaves him with a huge amount to return to his family, but Bendu ends up using it for other means.</desc>
+    <credits>
+      <actor>Allari Naresh</actor>
+      <actor>Krishna Bhagavaan</actor>
+      <actor>Kamna Jetmalani</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Ahuti Prasad</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E41DF41E50FA6A735F3865B74D3149C62CA2814BI.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts252">
+    <title lang="en">Chakram</title>
+    <desc lang="en">Chakram and Lakshmi are medical students who fall in love with each other. However, when Chakram gets diagnosed with cancer ahead of their wedding, he leaves her and moves to another city.</desc>
+    <credits>
+      <actor>Prabhas</actor>
+      <actor>Asin</actor>
+      <actor>Charmy Kaur</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Urvashi</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13A0C61A633707869418CC16AAF19B55A8E37A4A0.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626183000 +0000" channel="ts252">
+    <title lang="en">Mukunda</title>
+    <desc lang="en">Mukunda and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat endeavours to exterminate Arjun, Mukunda protects him with all his might.</desc>
+    <credits>
+      <actor>Varun Tej</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1F03BE6C0783B2406CD2B69DE24CD4A38ED88BJ.jpg"/>
+  </programme>
+</tv>

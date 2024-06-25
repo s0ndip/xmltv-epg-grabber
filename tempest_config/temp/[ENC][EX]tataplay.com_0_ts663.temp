@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts663">
+    <display-name lang="en">Tata Play Tamil Cinema</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624210500 +0000" channel="ts663">
+    <title lang="en">Siren</title>
+    <desc lang="en">Thilagavarman is serving a life sentence in prison for allegedly murdering his wife. When he gets out on parole, he tries to reconnect with his daughter and vows revenge on those who wronged him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Anupama Parameswaran</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/652B1E380C24BF61B713706F50A23937B6E74A81E.jpg"/>
+  </programme>
+  <programme start="20240624210500 +0000" stop="20240624220500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240624220500 +0000" stop="20240625003500 +0000" channel="ts663">
+    <title lang="en">Thambi</title>
+    <desc lang="en">Parvathy is hesitant to accept her brother, Saravanan, who returns home after 15 years. Soon, she discovers that not everything is as it seems and uncovers a well-planned conspiracy.</desc>
+    <credits>
+      <actor>Jyothika</actor>
+      <actor>Karthi Shivakumar</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Nikhila Vimal</actor>
+      <actor>Anson Paul</actor>
+      <actor>Bala</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF81C1C28A03C6AE200C40669F0B46CCAE4EB0FDF.jpg"/>
+  </programme>
+  <programme start="20240625003500 +0000" stop="20240625013500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625013500 +0000" stop="20240625042000 +0000" channel="ts663">
+    <title lang="en">Skanda</title>
+    <desc lang="en">A prodigal college student wreaks havoc in the lives of two rival political figures as he goes on to kidnap their daughters.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Sreeleela</actor>
+      <actor>Saiee Manjrekar</actor>
+      <actor>Srikanth</actor>
+      <actor>Sharath Lohithaswa</actor>
+      <actor>Prince Cecil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C18386A70F8B1D2CE03D400FE78E90B7A72D9176J.jpg"/>
+  </programme>
+  <programme start="20240625042000 +0000" stop="20240625044500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625044500 +0000" stop="20240625072000 +0000" channel="ts663">
+    <title lang="en">Siren</title>
+    <desc lang="en">Thilagavarman is serving a life sentence in prison for allegedly murdering his wife. When he gets out on parole, he tries to reconnect with his daughter and vows revenge on those who wronged him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Anupama Parameswaran</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/652B1E380C24BF61B713706F50A23937B6E74A81E.jpg"/>
+  </programme>
+  <programme start="20240625072000 +0000" stop="20240625072500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625072500 +0000" stop="20240625095500 +0000" channel="ts663">
+    <title lang="en">Thambi</title>
+    <desc lang="en">Parvathy is hesitant to accept her brother, Saravanan, who returns home after 15 years. Soon, she discovers that not everything is as it seems and uncovers a well-planned conspiracy.</desc>
+    <credits>
+      <actor>Jyothika</actor>
+      <actor>Karthi Shivakumar</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Nikhila Vimal</actor>
+      <actor>Anson Paul</actor>
+      <actor>Bala</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF81C1C28A03C6AE200C40669F0B46CCAE4EB0FDF.jpg"/>
+  </programme>
+  <programme start="20240625095500 +0000" stop="20240625100000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625124500 +0000" channel="ts663">
+    <title lang="en">Skanda</title>
+    <desc lang="en">A prodigal college student wreaks havoc in the lives of two rival political figures as he goes on to kidnap their daughters.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Sreeleela</actor>
+      <actor>Saiee Manjrekar</actor>
+      <actor>Srikanth</actor>
+      <actor>Sharath Lohithaswa</actor>
+      <actor>Prince Cecil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C18386A70F8B1D2CE03D400FE78E90B7A72D9176J.jpg"/>
+  </programme>
+  <programme start="20240625124500 +0000" stop="20240625125000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625125000 +0000" stop="20240625152500 +0000" channel="ts663">
+    <title lang="en">Siren</title>
+    <desc lang="en">Thilagavarman is serving a life sentence in prison for allegedly murdering his wife. When he gets out on parole, he tries to reconnect with his daughter and vows revenge on those who wronged him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Anupama Parameswaran</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/652B1E380C24BF61B713706F50A23937B6E74A81E.jpg"/>
+  </programme>
+  <programme start="20240625152500 +0000" stop="20240625153000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625181500 +0000" channel="ts663">
+    <title lang="en">Tony</title>
+    <desc lang="en">Tony, a money-minded man, falls in love with Niharika and saves her from some terrorists. Later, Niharika regains her memory and learns about Tony's link with the mafia.</desc>
+    <credits>
+      <actor>N T Rama Rao Jr</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Kick Shaam</actor>
+      <actor>Payal Ghosh</actor>
+      <actor>Rahman</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4FC4C4D30AD6D794B0418A412FD25A3F7D94D16E.jpg"/>
+  </programme>
+  <programme start="20240625181500 +0000" stop="20240625183000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625210500 +0000" channel="ts663">
+    <title lang="en">Siren</title>
+    <desc lang="en">Thilagavarman is serving a life sentence in prison for allegedly murdering his wife. When he gets out on parole, he tries to reconnect with his daughter and vows revenge on those who wronged him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Anupama Parameswaran</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/652B1E380C24BF61B713706F50A23937B6E74A81E.jpg"/>
+  </programme>
+  <programme start="20240625210500 +0000" stop="20240625220500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625220500 +0000" stop="20240626001500 +0000" channel="ts663">
+    <title lang="en">Vinaya Vidheya Rama</title>
+    <desc lang="en">When a criminal mastermind poses a threat to his family's happiness, Ram, a young man, sets out to destroy his enemy and his evil kingdom.</desc>
+    <credits>
+      <actor>Ram Charan</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Prashanth</actor>
+      <actor>Sneha</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B397AD6A9CD2591699D510F4DB6FAE354A95FA67S.jpg"/>
+  </programme>
+  <programme start="20240626001500 +0000" stop="20240626002000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626002000 +0000" stop="20240626030500 +0000" channel="ts663">
+    <title lang="en">Skanda</title>
+    <desc lang="en">A prodigal college student wreaks havoc in the lives of two rival political figures as he goes on to kidnap their daughters.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Sreeleela</actor>
+      <actor>Saiee Manjrekar</actor>
+      <actor>Srikanth</actor>
+      <actor>Sharath Lohithaswa</actor>
+      <actor>Prince Cecil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C18386A70F8B1D2CE03D400FE78E90B7A72D9176J.jpg"/>
+  </programme>
+  <programme start="20240626030500 +0000" stop="20240626031000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626031000 +0000" stop="20240626053500 +0000" channel="ts663">
+    <title lang="en">Mynaa</title>
+    <desc lang="en">To avoid getting into an unwanted marriage, Mynaa escapes with her childhood love, Suruli, and plans to marry him. Along the way, they face many problems and fate has something drastic in store.</desc>
+    <credits>
+      <actor>Vidharth</actor>
+      <actor>Amala Paul</actor>
+      <actor>Sethu</actor>
+      <actor>Thambi Ramaiah</actor>
+      <actor>Suzane George</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/013DB880DF63291814B5F35E6E488D1E5E4B2C0ES.jpg"/>
+  </programme>
+  <programme start="20240626053500 +0000" stop="20240626054000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626054000 +0000" stop="20240626075000 +0000" channel="ts663">
+    <title lang="en">Vinaya Vidheya Rama</title>
+    <desc lang="en">When a criminal mastermind poses a threat to his family's happiness, Ram, a young man, sets out to destroy his enemy and his evil kingdom.</desc>
+    <credits>
+      <actor>Ram Charan</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Prashanth</actor>
+      <actor>Sneha</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B397AD6A9CD2591699D510F4DB6FAE354A95FA67S.jpg"/>
+  </programme>
+  <programme start="20240626075000 +0000" stop="20240626075500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626075500 +0000" stop="20240626104000 +0000" channel="ts663">
+    <title lang="en">Skanda</title>
+    <desc lang="en">A prodigal college student wreaks havoc in the lives of two rival political figures as he goes on to kidnap their daughters.</desc>
+    <credits>
+      <actor>Ram Pothineni</actor>
+      <actor>Sreeleela</actor>
+      <actor>Saiee Manjrekar</actor>
+      <actor>Srikanth</actor>
+      <actor>Sharath Lohithaswa</actor>
+      <actor>Prince Cecil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C18386A70F8B1D2CE03D400FE78E90B7A72D9176J.jpg"/>
+  </programme>
+  <programme start="20240626104000 +0000" stop="20240626104500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626104500 +0000" stop="20240626131000 +0000" channel="ts663">
+    <title lang="en">Mynaa</title>
+    <desc lang="en">To avoid getting into an unwanted marriage, Mynaa escapes with her childhood love, Suruli, and plans to marry him. Along the way, they face many problems and fate has something drastic in store.</desc>
+    <credits>
+      <actor>Vidharth</actor>
+      <actor>Amala Paul</actor>
+      <actor>Sethu</actor>
+      <actor>Thambi Ramaiah</actor>
+      <actor>Suzane George</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/013DB880DF63291814B5F35E6E488D1E5E4B2C0ES.jpg"/>
+  </programme>
+  <programme start="20240626131000 +0000" stop="20240626131500 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626131500 +0000" stop="20240626152500 +0000" channel="ts663">
+    <title lang="en">Vinaya Vidheya Rama</title>
+    <desc lang="en">When a criminal mastermind poses a threat to his family's happiness, Ram, a young man, sets out to destroy his enemy and his evil kingdom.</desc>
+    <credits>
+      <actor>Ram Charan</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Prashanth</actor>
+      <actor>Sneha</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B397AD6A9CD2591699D510F4DB6FAE354A95FA67S.jpg"/>
+  </programme>
+  <programme start="20240626152500 +0000" stop="20240626153000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626180500 +0000" channel="ts663">
+    <title lang="en">Siren</title>
+    <desc lang="en">Thilagavarman is serving a life sentence in prison for allegedly murdering his wife. When he gets out on parole, he tries to reconnect with his daughter and vows revenge on those who wronged him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Anupama Parameswaran</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/652B1E380C24BF61B713706F50A23937B6E74A81E.jpg"/>
+  </programme>
+  <programme start="20240626180500 +0000" stop="20240626183000 +0000" channel="ts663">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+</tv>

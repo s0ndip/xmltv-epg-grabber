@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts60">
+    <display-name lang="en">DW</display-name>
+  </channel>
+  <programme start="20240624184500 +0000" stop="20240624190000 +0000" channel="ts60">
+    <title lang="en">Reporter</title>
+    <desc lang="en">On Location: The host talks to Cem Ozdemir, the deputy chairperson and candidate for The Greens.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C7CE2B59381CCE94717D25EBC5AB3E90D8F878070.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624191500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240624191500 +0000" stop="20240624193000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts60">
+    <title lang="en">Global Us</title>
+    <desc lang="en">What Connects Us All: With the support of technological development and shift, professionals look at the globalised society of worldwide issues from new points of view.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D98B07D835D19DE8B1D67ECA8E09AB672CC242A77.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624211500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240624211500 +0000" stop="20240624220000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The Last Reed Boat Fishers of Huanchaco: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624220200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240624220200 +0000" stop="20240624223000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Ayahuasca Boom in Brazil - Remedy or Risk?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624231500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240624231500 +0000" stop="20240624233000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625000200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625000200 +0000" stop="20240625003000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts60">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">The Environment Magazine: The filmmaker showcases how tourism helps Rwanda's golden monkeys as well as sheds light on several issues in the country.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5643A12E1AC8CD3ABE673628761746C01103FEB0R.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625011500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625011500 +0000" stop="20240625020000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">"Don't Come Back!" - Returning to the Ruins of Mosul: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625020200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625020200 +0000" stop="20240625023000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts60">
+    <title lang="en">REV</title>
+    <desc lang="en">The Global Auto and Mobility Show: The host presents a detailed report on emissions-free transportation and show-off cars. Later, he sheds light on what goes on in the car repair shops in Berlin.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D7D4D092EE5218B58A0C817C7A771D504C6A7DJ.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625031500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625031500 +0000" stop="20240625033000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625041500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625041500 +0000" stop="20240625050000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">"Don't Come Back!" - Returning to the Ruins of Mosul: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625050200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625050200 +0000" stop="20240625053000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts60">
+    <title lang="en">Eco India</title>
+    <desc lang="en">The Environment Magazine: The host explores the issue of Mumbai's street dogs, the price of India's affinity for coal and Malaysia's campaign to save energy.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/697255516367FD4242171D3C10EB57900679D482E.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625061500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0000" stop="20240625063000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts60">
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Experiencing and understanding the art world: The filmmaker explores the international artistic scene and explains how the cultural events are moulding the present and future through several artists and their remarkable works.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3827F2BD2E14B7AE25404C5F559E2DC7E07B3BA9.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Ayahuasca Boom in Brazil - Remedy or Risk?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts60">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">The Environment Magazine: The filmmaker showcases how tourism helps Rwanda's golden monkeys as well as sheds light on several issues in the country.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5643A12E1AC8CD3ABE673628761746C01103FEB0R.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625091500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625091500 +0000" stop="20240625094500 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625094500 +0000" stop="20240625100000 +0000" channel="ts60">
+    <title lang="en">Reporter</title>
+    <desc lang="en">On Location: The host talks to Cem Ozdemir, the deputy chairperson and candidate for The Greens.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C7CE2B59381CCE94717D25EBC5AB3E90D8F878070.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts60">
+    <title lang="en">Tomorrow Today</title>
+    <desc lang="en">The Science Magazine: Discover how the Shrews shrink in winter and grow back to their full size in summer. Also learn the secrets to a long and healthy life.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BE45F9FCCBA51D075D0979D3100AF4F648B081DM.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts60">
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">The Health Show: Professor Heiko Krude of Berlin's Charite hospital talks about diagnosing and treating rare diseases. He further discusses the importance of hunting everyday germs.</desc>
+    <credits>
+      <actor>Dr Carsten Lekutat</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECFB63A17911132307B4348D35E324B5411F70DF5.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625121500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625121500 +0000" stop="20240625124500 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625124500 +0000" stop="20240625130000 +0000" channel="ts60">
+    <title lang="en">Shift</title>
+    <desc lang="en">Living In The Digital Age: Know the latest news related to the internet and social media.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BE9551AEC9B667F53A5A5C5D661760FEB25AC8O.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625131500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625131500 +0000" stop="20240625133000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts60">
+    <title lang="en">Eco India</title>
+    <desc lang="en">The Environment Magazine: The host explores the issue of Mumbai's street dogs, the price of India's affinity for coal and Malaysia's campaign to save energy.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/697255516367FD4242171D3C10EB57900679D482E.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts60">
+    <title lang="en">Global Us</title>
+    <desc lang="en">What Connects Us All: With the support of technological development and shift, professionals look at the globalised society of worldwide issues from new points of view.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D98B07D835D19DE8B1D67ECA8E09AB672CC242A77.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625151500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625151500 +0000" stop="20240625154500 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625154500 +0000" stop="20240625160000 +0000" channel="ts60">
+    <title lang="en">Reporter</title>
+    <desc lang="en">On Location: The host talks to Cem Ozdemir, the deputy chairperson and candidate for The Greens.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C7CE2B59381CCE94717D25EBC5AB3E90D8F878070.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts60">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">The Environment Magazine: The filmmaker showcases how tourism helps Rwanda's golden monkeys as well as sheds light on several issues in the country.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5643A12E1AC8CD3ABE673628761746C01103FEB0R.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts60">
+    <title lang="en">REV</title>
+    <desc lang="en">The Global Auto and Mobility Show: The host presents a detailed report on emissions-free transportation and show-off cars. Later, he sheds light on what goes on in the car repair shops in Berlin.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D7D4D092EE5218B58A0C817C7A771D504C6A7DJ.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625181500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625181500 +0000" stop="20240625190000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">"Don't Come Back!" - Returning to the Ruins of Mosul: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625191500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625191500 +0000" stop="20240625193000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts60">
+    <title lang="en">Tomorrow Today</title>
+    <desc lang="en">The Science Magazine: Discover how the Shrews shrink in winter and grow back to their full size in summer. Also learn the secrets to a long and healthy life.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BE45F9FCCBA51D075D0979D3100AF4F648B081DM.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625211500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625211500 +0000" stop="20240625214500 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240625214500 +0000" stop="20240625220000 +0000" channel="ts60">
+    <title lang="en">Shift</title>
+    <desc lang="en">Living In The Digital Age: Know the latest news related to the internet and social media.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BE9551AEC9B667F53A5A5C5D661760FEB25AC8O.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625220200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625220200 +0000" stop="20240625223000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts60">
+    <title lang="en">The 77 Percent</title>
+    <desc lang="en">The Magazine For Africa's Youth: Uganda is well-known for having some of the most generous refugee policies in the world and now hosts the highest number of refugees in Africa.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/204B55D5C92F20F6C03B6754EFB0B30C1BECDDB5Q.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625231500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240625231500 +0000" stop="20240625233000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts60">
+    <title lang="en">Global Us</title>
+    <desc lang="en">What Connects Us All: With the support of technological development and shift, professionals look at the globalised society of worldwide issues from new points of view.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D98B07D835D19DE8B1D67ECA8E09AB672CC242A77.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626000200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626000200 +0000" stop="20240626003000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts60">
+    <title lang="en">Made In Germany</title>
+    <desc lang="en">Your Business Magazine: In Germany, cows and pigs are factory farmed, triggering protest; in Ghana, cheap meat from the US and Europe is putting local farmers out of business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4008C61B5809502C0AAB4E2C0CEEEEE286EA9132.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626011500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626011500 +0000" stop="20240626020000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Can I Hug You?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626020200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626020200 +0000" stop="20240626023000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts60">
+    <title lang="en">Global Us</title>
+    <desc lang="en">What Connects Us All: With the support of technological development and shift, professionals look at the globalised society of worldwide issues from new points of view.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D98B07D835D19DE8B1D67ECA8E09AB672CC242A77.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626031500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626031500 +0000" stop="20240626033000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts60">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">The Environment Magazine: The filmmaker showcases how tourism helps Rwanda's golden monkeys as well as sheds light on several issues in the country.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5643A12E1AC8CD3ABE673628761746C01103FEB0R.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626041500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626041500 +0000" stop="20240626050000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Can I Hug You?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626050200 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626050200 +0000" stop="20240626053000 +0000" channel="ts60">
+    <title lang="en">The Day</title>
+    <desc lang="en">News in Review: The host delivers a report on the latest news stories and updates.</desc>
+    <credits>
+      <actor>Brent Goff</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC68D88EE19A7B1B9EED08A889638E4A07F61800R.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts60">
+    <title lang="en">Made In Germany</title>
+    <desc lang="en">Your Business Magazine: In Germany, cows and pigs are factory farmed, triggering protest; in Ghana, cheap meat from the US and Europe is putting local farmers out of business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4008C61B5809502C0AAB4E2C0CEEEEE286EA9132.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626061500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626061500 +0000" stop="20240626063000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts60">
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">The Health Show: Professor Heiko Krude of Berlin's Charite hospital talks about diagnosing and treating rare diseases. He further discusses the importance of hunting everyday germs.</desc>
+    <credits>
+      <actor>Dr Carsten Lekutat</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECFB63A17911132307B4348D35E324B5411F70DF5.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts60">
+    <title lang="en">Eco India</title>
+    <desc lang="en">The Environment Magazine: The host explores the issue of Mumbai's street dogs, the price of India's affinity for coal and Malaysia's campaign to save energy.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/697255516367FD4242171D3C10EB57900679D482E.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626091500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626091500 +0000" stop="20240626100000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">"Don't Come Back!" - Returning to the Ruins of Mosul: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts60">
+    <title lang="en">Close Up</title>
+    <desc lang="en">The Current Affairs Documentary: The host presents an in-depth analysis of topical political issues and newsworthy events and reveals the story behind the stories.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B60DC7517088FF33D6B7E32D88D0E1B7BCE6A808S.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts60">
+    <title lang="en">Made In Germany</title>
+    <desc lang="en">Your Business Magazine: In Germany, cows and pigs are factory farmed, triggering protest; in Ghana, cheap meat from the US and Europe is putting local farmers out of business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4008C61B5809502C0AAB4E2C0CEEEEE286EA9132.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626121500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626121500 +0000" stop="20240626130000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The Last Reed Boat Fishers of Huanchaco: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626131500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626131500 +0000" stop="20240626133000 +0000" channel="ts60">
+    <title lang="en">Best Of DW</title>
+    <desc lang="en">Online Content</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03D76211626BED64BBF4CCE8E61565A379FD3CD4T.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts60">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">The Environment Magazine: The filmmaker showcases how tourism helps Rwanda's golden monkeys as well as sheds light on several issues in the country.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5643A12E1AC8CD3ABE673628761746C01103FEB0R.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts60">
+    <title lang="en">Made In Germany</title>
+    <desc lang="en">Your Business Magazine: In Germany, cows and pigs are factory farmed, triggering protest; in Ghana, cheap meat from the US and Europe is putting local farmers out of business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4008C61B5809502C0AAB4E2C0CEEEEE286EA9132.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626151500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626151500 +0000" stop="20240626160000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">"Don't Come Back!" - Returning to the Ruins of Mosul: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts60">
+    <title lang="en">Eco India</title>
+    <desc lang="en">The Environment Magazine: The host explores the issue of Mumbai's street dogs, the price of India's affinity for coal and Malaysia's campaign to save energy.</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/697255516367FD4242171D3C10EB57900679D482E.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Ayahuasca Boom in Brazil - Remedy or Risk?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626181500 +0000" channel="ts60">
+    <title lang="en">DW News</title>
+    <desc lang="en">The host presents a round-up of the most recent news and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD5CEEEAEA29FD74B6A5E31CCCF79049F98FFD6P.jpg"/>
+  </programme>
+  <programme start="20240626181500 +0000" stop="20240626190000 +0000" channel="ts60">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Can I Hug You?: The film-maker presents interesting and moving stories on various topics from different parts of Germany and around the world.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46DAC358974904AB756C1775ACB740185A1FBFF2.jpg"/>
+  </programme>
+</tv>

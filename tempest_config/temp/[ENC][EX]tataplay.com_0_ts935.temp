@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts935">
+    <display-name lang="en">Awakening</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts935">
+    <title lang="en">Karma Destiny &amp; Choice</title>
+    <desc lang="en">A Brahma Kumari sheds light on spiritual concepts concerning karma, destiny and choice.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D68472FAA08647F7F87A740B34EC17E1D8BD21385.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts935">
+    <title lang="en">Masters Of Change</title>
+    <desc lang="en">Br. Charlie Hogg &amp; Kim Cunio: The host talks to a spiritual leader about emotional transformation and optimism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDEAF938B877CF031CE8DC1ADAAFEAE184F9F15E5.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624233000 +0000" channel="ts935">
+    <title lang="en">Amritvela</title>
+    <desc lang="en">The narrator walks one through a guided meditation designed specially for early morning.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8BEDDD59A028CA772FF22262235303A0A26ECA86.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts935">
+    <title lang="en">Words Of Wisdom</title>
+    <desc lang="en">A guru imparts words of wisdom that can enable a person to live a balanced life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/811B5E5F6DA42361BDFA2668343D4135E5D3C0B51.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts935">
+    <title lang="en">Mind Your Body</title>
+    <desc lang="en">An expert demonstrates a set of mindful exercises for nurturing a healthy body.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C24B5C6FB9BBA03E2548F98B954AD75A18756AEM.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts935">
+    <title lang="en">Madhuban Se Murli</title>
+    <desc lang="en">A religious scholar delivers a discourse on various aspects of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6513A225E6F33189C4B7C0A0792924AA8C0BF95T.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625043000 +0000" channel="ts935">
+    <title lang="en">Rajyoga: Jeevan Jeene Ki Kala</title>
+    <desc lang="en">Yogic experts guide one through raja yoga, a form of meditation.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FAD1F208D4D1D47E9C4D1AC4178838487F16EA3.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts935">
+    <title lang="en">Chintan</title>
+    <desc lang="en">A religious guru gives a discourse on the concept of awakening.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B1C7B424F38260D55E5ED5F307BDE2FDA8C2851.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts935">
+    <title lang="en">Words Of Wisdom</title>
+    <desc lang="en">A guru imparts words of wisdom that can enable a person to live a balanced life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/811B5E5F6DA42361BDFA2668343D4135E5D3C0B51.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts935">
+    <title lang="en">Pure Bites</title>
+    <desc lang="en">An expert sheds light on the importance of eating healthy food a person's well-being.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1830E26F628B0CF9D0A2B6A87D4B01AE7E6DBCABN.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts935">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts935">
+    <title lang="en">Murli Manthan</title>
+    <desc lang="en">A guru delves into the crux of the Murlis, which are verses revealed through Dadi Gulzar.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C238A2724304EB55CD542ACD4EC340F512D98CC6.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts935">
+    <title lang="en">Light At Work</title>
+    <desc lang="en">A guru sheds light on the changes meditation can bring about to one's professional life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DFE35762E89F9FEACB45DBA2578F58835B7A97EBH.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625113000 +0000" channel="ts935">
+    <title lang="en">Rajyoga: Jeevan Jeene Ki Kala</title>
+    <desc lang="en">Yogic experts guide one through raja yoga, a form of meditation.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FAD1F208D4D1D47E9C4D1AC4178838487F16EA3.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts935">
+    <title lang="en">Masters Of Change</title>
+    <desc lang="en">The host talks to a spiritual leader about emotional transformation and optimism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDEAF938B877CF031CE8DC1ADAAFEAE184F9F15E5.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625140000 +0000" channel="ts935">
+    <title lang="en">Meditation</title>
+    <desc lang="en">A guru takes one through a tranquil guided meditative session.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D580D7832D935E2D78AA668D0A9AE0DCA9EFB9142.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts935">
+    <title lang="en">Mind Specialists</title>
+    <desc lang="en">A psychiatrist gives his experiential insights to help one empower their mental health.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0A0DC62F22D761753020731CB31AC339A758EADH.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts935">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts935">
+    <title lang="en">Masters Of Change</title>
+    <desc lang="en">The host talks to a spiritual leader about emotional transformation and optimism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDEAF938B877CF031CE8DC1ADAAFEAE184F9F15E5.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts935">
+    <title lang="en">Jewels Of Knowledge</title>
+    <desc lang="en">A guru sheds light on the nature of the relationship humans have with the eternal being.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/843720CEB5C6DBD5280AC57625C52488D1DF3D9DF.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts935">
+    <title lang="en">Masters Of Change</title>
+    <desc lang="en">The host talks to a spiritual leader about emotional transformation and optimism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDEAF938B877CF031CE8DC1ADAAFEAE184F9F15E5.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts935">
+    <title lang="en">Karma Destiny &amp; Choice</title>
+    <desc lang="en">A Brahma Kumari sheds light on spiritual concepts concerning karma, destiny and choice.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D68472FAA08647F7F87A740B34EC17E1D8BD21385.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625233000 +0000" channel="ts935">
+    <title lang="en">Amritvela</title>
+    <desc lang="en">The narrator walks one through a guided meditation designed specially for early morning.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8BEDDD59A028CA772FF22262235303A0A26ECA86.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts935">
+    <title lang="en">Words Of Wisdom</title>
+    <desc lang="en">A guru imparts words of wisdom that can enable a person to live a balanced life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/811B5E5F6DA42361BDFA2668343D4135E5D3C0B51.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts935">
+    <title lang="en">Mind Your Body</title>
+    <desc lang="en">An expert demonstrates a set of mindful exercises for nurturing a healthy body.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C24B5C6FB9BBA03E2548F98B954AD75A18756AEM.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts935">
+    <title lang="en">Madhuban Se Murli</title>
+    <desc lang="en">A religious scholar delivers a discourse on various aspects of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6513A225E6F33189C4B7C0A0792924AA8C0BF95T.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626043000 +0000" channel="ts935">
+    <title lang="en">Rajyoga: Jeevan Jeene Ki Kala</title>
+    <desc lang="en">Yogic experts guide one through raja yoga, a form of meditation.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FAD1F208D4D1D47E9C4D1AC4178838487F16EA3.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts935">
+    <title lang="en">Chintan</title>
+    <desc lang="en">A religious guru gives a discourse on the concept of awakening.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B1C7B424F38260D55E5ED5F307BDE2FDA8C2851.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts935">
+    <title lang="en">Words Of Wisdom</title>
+    <desc lang="en">A guru imparts words of wisdom that can enable a person to live a balanced life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/811B5E5F6DA42361BDFA2668343D4135E5D3C0B51.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626080000 +0000" channel="ts935">
+    <title lang="en">Vichar Sagar Manthan</title>
+    <desc lang="en">Brahma Kumaris share thoughts on spirituality and explain the meaning of holy verses.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A26CF6E166FC1EF194FB56AD2BE0173F11DFC43V.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts935">
+    <title lang="en">Murli Manthan</title>
+    <desc lang="en">A guru delves into the crux of the Murlis, which are verses revealed through Dadi Gulzar.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C238A2724304EB55CD542ACD4EC340F512D98CC6.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts935">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">A guru imparts words of wisdom which can enable one to bring about changes in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8643230D118E0274838E769BD650BA6E98A98DE9N.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts935">
+    <title lang="en">Let's Change The World</title>
+    <desc lang="en">A guru talks about the changes one needs to bring about in one's life to attain happiness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9656F29DA2C6E46C3F09A591176BD68F25030C240.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts935">
+    <title lang="en">Rajyoga: Jeevan Jeene Ki Kala</title>
+    <desc lang="en">Yogic experts guide one through raja yoga, a form of meditation.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FAD1F208D4D1D47E9C4D1AC4178838487F16EA3.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts935">
+    <title lang="en">Murli: Vidhi Se Sidhhi</title>
+    <desc lang="en">A religious scholar delivers a discourse and shares some spiritual thoughts.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80339975C433C950F81917588EE3AC56F550FE0FZ.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts935">
+    <title lang="en">Masters Of Change</title>
+    <desc lang="en">The host talks to a spiritual leader about emotional transformation and optimism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDEAF938B877CF031CE8DC1ADAAFEAE184F9F15E5.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626140000 +0000" channel="ts935">
+    <title lang="en">Meditation</title>
+    <desc lang="en">A guru takes one through a tranquil guided meditative session.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D580D7832D935E2D78AA668D0A9AE0DCA9EFB9142.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts935">
+    <title lang="en">Ruh Rihaan</title>
+    <desc lang="en">A yogic expert sheds light on the art of contemplation by talking about what thoughts are.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46414A1AC2B229039E7C41B73CA91B8CFC5093BCA.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts935">
+    <title lang="en">Mind Specialists</title>
+    <desc lang="en">A psychiatrist gives his experiential insights to help one empower their mental health.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0A0DC62F22D761753020731CB31AC339A758EADH.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts935">
+    <title lang="en">Awakening With Brahma Kumaris</title>
+    <desc lang="en">Brahma Kumaris acknowledge the intrinsic goodness of people and promote inner strength.</desc>
+    <credits>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD258A33BE144509584EABCEF6F25CB47D3686C7T.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts935">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts935">
+    <title lang="en">Karma Destiny &amp; Choice</title>
+    <desc lang="en">A Brahma Kumari sheds light on spiritual concepts concerning karma, destiny and choice.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D68472FAA08647F7F87A740B34EC17E1D8BD21385.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts935">
+    <title lang="en">Jewels Of Knowledge</title>
+    <desc lang="en">A guru sheds light on the nature of the relationship humans have with the eternal being.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/843720CEB5C6DBD5280AC57625C52488D1DF3D9DF.jpg"/>
+  </programme>
+</tv>

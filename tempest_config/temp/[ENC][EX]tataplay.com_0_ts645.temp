@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts645">
+    <display-name lang="en">Tata Play English in Telugu</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625203000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625223000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625233000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626003000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626013000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626063000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts645">
+    <title lang="en">Accent Reduction Program</title>
+    <desc lang="en">Speak English flawlessly in 60 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4956D658697F8676DF03AFC58BCD2DA8543498C6P.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts645">
+    <title lang="en">Interview Skills &amp; Workplace Communication</title>
+    <desc lang="en">Be Job ready In 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F9F8B6C4FE7FDC03BA70217AB6DD119C1EDB3324.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts645">
+    <title lang="en">Master Grammar &amp; Vocabulary In 45 days</title>
+    <desc lang="en">Speak correct English</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/055184AF86B498F03577BF94BC0E0CBEFAC7200BI.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts645">
+    <title lang="en">English For Beginners</title>
+    <desc lang="en">Speak Farateedhar English in 30 days</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32065E007AF9E90CEB34E90AE0389533E4BBB142L.jpg"/>
+  </programme>
+</tv>

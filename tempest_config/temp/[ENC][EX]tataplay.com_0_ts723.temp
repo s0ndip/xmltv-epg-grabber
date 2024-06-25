@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts723">
+    <display-name lang="en">Tamil Naaptol</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts723">
+    <title lang="en">Women's Wear</title>
+    <desc lang="en">The host presents the features of women's wear that can be purchased from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A07B5B78C544835CD89FB74DDE04029516F0A92A.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts723">
+    <title lang="en">Electronics</title>
+    <desc lang="en">A wide range of electronic products can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D22A62076D4D4CA5E94CFEF9C871CC910043B696Q.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts723">
+    <title lang="en">Mobile</title>
+    <desc lang="en">The host presents the latest updates related to mobile phones.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5269569B2E03F85BDB29B7D808A157A404F835B2H.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts723">
+    <title lang="en">Health</title>
+    <desc lang="en">The host explains the benefits of a range of health products that can be bought from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/467EEF6B0319DE35238F5AC429A397B641E52B277.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts723">
+    <title lang="en">Electronics</title>
+    <desc lang="en">A wide range of electronic products can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D22A62076D4D4CA5E94CFEF9C871CC910043B696Q.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts723">
+    <title lang="en">Mobile</title>
+    <desc lang="en">The host presents the latest updates related to mobile phones.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5269569B2E03F85BDB29B7D808A157A404F835B2H.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts723">
+    <title lang="en">Electronics</title>
+    <desc lang="en">A wide range of electronic products can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D22A62076D4D4CA5E94CFEF9C871CC910043B696Q.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts723">
+    <title lang="en">Pooja Needs</title>
+    <desc lang="en">The host showcases a range of items used while performing pooja.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F22D5D333AA2117B3BCF3A58BAE7AEEE94FA0C65P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts723">
+    <title lang="en">Jewellery &amp; Watches</title>
+    <desc lang="en">The host features various pieces of jewellery and watches manufactured by popular brands.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/301F19F02F23AA51ED8D9BA1870F4994F160A700H.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts723">
+    <title lang="en">Footwear</title>
+    <desc lang="en">An expert gives information about the trending footwear that one can buy from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFC3987BFC35615CAE961F3D8956FC6197AF0BBEY.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts723">
+    <title lang="en">Hair Care</title>
+    <desc lang="en">An expert shares grooming tips and practices to help one look smart at the workplace.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2675DCE4DC4DA13C7CAACD3BC55A4B912C43C1B0L.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts723">
+    <title lang="en">Jewellery</title>
+    <desc lang="en">The host shows a wide variety of exquisite and beautiful jewellery for women.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91FA030C0BA57D5484C93F0797233AA6496F5FD27.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts723">
+    <title lang="en">Mobile</title>
+    <desc lang="en">The host presents the latest updates related to mobile phones.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5269569B2E03F85BDB29B7D808A157A404F835B2H.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts723">
+    <title lang="en">Home Furnishing</title>
+    <desc lang="en">The host presents a wide range of branded home furnishings that can be bought from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B0A2EAB12BCFE07DA365A8EA173AF214FE180BAR.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts723">
+    <title lang="en">Hair Care</title>
+    <desc lang="en">An expert shares grooming tips and practices to help one look smart at the workplace.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2675DCE4DC4DA13C7CAACD3BC55A4B912C43C1B0L.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts723">
+    <title lang="en">Health</title>
+    <desc lang="en">The host explains the benefits of a range of health products that can be bought from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/467EEF6B0319DE35238F5AC429A397B641E52B277.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts723">
+    <title lang="en">Footwear</title>
+    <desc lang="en">An expert gives information about the trending footwear that one can buy from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFC3987BFC35615CAE961F3D8956FC6197AF0BBEY.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts723">
+    <title lang="en">Face Care</title>
+    <desc lang="en">The host presents a wide range of face care products and devices.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A317878D03373CC7253F1592B459644151A3A063C.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts723">
+    <title lang="en">Hair Care</title>
+    <desc lang="en">An expert shares grooming tips and practices to help one look smart at the workplace.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2675DCE4DC4DA13C7CAACD3BC55A4B912C43C1B0L.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts723">
+    <title lang="en">Home Linen &amp; Furniture</title>
+    <desc lang="en">The host showcases a range of home linen and furniture that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E1350EBED1C464697335F26E5EF11009FC1A3EEX.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts723">
+    <title lang="en">Kitchen Tools</title>
+    <desc lang="en">The host presents a wide range of kitchen tools manufactured by renowned brands.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5B19A03A44C63996E28B98A676F41F27470AAV.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts723">
+    <title lang="en">Kitchen Storage</title>
+    <desc lang="en">Kitchen Storage</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/937158A59AEF4C0B553410EADE3F58BFD339C705J.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts723">
+    <title lang="en">Health</title>
+    <desc lang="en">The host explains the benefits of a range of health products that can be bought from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/467EEF6B0319DE35238F5AC429A397B641E52B277.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts723">
+    <title lang="en">Jewellery</title>
+    <desc lang="en">The host shows a wide variety of exquisite and beautiful jewellery for women.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91FA030C0BA57D5484C93F0797233AA6496F5FD27.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts723">
+    <title lang="en">Jewellery &amp; Watches</title>
+    <desc lang="en">The host features various pieces of jewellery and watches manufactured by popular brands.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/301F19F02F23AA51ED8D9BA1870F4994F160A700H.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts723">
+    <title lang="en">Health</title>
+    <desc lang="en">The host explains the benefits of a range of health products that can be bought from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/467EEF6B0319DE35238F5AC429A397B641E52B277.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts723">
+    <title lang="en">Massager</title>
+    <desc lang="en">The host talks about an electronic device that aids in relieving body pain.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D59038733CBE1F43EEFD343D19D9964A3565A5EU.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts723">
+    <title lang="en">Kitchen</title>
+    <desc lang="en">The host illustrates the features and benefits of an array of kitchen appliances.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52DB8FE69264CA03833E78E4BA7435196297F84CU.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts723">
+    <title lang="en">Eye Wear</title>
+    <desc lang="en">The host features various eye wear products manufactured by popular brands.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EC6DB25588223F59A3529196FBC00EBA63E6569U.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts723">
+    <title lang="en">Home Cleaning</title>
+    <desc lang="en">The host showcases a range of cleaning products that can be purchased online.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/414B7E1833832366A47AB40E92C30CB1CD94E8731.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts723">
+    <title lang="en">Women's Wear</title>
+    <desc lang="en">The host presents the features of women's wear that can be purchased from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A07B5B78C544835CD89FB74DDE04029516F0A92A.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts723">
+    <title lang="en">Electronics Accessories</title>
+    <desc lang="en">Electronics Accessories</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9F2C49DED700857848D0D8F5B17444BEC0D49029.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts723">
+    <title lang="en">Tools &amp; Hardware</title>
+    <desc lang="en">The host features various tools and hardware manufactured by popular brands.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72870965F5DA72DF745E24B126BF02C4BFD7B8A6F.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts723">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+</tv>

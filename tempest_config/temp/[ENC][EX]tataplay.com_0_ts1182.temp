@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1182">
+    <display-name lang="en">Zee Thirai HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts1182">
+    <title lang="en">India Pakistan</title>
+    <desc lang="en">Two aspiring lawyers, who share common office premises, are always at loggerheads.</desc>
+    <credits>
+      <actor>Vijay Antony</actor>
+      <actor>Sushma Raj</actor>
+      <actor>Jagan</actor>
+      <actor>Pasupathy</actor>
+      <actor>M S Bhaskar</actor>
+      <actor>Urvashi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2856A22F9BAF4A04E54A4A8C2B321912D23E971CY.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1182">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a compilation of songs and snippets from the latest Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1182">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a compilation of songs and snippets from the latest Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625013000 +0000" channel="ts1182">
+    <title lang="en">Akhanda</title>
+    <desc lang="en">Akhanda leaves no stone unturned to defeat the nefarious Varadarajulu.</desc>
+    <credits>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Pragya Jaiswal</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Meka Srikanth</actor>
+      <actor>Shamna Kasim</actor>
+      <actor>Viji Chandrashekhar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75EE69CF7914379CB829527160455AFD710D038FE.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1182">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">Good Morning Thirai E13.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E02C84F4539EAF59121814BCA732F0394758B9A9.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1182">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">Good Morning Thirai E12.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E02C84F4539EAF59121814BCA732F0394758B9A9.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625050000 +0000" channel="ts1182">
+    <title lang="en">Kolamavu Kokila</title>
+    <desc lang="en">Kokila is forced to join the drug business to fund her mother's treatment.</desc>
+    <credits>
+      <actor>Nayanthara</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>R S Shivaji</actor>
+      <actor>Saravanan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A47C89C11741F0B484BABB683C43C7277EE5F88V.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625073000 +0000" channel="ts1182">
+    <title lang="en">Ayodhi</title>
+    <desc lang="en">When a man going to Rameshwar picks with a taxi driver, it leads to unfortunate events.</desc>
+    <credits>
+      <actor>Preethi Asrani</actor>
+      <actor>Master Advaith</actor>
+      <actor>Anju Asrani</actor>
+      <actor>Pugazh</actor>
+      <actor>Thaman Kumar</actor>
+      <actor>Pondy Ravi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41F39497854BB6E1EC949F828F5F95EB09DA3805J.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts1182">
+    <title lang="en">Bhairavakottai</title>
+    <desc lang="en">After committing a robbery, a man ends up in a village shrouded in mystery.</desc>
+    <credits>
+      <actor>Sundeep Kishan</actor>
+      <actor>Kavya Thapar</actor>
+      <actor>Vennela Kishore</actor>
+      <actor>Varsha Bollamma</actor>
+      <actor>Kushee Ravi</actor>
+      <actor>Rajsekhar Aningi</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3323CF6C7C46F7644C725CCE1A784ABA4794966BL.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts1182">
+    <title lang="en">Kamali From Nadukkaveri</title>
+    <desc lang="en">A young woman strives hard to land a seat in a prestigious educational institute.</desc>
+    <credits>
+      <actor>Kayal Anandhi</actor>
+      <actor>Rohit Suresh Saraf</actor>
+      <actor>Prathap Pothen</actor>
+      <actor>Abitha Venkat</actor>
+      <actor>Azhagam Perumal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA68FE2D376B2296FA8C52D3358A92FF33F93167Z.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625160000 +0000" channel="ts1182">
+    <title lang="en">Karnan</title>
+    <desc lang="en">A young man is appalled at the inhuman treatment given to his villagers and lashes out.</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Lal</actor>
+      <actor>Rajisha Vijayan</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Natarajan Subramaniam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E83B49974447411780C051A210823E719FE14F91M.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625183000 +0000" channel="ts1182">
+    <title lang="en">Kaari</title>
+    <desc lang="en">After suffering under the reign of a tycoon, Sethu provides hope to Kariyoor's villagers.</desc>
+    <credits>
+      <actor>M Sasikumar</actor>
+      <actor>Parvathy Arun</actor>
+      <actor>J D Chakravarthy</actor>
+      <actor>Balaji Sakthivel</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Ammu Abhirami</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/631BDDBAC02E9BF80465630DD7EB2BE8311BE595R.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts1182">
+    <title lang="en">En Peru Surya En Veedu India</title>
+    <desc lang="en">When a hotheaded soldier gets court-martialled, he sets out to meet a psychologist.</desc>
+    <credits>
+      <actor>Allu Arjun</actor>
+      <actor>Anu Emmanuel</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>R Sarathkumar</actor>
+      <actor>Thakur Anoop Singh</actor>
+      <actor>Boman Irani</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0C8895F3ECAF0944A533C5F5CEEBDDDCE276205S.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts1182">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a compilation of songs and snippets from the latest Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts1182">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a compilation of songs and snippets from the latest Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85B73C3AB4A46A66B7F87C5FA15865237FD702FCV.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240626013000 +0000" channel="ts1182">
+    <title lang="en">K.G.F: Chapter 2</title>
+    <desc lang="en">In his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat and Ramika.</desc>
+    <credits>
+      <actor>Naveen Kumar Gowda</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Srinidhi Shetty</actor>
+      <actor>Achyuth Kumar</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C50C4B80F91AA2C9C78E5312C55A23A01F2A2B8FB.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts1182">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">Good Morning Thirai E14.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E02C84F4539EAF59121814BCA732F0394758B9A9.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts1182">
+    <title lang="en">Good Morning Thirai</title>
+    <desc lang="en">Good Morning Thirai E13.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E02C84F4539EAF59121814BCA732F0394758B9A9.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626050000 +0000" channel="ts1182">
+    <title lang="en">Mohini</title>
+    <desc lang="en">A woman in love is possessed by a lookalike who is thirsty for vengeance.</desc>
+    <credits>
+      <actor>Trisha</actor>
+      <actor>Jackky Bhagnani</actor>
+      <actor>Mukesh Tiwari</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Poornima Bhagyaraj</actor>
+      <actor>Rama</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1760DF425A888249F33297C5591614D787A19DB2.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626073000 +0000" channel="ts1182">
+    <title lang="en">Lakshmi</title>
+    <desc lang="en">Lakshmi dreams of winning a national level dance competition but her mother detests dance.</desc>
+    <credits>
+      <actor>Prabhu Deva</actor>
+      <actor>Ditya Bhande</actor>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Salman Yusuff Khan</actor>
+      <actor>Karunakaran</actor>
+    </credits>
+    <category lang="en">Musical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E65A94AAC2D80A05D319206A896E108C59EEBD968.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626110000 +0000" channel="ts1182">
+    <title lang="en">Bhagavanth Kesari</title>
+    <desc lang="en">An ex-prisoner opposes a ruthless businessman while training his daughter for the army.</desc>
+    <credits>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Sreeleela</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Pallak Lalwani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9CAC20E929AB80BCE1EB56B1A778B7DD3151BCFH.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626133000 +0000" channel="ts1182">
+    <title lang="en">Sindhubaadh</title>
+    <desc lang="en">Thiru's life takes an unusual turn when his wife becomes a victim of human trafficking.</desc>
+    <credits>
+      <actor>Vijay Sethupathi</actor>
+      <actor>Anjali</actor>
+      <actor>Linga</actor>
+      <actor>Vivek Prasanna</actor>
+      <actor>Surya Vijay Sethupathi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DF14F3DEFD43C9488F65BB87AE34BADC8284B0BH.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626160000 +0000" channel="ts1182">
+    <title lang="en">Bhajarangi 2</title>
+    <desc lang="en">A forest officer comes to the rescue of innocent villagers oppressed by a drug baron.</desc>
+    <credits>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Bhavana Menon</actor>
+      <actor>Shruthi</actor>
+      <actor>Saurav Lokesh</actor>
+      <actor>Shivaraj K R Pete</actor>
+      <actor>Cheluvaraj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DC594A4E0D6F1A193EB22F5502CC0A523AE21D13.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626183000 +0000" channel="ts1182">
+    <title lang="en">Dhilluku Dhuddu 2</title>
+    <desc lang="en">Viji's life turns upside down when he realises that a ghost is protecting Maya.</desc>
+    <credits>
+      <actor>Santhanam</actor>
+      <actor>Shritha Sivadas</actor>
+      <actor>Rajendran</actor>
+      <actor>Urvashi</actor>
+      <actor>T M Karthik</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3188562A40EAB7E44F0917BB48F63B6437BCDD8BC.jpg"/>
+  </programme>
+</tv>

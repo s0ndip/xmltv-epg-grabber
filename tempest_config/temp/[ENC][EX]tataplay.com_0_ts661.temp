@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts661">
+    <display-name lang="en">Public Movies</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624204200 +0000" channel="ts661">
+    <title lang="en">Ishtartha</title>
+    <desc lang="en">A straightforward young man falls deeply in love with a girl but situations in his life force them to separate, causing him a lot of pain and agony.</desc>
+    <credits>
+      <actor>Vijay Subramanya</actor>
+      <actor>Sripriya Bopayya</actor>
+      <actor>Sujith</actor>
+      <actor>Killer Venkatesh</actor>
+      <actor>Ramesh Pandit</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/710F5E9F982B4492C89990A99EEB0072F0B06313D.jpg"/>
+  </programme>
+  <programme start="20240624204200 +0000" stop="20240624213000 +0000" channel="ts661">
+    <title lang="en">Bari Comedy</title>
+    <desc lang="en">Bari Comedy</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E001637AF3948F03C5EFA88411D293E19173ABF8J.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts661">
+    <title lang="en">Tapanguchi Songs</title>
+    <desc lang="en">A compilation of some of the most popular songs that highlight the free-style dance form of tapanguchi is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A217A64724137ACB50139D91A46593A4D3638F085.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts661">
+    <title lang="en">Bari Comedy</title>
+    <desc lang="en">Bari Comedy</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E001637AF3948F03C5EFA88411D293E19173ABF8J.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts661">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from various movies composed by various renowned artists and bands, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5327B02A657F83BCF8154B285279E22D67F8EA74C.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625020000 +0000" channel="ts661">
+    <title lang="en">Daiva Darshana</title>
+    <desc lang="en">Learn about the different types of rituals performed in praise and honour of deities across various temples in South India.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FD2C519F16F07EDFC49E54C98D6B4D9A8C748582.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts661">
+    <title lang="en">Pooja Phala Live</title>
+    <desc lang="en">In a live telecast, a Hindu religious leader provides astrology-based solutions and explains the rituals to reduce the intensity of one's 'dosha'.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29C6A77632B562309F143DC1DB52CBB3B2DA93FFF.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625052900 +0000" channel="ts661">
+    <title lang="en">Ramanna Shamanna</title>
+    <desc lang="en">Ramanna Shamanna</desc>
+    <credits>
+      <actor>Ambareesh</actor>
+      <actor>V Ravichandran</actor>
+      <actor>Madhavi</actor>
+      <actor>Geetha</actor>
+      <actor>Devaraj</actor>
+      <actor>Leelavathi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25223ECB4D60C7F088C27A5B1F650FCF637AE4A5M.jpg"/>
+  </programme>
+  <programme start="20240625052900 +0000" stop="20240625061500 +0000" channel="ts661">
+    <title lang="en">New Songs</title>
+    <desc lang="en">A special collection of popular and entertaining songs recorded by prolific artists and musicians for recent blockbuster movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D6102F185DE7DFC251BB4D4DE5F9348710CD6B6D.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0000" stop="20240625063000 +0000" channel="ts661">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/754E11CD41909195D72E226AC7A1165C26174028M.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625071500 +0000" channel="ts661">
+    <title lang="en">New Songs</title>
+    <desc lang="en">A special collection of popular and entertaining songs recorded by prolific artists and musicians for recent blockbuster movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D6102F185DE7DFC251BB4D4DE5F9348710CD6B6D.jpg"/>
+  </programme>
+  <programme start="20240625071500 +0000" stop="20240625073000 +0000" channel="ts661">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/754E11CD41909195D72E226AC7A1165C26174028M.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625081500 +0000" channel="ts661">
+    <title lang="en">Dharmika Phala Live</title>
+    <desc lang="en">An astrologer shares invaluable insights and provides predictions for different zodiac signs based on the movement of the planets, live.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6C22E96A82EEDC411B1A01F0A0A7E12988036260.jpg"/>
+  </programme>
+  <programme start="20240625081500 +0000" stop="20240625083000 +0000" channel="ts661">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/754E11CD41909195D72E226AC7A1165C26174028M.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625091500 +0000" channel="ts661">
+    <title lang="en">Bari Comedy</title>
+    <desc lang="en">Bari Comedy</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E001637AF3948F03C5EFA88411D293E19173ABF8J.jpg"/>
+  </programme>
+  <programme start="20240625091500 +0000" stop="20240625093000 +0000" channel="ts661">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/754E11CD41909195D72E226AC7A1165C26174028M.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts661">
+    <title lang="en">Muniyana Madari</title>
+    <desc lang="en">Muniya's debt-ridden father mortgages him to his master after he runs out of money to pay his dues. When Muniya grows up and aspires to cultivate a land of his own, his master thwarts his every move.</desc>
+    <credits>
+      <actor>Shankar Nag</actor>
+      <actor>Jai Jagadish</actor>
+      <actor>Kokila Mohan</actor>
+      <actor>Jayamala</actor>
+      <actor>Rajya Lakshmi</actor>
+      <actor>Leelavathi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05BD7089F91C84BB03922C36DE8EB69C0F5D7BDD0.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625160000 +0000" channel="ts661">
+    <title lang="en">Neenu Nakkare Halu Sakkare</title>
+    <desc lang="en">A man is on the hunt for a bride he is compatible with. However, he goes through various hilarious hurdles during the hunt before he manages to find a girl.</desc>
+    <credits>
+      <actor>Vishnuvardhan</actor>
+      <actor>Rupini</actor>
+      <actor>Srinath</actor>
+      <actor>Rajani</actor>
+      <actor>Vinaya Prasad</actor>
+      <actor>Anjali Sudhakar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA8551EB63652B12B0FD6085A6E781D11DF1ED3A9.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625213000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts661">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

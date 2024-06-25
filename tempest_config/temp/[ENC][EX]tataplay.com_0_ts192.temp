@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts192">
+    <display-name lang="en">Fakt Marathi</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624210000 +0000" channel="ts192">
+    <title lang="en">Movie - Khandobachi Katha</title>
+    <desc lang="en">When two demons, Mallasur and Manikasur, create havoc in Trailokya, Lord Shiva takes the avatar of Lord Khandoba to kill the duo and restore peace.</desc>
+    <credits>
+      <actor>Sharad Pongshe</actor>
+      <actor>Makrand Anaspure</actor>
+      <actor>Ashwini Ekbote</actor>
+      <actor>Kishor Mahabole</actor>
+      <actor>Madhvi Soman</actor>
+      <actor>Priyanka Bhide</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2266D13291BD4A680BD8890928BA99CD31F1DD19.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624230000 +0000" channel="ts192">
+    <title lang="en">Movie - Slambook</title>
+    <desc lang="en">When Aparna's family moves into Hruday's neighbourhood, the latter falls in love with the young girl. His maternal grandfather helps the teenage boy by giving him tips on how to woo her.</desc>
+    <credits>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Kushal Badrike</actor>
+      <actor>Mangesh Desai</actor>
+      <actor>Mrinmayee Deshpande</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5D69ADF44BD27CA62F40F18B593E51B5E041594O.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240625000000 +0000" channel="ts192">
+    <title lang="en">Devachiye Dwari</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty and to seek blessings while delivering a spiritual message.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2AB27BB55D9BCE6893EDB017B82717CAC5480A0Q.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625010000 +0000" channel="ts192">
+    <title lang="en">Prabhat Gaani</title>
+    <desc lang="en">Talented artists perform a comprehensive compilation of melodious devotional songs to seek the blessings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6F32199027FDD390BEDB6BA96C7A3FF91E61D069.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts192">
+    <title lang="en">Surr Tech Chedita</title>
+    <desc lang="en">Talented musicians from across the state render melodious renditions of legendary classical songs and showcase their exemplary vocal skills.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63611AE0C1C84374DED9D07B39423D9CDBAE0A5E7.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts192">
+    <title lang="en">Prabhat Gaani</title>
+    <desc lang="en">Talented artists perform a comprehensive compilation of melodious devotional songs to seek the blessings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6F32199027FDD390BEDB6BA96C7A3FF91E61D069.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts192">
+    <title lang="en">Devachiye Dwari</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty and to seek blessings while delivering a spiritual message.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2AB27BB55D9BCE6893EDB017B82717CAC5480A0Q.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts192">
+    <title lang="en">Mahabali Hanuman</title>
+    <desc lang="en">Hanuman, son of Anjani and Kesari, is an ardent devotee of Lord Rama. He possesses various virtuous qualities and leads an army of monkey warriors to protect the people against all evils.</desc>
+    <credits>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Gagan Malik</actor>
+      <actor>Deblina Chatterjee</actor>
+      <actor>Tushar Dalvi</actor>
+      <actor>Reem Sheikh</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF7FEC46FD2CB336468405355A14AED7D35558C3X.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts192">
+    <title lang="en">Aai Majhi Kalubai</title>
+    <desc lang="en">Aarya, a young girl, goes out of her way to help the needy. Later, Goddess Kalubai, in the form of an ordinary woman, praises her act of selflessness and blesses her.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4208B80A78D3103FA8889A092AF6C04D37AEA34Z.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts192">
+    <title lang="en">Swarajya Saudamini Tararani</title>
+    <desc lang="en">Queen Tararani, the regent of the Maratha Empire following her husband's death, resists Mughal invaders who are trying to take over her territories.</desc>
+    <credits>
+      <actor>Swarda Thigale</actor>
+      <actor>Amol Kolhe</actor>
+      <actor>Ashvini Pradipkumar Mahangade</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Poorva Gokhale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAD22F4F03C54BE65D6DCC0565E31A38B12F111FJ.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts192">
+    <title lang="en">Movie - Sukhi Sansarachi 12 Sutre</title>
+    <desc lang="en">A woman gets twelve pieces of wisdom from her mother at the time of her marriage that would help her maintain a happy marriage.</desc>
+    <credits>
+      <actor>Ashok Saraf</actor>
+      <actor>Asawari Joshi</actor>
+      <actor>Pradeep Patwardhan</actor>
+      <actor>Rohini Hattangadi</actor>
+      <actor>Shubha Khote</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/988707C4960892D57BC7106B06A4386608B5B816D.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625120000 +0000" channel="ts192">
+    <title lang="en">Movie - Manini</title>
+    <desc lang="en">Shalini, a village girl, is forced to marry a Dubai-based expatriate who is in love with Maya. Fed up of suffering abuse at his hands, she leaves him and finds solace in Deepak, a photographer.</desc>
+    <credits>
+      <actor>Girija Oak</actor>
+      <actor>Swapnil Joshi</actor>
+      <actor>Manoj Bidwai</actor>
+      <actor>Tanaaz Currim</actor>
+      <actor>Anand Abhyankar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10F40D4C47BD466AF1F9A27D9F0295C57A92DABEF.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625143000 +0000" channel="ts192">
+    <title lang="en">Movie - Aai</title>
+    <desc lang="en">A young girl is forced to give up her studies and join a dance troupe after her mother's untimely death. She soon falls in love with a renowned doctor while being treated by him.</desc>
+    <credits>
+      <actor>Suhas Bhalekar</actor>
+      <actor>Kamini Bhatia</actor>
+      <actor>Rajani Chavan</actor>
+      <actor>Leela Gandhi</actor>
+      <actor>Dinkar Inamdar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/988963BB81D07E5F3C959F903C6A6D8D6BD1AB2BI.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts192">
+    <title lang="en">Swarajya Saudamini Tararani</title>
+    <desc lang="en">Queen Tararani, the regent of the Maratha Empire following her husband's death, resists Mughal invaders who are trying to take over her territories.</desc>
+    <credits>
+      <actor>Swarda Thigale</actor>
+      <actor>Amol Kolhe</actor>
+      <actor>Ashvini Pradipkumar Mahangade</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Poorva Gokhale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAD22F4F03C54BE65D6DCC0565E31A38B12F111FJ.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts192">
+    <title lang="en">Mahabali Hanuman</title>
+    <desc lang="en">Hanuman, son of Anjani and Kesari, is an ardent devotee of Lord Rama. He possesses various virtuous qualities and leads an army of monkey warriors to protect the people against all evils.</desc>
+    <credits>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Gagan Malik</actor>
+      <actor>Deblina Chatterjee</actor>
+      <actor>Tushar Dalvi</actor>
+      <actor>Reem Sheikh</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF7FEC46FD2CB336468405355A14AED7D35558C3X.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts192">
+    <title lang="en">Anupama</title>
+    <desc lang="en">Although a tomboy by nature, Anupama is liked by everyone in her village because of her innocence and beauty.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D2D0B5DC4F3DA9F57A6CD158676D63853009EA8J.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts192">
+    <title lang="en">Dev Pavala</title>
+    <desc lang="en">Members of different families face various struggles in their life that strains their physical and mental well-being. However their faith in the Almighty comes to their rescue.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/861CB32F52EE3E24CD8C8B1DDFE0303299D884D3F.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625210000 +0000" channel="ts192">
+    <title lang="en">Movie - Sant Balumama</title>
+    <desc lang="en">Balumama Maharaj, a renowned Indian guru, navigates through a failed marriage and various other challenges and experiences.</desc>
+    <credits>
+      <actor>Prakash Dhotre</actor>
+      <actor>Sharad Ponkshe</actor>
+      <actor>Sunil Godbole</actor>
+      <actor>Kasturi Naik</actor>
+      <actor>Manisha Jadhav</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0C0BE30415092CD16333F6F9871F62180337C496.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625230000 +0000" channel="ts192">
+    <title lang="en">Movie - Baila Ho Baykola Kho</title>
+    <desc lang="en">A married man, who loves his wife immensely, is a compulsive cheater and has affairs with numerous women. Eventually, his addiction lands him in trouble.</desc>
+    <credits>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Mohan Joshi</actor>
+      <actor>Vijay Chavan</actor>
+      <actor>Priyanka Yadav</actor>
+      <actor>Anshuman Vichare</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDA5496F44AB2D0638A3B1E78332ED2AFE5269BFP.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240626000000 +0000" channel="ts192">
+    <title lang="en">Devachiye Dwari</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty and to seek blessings while delivering a spiritual message.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2AB27BB55D9BCE6893EDB017B82717CAC5480A0Q.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626010000 +0000" channel="ts192">
+    <title lang="en">Prabhat Gaani</title>
+    <desc lang="en">Talented artists perform a comprehensive compilation of melodious devotional songs to seek the blessings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6F32199027FDD390BEDB6BA96C7A3FF91E61D069.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts192">
+    <title lang="en">Surr Tech Chedita</title>
+    <desc lang="en">Talented musicians from across the state render melodious renditions of legendary classical songs and showcase their exemplary vocal skills.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63611AE0C1C84374DED9D07B39423D9CDBAE0A5E7.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts192">
+    <title lang="en">Prabhat Gaani</title>
+    <desc lang="en">Talented artists perform a comprehensive compilation of melodious devotional songs to seek the blessings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6F32199027FDD390BEDB6BA96C7A3FF91E61D069.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts192">
+    <title lang="en">Devachiye Dwari</title>
+    <desc lang="en">Various religious singers and musicians sing devotional songs in praise of the Almighty and to seek blessings while delivering a spiritual message.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2AB27BB55D9BCE6893EDB017B82717CAC5480A0Q.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts192">
+    <title lang="en">Mahabali Hanuman</title>
+    <desc lang="en">Hanuman, son of Anjani and Kesari, is an ardent devotee of Lord Rama. He possesses various virtuous qualities and leads an army of monkey warriors to protect the people against all evils.</desc>
+    <credits>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Gagan Malik</actor>
+      <actor>Deblina Chatterjee</actor>
+      <actor>Tushar Dalvi</actor>
+      <actor>Reem Sheikh</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF7FEC46FD2CB336468405355A14AED7D35558C3X.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts192">
+    <title lang="en">Aai Majhi Kalubai</title>
+    <desc lang="en">Aarya, a young girl, goes out of her way to help the needy. Later, Goddess Kalubai, in the form of an ordinary woman, praises her act of selflessness and blesses her.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4208B80A78D3103FA8889A092AF6C04D37AEA34Z.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626063000 +0000" channel="ts192">
+    <title lang="en">Swarajya Saudamini Tararani</title>
+    <desc lang="en">Queen Tararani, the regent of the Maratha Empire following her husband's death, resists Mughal invaders who are trying to take over her territories.</desc>
+    <credits>
+      <actor>Swarda Thigale</actor>
+      <actor>Amol Kolhe</actor>
+      <actor>Ashvini Pradipkumar Mahangade</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Poorva Gokhale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAD22F4F03C54BE65D6DCC0565E31A38B12F111FJ.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts192">
+    <title lang="en">Movie - Sant Savata Mali / Sant Chokhamela</title>
+    <desc lang="en">Savata Mali devotes his life to the Almighty and gets divine interventions; Chokhamela, a devotee of the divinity, anchors to his devotion while facing mistreatments from the society.</desc>
+    <credits>
+      <actor>Pramod Pawar</actor>
+      <actor>Jyoti Ravul</actor>
+      <actor>Imtiyaz</actor>
+      <actor>Aparna Joshi</actor>
+      <actor>Dhanesh Joshi</actor>
+      <actor>Rajan Panchal</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61F929E0ECE9CEABDB668BD1BB35BBCBCD4EFFA0K.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626120000 +0000" channel="ts192">
+    <title lang="en">Movie - Aai Tujha Aashirwad</title>
+    <desc lang="en">Suraj's mother and grandfather dislike his habit of lying but he vows to never lie again. However, due to unforeseen circumstances, Suraj needs to break his promise.</desc>
+    <credits>
+      <actor>Alka Kubal Athalye</actor>
+      <actor>Seva More</actor>
+      <actor>Ashok Saraf</actor>
+      <actor>Ramesh Bhatkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01C2A506FB9BF7FAC49164AB26BB9B0A373E42F9S.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626143000 +0000" channel="ts192">
+    <title lang="en">Movie - Mulga</title>
+    <desc lang="en">An orthodox family's patriarchal ideas force a young girl child to struggle in order to accomplish her dreams and prove her worth in the male-dominated society.</desc>
+    <credits>
+      <actor>Deepa Parab</actor>
+      <actor>Amol Kolhe</actor>
+      <actor>Fayaz Shaikh</actor>
+      <actor>Teja Devkar</actor>
+      <actor>Ragini Samant</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E8C9E32F846C150FEE7F525AF06DE0E01F8F701S.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts192">
+    <title lang="en">Swarajya Saudamini Tararani</title>
+    <desc lang="en">Queen Tararani, the regent of the Maratha Empire following her husband's death, resists Mughal invaders who are trying to take over her territories.</desc>
+    <credits>
+      <actor>Swarda Thigale</actor>
+      <actor>Amol Kolhe</actor>
+      <actor>Ashvini Pradipkumar Mahangade</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Poorva Gokhale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAD22F4F03C54BE65D6DCC0565E31A38B12F111FJ.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts192">
+    <title lang="en">Mahabali Hanuman</title>
+    <desc lang="en">Hanuman, son of Anjani and Kesari, is an ardent devotee of Lord Rama. He possesses various virtuous qualities and leads an army of monkey warriors to protect the people against all evils.</desc>
+    <credits>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Gagan Malik</actor>
+      <actor>Deblina Chatterjee</actor>
+      <actor>Tushar Dalvi</actor>
+      <actor>Reem Sheikh</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF7FEC46FD2CB336468405355A14AED7D35558C3X.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts192">
+    <title lang="en">Anupama</title>
+    <desc lang="en">Although a tomboy by nature, Anupama is liked by everyone in her village because of her innocence and beauty.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D2D0B5DC4F3DA9F57A6CD158676D63853009EA8J.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts192">
+    <title lang="en">Dev Pavala</title>
+    <desc lang="en">Members of different families face various struggles in their life that strains their physical and mental well-being. However their faith in the Almighty comes to their rescue.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/861CB32F52EE3E24CD8C8B1DDFE0303299D884D3F.jpg"/>
+  </programme>
+</tv>

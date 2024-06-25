@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts632">
+    <display-name lang="en">Star GOLD HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625033000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625040600 +0000" stop="20240625060900 +0000" channel="ts632">
+    <title lang="en">Babli Bouncer</title>
+    <desc lang="en">Upon leaving her small town for a well-paying job, Babli Tanwar gets a job as a bouncer. Amid the taunts of society, Babli must strive to prove her abilities.</desc>
+    <credits>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Abhishek Bajaj</actor>
+      <actor>Sahil Vaid</actor>
+      <actor>Saanand Verma</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Atul Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEDFFED02E249594D7EB2086D1C96CAC52C10E64X.jpg"/>
+  </programme>
+  <programme start="20240625060900 +0000" stop="20240625083600 +0000" channel="ts632">
+    <title lang="en">Ek Villain</title>
+    <desc lang="en">Guru is a gangster whose life changes after he falls in love with Aisha and decides to mend his ways. When Aisha gets murdered by a serial killer, Guru begins to search for the culprit.</desc>
+    <credits>
+      <actor>Sidharth Malhotra</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Kamaal Rashid Khan</actor>
+      <actor>Aamna Sharif</actor>
+      <actor>Remo Fernandes</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/628DE661AA1EB81D534D80E2508AE34F989483011.jpg"/>
+  </programme>
+  <programme start="20240625083600 +0000" stop="20240625114800 +0000" channel="ts632">
+    <title lang="en">Taarzan: The Wonder Car</title>
+    <desc lang="en">Raj revamps his deceased father's car into a wonderful car named Taarzan and the car comes alive as it is possessed by his father's spirit. Soon, it also starts killing his father's murderers.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Vatsal Seth</actor>
+      <actor>Ayesha Takia</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Farida Jalal</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0BB4AD6FB4D0BA5DDFFF4D035D4DB775F9CD30CI.jpg"/>
+  </programme>
+  <programme start="20240625114800 +0000" stop="20240625142500 +0000" channel="ts632">
+    <title lang="en">Bhoot Police</title>
+    <desc lang="en">Brothers Vibhooti and Chiraunji are assigned a seemingly ordinary case of hunting down demonic spirits in a remote village. However, they soon realise that there is nothing ordinary about this case.</desc>
+    <credits>
+      <actor>Saif Ali Khan</actor>
+      <actor>Arjun Kapoor</actor>
+      <actor>Yami Gautam</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Javed Jaffrey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DB186BFD74A1E65DC44894CDE26BDC5EA7C2997N.jpg"/>
+  </programme>
+  <programme start="20240625142500 +0000" stop="20240625171200 +0000" channel="ts632">
+    <title lang="en">Theeran</title>
+    <desc lang="en">Theeran, a dedicated police officer, pays the price for his honesty and faces hardships when he tries to investigate the illegal activities conducted by a powerful gangster.</desc>
+    <credits>
+      <actor>Karthi</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Abhimanyu Singh</actor>
+      <actor>Bose Venkat</actor>
+      <actor>Praveena</actor>
+      <actor>Sathyan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEB07BBBEAFA6AE9A3828082B64B30163908489P.jpg"/>
+  </programme>
+  <programme start="20240625171200 +0000" stop="20240625194900 +0000" channel="ts632">
+    <title lang="en">Maine Pyaar Kyun Kiya</title>
+    <desc lang="en">Sameer lies to his girlfriend, Sonia, that he is in an unhappy marriage. However, when he falls in love with her, she asks to meet his estranged wife and puts him in a predicament as a result.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Sushmita Sen</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Sohail Khan</actor>
+      <actor>Beena Kak</actor>
+      <actor>Arshad Warsi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A51555B2EB0C8474377424BB13BE35FD3723977FH.jpg"/>
+  </programme>
+  <programme start="20240625194900 +0000" stop="20240625213000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts632">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

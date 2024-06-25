@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts64">
+    <display-name lang="en">Zee Anmol Cinema</display-name>
+  </channel>
+  <programme start="20240624193000 +0000" stop="20240624232700 +0000" channel="ts64">
+    <title lang="en">Saheb Bahadur</title>
+    <desc lang="en">A group of corrupt officials constantly bribe a small town to satisfy their greed. However, their days are numbered when Prem Pratap, an undercover government official, arrives to investigate them.</desc>
+    <credits>
+      <actor>Dev Anand</actor>
+      <actor>Jalal Agha</actor>
+      <actor>Ajit</actor>
+      <actor>Priya Rajvansh</actor>
+      <actor>Om Prakash</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F8F4349FDFD85D1C153A9DE93E0929DEA51650C7.jpg"/>
+  </programme>
+  <programme start="20240624232700 +0000" stop="20240625011800 +0000" channel="ts64">
+    <title lang="en">Mr. Bond</title>
+    <desc lang="en">Mr Bond is a detective known for solving the toughest of crime mysteries. But the arrival of Dragon, a gangster involved in child-trafficking, seems to be a real challenge for the crime-solver.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Pankaj Dheer</actor>
+      <actor>Sheeba</actor>
+      <actor>Mac Mohan</actor>
+      <actor>Dolly Minhas</actor>
+      <actor>Ram Mohan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04ECE273A37C9D86ADF92551C08EBA9C5C90C5377.jpg"/>
+  </programme>
+  <programme start="20240625011800 +0000" stop="20240625043400 +0000" channel="ts64">
+    <title lang="en">Bewafaa</title>
+    <desc lang="en">Anjali sacrifices her love for Raja after her sister's death and marries her brother-in-law. Years later, she meets Raja and is torn between him and her loyalties.</desc>
+    <credits>
+      <actor>Anil Kapoor</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Akshay Kumar</actor>
+      <actor>Manoj Bajpayee</actor>
+      <actor>Shamita Shetty</actor>
+      <actor>Nafisa Ali</actor>
+    </credits>
+    <category lang="en">Musical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4ABDE1496368B27574E101C7A89A91DD1FFF5FA7.jpg"/>
+  </programme>
+  <programme start="20240625043100 +0000" stop="20240625071100 +0000" channel="ts64">
+    <title lang="en">Hogi Pyaar Ki Jeet</title>
+    <desc lang="en">Two brothers reunite in order to fulfil the wish of their dying father whom Thakur bitterly humiliates and murders. They intend to marry Thakur's two daughters to seek revenge.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Arshad Warsi</actor>
+      <actor>Shabana Raza</actor>
+      <actor>Mayuri Kango</actor>
+      <actor>Prithvi</actor>
+      <actor>Mohan Joshi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C28ED765ACEEE752F697FEDCCF31E6037F5F408B1.jpg"/>
+  </programme>
+  <programme start="20240625071100 +0000" stop="20240625103200 +0000" channel="ts64">
+    <title lang="en">Phool Bane Angaarey</title>
+    <desc lang="en">Ranjit Singh, a police officer, finds evidence that can help him apprehend a powerful and corrupt politician for murder. But when he is killed, his courageous wife joins the police force.</desc>
+    <credits>
+      <actor>Rajinikanth</actor>
+      <actor>Rekha</actor>
+      <actor>Prem Chopra</actor>
+      <actor>Charan Raj</actor>
+      <actor>Shafi Inamdar</actor>
+      <actor>Dalip Tahil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67D1F0E09E35D073DD17AF47749A32E9E739D3041.jpg"/>
+  </programme>
+  <programme start="20240625103200 +0000" stop="20240625132900 +0000" channel="ts64">
+    <title lang="en">Super Taxi</title>
+    <desc lang="en">A young man settles for the job of a taxi driver after quitting several odd jobs. However, things take a turn when he realises that the car he drives is possessed.</desc>
+    <credits>
+      <actor>Vijay Deverakonda</actor>
+      <actor>Priyanka Jawalkar</actor>
+      <actor>Malavika Nair</actor>
+      <actor>Madhunandan</actor>
+      <actor>Vishnu</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F715EFCCDC4CE7FB4C05C0F76AE4174402D5376A.jpg"/>
+  </programme>
+  <programme start="20240625132900 +0000" stop="20240625164100 +0000" channel="ts64">
+    <title lang="en">2.0</title>
+    <desc lang="en">When mobiles start flying from people's hands, Dr Vaseegaran and his robot Nila are asked to help. However, due to Pakshi Rajan having a hand in this, the two have to reinstate Chitti to defeat him.</desc>
+    <credits>
+      <actor>Rajinikanth</actor>
+      <actor>Akshay Kumar</actor>
+      <actor>Amy Jackson</actor>
+      <actor>Adil Hussain</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Kalabhavan Shajohn</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C2E8FC40C7BB372D3A2467AB68752E0268AE0627.jpg"/>
+  </programme>
+  <programme start="20240625164100 +0000" stop="20240625191600 +0000" channel="ts64">
+    <title lang="en">Hitler</title>
+    <desc lang="en">Siddhanth Sharma, a strict disciplinarian, is forced to chase hi brother, Amar, after he is accused of murder. However, his wife, Sheila, a lawyer, decides to defend Amar.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Shilpa Shirodkar</actor>
+      <actor>Mohnish Bahl</actor>
+      <actor>Arun Bakshi</actor>
+      <actor>Hemant Birje</actor>
+      <actor>Vikas Anand</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A813023DAAA7DF87C5078D5F85B7D82CA111976Z.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625233000 +0000" channel="ts64">
+    <title lang="en">Aao Pyar Karen</title>
+    <desc lang="en">Just like his father before him, wealthy Raja wants to marry a poor girl but his grandmother opposes the match. The cycle of estrangement repeats itself as he chooses love over money.</desc>
+    <credits>
+      <actor>Saif Ali Khan</actor>
+      <actor>Shilpa Shetty Kundra</actor>
+      <actor>Somy Ali</actor>
+      <actor>Aparajita</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Rakesh Bedi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD47076DC6AFCE540726E9730AF9042A4EEF2C27L.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626015000 +0000" channel="ts64">
+    <title lang="en">1920 London</title>
+    <desc lang="en">Shivangi, a princess, is married to Veer who gets possessed by an evil witch. She seeks the help of Jai, an exorcist and her ex-lover, to rid Veer of the dark influence.</desc>
+    <credits>
+      <actor>Meera Chopra</actor>
+      <actor>Sharman Joshi</actor>
+      <actor>Vishal Karwal</actor>
+      <actor>Meenal Kapoor</actor>
+      <actor>Gajendra Chouhan</actor>
+      <actor>Sushmita Mukherjee</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4020CCEAB055D7C678C920495CBE72D257BFBC29G.jpg"/>
+  </programme>
+  <programme start="20240626015000 +0000" stop="20240626045200 +0000" channel="ts64">
+    <title lang="en">Khiladi</title>
+    <desc lang="en">Raj, Neelam, Boney and Sheetal decide to play a prank on Sheetal's father by pretending to kidnap her and asking for ransom. Unfortunately, she is truly murdered and the evidence points at the trio.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Ayesha Jhulka</actor>
+      <actor>Deepak Tijori</actor>
+      <actor>Sabeeha</actor>
+      <actor>Anant Mahadevan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE94E82876EFA1AFF5D8DC7C4C2794499FA2155FP.jpg"/>
+  </programme>
+  <programme start="20240626045200 +0000" stop="20240626072000 +0000" channel="ts64">
+    <title lang="en">Mr. &amp; Mrs. Khiladi</title>
+    <desc lang="en">An astrologer predicts a fortune for idler Raja, who falls for Shalu, a millionaire's daughter. However, Shalu's father tells Raja that he will have to work hard and earn money to marry his daughter.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Juhi Chawla</actor>
+      <actor>Kader Khan</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Himani Shivpuri</actor>
+      <actor>Satish Kaushik</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D28CAEF8C95C28602DFB6D1A8F2C42C8DDD7428G.jpg"/>
+  </programme>
+  <programme start="20240626072000 +0000" stop="20240626102400 +0000" channel="ts64">
+    <title lang="en">Prem Granth</title>
+    <desc lang="en">Somen, the son of a wealthy upper-caste Hindu priest, falls in love with Kajri, a beautiful woman from a lower social group. However, she suddenly leaves the village due to unknown reasons.</desc>
+    <credits>
+      <actor>Shammi Kapoor</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Om Puri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86D1483A6B7B768E45586BD3BB75A63FF7F6FFB4Z.jpg"/>
+  </programme>
+  <programme start="20240626102400 +0000" stop="20240626133000 +0000" channel="ts64">
+    <title lang="en">Holiday: A Soldier Is Never Off Duty</title>
+    <desc lang="en">Virat, a soldier, accidentally bumps into a terrorist who plans to rip apart Mumbai with a series of bomb blasts. He then gathers his team to protect the city from the impending danger.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Sonakshi Sinha</actor>
+      <actor>Freddy Daruwala</actor>
+      <actor>Govinda</actor>
+      <actor>Sumeet Raghavan</actor>
+      <actor>Zakir Hussain</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C4BC787FD11858C87650EE6C8887A831ADD503EE.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626155800 +0000" channel="ts64">
+    <title lang="en">Badal</title>
+    <desc lang="en">Badal witnesses his family being massacred during a riot in his village. He is raised by a terrorist and soon sets out to exact revenge on the police officer responsible for his family's murder.</desc>
+    <credits>
+      <actor>Bobby Deol</actor>
+      <actor>Rani Mukerji</actor>
+      <actor>Ashutosh Rana</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Ashish Vidyarthi</actor>
+      <actor>Johnny Lever</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46BF4FBB1EADAB011978A043BBF90EAC2E16A944N.jpg"/>
+  </programme>
+  <programme start="20240626155800 +0000" stop="20240626203000 +0000" channel="ts64">
+    <title lang="en">Chor Machaaye Shor</title>
+    <desc lang="en">A thief pretends to be a policeman to extract a stolen diamond from the police headquarters. Although he becomes the ACP's favourite, a suspicious colleague tries to corner him with hilarious results.</desc>
+    <credits>
+      <actor>Bobby Deol</actor>
+      <actor>Shilpa Shetty Kundra</actor>
+      <actor>Bipasha Basu</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Om Puri</actor>
+      <actor>Shekhar Suman</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C252BC97D71BD3793C6954D06B7247E8608CB45F.jpg"/>
+  </programme>
+</tv>

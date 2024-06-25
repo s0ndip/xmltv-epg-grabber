@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1175">
+    <display-name lang="en">Star Pravah Pictures HD</display-name>
+  </channel>
+  <programme start="20240624183600 +0000" stop="20240624214100 +0000" channel="ts1175">
+    <title lang="en">Hostel Days</title>
+    <desc lang="en">Students of a college unite to save their institute from a rich businessman.</desc>
+    <credits>
+      <actor>Prarthana Behere</actor>
+      <actor>Sanjay Jadhav</actor>
+      <actor>Virajas Kulkarni</actor>
+      <actor>Akshay Tanksale</actor>
+      <actor>Aroh Welankar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56158FE4961F92C6B8C1843C5FF403131DA079C62.jpg"/>
+  </programme>
+  <programme start="20240624214100 +0000" stop="20240624215700 +0000" channel="ts1175">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler E25.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240624215700 +0000" stop="20240624224100 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.268.</episode-num>
+  </programme>
+  <programme start="20240624224100 +0000" stop="20240625022000 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.269.</episode-num>
+  </programme>
+  <programme start="20240625022000 +0000" stop="20240625032300 +0000" channel="ts1175">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E24.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240625031700 +0000" stop="20240625041800 +0000" channel="ts1175">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E02.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240625041800 +0000" stop="20240625072600 +0000" channel="ts1175">
+    <title lang="en">Ek Gaadi Baki Anadi</title>
+    <desc lang="en">After he is killed by three corrupt colleagues, Dinanath's car tries to avenge his death.</desc>
+    <credits>
+      <actor>Ashok Saraf</actor>
+      <actor>Laxmikant Berde</actor>
+      <actor>Aruna Irani</actor>
+      <actor>Priya Arun</actor>
+      <actor>Ravindra Berde</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C242D41652396DA3F5C4A6B996C377D201615A2AH.jpg"/>
+  </programme>
+  <programme start="20240625072600 +0000" stop="20240625095800 +0000" channel="ts1175">
+    <title lang="en">Duniyadari</title>
+    <desc lang="en">Shreyas fills the void in his life with loyal friends but struggles with his love life.</desc>
+    <credits>
+      <actor>Swapnil Joshi</actor>
+      <actor>Ankush Choudhary</actor>
+      <actor>Sai Tamhankar</actor>
+      <actor>Jitendra Joshi</actor>
+      <actor>Sushant Shelar</actor>
+      <actor>Urmila Kanitkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E3D44621652E00F02E240EDD5A7DD38D5B6BBBA9.jpg"/>
+  </programme>
+  <programme start="20240625095800 +0000" stop="20240625105000 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.52.</episode-num>
+  </programme>
+  <programme start="20240625105000 +0000" stop="20240625115000 +0000" channel="ts1175">
+    <title lang="en">Panchanama</title>
+    <desc lang="en">This program covers real life crime stories that occur in Maharashtra.</desc>
+    <credits>
+      <actor>Mahesh Manjrekar</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  </programme>
+  <programme start="20240625115000 +0000" stop="20240625125000 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.270.</episode-num>
+  </programme>
+  <programme start="20240625125000 +0000" stop="20240625134700 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.271.</episode-num>
+  </programme>
+  <programme start="20240625134700 +0000" stop="20240625170500 +0000" channel="ts1175">
+    <title lang="en">Ashtavinayak</title>
+    <desc lang="en">God protects a young boy from his evil step mother who wants to obtain his property.</desc>
+    <credits>
+      <actor>Sachin</actor>
+      <actor>Raja Gosavi</actor>
+      <actor>Vandana Pandit</actor>
+      <actor>Rani Varma</actor>
+      <actor>Sharad Talwalkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87BE9B3B7CBFA1B813D5199926635DC1D1D8CDAAY.jpg"/>
+  </programme>
+  <programme start="20240625170500 +0000" stop="20240625202400 +0000" channel="ts1175">
+    <title lang="en">Gaiir</title>
+    <desc lang="en">Neha is perplexed to find the lookalike of Sameer, her husband.</desc>
+    <credits>
+      <actor>Sandeep Kulkarni</actor>
+      <actor>Amruta Khanvilkar</actor>
+      <actor>Sachin Khedekar</actor>
+      <actor>Ankush Chaudhari</actor>
+      <actor>Sandeep Pathak</actor>
+      <actor>Amita Khopkar</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DC660B88C52F766E536ED78AD7BDD26ED36CFF4E.jpg"/>
+  </programme>
+  <programme start="20240625202400 +0000" stop="20240625221300 +0000" channel="ts1175">
+    <title lang="en">Thorli Bahin</title>
+    <desc lang="en">In need of money, Ishwari marries a rich heir who suffers from an illness.</desc>
+    <credits>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Anand Abhyankar</actor>
+      <actor>Ravindra Berde</actor>
+      <actor>Vijay Chavan</actor>
+      <actor>Anil Khopkar</actor>
+      <actor>Bhushan Ghadi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/295F006205F0D8B67109DC764C34274263526C6B3.jpg"/>
+  </programme>
+  <programme start="20240625221300 +0000" stop="20240625230000 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.33.</episode-num>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625230500 +0000" channel="ts1175">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler E16.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625230500 +0000" stop="20240625235600 +0000" channel="ts1175">
+    <title lang="en">Panchanama</title>
+    <desc lang="en">This program covers real life crime stories that occur in Maharashtra.</desc>
+    <credits>
+      <actor>Mahesh Manjrekar</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  </programme>
+  <programme start="20240625235600 +0000" stop="20240626022800 +0000" channel="ts1175">
+    <title lang="en">Surajya</title>
+    <desc lang="en">Omkar and his friends decide to arrange basic medical facilities for his village in Goa.</desc>
+    <credits>
+      <actor>Vaibbhav Tatwawdi</actor>
+      <actor>Mrunal Thakur</actor>
+      <actor>Sriram Patki</actor>
+      <actor>Sharad Ponkshe</actor>
+      <actor>Madhav Abhyankar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C96A1220D4D04C75592E09AC25A698C4AFD8C1B7.jpg"/>
+  </programme>
+  <programme start="20240626022800 +0000" stop="20240626032700 +0000" channel="ts1175">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E39.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240626032700 +0000" stop="20240626042700 +0000" channel="ts1175">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E40.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240626042700 +0000" stop="20240626073000 +0000" channel="ts1175">
+    <title lang="en">Aatmavishwas</title>
+    <desc lang="en">Arti starts exhibiting strange behaviour when her family asks her to sell their house.</desc>
+    <credits>
+      <actor>Ashok Saraf</actor>
+      <actor>Varsha Usgaonkar</actor>
+      <actor>Madhu Apte</actor>
+      <actor>Sunil Barve</actor>
+      <actor>Sachin Pilgaonkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B681C9926924561A93DDFB097B6CA179743BB20E8.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626095200 +0000" channel="ts1175">
+    <title lang="en">Jatra: Hyalagaad Re Tyalagaad</title>
+    <desc lang="en">In a religious fair, two individuals run a race and kill for winning the hosting rights.</desc>
+    <credits>
+      <actor>Bharat Jadhav</actor>
+      <actor>Siddarth Jadhav</actor>
+      <actor>Kranti Redkar</actor>
+      <actor>Vijay Chavan</actor>
+      <actor>Priya Berde</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F8D34E6530DEC155D5A40D0E11807ABBECD68FDV.jpg"/>
+  </programme>
+  <programme start="20240626095200 +0000" stop="20240626105300 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.270.</episode-num>
+  </programme>
+  <programme start="20240626105300 +0000" stop="20240626115300 +0000" channel="ts1175">
+    <title lang="en">Panchanama</title>
+    <desc lang="en">This program covers real life crime stories that occur in Maharashtra.</desc>
+    <credits>
+      <actor>Mahesh Manjrekar</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  </programme>
+  <programme start="20240626115300 +0000" stop="20240626125300 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.271.</episode-num>
+  </programme>
+  <programme start="20240626125300 +0000" stop="20240626135100 +0000" channel="ts1175">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex criminal cases.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.272.</episode-num>
+  </programme>
+  <programme start="20240626135100 +0000" stop="20240626171600 +0000" channel="ts1175">
+    <title lang="en">Bhairu Pehalwanki Jai</title>
+    <desc lang="en">Bhairu's life changes when his dead father haunts him, asking him to be a wrestler.</desc>
+    <credits>
+      <actor>Yashwant Dutt</actor>
+      <actor>Usha Chavan</actor>
+      <actor>Usha Naik</actor>
+      <actor>Dhumal</actor>
+      <actor>Dinkar Inamdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E93178A13CAEC070ABF0120EC4015E9D46AF84261.jpg"/>
+  </programme>
+  <programme start="20240626171600 +0000" stop="20240626202800 +0000" channel="ts1175">
+    <title lang="en">Sun Asavi Ashi</title>
+    <desc lang="en">The son of a renowned journalist must go through various challenges in order to succeed.</desc>
+    <credits>
+      <actor>Ankush Choudhary</actor>
+      <actor>Kranti Redkar</actor>
+      <actor>Ramesh Bhatkar</actor>
+      <actor>Kshmaraj</actor>
+      <actor>Kirti Gosawi</actor>
+      <actor>Shekhar Bhonsale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/807325325E0218CF94C0527BAA46CD506549C2D40.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1191">
+    <display-name lang="en">DD Sports HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193500 +0000" channel="ts1191">
+    <title lang="en">World Para Shooting 2023 HLs</title>
+    <desc lang="en">Highlights of the 2023 edition of a shooting championship, wherein differently-abled athletes compete against each other to win the coveted title.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/71A23EE17DD08DBF681460C9B1C413441BE9CEF2N.jpg"/>
+  </programme>
+  <programme start="20240624193500 +0000" stop="20240624203000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Yogasana- NSRCC Indoor Stadium, Agartala, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624220500 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Girl's Gymnastics- SDAT Aquatic Complex, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240624220500 +0000" stop="20240624223000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Final, Men's / Women's, Fencing- Tamil Nadu Physical Education and Sports University, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625000000 +0000" channel="ts1191">
+    <title lang="en">National Kho Kho C'ship 2023/24 HLs</title>
+    <desc lang="en">Highlights of the match wherein professional kho-kho teams compete against each other in the 2023-2024 National Kho Kho Championship.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1645483A9D5D10092855066ACEAAB436BCEA9238.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Aquatics- Dr Zakir Hussain Aquatic Complex, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Final, Girl's Yogasana- Rajarathinam Stadium, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Judo- Bhogeswari Phukanani Indoor Stadium, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625033000 +0000" channel="ts1191">
+    <title lang="en">WNBA</title>
+    <desc lang="en">Several women's basketball teams compete against each other in the matches of a professional basketball league held in North America, to win the coveted title.</desc>
+    <category lang="en">Basketball</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A709E49D0290890F894B3652B6A212E9CE6CE8CDX.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1191">
+    <title lang="en">Beyond Scoreboard Video Podcast</title>
+    <desc lang="en">The hosts invite Indian sportspersons and engage in insightful and light-hearted conversations revolving around various aspects of their lives.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4103C607A755DD4806729966F1E67DA8CDE62BDM.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Aquatics- Dr Zakir Hussain Aquatic Complex, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053500 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Athletics- Indira Gandhi Athletic Stadium, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625053500 +0000" stop="20240625061500 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Shooting- Kahilipara Shooting Range, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625061500 +0000" stop="20240625065000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Boy's Gymnastics- SDAT Aquatic Complex, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625065000 +0000" stop="20240625075000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Men's Boxing- Tamil Nadu Physical Education and Sports University, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625075000 +0000" stop="20240625085500 +0000" channel="ts1191">
+    <title lang="en">37th National Games Goa 2023</title>
+    <desc lang="en">Men's Hockey, Maharashtra vs. Odisha- Peddem Sports Complex, Mapusa, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA7DB762001BE0E571D2216DFA3A422F03292BD8E.jpg"/>
+  </programme>
+  <programme start="20240625085500 +0000" stop="20240625093000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Aquatics- Dr Zakir Hussain Aquatic Complex, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts1191">
+    <title lang="en">1st Khelo India Para Games 2023</title>
+    <desc lang="en">Football, Tamil Nadu vs. Madhya Pradesh- Jawaharlal Nehru Stadium, Delhi, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47232618F2099CA562221DA47134224562B2779DF.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113500 +0000" channel="ts1191">
+    <title lang="en">National Kho Kho C'ship 2023/24 HLs</title>
+    <desc lang="en">JH vs KAR &amp; KOL vs HR, Day-2: Highlights of teams competing on day three of the 2023-2024 National Kho Kho Championship.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1645483A9D5D10092855066ACEAAB436BCEA9238.jpg"/>
+  </programme>
+  <programme start="20240625113500 +0000" stop="20240625123000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Kabaddi: Athletes representing universities across the country compete in various sporting events as part of the 2023 edition of the Khelo India University Games.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130500 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Boy's Gymnastics- SDAT Aquatic Complex, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625130500 +0000" stop="20240625133000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Winter Games 2024</title>
+    <desc lang="en">Nordic Men 5Km: Athletes compete in the Men's 5 Km Nordic race at the 2024 Khelo India University Games.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12487782960DDF515C5CA0578A855FB67235CA0DQ.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625153000 +0000" channel="ts1191">
+    <title lang="en">WNBA</title>
+    <desc lang="en">Several women's basketball teams compete against each other in the matches of a professional basketball league held in North America, to win the coveted title.</desc>
+    <category lang="en">Basketball</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A709E49D0290890F894B3652B6A212E9CE6CE8CDX.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1191">
+    <title lang="en">Beyond Scoreboard Video Podcast</title>
+    <desc lang="en">The hosts invite Indian sportspersons and engage in insightful and light-hearted conversations revolving around various aspects of their lives.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4103C607A755DD4806729966F1E67DA8CDE62BDM.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Fencing, Men's- Tamil Nadu Physical Education and Sports University, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Men's Boxing- Tamil Nadu Physical Education and Sports University, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Athletics- Indira Gandhi Athletic Stadium, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193500 +0000" channel="ts1191">
+    <title lang="en">37th National Games Goa 2023</title>
+    <desc lang="en">Men's Hockey, Maharashtra vs. Odisha- Peddem Sports Complex, Mapusa, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA7DB762001BE0E571D2216DFA3A422F03292BD8E.jpg"/>
+  </programme>
+  <programme start="20240625193500 +0000" stop="20240625203000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Kabaddi: Athletes representing universities across the country compete in various sporting events as part of the 2023 edition of the Khelo India University Games.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts1191">
+    <title lang="en">1st Khelo India Para Games 2023</title>
+    <desc lang="en">Football, Tamil Nadu vs. Madhya Pradesh- Jawaharlal Nehru Stadium, Delhi, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47232618F2099CA562221DA47134224562B2779DF.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625223500 +0000" channel="ts1191">
+    <title lang="en">National Kho Kho C'ship 2023/24 HLs</title>
+    <desc lang="en">JH vs KAR &amp; KOL vs HR, Day-2: Highlights of teams competing on day three of the 2023-2024 National Kho Kho Championship.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1645483A9D5D10092855066ACEAAB436BCEA9238.jpg"/>
+  </programme>
+  <programme start="20240625223500 +0000" stop="20240625233000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Men's Volleyball- Jawaharlal Nehru Indoor Stadium, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts1191">
+    <title lang="en">Khelo India Youth Games 2023</title>
+    <desc lang="en">Fencing, Men's- Tamil Nadu Physical Education and Sports University, Chennai, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C791AB731A3CC08DC3A294384285FE3381BB4E6.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts1191">
+    <title lang="en">Khelo India University Games 2023</title>
+    <desc lang="en">Judo- Bhogeswari Phukanani Indoor Stadium, Guwahati, India</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C47C520863ADBCEC8FBD5B4883B7CB70FF566EF17.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626023000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626043000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626063000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626083000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626103000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626123000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626143000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626163000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626203000 +0000" channel="ts1191">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+</tv>

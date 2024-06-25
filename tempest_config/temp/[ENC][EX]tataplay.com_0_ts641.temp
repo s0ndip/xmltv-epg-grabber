@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts641">
+    <display-name lang="en">Tata Play Cooking</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts641">
+    <title lang="en">Regional Cuisine</title>
+    <desc lang="en">Guru Nanak Jayanti: Learn authentic recipes that are prepared in various regions of India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8367185996A2933671FC9FC363E2169643780C4.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts641">
+    <title lang="en">Jhatpat Recipes</title>
+    <desc lang="en">Food cravings and running out of time? Then this is just the right place for you, learn some tasty &amp; quick to make recipes that you can savour upon.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/122612D628B165A440B5F66C8D506159BCDB9B552.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts641">
+    <title lang="en">Street Food</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes of street foods found in India.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2484968C9C39E869437AA4BE598713ADF15736650.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts641">
+    <title lang="en">Indian Food Classics</title>
+    <desc lang="en">Create your favourite Indian classic foods at home in just no time.</desc>
+    <credits>
+      <actor>Pankaj Bhadouria</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E0058A8A8E2C36DD246A85E1AE60B1198DBA0FF.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts641">
+    <title lang="en">International Gully</title>
+    <desc lang="en">Learn some delicious &amp; mouth-watering recipes from around the world.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA38B1BA31634C62BD7C8FE66192944A47C29DF2C.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts641">
+    <title lang="en">South Special</title>
+    <desc lang="en">From Idli to Payasam, we've got all the recipes you need under South Special.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6419C38D66EC7FF79C4C8DC54F66E05DD2B3B233L.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts641">
+    <title lang="en">Desserts</title>
+    <desc lang="en">Christmas Special: Kuch Meetha Ho Jaye With These Easy &amp; Delicious Dessert Recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06FE9FC619C32A4ED2C532AEDCA42DFC3FB441547.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts641">
+    <title lang="en">Ghar Ki Rasoi</title>
+    <desc lang="en">Learn various veg and non-veg, simple and delicious homemade recipes that you can prepare in no time.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4240058375DEA5026A06F592A5196354C1C95C0F1.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts641">
+    <title lang="en">Healthy Khana</title>
+    <desc lang="en">Make your meals healthy with these easy to make recipes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A31ECF60582F8B848CC8F269CC5B2DB4FAB45A4BA.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts641">
+    <title lang="en">Snacks &amp; Namkeen</title>
+    <desc lang="en">Learn different types of simple and delicious snack ideas that you can munch at any time of the day.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E44C387A680B79F5182532DC62AEAB023B7DAB7EO.jpg"/>
+  </programme>
+</tv>

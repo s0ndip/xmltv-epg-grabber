@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts164">
+    <display-name lang="en">STAR Gold</display-name>
+  </channel>
+  <programme start="20240624203600 +0000" stop="20240624232500 +0000" channel="ts164">
+    <title lang="en">Rab Ne Bana Di Jodi</title>
+    <desc lang="en">Surinder, a simple man, falls for a vivacious Tani and gets married to her. In order to impress her, he undergoes a complete makeover and becomes Raj.</desc>
+    <credits>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Anushka Sharma</actor>
+      <actor>Vinay Pathak</actor>
+      <actor>Manmeet Singh</actor>
+      <actor>Richa Pallod</actor>
+      <actor>M. K. Raina</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/498B86B0D60EE4C6A1F79C03EE9DD17B6A39B10FE.jpg"/>
+  </programme>
+  <programme start="20240624232500 +0000" stop="20240625003400 +0000" channel="ts164">
+    <title lang="en">Ghatothkach 2</title>
+    <desc lang="en">Jungle prince Ghatothkach and his friends embark on an adventure-filled mission to save their land from the evil forces of Lankasoor.</desc>
+    <credits>
+      <actor>Aryan Sharma</actor>
+      <actor>Asif Ali Beg</actor>
+      <actor>Parminder Ghumman</actor>
+      <actor>Jaden Mascarenhas</actor>
+      <actor>Prabhakar</actor>
+      <actor>Hriday Shetty</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA6A3EBC11FB68DE01A578159DACF6103E6D5469C.jpg"/>
+  </programme>
+  <programme start="20240625003400 +0000" stop="20240625032200 +0000" channel="ts164">
+    <title lang="en">Judwaa 2</title>
+    <desc lang="en">Raja and Prem, twins separated at birth but connected through reflexes, join forces as adults to take down an underground smuggling kingpin who threatens to destroy their family.</desc>
+    <credits>
+      <actor>Varun Dhawan</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Taapsee Pannu</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Sachin Khedekar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F8BE786AEC0B915F53C47FD25CA25E5F49D35CDS.jpg"/>
+  </programme>
+  <programme start="20240625032600 +0000" stop="20240625054700 +0000" channel="ts164">
+    <title lang="en">Jawaan</title>
+    <desc lang="en">Jai, an honourable and sincere man, gets into conflict with his childhood friend Keshava, a dangerous criminal, when he plans to steal a missile from the DRDO.</desc>
+    <credits>
+      <actor>Sai Dharam Tej</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Prasanna</actor>
+      <actor>Subbaraju</actor>
+      <actor>Easwari Rao</actor>
+      <actor>Satyam Rajesh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F95168A5C3FB0BF40FB7B0BB1069A173AC35309AB.jpg"/>
+  </programme>
+  <programme start="20240625054700 +0000" stop="20240625075200 +0000" channel="ts164">
+    <title lang="en">Gharwali Baharwali</title>
+    <desc lang="en">Arun realises that his wife Kaajal cannot bear a child which upsets his father. Though Arun does not want to remarry, an unfortunate incident makes him tie the knot with Manisha, a Nepali, in secrecy.</desc>
+    <credits>
+      <actor>Anil Kapoor</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Rambha</actor>
+      <actor>Satish Kaushik</actor>
+      <actor>Kader Khan</actor>
+      <actor>Asrani</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E5AFE3398CB63984C942EDDC3B3BE635856331AN.jpg"/>
+  </programme>
+  <programme start="20240625075200 +0000" stop="20240625112800 +0000" channel="ts164">
+    <title lang="en">Taarzan: The Wonder Car</title>
+    <desc lang="en">Raj revamps his deceased father's car into a wonderful car named Taarzan and the car comes alive as it is possessed by his father's spirit. Soon, it also starts killing his father's murderers.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Vatsal Seth</actor>
+      <actor>Ayesha Takia</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Farida Jalal</actor>
+      <actor>Pankaj Dheer</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0BB4AD6FB4D0BA5DDFFF4D035D4DB775F9CD30CI.jpg"/>
+  </programme>
+  <programme start="20240625112800 +0000" stop="20240625142500 +0000" channel="ts164">
+    <title lang="en">Bhoot Police</title>
+    <desc lang="en">Brothers Vibhooti and Chiraunji are assigned a seemingly ordinary case of hunting down demonic spirits in a remote village. However, they soon realise that there is nothing ordinary about this case.</desc>
+    <credits>
+      <actor>Saif Ali Khan</actor>
+      <actor>Arjun Kapoor</actor>
+      <actor>Yami Gautam</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Javed Jaffrey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DB186BFD74A1E65DC44894CDE26BDC5EA7C2997N.jpg"/>
+  </programme>
+  <programme start="20240625142500 +0000" stop="20240625172600 +0000" channel="ts164">
+    <title lang="en">Rowdy Rathore</title>
+    <desc lang="en">When Vikram Rathore, a fearless policeman, is killed by a dishonest politician, his team finds his doppelganger and then, uses him to catch the perpetrators.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Sonakshi Sinha</actor>
+      <actor>Nassar</actor>
+      <actor>Ananya Nayak</actor>
+      <actor>Paresh Ganatra</actor>
+      <actor>Supreeth Reddy</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F54310BD32F6DE6E0269290CFFF5F12A416718E1I.jpg"/>
+  </programme>
+  <programme start="20240625172600 +0000" stop="20240625201200 +0000" channel="ts164">
+    <title lang="en">Master Piece</title>
+    <desc lang="en">Against his mother's wishes, Yuva becomes a local thug. However, his life changes when he accidentally confronts a dangerous drug lord, which lands him in trouble.</desc>
+    <credits>
+      <actor>Yash</actor>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Suhasini Mani Ratnam</actor>
+      <actor>P Ravi Shankar</actor>
+      <actor>Chikkanna</actor>
+      <actor>Achyuth Kumar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13893EBB58706DD34285917597B3827016971762H.jpg"/>
+  </programme>
+  <programme start="20240625201200 +0000" stop="20240625213000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts164">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

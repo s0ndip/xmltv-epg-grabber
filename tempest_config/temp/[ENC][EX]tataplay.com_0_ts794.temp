@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts794">
+    <display-name lang="en">PTC Punjabi Gold</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240625013000 +0000" channel="ts794">
+    <title lang="en">PTC Gold Hit List</title>
+    <desc lang="en">An entertaining compilation of foot-tapping songs composed and sung by Punjabi musicians.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3195B3BAB5E260E46650AF0C4710F05A42F64740M.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625033000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts794">
+    <title lang="en">Tele Shop</title>
+    <desc lang="en">The host sheds light on products that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E446DB33E92F17DBC0A3BB233607F938D9A8ED2.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts794">
+    <title lang="en">Tele Shop</title>
+    <desc lang="en">The host sheds light on products that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E446DB33E92F17DBC0A3BB233607F938D9A8ED2.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625080000 +0000" channel="ts794">
+    <title lang="en">Tu Mera Ki Lagda</title>
+    <desc lang="en">Manjot and Sarbi fall in love but their union faces opposition from her family.</desc>
+    <credits>
+      <actor>Gurpreet Bhangu</actor>
+      <actor>Harjit Harman</actor>
+      <actor>Shefali Sharma</actor>
+      <actor>Yograj Singh</actor>
+      <actor>Poonam Sohal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/827823598F83C5DE6BE3700665ECDF40F31DF4FBH.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625113000 +0000" channel="ts794">
+    <title lang="en">Bhalwan Singh</title>
+    <desc lang="en">A villager decides to stop the British from terrorising the locals.</desc>
+    <credits>
+      <actor>Ranjit Bawa</actor>
+      <actor>Navpreet Banga</actor>
+      <actor>J Brandon Hill</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Manav Vij</actor>
+      <actor>Mahabir Bhullar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2BA1620E12ACC45451C500919F77EA48BF5D7C3W.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625114500 +0000" channel="ts794">
+    <title lang="en">Sanyasi Ayurveda Tele Shop</title>
+    <desc lang="en">The host presents the benefits of sanyasi Ayurvedic that can be purchased from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/001371CBB82CF831A99DAB4C054DFB2C257CB0AEW.jpg"/>
+  </programme>
+  <programme start="20240625114500 +0000" stop="20240625133000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625183000 +0000" channel="ts794">
+    <title lang="en">Ni Main Sass Kuttni</title>
+    <desc lang="en">Upset with her son's choices, a woman plots to make her daughter-in-law miserable.</desc>
+    <credits>
+      <actor>Methab Virk</actor>
+      <actor>Tanvi Nagi</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Anita Devgan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434CCB44FF843AE19CC0463AA4B4D561793BFD951.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240626013000 +0000" channel="ts794">
+    <title lang="en">PTC Gold Hit List</title>
+    <desc lang="en">An entertaining compilation of foot-tapping songs composed and sung by Punjabi musicians.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3195B3BAB5E260E46650AF0C4710F05A42F64740M.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626033000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts794">
+    <title lang="en">Tele Shop</title>
+    <desc lang="en">The host sheds light on products that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E446DB33E92F17DBC0A3BB233607F938D9A8ED2.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts794">
+    <title lang="en">Tele Shop</title>
+    <desc lang="en">The host sheds light on products that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E446DB33E92F17DBC0A3BB233607F938D9A8ED2.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626080000 +0000" channel="ts794">
+    <title lang="en">Dil Diyan Gallan</title>
+    <desc lang="en">Natasha's life takes an unusual turn when she falls in love with her photographer, Laddi.</desc>
+    <credits>
+      <actor>Wamiqa Gabbi</actor>
+      <actor>Chandan Gill</actor>
+      <actor>Gaurav Kakkar</actor>
+      <actor>Anoop Karir</actor>
+      <actor>Robby Khela</actor>
+      <actor>Parmish Verma</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE90A05C888D794DFC40899828B9DCBA4045FBF7F.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626113000 +0000" channel="ts794">
+    <title lang="en">Doorbeen</title>
+    <desc lang="en">Shinda lives in a small town in Punjab and tries to invent new ways to smuggle liquor.</desc>
+    <credits>
+      <actor>Ninja</actor>
+      <actor>Wamiqa Gabbi</actor>
+      <actor>Jass Bajwa</actor>
+      <actor>Jasmin Bajwa</actor>
+      <actor>Harby Sangha</actor>
+      <actor>Karamjit Anmol</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A47CF1AC45C09CC98187DDDC8917EA8C6BE4F3991.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626114500 +0000" channel="ts794">
+    <title lang="en">Sanyasi Ayurveda Tele Shop</title>
+    <desc lang="en">The host presents the benefits of sanyasi Ayurvedic that can be purchased from home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/001371CBB82CF831A99DAB4C054DFB2C257CB0AEW.jpg"/>
+  </programme>
+  <programme start="20240626114500 +0000" stop="20240626133000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts794">
+    <title lang="en">Pikmax</title>
+    <desc lang="en">The host presents a variety of products that customers can purchase from their homes.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C254E23058FE0AA604871911F19E5387E8F505DW.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626150000 +0000" channel="ts794">
+    <title lang="en">Pollywood beats</title>
+    <desc lang="en">A compilation of the most popular Pollywood songs produced by various famous artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A1371B5621821A0398B632028DBBFCBF386B068U.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626183000 +0000" channel="ts794">
+    <title lang="en">Mr &amp; Mrs 420</title>
+    <desc lang="en">Deputy aspires to become an actor while his friend Jass needs a job to marry his lover.</desc>
+    <credits>
+      <actor>Binnu Dhillon</actor>
+      <actor>Yuvraj Hans</actor>
+      <actor>Jassi Gill</actor>
+      <actor>Babbal Rai</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Avantika Hundal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3789D39079D04284BD5B6BD04FE35F770351D811Z.jpg"/>
+  </programme>
+</tv>

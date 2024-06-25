@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts25">
+    <display-name lang="en">Kairali TV</display-name>
+  </channel>
+  <programme start="20240624190000 +0000" stop="20240624213000 +0000" channel="ts25">
+    <title lang="en">Movie - Manushya Mrugam</title>
+    <desc lang="en">Chandran and Babu grow from rags to riches by illegal means. Chandran wishes to marry Daisy, who was part of their operations. But Babu advises him to kill her as she knows all their secrets.</desc>
+    <credits>
+      <actor>Jayan</actor>
+      <actor>Seema</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Kaviyoor Ponnamma</actor>
+      <actor>Jose Prakash</actor>
+      <actor>Janardanan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/405A87AF855917046D44092FBDDAD598932DE344G.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts25">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0777BFCD4BB73853E57EBAB5875B0D3684B8AD05.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts25">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0777BFCD4BB73853E57EBAB5875B0D3684B8AD05.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="ts25">
+    <title lang="en">Movie - Masterpiece</title>
+    <desc lang="en">Contrary to his mother's desires, Yuva turns into a neighbourhood criminal. However, his life drastically changes when he encounters a notorious drug kingpin and gets into trouble.</desc>
+    <credits>
+      <actor>Yash</actor>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Suhasini Maniratnam</actor>
+      <actor>Ravishankar</actor>
+      <actor>Chikkanna</actor>
+      <actor>Ananth Padmanabha</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC7C859485819F7E7CADF0B4578273A643FFD0A8V.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts25">
+    <title lang="en">Doctors Talk</title>
+    <desc lang="en">The host engages in a conversation with a specialist doctor on the causes, symptoms, diagnosis and treatment associated with a particular disease.</desc>
+    <credits>
+      <actor>Dr Ganesh Das</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63A25E0FF224C6A6237E3A41B4E2597ED2DE4DFAN.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625033000 +0000" channel="ts25">
+    <title lang="en">Movie - Romeo Juliet</title>
+    <desc lang="en">Aishwarya falls in love with Karthik, thinking that he is a rich man. When she finds out that Karthik is actually poor, she breaks up with him.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Hansika Motwani</actor>
+      <actor>Vamsi Krishna</actor>
+      <actor>Poonam Bajwa</actor>
+      <actor>Uma Padmanabhan</actor>
+      <actor>Madhumila</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D9AF474BB76F5031A36C66D278E51748C516BF45.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts25">
+    <title lang="en">Movie - Chakara</title>
+    <desc lang="en">After his release from prison, Sethu vows to avenge the injustice meted out to him by a corrupt businessman. However, Sethu's former lover tries to convince him to give up on his quest for revenge.</desc>
+    <credits>
+      <actor>Jayan</actor>
+      <actor>Seema</actor>
+      <actor>Srividya</actor>
+      <actor>Sukumaran</actor>
+      <actor>Jalaja</actor>
+      <actor>K P A C Azeez</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21CFB19671795DFBAF5F6956A66BBFE0008D2DCDY.jpg"/>
+  </programme>
+  <programme start="20240625063200 +0000" stop="20240625093000 +0000" channel="ts25">
+    <title lang="en">Movie - Dheeran Adhyayam Onnu</title>
+    <desc lang="en">A police officer is assigned the task of solving the mystery behind a series of murders. Upon thoroughly investigating, he discovers a common thread that binds all the murders together.</desc>
+    <credits>
+      <actor>Karthi</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Abhimanyu Singh</actor>
+      <actor>Praveena</actor>
+      <actor>Manobala</actor>
+      <actor>Sathyan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1257718B800A3E382826970C37F856962609682G.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts25">
+    <title lang="en">Kerala Lottery Live</title>
+    <desc lang="en">In a live telecast, the host selects numbers during a lottery draw and announces the names of the lucky winners who get to win exciting prizes.</desc>
+    <category lang="en">Game Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/755BD437800D1EDFD1C6339534241141CB1549E0X.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625112600 +0000" channel="ts25">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0777BFCD4BB73853E57EBAB5875B0D3684B8AD05.jpg"/>
+  </programme>
+  <programme start="20240625112600 +0000" stop="20240625131200 +0000" channel="ts25">
+    <title lang="en">Movie - Jallikattu</title>
+    <desc lang="en">Kalan Varkey, a butcher, faces a lot of trouble when a buffalo he was supposed to slaughter goes astray and causes chaos in a remote village.</desc>
+    <credits>
+      <actor>Antony Varghese</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Sabumon Abdusamad</actor>
+      <actor>Jaffar Idukki</actor>
+      <actor>Santhy Balachandran</actor>
+      <actor>Tinu Pappachan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B89A7074B641CC98AA94A63A366343CBCB4454E1M.jpg"/>
+  </programme>
+  <programme start="20240625131200 +0000" stop="20240625153000 +0000" channel="ts25">
+    <title lang="en">Movie - Erida</title>
+    <desc lang="en">In a high stakes poker game, a wealthy married man offers his attractive wife as a bet. Little does he know that his actions call for a menacing game of deception, hate and murder.</desc>
+    <credits>
+      <actor>Samyuktha Menon</actor>
+      <actor>Nassar</actor>
+      <actor>Hareesh Peradi</actor>
+      <actor>Dharmajan Bolgatty</actor>
+      <actor>Antony</actor>
+      <actor>Jennifer Antony</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1AF172E4F1BC5BE2506432A88ACE900C3C3735C6N.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts25">
+    <title lang="en">Avidathe Pole Ivideyum</title>
+    <desc lang="en">Dr George, a veterinary doctor, his wife Alice and their neighbours Sathyapalan and Unniyarcha often land up in a humorous situation.</desc>
+    <credits>
+      <actor>Riyas Narmakala</actor>
+      <actor>Archana Menon</actor>
+      <actor>Anoop Sivasenan</actor>
+      <actor>Saumya Bhagyan Pillai</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/175D6BD51DEBA1E67B9F6EF4C253E28B370F1DE7J.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625190000 +0000" channel="ts25">
+    <title lang="en">Movie - Mr. Butler</title>
+    <desc lang="en">Gopalakrishnan, a chef, escapes from his village to a city when his marriage gets ruined. He falls in love with Radhika, but his happiness is short-lived as his past returns to haunt him.</desc>
+    <credits>
+      <actor>Dilip</actor>
+      <actor>Ruchita Prasad</actor>
+      <actor>Innocent</actor>
+      <actor>Jagathi Sreekumar</actor>
+      <actor>Kuthiravattam Pappu</actor>
+      <actor>Manju Pillai</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/853E7A9C8C20C83B40EC0AA6CB441C0B7A956CD1A.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625213000 +0000" channel="ts25">
+    <title lang="en">Movie - Chakara</title>
+    <desc lang="en">After his release from prison, Sethu vows to avenge the injustice meted out to him by a corrupt businessman. However, Sethu's former lover tries to convince him to give up on his quest for revenge.</desc>
+    <credits>
+      <actor>Jayan</actor>
+      <actor>Seema</actor>
+      <actor>Srividya</actor>
+      <actor>Sukumaran</actor>
+      <actor>Jalaja</actor>
+      <actor>K P A C Azeez</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21CFB19671795DFBAF5F6956A66BBFE0008D2DCDY.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts25">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0777BFCD4BB73853E57EBAB5875B0D3684B8AD05.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts25">
+    <title lang="en">Chiriyo Chiri</title>
+    <desc lang="en">A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0777BFCD4BB73853E57EBAB5875B0D3684B8AD05.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240626003000 +0000" channel="ts25">
+    <title lang="en">Movie - Dheeran Adhyayam Onnu</title>
+    <desc lang="en">A police officer is assigned the task of solving the mystery behind a series of murders. Upon thoroughly investigating, he discovers a common thread that binds all the murders together.</desc>
+    <credits>
+      <actor>Karthi</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Abhimanyu Singh</actor>
+      <actor>Praveena</actor>
+      <actor>Manobala</actor>
+      <actor>Sathyan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1257718B800A3E382826970C37F856962609682G.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts25">
+    <title lang="en">Doctors Talk</title>
+    <desc lang="en">The host engages in a conversation with a specialist doctor on the causes, symptoms, diagnosis and treatment associated with a particular disease.</desc>
+    <credits>
+      <actor>Dr Ganesh Das</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63A25E0FF224C6A6237E3A41B4E2597ED2DE4DFAN.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626033000 +0000" channel="ts25">
+    <title lang="en">Movie - Ko</title>
+    <desc lang="en">Ashwin, a photojournalist, finds out that Vasanthan, a famous politician who is also his classmate, has links with the Naxalites and tries to expose his actions.</desc>
+    <credits>
+      <actor>Jiiva</actor>
+      <actor>Ajmal Ameer</actor>
+      <actor>Piaa Bajpai</actor>
+      <actor>Karthika Nair</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26EF91618065175718BD149A3EFF82D3D967BBFC1.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts25">
+    <title lang="en">Movie - Sakthi</title>
+    <desc lang="en">Two men, a writer and his friend, travel to an abandoned bungalow, unaware that it is haunted. However, when they reach, they meet a ghost who narrates his miserable life story to them.</desc>
+    <credits>
+      <actor>Jayan</actor>
+      <actor>Seema</actor>
+      <actor>M.N. Nambiar</actor>
+      <actor>Ravi Kumar</actor>
+      <actor>Srividya</actor>
+      <actor>Bahadur</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98CE62CD45403AB68B8AAACFDA19B712455A2B3BN.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts25">
+    <title lang="en">Movie - Gajakesari</title>
+    <desc lang="en">Krishna protects the tribal people of the Aanegudde forest from Rana, a local thug who plans to remove them out of their houses and build a resort there.</desc>
+    <credits>
+      <actor>Yash</actor>
+      <actor>Amulya</actor>
+      <actor>Anant Nag</actor>
+      <actor>John Vijay</actor>
+      <actor>Shahbaz Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673DA2F11696BD714C9390B1B4A2EC306BC3D7FAZ.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts25">
+    <title lang="en">Kerala Lottery Live</title>
+    <desc lang="en">In a live telecast, the host selects numbers during a lottery draw and announces the names of the lucky winners who get to win exciting prizes.</desc>
+    <category lang="en">Game Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/755BD437800D1EDFD1C6339534241141CB1549E0X.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626123000 +0000" channel="ts25">
+    <title lang="en">Movie - Pagadi Aattam</title>
+    <desc lang="en">An officer decides to take matters into his own hands by pursuing someone who is making victims out of innocent women through cybercrimes.</desc>
+    <credits>
+      <actor>Rahman</actor>
+      <actor>Gowri Nandha</actor>
+      <actor>Surendar</actor>
+      <actor>Monica</actor>
+      <actor>Nizhalgal Ravi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E771055C9372C3B157B64243CB63B90DFA5C3274.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts25">
+    <title lang="en">Movie - Darja</title>
+    <desc lang="en">Kanakam, a lady gangster in Vaivaka, involved in illegal works, wants to control a port. But, when ACP Sankar is transferred to the same city to get the crimes under control, a fierce rivalry begins.</desc>
+    <credits>
+      <actor>Anasuya Bharadwaj</actor>
+      <actor>Sunil</actor>
+      <actor>Aamani</actor>
+      <actor>Prudhvi Raj</actor>
+      <actor>Ravi Paidipati</actor>
+      <actor>Aqsa Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95475797CAF366EEC01A403581A0CE10FFFB0C44S.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts25">
+    <title lang="en">Avidathe Pole Ivideyum</title>
+    <desc lang="en">Dr George, a veterinary doctor, his wife Alice and their neighbours Sathyapalan and Unniyarcha often land up in a humorous situation.</desc>
+    <credits>
+      <actor>Riyas Narmakala</actor>
+      <actor>Archana Menon</actor>
+      <actor>Anoop Sivasenan</actor>
+      <actor>Saumya Bhagyan Pillai</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/175D6BD51DEBA1E67B9F6EF4C253E28B370F1DE7J.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626190000 +0000" channel="ts25">
+    <title lang="en">Movie - Attakathi</title>
+    <desc lang="en">Dinakaran, a college student who becomes the leader of a gang, is unlucky in love. Soon, he tries to find true romance in Poornima, a woman who rejected him once before.</desc>
+    <credits>
+      <actor>Dinesh</actor>
+      <actor>Nandita Shwetha</actor>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Kalaiyarasan</actor>
+      <actor>Vishwanath</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C50E973322BEC32EC1CD0C4996A4DAA066277961.jpg"/>
+  </programme>
+</tv>

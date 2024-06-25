@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts56">
+    <display-name lang="en">Sony Wah</display-name>
+  </channel>
+  <programme start="20240624203400 +0000" stop="20240624221900 +0000" channel="ts56">
+    <title lang="en">Shiv Leela</title>
+    <desc lang="en">Goddess Parvati, on the instructions of Lord Shiva, visits Earth to fulfil her obligation towards Kanchanamala, one of her devotees.</desc>
+    <credits>
+      <actor>Vijayakanth</actor>
+      <actor>Radha</actor>
+      <actor>M N Nambiar</actor>
+      <actor>Seergazhi Govindarajan</actor>
+      <actor>Delhi Ganesh</actor>
+      <actor>Manorama</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5A4B4BB542040A263286FF14D16C7AFD9F7AEFBF.jpg"/>
+  </programme>
+  <programme start="20240624221900 +0000" stop="20240624223000 +0000" channel="ts56">
+    <title lang="en">Wah Extraaa</title>
+    <desc lang="en">Malang</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78448B761A0573A57DCD009A0CFEEE9D59BFF0BF5.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624224700 +0000" channel="ts56">
+    <title lang="en">Wah Extraaa</title>
+    <desc lang="en">Abcd 2</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78448B761A0573A57DCD009A0CFEEE9D59BFF0BF5.jpg"/>
+  </programme>
+  <programme start="20240624224700 +0000" stop="20240624230200 +0000" channel="ts56">
+    <title lang="en">Wah Extraaa</title>
+    <desc lang="en">Bhool Bhulaiyaa 2</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78448B761A0573A57DCD009A0CFEEE9D59BFF0BF5.jpg"/>
+  </programme>
+  <programme start="20240624230200 +0000" stop="20240625003600 +0000" channel="ts56">
+    <title lang="en">Sant Ravidas Ki Amar Kahani</title>
+    <desc lang="en">Saint Ravidas faces several trials and tribulations while spreading the message of equality through his devotional songs.</desc>
+    <credits>
+      <actor>Ashish Kumar</actor>
+      <actor>Mahipal</actor>
+      <actor>Rajendra Nath</actor>
+      <actor>Mohan Choti</actor>
+      <actor>Shekhar Purohit</actor>
+      <actor>Abhi Bhattacharya</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/94F2A0DEB144D38BA77C9BE91426F45C5EA05F21K.jpg"/>
+  </programme>
+  <programme start="20240625003600 +0000" stop="20240625025300 +0000" channel="ts56">
+    <title lang="en">Ghar Grihasti</title>
+    <desc lang="en">Janki, a young girl, faces numerous hardships after seeing her family fall apart. She is left with her brother and an ailing mother who needs money for her treatment.</desc>
+    <credits>
+      <actor>Aishwarya Narkar</actor>
+      <actor>Sulabha Arya</actor>
+      <actor>Akshay Kumar</actor>
+      <actor>Viju Khote</actor>
+      <actor>Shubha Khote</actor>
+      <actor>Sajid Sheikh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B5D8AC3380776BC4D665B6ADAD20D3CE6E1F35J.jpg"/>
+  </programme>
+  <programme start="20240625025300 +0000" stop="20240625051500 +0000" channel="ts56">
+    <title lang="en">Super King No. 1</title>
+    <desc lang="en">A group of friends enter into a deal with a gangster to make a diamond robbery. Later, he falls in love with a girl from an affluent family.</desc>
+    <credits>
+      <actor>Varun Sandesh</actor>
+      <actor>Priyanka Bhardwaj</actor>
+      <actor>Raghu Babu</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Prudhvi Raj</actor>
+      <actor>Ajaygosh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD82DA2DA2EA40049F6A1A0AC18AB57C443EAC83A.jpg"/>
+  </programme>
+  <programme start="20240625051500 +0000" stop="20240625075600 +0000" channel="ts56">
+    <title lang="en">Heyy Babyy</title>
+    <desc lang="en">Three compulsive womanisers find a baby left at their doorstep. However, chaos ensues as they try to contact their former girlfriends to determine who is the father amongst them.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Fardeen Khan</actor>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Vidya Balan</actor>
+      <actor>Boman Irani</actor>
+      <actor>Kim Sharma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C660D0989B5C5B2C1A6B825215E3AB425A90F27AU.jpg"/>
+  </programme>
+  <programme start="20240625075600 +0000" stop="20240625095700 +0000" channel="ts56">
+    <title lang="en">Rudra Avatar</title>
+    <desc lang="en">When a judge's decapitated body is found outside his residence, a retired ACP helps the police investigate the case in order to catch the culprit.</desc>
+    <credits>
+      <actor>Prabhu Deva</actor>
+      <actor>Nivetha Pethuraj</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Suresh Chandra Menon</actor>
+      <actor>Mahendran</actor>
+      <actor>Mukesh Tiwari</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C10BDCADAED6C257DEF0D1E230B337FA0B712E1EF.jpg"/>
+  </programme>
+  <programme start="20240625095700 +0000" stop="20240625104900 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">The forensic team receives a message in a disc that is directed towards Dr Salunkhe. Also, a bloody human skull attached to a spine is found inside the coffin of a 2000-year-old mummy.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1140.</episode-num>
+  </programme>
+  <programme start="20240625104900 +0000" stop="20240625120700 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">With the help of a piece of driftwood, Dr Salunkhe investigates the origins of a bullet-ridden skull. The results lead the CID team to a heinous underwater crime committed 11 months ago.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1141.</episode-num>
+  </programme>
+  <programme start="20240625120700 +0000" stop="20240625132600 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">A finger is the only clue that Dr Salunkhe has of the victim and somehow he manages to find something unusual in the fingernail. Meanwhile, Team CID try to find evidence to identify their suspect.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1142.</episode-num>
+  </programme>
+  <programme start="20240625132600 +0000" stop="20240625143000 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">Abhijeet disguises himself as a conductor in a bus, while ACP Pradyuman dresses up as a tea seller at a railway station. Meanwhile, Daya wakes up with a hazy memory somewhere in the woods.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1143.</episode-num>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625152600 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">A joker enters the operation theatre of a hospital claiming that he is going to die in 10 minutes. Just when the clock shows 10:45, he passes away and the CID team is called to investigate.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1144.</episode-num>
+  </programme>
+  <programme start="20240625152600 +0000" stop="20240625161800 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">A group of college friends gets together for a reunion to reminisce about their college days. During their reunion, a mysterious incident takes place and two individuals are found dead.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1145.</episode-num>
+  </programme>
+  <programme start="20240625161800 +0000" stop="20240625172900 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">Two women get murdered by a mystery killer after they swindle a man. Later, Roy and Jiya stop at a phone booth near the crime scene and call the murderer to tell him that they know of his crime.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1146.</episode-num>
+  </programme>
+  <programme start="20240625172900 +0000" stop="20240625183500 +0000" channel="ts56">
+    <title lang="en">CID</title>
+    <desc lang="en">A college girl finds an unclaimed bag on the bus and takes it to her home. Later, someone threatens her to return the bag to them.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1147.</episode-num>
+  </programme>
+  <programme start="20240625183500 +0000" stop="20240625202600 +0000" channel="ts56">
+    <title lang="en">Diljala Aashiq</title>
+    <desc lang="en">A happy-go-lucky radio jockey falls for a man in a very unusual way. However, they must overcome many obstacles, including their different perspectives on life, to be together.</desc>
+    <credits>
+      <actor>Nandamuri Kalyan Ram</actor>
+      <actor>Tamannaah</actor>
+      <actor>Tanikella Bharani</actor>
+      <actor>Posani Krishna Murali</actor>
+      <actor>Vennela Kishore</actor>
+      <actor>Surekha Vani</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E96D2BC448A6D63539EB90EF98DDD20D401EC011K.jpg"/>
+  </programme>
+  <programme start="20240625202600 +0000" stop="20240625215900 +0000" channel="ts56">
+    <title lang="en">Gauri: The Unborn</title>
+    <desc lang="en">Sudeep, an architect, plans to go on a trip to Mauritius with his wife Roshni and daughter Shivani. Shivani requests them to stay in Kerala for a few days, leading to an outlandish vacation.</desc>
+    <credits>
+      <actor>Mohan Azaad</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13D9967BFFD836BDF7FC57D44971309A152B1DC6K.jpg"/>
+  </programme>
+  <programme start="20240625215900 +0000" stop="20240625221300 +0000" channel="ts56">
+    <title lang="en">Wah Extraaa</title>
+    <desc lang="en">Malang</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78448B761A0573A57DCD009A0CFEEE9D59BFF0BF5.jpg"/>
+  </programme>
+  <programme start="20240625221300 +0000" stop="20240626003000 +0000" channel="ts56">
+    <title lang="en">Wah Extraaa</title>
+    <desc lang="en">Piku</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78448B761A0573A57DCD009A0CFEEE9D59BFF0BF5.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts56">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

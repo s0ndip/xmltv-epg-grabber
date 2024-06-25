@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts747">
+    <display-name lang="en">Marathi Cinema Offer</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625080000 +0000" channel="ts747">
+    <title lang="en">Tata Play Linear Pack</title>
+    <desc lang="en">Tata Play Linear Pack</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts747">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts747">
+    <title lang="en">Telugu Promos</title>
+    <desc lang="en">Telugu Promos</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts888">
+    <display-name lang="en">Ishara</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.133.</episode-num>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.45.</episode-num>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.67.</episode-num>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625023000 +0000" channel="ts888">
+    <title lang="en">Shrimad Bhagwat Katha</title>
+    <desc lang="en">Acharyaji: A spiritual leader recites verses and gives a discourse on the teachings from the Bhagavad Gita as he leads the devotees in prayer.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA78B95B2FFE7FE72EB8E14720FE5A6D0F476512X.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625050000 +0000" channel="ts888">
+    <title lang="en">Shrimad Bhagwat Katha</title>
+    <desc lang="en">Indreshji: A spiritual leader recites verses and gives a discourse on the teachings from the Bhagavad Gita as he leads the devotees in prayer.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA78B95B2FFE7FE72EB8E14720FE5A6D0F476512X.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.210.</episode-num>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.211.</episode-num>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.212.</episode-num>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.148.</episode-num>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.129.</episode-num>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.135.</episode-num>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.107.</episode-num>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts888">
+    <title lang="en">Maa Shakti</title>
+    <desc lang="en">Take a look at the depiction of Maa Shakti who is known as the divine force in Hinduism. She is considered the source of power and creation and can transform herself into various forms.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B8EDC74876319A82EA0899EE5811C68F602CF9EL.jpg"/>
+    <episode-num system="xmltv_ns">.58.</episode-num>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts888">
+    <title lang="en">Maa Shakti</title>
+    <desc lang="en">Take a look at the depiction of Maa Shakti who is known as the divine force in Hinduism. She is considered the source of power and creation and can transform herself into various forms.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B8EDC74876319A82EA0899EE5811C68F602CF9EL.jpg"/>
+    <episode-num system="xmltv_ns">.59.</episode-num>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts888">
+    <title lang="en">Ramayan</title>
+    <desc lang="en">On being asked by Raavan, Kumbhakarna reluctantly agrees to fight Lord Ram.</desc>
+    <credits>
+      <actor>Gagan Malik</actor>
+      <actor>Neha Sargam</actor>
+      <actor>Shikha Swaroop</actor>
+      <actor>Neil Bhatt</actor>
+      <actor>Sachin Tyagi</actor>
+      <actor>Vije Bhatia</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D1A7124937262BF348A9C92B146C94D6764E0D25.jpg"/>
+    <episode-num system="xmltv_ns">.54.</episode-num>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts888">
+    <title lang="en">Ramayan</title>
+    <desc lang="en">On being asked by Raavan, Kumbhakarna reluctantly agrees to fight Lord Ram.</desc>
+    <credits>
+      <actor>Gagan Malik</actor>
+      <actor>Neha Sargam</actor>
+      <actor>Shikha Swaroop</actor>
+      <actor>Neil Bhatt</actor>
+      <actor>Sachin Tyagi</actor>
+      <actor>Vije Bhatia</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D1A7124937262BF348A9C92B146C94D6764E0D25.jpg"/>
+    <episode-num system="xmltv_ns">.55.</episode-num>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts888">
+    <title lang="en">Baal Krishna</title>
+    <desc lang="en">Krishna, the young son of Devaki and Vasudeva, embarks on a series of adventures where he befriends the people of Vrindavan, his hometown, and saves them from difficulties.</desc>
+    <credits>
+      <actor>Suman Gupta</actor>
+      <actor>Nimai Bali</actor>
+      <actor>Meet Mukhi</actor>
+      <actor>Sachin Shroff</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Ram Awana</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D9CD23222885CA5200482A5B7BEED905D0AF657V.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts888">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">Prabal flees with Santoshi to avoid getting caught by Santoshi Maa; an enraged Santoshi Maa wages a war against Paulomi Devi.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.490.</episode-num>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts888">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">Lord Brahma is enraged when Asur Raj decides to take Prabal's side; Paulomi Devi finds a way to bring Santoshi to Asur Lok.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.491.</episode-num>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.75.</episode-num>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.62.</episode-num>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625203000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.129.</episode-num>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626023000 +0000" channel="ts888">
+    <title lang="en">Shrimad Bhagwat Katha</title>
+    <desc lang="en">Acharyaji: A spiritual leader recites verses and gives a discourse on the teachings from the Bhagavad Gita as he leads the devotees in prayer.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA78B95B2FFE7FE72EB8E14720FE5A6D0F476512X.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626050000 +0000" channel="ts888">
+    <title lang="en">Shrimad Bhagwat Katha</title>
+    <desc lang="en">Indreshji: A spiritual leader recites verses and gives a discourse on the teachings from the Bhagavad Gita as he leads the devotees in prayer.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA78B95B2FFE7FE72EB8E14720FE5A6D0F476512X.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.213.</episode-num>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.214.</episode-num>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts888">
+    <title lang="en">Mere Sai</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to society.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Himanshu Rai</actor>
+      <actor>Saurabh Shrikant</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA951C35B0190494A460C35C6006443DA47D6D4B1.jpg"/>
+    <episode-num system="xmltv_ns">.215.</episode-num>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.22.</episode-num>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.117.</episode-num>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.101.</episode-num>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts888">
+    <title lang="en">Maa Shakti</title>
+    <desc lang="en">Take a look at the depiction of Maa Shakti who is known as the divine force in Hinduism. She is considered the source of power and creation and can transform herself into various forms.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B8EDC74876319A82EA0899EE5811C68F602CF9EL.jpg"/>
+    <episode-num system="xmltv_ns">.60.</episode-num>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts888">
+    <title lang="en">Maa Shakti</title>
+    <desc lang="en">Take a look at the depiction of Maa Shakti who is known as the divine force in Hinduism. She is considered the source of power and creation and can transform herself into various forms.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B8EDC74876319A82EA0899EE5811C68F602CF9EL.jpg"/>
+    <episode-num system="xmltv_ns">.61.</episode-num>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts888">
+    <title lang="en">Ramayan</title>
+    <desc lang="en">On being asked by Raavan, Kumbhakarna reluctantly agrees to fight Lord Ram.</desc>
+    <credits>
+      <actor>Gagan Malik</actor>
+      <actor>Neha Sargam</actor>
+      <actor>Shikha Swaroop</actor>
+      <actor>Neil Bhatt</actor>
+      <actor>Sachin Tyagi</actor>
+      <actor>Vije Bhatia</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D1A7124937262BF348A9C92B146C94D6764E0D25.jpg"/>
+    <episode-num system="xmltv_ns">.55.</episode-num>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts888">
+    <title lang="en">Ramayan</title>
+    <desc lang="en">On being asked by Raavan, Kumbhakarna reluctantly agrees to fight Lord Ram.</desc>
+    <credits>
+      <actor>Gagan Malik</actor>
+      <actor>Neha Sargam</actor>
+      <actor>Shikha Swaroop</actor>
+      <actor>Neil Bhatt</actor>
+      <actor>Sachin Tyagi</actor>
+      <actor>Vije Bhatia</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D1A7124937262BF348A9C92B146C94D6764E0D25.jpg"/>
+    <episode-num system="xmltv_ns">.56.</episode-num>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts888">
+    <title lang="en">Baal Krishna</title>
+    <desc lang="en">Krishna, the young son of Devaki and Vasudeva, embarks on a series of adventures where he befriends the people of Vrindavan, his hometown, and saves them from difficulties.</desc>
+    <credits>
+      <actor>Suman Gupta</actor>
+      <actor>Nimai Bali</actor>
+      <actor>Meet Mukhi</actor>
+      <actor>Sachin Shroff</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Ram Awana</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D9CD23222885CA5200482A5B7BEED905D0AF657V.jpg"/>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts888">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">The police arrive to take away Santoshi's body, much to Dhairya's sorrow. He begs the inspector to not take her away as he is sure that she will be revived.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.492.</episode-num>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts888">
+    <title lang="en">Santoshi Maa</title>
+    <desc lang="en">Prabal is unhappy when Paulomi Devi tells him that Santoshi is not in his control. Later, when he learns Paulomi Devi's plans for Santoshi, he is enraged.</desc>
+    <credits>
+      <actor>Gracy Singh</actor>
+      <actor>Ratan Rajput</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Debina Bonnerjee</actor>
+      <actor>Sachin Shroff</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E71D22832F0F036FFACDBB3AA3987A72B5854E9V.jpg"/>
+    <episode-num system="xmltv_ns">.493.</episode-num>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.73.</episode-num>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts888">
+    <title lang="en">Crime Files</title>
+    <desc lang="en">Host Ravi Kishan presents dramatised re-enactments of the country's most shocking and real-life criminal cases and their investigation.</desc>
+    <credits>
+      <actor>Ravi Kishan</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CCB3E5290CB976C14F987EAD48DDDA8470527F7Q.jpg"/>
+    <episode-num system="xmltv_ns">.40.</episode-num>
+  </programme>
+</tv>

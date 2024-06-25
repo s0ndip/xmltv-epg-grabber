@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts830">
+    <display-name lang="en">Filamchi Bhojpuri</display-name>
+  </channel>
+  <programme start="20240624202800 +0000" stop="20240624223000 +0000" channel="ts830">
+    <title lang="en">Mere Chachu Ki Shaadi</title>
+    <desc lang="en">A saloon mishap has a young man struggling to gain the attention of his crush.</desc>
+    <credits>
+      <actor>Sumit Singh Chandravanshi</actor>
+      <actor>Nisha Singh</actor>
+      <actor>Ashutosh Khare</actor>
+      <actor>Mantu Lal</actor>
+      <actor>Shalu Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D4076740FA7DE2B29E3A21E17E4EA35071BE9D9G.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625022300 +0000" channel="ts830">
+    <title lang="en">Awatare Ghare Mora Saato Re Bahiniyan</title>
+    <desc lang="en">Awatare Ghare Mora Saato Re Bahiniyan</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D2A490D6C8845676B3B64F1D58EF346EEF88E7DO.jpg"/>
+  </programme>
+  <programme start="20240625022300 +0000" stop="20240625031900 +0000" channel="ts830">
+    <title lang="en">Shree Krishna</title>
+    <desc lang="en">The eighth incarnation of Vishnu becomes a fierce warrior impeding the forces of evil.</desc>
+    <credits>
+      <actor>Sarvadaman D Banerjee</actor>
+      <actor>Swapnil Joshi</actor>
+      <actor>Ashok Kumar Balkrishnan</actor>
+      <actor>Palak</actor>
+      <actor>Deepak Deulkar</actor>
+      <actor>Sanjeev Sharma</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/342015984E8005A52522EB1F1772313C8D4978B79.jpg"/>
+  </programme>
+  <programme start="20240625031900 +0000" stop="20240625060000 +0000" channel="ts830">
+    <title lang="en">Kaun Apna Kaun Paraya</title>
+    <desc lang="en">When a boy is ready to settle into life, he encounters his birth mother.</desc>
+    <credits>
+      <actor>Waheeda Rehman</actor>
+      <actor>Vijay Kumar</actor>
+      <actor>Johnny Walker</actor>
+      <actor>Nirupa Roy</actor>
+      <actor>Amar</actor>
+      <actor>Shammi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/460590BCE469C56E2A1D82D67E2CD93A463BBAEAM.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625090900 +0000" channel="ts830">
+    <title lang="en">Baap Ji</title>
+    <desc lang="en">An elderly man is adamant about getting married but his son is against his decision.</desc>
+    <credits>
+      <actor>Khesari Lal Yadav</actor>
+      <actor>Ritu Singh</actor>
+      <actor>Manoj Tiger</actor>
+      <actor>Kajal Raghwani</actor>
+      <actor>CP Bhatt</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A842C22FB808BC003645269B4D308194A02EA701X.jpg"/>
+  </programme>
+  <programme start="20240625090900 +0000" stop="20240625122000 +0000" channel="ts830">
+    <title lang="en">Kachche Dhaage</title>
+    <desc lang="en">A money-minded mother favours her biological son and despises her adopted son.</desc>
+    <credits>
+      <actor>Khesari Lal Yadav</actor>
+      <actor>Anjana Singh</actor>
+      <actor>Anjali Srivastava</actor>
+      <actor>Smriti Sinha</actor>
+      <actor>Sanjay Pandey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C31B51B677D1AA70D69A6BA14BF44CF918C17DE2H.jpg"/>
+  </programme>
+  <programme start="20240625122000 +0000" stop="20240625152000 +0000" channel="ts830">
+    <title lang="en">Raja Doli Leke Aaja</title>
+    <desc lang="en">Chaos ensues when a happily married woman learns of her husband's extra-marital affair.</desc>
+    <credits>
+      <actor>Dinesh Lal Yadav</actor>
+      <actor>Amrapali Dubey</actor>
+      <actor>Shruti Rao</actor>
+      <actor>Brijesh Tripathi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF1BEC36C7B52A0FB5F117ABE4B51A2B7DDC95788.jpg"/>
+  </programme>
+  <programme start="20240625152000 +0000" stop="20240625181900 +0000" channel="ts830">
+    <title lang="en">Devra Pe Manwa Dole</title>
+    <desc lang="en">Sagar and Pooja's relationship takes a difficult turn when Aarti dies after childbirth.</desc>
+    <credits>
+      <actor>Prakash Jais</actor>
+      <actor>Satyendra Singh</actor>
+      <actor>Smrity Sinha</actor>
+      <actor>Khesari Lal Yadav</actor>
+      <actor>Anjana Singh</actor>
+      <actor>Maya Yadav</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCFD374512FB67FF5C9738B4292DC83A46EFF259G.jpg"/>
+  </programme>
+  <programme start="20240625181900 +0000" stop="20240625203000 +0000" channel="ts830">
+    <title lang="en">Khuddar</title>
+    <desc lang="en">The relationship of a young man and woman is confronted with familial problems.</desc>
+    <credits>
+      <actor>Gunjan Singh</actor>
+      <actor>Anjana Singh</actor>
+      <actor>Nisha Dubey</actor>
+      <actor>Sanjay Pandey</actor>
+      <actor>Manoj Tiger</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2034246852391B5C30E0D3FA4CC17BE902FBD9805.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts830">
+    <title lang="en">Hamar Love Story</title>
+    <desc lang="en">Two men develop feelings for Sukanya and desire to marry her.</desc>
+    <credits>
+      <actor>Vikrant Singh Rajput</actor>
+      <actor>Monalisa Biswas</actor>
+      <actor>Vikrant Anand</actor>
+      <actor>Ali Khan</actor>
+      <actor>Surbhi Shukla</actor>
+      <actor>Ehsaan Qureshi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DAA7AB52283FEDA38486657BA21D4D5066E2B223.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts830">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

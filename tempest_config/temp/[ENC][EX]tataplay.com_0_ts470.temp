@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts470">
+    <display-name lang="en">STAR Utsav Movies</display-name>
+  </channel>
+  <programme start="20240624200600 +0000" stop="20240624224300 +0000" channel="ts470">
+    <title lang="en">Ilaaka</title>
+    <desc lang="en">Raja stands up against the evil in the society, and fights injustice and corruption. He joins forces with Suraj Verma, a police inspector, to fight Naagar, a notorious criminal in his locality.</desc>
+    <credits>
+      <actor>Dharmendra</actor>
+      <actor>Raakhee Gulzar</actor>
+      <actor>Mithun Chakraborty</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Amrish Puri</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40F3E60F9F9F40BEE67DD7A4A6CFEE2BB9348137Q.jpg"/>
+  </programme>
+  <programme start="20240624224300 +0000" stop="20240625005700 +0000" channel="ts470">
+    <title lang="en">Jaisi Karni Waisi Bharni</title>
+    <desc lang="en">A conniving son throws his aged parents out of the house. Years later, he meets the same fate when his son decides to teach him a lesson.</desc>
+    <credits>
+      <actor>Govinda</actor>
+      <actor>Kimi Katkar</actor>
+      <actor>Kader Khan</actor>
+      <actor>Govardhan Asrani</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Gulshan Grover</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9BD764E17BC17C004494BBA2E97893F8AC71251FU.jpg"/>
+  </programme>
+  <programme start="20240625005700 +0000" stop="20240625043400 +0000" channel="ts470">
+    <title lang="en">Sagar Sangam</title>
+    <desc lang="en">Upon growing to be a criminal, Gopi's conviction sends him to Devipur where he uncovers the truth about his traumatic childhood and sets off to seek revenge.</desc>
+    <credits>
+      <actor>Raakhee</actor>
+      <actor>Asha Parekh</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Padmini Kolhapure</actor>
+      <actor>Anita Raj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02E19B7E2D01F18A7E46CFCF197F1C9799C8339A8.jpg"/>
+  </programme>
+  <programme start="20240625043400 +0000" stop="20240625073700 +0000" channel="ts470">
+    <title lang="en">Ready</title>
+    <desc lang="en">Prem believes Sanjana is the girl chosen by his dad and falls in love with her. On learning the truth, he devises a plan to win her over from her mafia uncles who intend to usurp her huge inheritance.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Asin</actor>
+      <actor>Mahesh Manjrekar</actor>
+      <actor>Anuradha Patel</actor>
+      <actor>Manoj Joshi</actor>
+      <actor>Prachee Pathak</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1F3D433DFF81A9FFFBC7E3B647CCB2D95FDAAA5R.jpg"/>
+  </programme>
+  <programme start="20240625073700 +0000" stop="20240625100400 +0000" channel="ts470">
+    <title lang="en">Bade Ghar Ki Beti</title>
+    <desc lang="en">Mala is a poor girl who gets married into a wealthy family at the patriarch's behest. However, after his death, she must deal with abusive relatives as well as restore peace in the family.</desc>
+    <credits>
+      <actor>Meenakshi Sheshadri</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Shammi Kapoor</actor>
+      <actor>Raj Kiran</actor>
+      <actor>Satish Shah</actor>
+      <actor>Gulshan Grover</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F4C833C426D739E35829D7EEA3FC34D8935EBD78.jpg"/>
+  </programme>
+  <programme start="20240625100400 +0000" stop="20240625132500 +0000" channel="ts470">
+    <title lang="en">Sherni</title>
+    <desc lang="en">Durga, a simple village girl, watches her entire family die at the hands of Thakur. Soon, she picks up the gun and chooses a criminal lifestyle to avenge the death of her loved ones.</desc>
+    <credits>
+      <actor>Sridevi</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Pran</actor>
+      <actor>Ranjeet</actor>
+      <actor>Kader Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37C2191F8169794E83CE0DC4047838EC247837F16.jpg"/>
+  </programme>
+  <programme start="20240625132500 +0000" stop="20240625154500 +0000" channel="ts470">
+    <title lang="en">Jai Maa Vaishnav Devi</title>
+    <desc lang="en">A childless couple, Sridhar and Sulochana, are devotees of Maa Vaishno Devi. When demon Bhairavnath destroys a holy ritual organised by the couple, the goddess slays the demon and blesses the couple.</desc>
+    <credits>
+      <actor>Kiran Juneja</actor>
+      <actor>Sunil Dhawan</actor>
+      <actor>Rakesh Bedi</actor>
+      <actor>Arun Govil</actor>
+      <actor>Gajendra Chauhan</actor>
+      <actor>Gulshan Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/437F941A98DB005E594D5037B4BC8C5E50FE392BV.jpg"/>
+  </programme>
+  <programme start="20240625154500 +0000" stop="20240625182400 +0000" channel="ts470">
+    <title lang="en">Vinashak - Destroyer</title>
+    <desc lang="en">Arjun, a brave and honest officer, is given the task to expose Lankeshwar, a corrupt jailer, who is involved in the illegal trading of weapons.</desc>
+    <credits>
+      <actor>Sunil Shetty</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Danny Denzongpa</actor>
+      <actor>Alok Nath</actor>
+      <actor>Tinnu Anand</actor>
+      <actor>Om Puri</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD29A0D3409B916E8E77461267A0F6F8604DD511G.jpg"/>
+  </programme>
+  <programme start="20240625182400 +0000" stop="20240625195900 +0000" channel="ts470">
+    <title lang="en">Vivegam</title>
+    <desc lang="en">Ajay Kumar, a former counter-terrorism agent, is called for a special mission. However, he is betrayed by his friends and is accused of extremely treasonous acts.</desc>
+    <credits>
+      <actor>Ajith Kumar</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Akshara Haasan</actor>
+      <actor>Aarav Chowdhary</actor>
+      <actor>Karunakaran</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C3E5B32F0FDBDDD9437DA200386463A0D7BDEC0Z.jpg"/>
+  </programme>
+  <programme start="20240625195900 +0000" stop="20240625221800 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625221800 +0000" stop="20240625223600 +0000" channel="ts470">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625223600 +0000" stop="20240626005500 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626005500 +0000" stop="20240626031400 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626031400 +0000" stop="20240626053500 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626053500 +0000" stop="20240626082200 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626082200 +0000" stop="20240626105400 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626105400 +0000" stop="20240626132500 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626132500 +0000" stop="20240626170200 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626170200 +0000" stop="20240626204100 +0000" channel="ts470">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

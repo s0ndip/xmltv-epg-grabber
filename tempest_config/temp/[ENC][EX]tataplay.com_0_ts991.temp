@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts991">
+    <display-name lang="en">DD Meghalaya</display-name>
+  </channel>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625033000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625093100 +0000" channel="ts991">
+    <title lang="en">Programme Highlights</title>
+    <desc lang="en">The host presents information about the major programmes airing through the day.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0080B0B0489661A320D57237697915FAE487285L.jpg"/>
+  </programme>
+  <programme start="20240625093100 +0000" stop="20240625093200 +0000" channel="ts991">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports political and socio-economic news from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240625093200 +0000" stop="20240625103000 +0000" channel="ts991">
+    <title lang="en">Garo Prog</title>
+    <desc lang="en">Garo Prog</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B3ACE94B7CBE0BA525AF872910AF9D58109C7E0.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts991">
+    <title lang="en">Tourism Programme</title>
+    <desc lang="en">Tourism Programme</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97B77F16D95A62F6532E27BAC05143CE24E88866I.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts991">
+    <title lang="en">Na La Pongshai</title>
+    <desc lang="en">Children present skits, dance and musical performances among other activities on stage.</desc>
+    <category lang="en">Kids Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81532D4A53DDEE62052D077CB56021B1CCC54562O.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625113100 +0000" channel="ts991">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports political and socio-economic news from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240625113100 +0000" stop="20240625123000 +0000" channel="ts991">
+    <title lang="en">Health Essentials Live</title>
+    <desc lang="en">Experts talk about ailments and provide information about remedies to cure them, live.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F0E13529D2C85AFEA238C127F2EFBD175756F768.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts991">
+    <title lang="en">Khasi Modern Songs</title>
+    <desc lang="en">Talented singers perform some of the latest and most popular Khasi songs.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB43FB1557C7DDD5AD7A7373194EC38D6EC4D1B7N.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625131500 +0000" channel="ts991">
+    <title lang="en">RNU</title>
+    <desc lang="en">RNU</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92D6D85C945169BD415356D4DD59A62745EC01AEV.jpg"/>
+  </programme>
+  <programme start="20240625131500 +0000" stop="20240625133000 +0000" channel="ts991">
+    <title lang="en">N.E. News</title>
+    <desc lang="en">The host presents the latest news from the Northeastern states of India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40C5C3B44DD95AC427E731FEA1CEC8F38205CBB9X.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625134500 +0000" channel="ts991">
+    <title lang="en">English News Bulletin</title>
+    <desc lang="en">The host presents the latest news surrounding various socio-economic and political issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B17904FA1414E0D1E2C83934B594C04819CB41386.jpg"/>
+  </programme>
+  <programme start="20240625134500 +0000" stop="20240625140000 +0000" channel="ts991">
+    <title lang="en">Jaintia Songs</title>
+    <desc lang="en">Talented artists and musicians perform Jaintia songs and musical renditions.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE80BE319AA1183A17916FAEA04DC6AD524B4935A.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts991">
+    <title lang="en">Garo Prog</title>
+    <desc lang="en">Garo Prog</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B3ACE94B7CBE0BA525AF872910AF9D58109C7E0.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts991">
+    <title lang="en">RNU</title>
+    <desc lang="en">RNU</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92D6D85C945169BD415356D4DD59A62745EC01AEV.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts991">
+    <title lang="en">Western Music</title>
+    <desc lang="en">Artists come together and perform songs composed in the Western style of music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4CF88DB99905999F6F219F5F72495E71895F30BU.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts991">
+    <title lang="en">Shillong Buzz</title>
+    <desc lang="en">The latest updates and trends in various fields in the city of Shillong are presented.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D48A91533D959778BD7AED78A355EB2119FA1FAK.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts991">
+    <title lang="en">Health Essentials</title>
+    <desc lang="en">Medical experts shed light on some common health ailments and their treatments.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F045E74B663CAF69E4988DC4BBC0727226A95597.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625213000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626093100 +0000" channel="ts991">
+    <title lang="en">Programme Highlights</title>
+    <desc lang="en">The host presents information about the major programmes airing through the day.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0080B0B0489661A320D57237697915FAE487285L.jpg"/>
+  </programme>
+  <programme start="20240626093100 +0000" stop="20240626093200 +0000" channel="ts991">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports political and socio-economic news from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240626093200 +0000" stop="20240626103000 +0000" channel="ts991">
+    <title lang="en">Garo Prog</title>
+    <desc lang="en">Garo Prog</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B3ACE94B7CBE0BA525AF872910AF9D58109C7E0.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts991">
+    <title lang="en">Excellent Quotient</title>
+    <desc lang="en">Excellent Quotient</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA76E3B1B12B28A3E915B12B8B68DB9A45A339903.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts991">
+    <title lang="en">Na Lyngwiar Rympei</title>
+    <desc lang="en">Na Lyngwiar Rympei</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49BA9AE4B927D2CCCE76D17011819C76394C6050X.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626113100 +0000" channel="ts991">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports political and socio-economic news from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240626113100 +0000" stop="20240626120000 +0000" channel="ts991">
+    <title lang="en">Food Diaries</title>
+    <desc lang="en">The host visits various households as the guests prepare delicious dishes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35347BA78FDEAC1C92C2C1A7813AB98BA1E2FE82C.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts991">
+    <title lang="en">How They Do It?</title>
+    <desc lang="en">The host explores various industries and manufacturing units across the state.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61CA9C42F1C99371BC1D62C248EBAE65082DF663S.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts991">
+    <title lang="en">TV Report/ Music</title>
+    <desc lang="en">TV Report/ Music</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0ECD8EC4110E1543CD9C3A2BEC0E4C90A1CD2A6BM.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626131500 +0000" channel="ts991">
+    <title lang="en">RNU</title>
+    <desc lang="en">RNU</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92D6D85C945169BD415356D4DD59A62745EC01AEV.jpg"/>
+  </programme>
+  <programme start="20240626131500 +0000" stop="20240626133000 +0000" channel="ts991">
+    <title lang="en">N.E. News</title>
+    <desc lang="en">The host presents the latest news from the Northeastern states of India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40C5C3B44DD95AC427E731FEA1CEC8F38205CBB9X.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626134500 +0000" channel="ts991">
+    <title lang="en">English News Bulletin</title>
+    <desc lang="en">The host presents the latest news surrounding various socio-economic and political issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B17904FA1414E0D1E2C83934B594C04819CB41386.jpg"/>
+  </programme>
+  <programme start="20240626134500 +0000" stop="20240626140000 +0000" channel="ts991">
+    <title lang="en">Jaintia Songs</title>
+    <desc lang="en">Talented artists and musicians perform Jaintia songs and musical renditions.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE80BE319AA1183A17916FAEA04DC6AD524B4935A.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626150000 +0000" channel="ts991">
+    <title lang="en">Garo Prog</title>
+    <desc lang="en">Garo Prog</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B3ACE94B7CBE0BA525AF872910AF9D58109C7E0.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts991">
+    <title lang="en">RNU</title>
+    <desc lang="en">RNU</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92D6D85C945169BD415356D4DD59A62745EC01AEV.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts991">
+    <title lang="en">Khasi Folk Music</title>
+    <desc lang="en">A comprehensive compilation of popular folk songs are performed.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A9C41C81A692445E031F73391CF64923683F71414.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts991">
+    <title lang="en">Career Guidance</title>
+    <desc lang="en">An expert provides proper guidance to choose a career based on one's skills and interests.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4844E815FEBADD321C9FE94FE03ECC7A0410AB0FO.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts991">
+    <title lang="en">Western Music</title>
+    <desc lang="en">Artists come together and perform songs composed in the Western style of music.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4CF88DB99905999F6F219F5F72495E71895F30BU.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts991">
+    <title lang="en">Dances &amp; Songs Of North East</title>
+    <desc lang="en">The host highlights the folk dances and songs performed by artists from Northeast India.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/024FE7E487A807F085737C7D541958C89192AB7DG.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626213000 +0000" channel="ts991">
+    <title lang="en">Entertainment Programme</title>
+    <desc lang="en">Entertainment Programme</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD9F10C408D35EFAD040BB49D91E4E9501D42ABDS.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts165">
+    <display-name lang="en">Sun TV</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts165">
+    <title lang="en">Paandavar Illam</title>
+    <desc lang="en">The Paandavar family develop a hatred for women and avoid communicating with them. Kayal and her friend fall in love with brothers Kutti and Anbu Sundaram from the same family and try to impress them.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4C4B1205BB11B9998EF14EC6B09BD1159C20E22E.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624213000 +0000" channel="ts165">
+    <title lang="en">Nagaichuvai Galatta</title>
+    <desc lang="en">A comprehensive collection of the most entertaining and hilarious comedy sequences, videos and funny moments from famous Tamil movies.</desc>
+    <credits>
+      <actor>Devadarshini Neelakandan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2614D9493F0C4398CA3F855312A0681A7858338BQ.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts165">
+    <title lang="en">Thirai Thendral</title>
+    <desc lang="en">An extensive collection of soul-stirring melodies recorded and composed by notable musicians and artists for various Tamil movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6ED35C2594FB3465A058925667E86EB7E4326154F.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts165">
+    <title lang="en">Sugamana Ragangal</title>
+    <desc lang="en">A comprehensive compilation of popular melodious songs composed and performed by various renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9AD25D55E15605D2E53045F8BF43C194055A8C5C.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts165">
+    <title lang="en">Bhakthi Padalgal</title>
+    <desc lang="en">A comprehensive compilation of some of the most famous devotional songs in praise of God sung by eminent artists played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D2F6FD1C96DCFF695BB5C2EB082D6D427C1E011D.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts165">
+    <title lang="en">Aalaya Vazhipadu</title>
+    <desc lang="en">The host sheds light on some interesting information related to the customs and rituals followed in different temples in India.</desc>
+    <credits>
+      <actor>Vignesh Rajagopal</actor>
+      <actor>Priya Chowdhury</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2F26E5C0E6FA205E8025F4356640340AAA11810E.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625011500 +0000" channel="ts165">
+    <title lang="en">Aanmeega Kathaigal</title>
+    <desc lang="en">The host delivers a spiritual discourse, narrates stories and scriptures from religious texts to encourage people to lead a righteous life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB16C5AD224FD60515184C2F32CE9982260DD5D20.jpg"/>
+  </programme>
+  <programme start="20240625011500 +0000" stop="20240625020000 +0000" channel="ts165">
+    <title lang="en">Nalla Kaalam Pirakkuthu</title>
+    <desc lang="en">An astrologer provides forecasts and predictions for people of various sun signs according to the principles of the 27 nakshatras.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17060530010145692B2F9A3E2B933EC49E9AD81C3.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts165">
+    <title lang="en">News</title>
+    <desc lang="en">News. The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts165">
+    <title lang="en">Kelvi Kalam</title>
+    <desc lang="en">Debate Show. Expert panellists debate on various social, political and economical issues taking place in Tamil Nadu as well as around the globe.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61ECDAC3BD0A525C3DDC50B7BD27DD6B4366A897I.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts165">
+    <title lang="en">Kannana Kanne</title>
+    <desc lang="en">Meera, a young woman, yearns for her father's love but he despises her. However, her stepmother, stepsister, grandmother and Yuva adore her.</desc>
+    <credits>
+      <actor>Nimeshika</actor>
+      <actor>Rahul Ravi</actor>
+      <actor>Babloo Prithiveeraj</actor>
+      <actor>Akshita Bopaiah</actor>
+      <actor>Nithya Das</actor>
+      <actor>Iniya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3969EAED90713437664A140E5497F85323F725EZ.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts165">
+    <title lang="en">Mr. Manaivi</title>
+    <desc lang="en">Despite all odds, two individuals who have different attitude towards life, meet and together set off on their journey of love.</desc>
+    <credits>
+      <actor>Pavan Ravindra</actor>
+      <actor>Shabanaa Shahjahan</actor>
+      <actor>Sanju Baba</actor>
+      <actor>Raj Kanth</actor>
+      <actor>Mansi Joshi</actor>
+      <actor>VJ Aswath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8669F63E29834C8368AA84EE0EE8618B94BBB509L.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts165">
+    <title lang="en">Ramayanam</title>
+    <desc lang="en">Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/088AE44467650D62E51B7B5EC6763C334AE70F2FC.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts165">
+    <title lang="en">Ethir Neechal</title>
+    <desc lang="en">Janani, a successful woman, finds her ambitions crumbling when she gets married into a patriarchal family. But her tenacity helps her to encourage the oppressed women of the family to revolt with her.</desc>
+    <credits>
+      <actor>Madhumitha H</actor>
+      <actor>Sabari Prasanth</actor>
+      <actor>Haripriya Isai</actor>
+      <actor>Kaniha</actor>
+      <actor>Priyadarshini</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA0E290A81BB85E0E5F7423B5CF15A1C827FEA27L.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts165">
+    <title lang="en">Meena</title>
+    <desc lang="en">The families of Chidambaram and Sathyamurthy treat each other like arch-rivals. Meena, a determined school teacher, tries to unite them.</desc>
+    <credits>
+      <actor>Indhu Chowdhary</actor>
+      <actor>Jay Srinivasa Kumar</actor>
+      <actor>Sonia Bose</actor>
+      <actor>Vignesh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D2CD19740771AD7C4D2DAD414C747D7E2E1EA3BK.jpg"/>
+    <episode-num system="xmltv_ns">.278.</episode-num>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts165">
+    <title lang="en">Sevanthi</title>
+    <desc lang="en">Sevanthi, a devoted wife and daughter-in-law, takes care of the household affairs. However, she and her family are forced to deal with various conflicts in life.</desc>
+    <credits>
+      <actor>Raghav Ranganathan</actor>
+      <actor>Divya Sridhar</actor>
+      <actor>Jeyanthi Narayanan</actor>
+      <actor>Azhagu</actor>
+      <actor>Sivanya Priyanka</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85DDB96F0ECC32E01C11DEDBAB2C23D2E9E2A663X.jpg"/>
+    <episode-num system="xmltv_ns">.591.</episode-num>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts165">
+    <title lang="en">Malar</title>
+    <desc lang="en">Sisters Malar and Parvathi who share a close bond navigate various challenges in their lives. While her family is of utmost importance to Malar, Parvathi wishes to find a life partner.</desc>
+    <credits>
+      <actor>Preethi Sharma</actor>
+      <actor>Agni</actor>
+      <actor>Nivisha</actor>
+      <actor>Indiran</actor>
+      <actor>Niharika Harshu</actor>
+      <actor>Akhila Prakash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C3574ED9451485E327D92EC42F0F79157CD48DAW.jpg"/>
+    <episode-num system="xmltv_ns">.412.</episode-num>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts165">
+    <title lang="en">Poova Thalaya</title>
+    <desc lang="en">A young boy hailing from a village falls for a beautiful and intelligent girl from a city. However, their shyness prevents them from expressing their honest feelings.</desc>
+    <credits>
+      <actor>Sithara</actor>
+      <actor>Latha Rao</actor>
+      <actor>Suveta Shrimpton</actor>
+      <actor>Kishore</actor>
+      <actor>Dharshna Sripal Golecha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1DD0A90B0C2C5C63CEFDC009A362501CDB7941DU.jpg"/>
+    <episode-num system="xmltv_ns">.202.</episode-num>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts165">
+    <title lang="en">Punnagai Poove</title>
+    <desc lang="en">Charming actress Sri Divya shares her career experiences and specialties of Women's Day celebrations.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD6EE48DB47F86E4F45F98AFFFC2A38D90835582W.jpg"/>
+    <episode-num system="xmltv_ns">.43.</episode-num>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts165">
+    <title lang="en">Puthu Vasantham</title>
+    <desc lang="en">As the parents search for a suitable prospect for their daughter Selvi's marriage, she expresses her desire to get married to a joint family.</desc>
+    <credits>
+      <actor>Soniya Suresh</actor>
+      <actor>Siva Kavitha</actor>
+      <actor>Shyam Ji</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F4A85609593459BE5C75AA8928499D9BDFC4A45V.jpg"/>
+    <episode-num system="xmltv_ns">.313.</episode-num>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts165">
+    <title lang="en">Ilakkiya</title>
+    <desc lang="en">A selfless woman from a middle-class family finds happiness in helping others. However, her life changes when she encounters an industrialist's son.</desc>
+    <credits>
+      <actor>Nandan Loganathan</actor>
+      <actor>Hima Bindhu</actor>
+      <actor>Rupasree</actor>
+      <actor>Sushma</actor>
+      <actor>Delhi Ganesh</actor>
+      <actor>Satish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D63850178044EC6485496AB5AB3E11BF878779E0G.jpg"/>
+    <episode-num system="xmltv_ns">.528.</episode-num>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts165">
+    <title lang="en">Lakshmi</title>
+    <desc lang="en">Mahalakshmi, a hardworking woman, wishes to support her family even after marriage. However, fate has other plans and she gets married into a money-minded family.</desc>
+    <credits>
+      <actor>Sruthiraj</actor>
+      <actor>Sanjeev Venkat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/360F25DCAED93861709EE6E430B3B1A4229DBF63M.jpg"/>
+    <episode-num system="xmltv_ns">.85.</episode-num>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts165">
+    <title lang="en">Anandha Ragam</title>
+    <desc lang="en">The smart and beautiful Eswari is adored by her family members. Circumstances make her cross path with Alagu Sundaram, who hails from a rich family.</desc>
+    <credits>
+      <actor>Ilavarasu</actor>
+      <actor>Vinodhini Vaidyanathan</actor>
+      <actor>Anusha Prathap</actor>
+      <actor>Alagappan</actor>
+      <actor>Preethi Sanjiv</actor>
+      <actor>Swetha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/716522BA489A0EEC5DE7E65B95558FA32270B8B42.jpg"/>
+    <episode-num system="xmltv_ns">.575.</episode-num>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625123000 +0000" channel="ts165">
+    <title lang="en">Movie - Devathayai Kanden</title>
+    <desc lang="en">Babu, a tea vendor, falls in love with Uma, a rich girl, and she too loves him for his sincerity. However, Babu sues her for cheating when she accepts a doctor's proposal to have a secure future.</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Sridevi Vijaykumar</actor>
+      <actor>Kunal</actor>
+      <actor>Karunas</actor>
+      <actor>Manobala</actor>
+      <actor>Sathyan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3F584B0B154FBCFB3156805DD3E32B520ACB120Y.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts165">
+    <title lang="en">News</title>
+    <desc lang="en">News. The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts165">
+    <title lang="en">Ramayanam</title>
+    <desc lang="en">Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/088AE44467650D62E51B7B5EC6763C334AE70F2FC.jpg"/>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts165">
+    <title lang="en">Sundari</title>
+    <desc lang="en">Sundari, a young woman, is judged due to her dark complexion. However, disregarding the animosity, she strives to achieve her dreams.</desc>
+    <credits>
+      <actor>Gabriella Sellus</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF9BA9400DC17FEB9D2260C55224168575EB76B92.jpg"/>
+    <episode-num system="xmltv_ns">.1022.</episode-num>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts165">
+    <title lang="en">Kayal</title>
+    <desc lang="en">Kayal, a selfless woman, earns to provide for her family after her father abandons them. Despite being overwhelmed with responsibilities, she puts her loved ones' well-being before her own happiness.</desc>
+    <credits>
+      <actor>Chaitra Reddy</actor>
+      <actor>Sanjeev Karthik</actor>
+      <actor>Meena Kumari</actor>
+      <actor>Abi Navya</actor>
+      <actor>Avinash</actor>
+      <actor>Ishu Ravichandhran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDFEBA7B3082D3EBC249DD69CA7F21B61D068540Q.jpg"/>
+    <episode-num system="xmltv_ns">.845.</episode-num>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts165">
+    <title lang="en">Marumagal</title>
+    <desc lang="en">Prabhu is a miser and puts his needs ahead of his family. Circumstances brings him closer to Aadhirai, who helps others selflessly.</desc>
+    <credits>
+      <actor>Gabriella</actor>
+      <actor>Rahul Ravi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF86760D498087D94ABC3E87D1814B32DCF8E4ECP.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts165">
+    <title lang="en">Vaanathai Pola</title>
+    <desc lang="en">A brother and sister love each other dearly and share an unshakeable bond. His only desire in life is to get her happily married into a big family where she is loved and appreciated.</desc>
+    <credits>
+      <actor>Thaman Kumar</actor>
+      <actor>Shwetha Khelge</actor>
+      <actor>Thilak</actor>
+      <actor>Debjani Modak</actor>
+      <actor>Senthil Kumari</actor>
+      <actor>Ashwanth Seenu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC1E2112BDD789160A2B6581A55D77DEEE381BBBW.jpg"/>
+    <episode-num system="xmltv_ns">.1091.</episode-num>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts165">
+    <title lang="en">Singapenne</title>
+    <desc lang="en">Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
+    <credits>
+      <actor>Maneesha Mahesh</actor>
+      <actor>Rama</actor>
+      <actor>G Gnanasambandam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC1DE66BB67E95A7AEFC87D7E31CE857BBD2EB03F.jpg"/>
+    <episode-num system="xmltv_ns">.221.</episode-num>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts165">
+    <title lang="en">Malli</title>
+    <desc lang="en">Bala, who hails from a middle-class family, treats Shivani, who is neglected by her rich family, as his older dead sister Malli.</desc>
+    <credits>
+      <actor>Baby Harini</actor>
+      <actor>Sethu Darwin</actor>
+      <actor>Sonia Agarwal</actor>
+      <actor>Theni Murugan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2164801401045984E1AA7CF5BE31471DA1D99709R.jpg"/>
+    <episode-num system="xmltv_ns">.57.</episode-num>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts165">
+    <title lang="en">Iniya</title>
+    <desc lang="en">The host chats with well-known South Indian actress Iniya about her career achievements and upcoming projects.</desc>
+    <credits>
+      <actor>Iniya</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76DF5DB3F96E7766BCF434834E2C0F73E93ED254D.jpg"/>
+    <episode-num system="xmltv_ns">.516.</episode-num>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts165">
+    <title lang="en">Mr. Manaivi</title>
+    <desc lang="en">Despite all odds, two individuals who have different attitude towards life, meet and together set off on their journey of love.</desc>
+    <credits>
+      <actor>Pavan Ravindra</actor>
+      <actor>Shabanaa Shahjahan</actor>
+      <actor>Sanju Baba</actor>
+      <actor>Raj Kanth</actor>
+      <actor>Mansi Joshi</actor>
+      <actor>VJ Aswath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BDBF629F7E1A672F25B39FC05CCA3BED08CCDEFS.jpg"/>
+    <episode-num system="xmltv_ns">.430.</episode-num>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts165">
+    <title lang="en">Malar</title>
+    <desc lang="en">Sisters Malar and Parvathi who share a close bond navigate various challenges in their lives. While her family is of utmost importance to Malar, Parvathi wishes to find a life partner.</desc>
+    <credits>
+      <actor>Preethi Sharma</actor>
+      <actor>Agni</actor>
+      <actor>Nivisha</actor>
+      <actor>Indiran</actor>
+      <actor>Niharika Harshu</actor>
+      <actor>Akhila Prakash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09836937A39D05424BDD0A331558045CABCB08E73.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts165">
+    <title lang="en">Aruvi</title>
+    <desc lang="en">A young girl who wishes to marry a handsome young man with the support of her father faces a hurdle when his mother stops them from marrying.</desc>
+    <credits>
+      <actor>Isvar Raghunathan</actor>
+      <actor>Lavanya</actor>
+      <actor>Ambika</actor>
+      <actor>Krithikaa Laddu</actor>
+      <actor>Karthick Vasu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB61FD4F6E094077D2047E88260DA12C0B08C447G.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts165">
+    <title lang="en">Paandavar Illam</title>
+    <desc lang="en">The Paandavar family develop a hatred for women and avoid communicating with them. Kayal and her friend fall in love with brothers Kutti and Anbu Sundaram from the same family and try to impress them.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4C4B1205BB11B9998EF14EC6B09BD1159C20E22E.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625213000 +0000" channel="ts165">
+    <title lang="en">Nagaichuvai Galatta</title>
+    <desc lang="en">A comprehensive collection of the most entertaining and hilarious comedy sequences, videos and funny moments from famous Tamil movies.</desc>
+    <credits>
+      <actor>Devadarshini Neelakandan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2614D9493F0C4398CA3F855312A0681A7858338BQ.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625223000 +0000" channel="ts165">
+    <title lang="en">Thirai Thendral</title>
+    <desc lang="en">An extensive collection of soul-stirring melodies recorded and composed by notable musicians and artists for various Tamil movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6ED35C2594FB3465A058925667E86EB7E4326154F.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625233000 +0000" channel="ts165">
+    <title lang="en">Sugamana Ragangal</title>
+    <desc lang="en">A comprehensive compilation of popular melodious songs composed and performed by various renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9AD25D55E15605D2E53045F8BF43C194055A8C5C.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626003000 +0000" channel="ts165">
+    <title lang="en">Bhakthi Padalgal</title>
+    <desc lang="en">A comprehensive compilation of some of the most famous devotional songs in praise of God sung by eminent artists played back to back.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D2F6FD1C96DCFF695BB5C2EB082D6D427C1E011D.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts165">
+    <title lang="en">Aalaya Vazhipadu</title>
+    <desc lang="en">The host sheds light on some interesting information related to the customs and rituals followed in different temples in India.</desc>
+    <credits>
+      <actor>Vignesh Rajagopal</actor>
+      <actor>Priya Chowdhury</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2F26E5C0E6FA205E8025F4356640340AAA11810E.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626011500 +0000" channel="ts165">
+    <title lang="en">Aanmeega Kathaigal</title>
+    <desc lang="en">The host delivers a spiritual discourse, narrates stories and scriptures from religious texts to encourage people to lead a righteous life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB16C5AD224FD60515184C2F32CE9982260DD5D20.jpg"/>
+  </programme>
+  <programme start="20240626011500 +0000" stop="20240626020000 +0000" channel="ts165">
+    <title lang="en">Nalla Kaalam Pirakkuthu</title>
+    <desc lang="en">An astrologer provides forecasts and predictions for people of various sun signs according to the principles of the 27 nakshatras.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17060530010145692B2F9A3E2B933EC49E9AD81C3.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts165">
+    <title lang="en">News</title>
+    <desc lang="en">News. The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts165">
+    <title lang="en">Kelvi Kalam</title>
+    <desc lang="en">Debate Show. Expert panellists debate on various social, political and economical issues taking place in Tamil Nadu as well as around the globe.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61ECDAC3BD0A525C3DDC50B7BD27DD6B4366A897I.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts165">
+    <title lang="en">Kannana Kanne</title>
+    <desc lang="en">Meera, a young woman, yearns for her father's love but he despises her. However, her stepmother, stepsister, grandmother and Yuva adore her.</desc>
+    <credits>
+      <actor>Nimeshika</actor>
+      <actor>Rahul Ravi</actor>
+      <actor>Babloo Prithiveeraj</actor>
+      <actor>Akshita Bopaiah</actor>
+      <actor>Nithya Das</actor>
+      <actor>Iniya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3969EAED90713437664A140E5497F85323F725EZ.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts165">
+    <title lang="en">Mr. Manaivi</title>
+    <desc lang="en">Despite all odds, two individuals who have different attitude towards life, meet and together set off on their journey of love.</desc>
+    <credits>
+      <actor>Pavan Ravindra</actor>
+      <actor>Shabanaa Shahjahan</actor>
+      <actor>Sanju Baba</actor>
+      <actor>Raj Kanth</actor>
+      <actor>Mansi Joshi</actor>
+      <actor>VJ Aswath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8669F63E29834C8368AA84EE0EE8618B94BBB509L.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts165">
+    <title lang="en">Ramayanam</title>
+    <desc lang="en">Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/088AE44467650D62E51B7B5EC6763C334AE70F2FC.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts165">
+    <title lang="en">Ethir Neechal</title>
+    <desc lang="en">Janani, a successful woman, finds her ambitions crumbling when she gets married into a patriarchal family. But her tenacity helps her to encourage the oppressed women of the family to revolt with her.</desc>
+    <credits>
+      <actor>Madhumitha H</actor>
+      <actor>Sabari Prasanth</actor>
+      <actor>Haripriya Isai</actor>
+      <actor>Kaniha</actor>
+      <actor>Priyadarshini</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA0E290A81BB85E0E5F7423B5CF15A1C827FEA27L.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts165">
+    <title lang="en">Meena</title>
+    <desc lang="en">The families of Chidambaram and Sathyamurthy treat each other like arch-rivals. Meena, a determined school teacher, tries to unite them.</desc>
+    <credits>
+      <actor>Indhu Chowdhary</actor>
+      <actor>Jay Srinivasa Kumar</actor>
+      <actor>Sonia Bose</actor>
+      <actor>Vignesh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95279B87E9E233D65B51BBFE3D9AECDD15744E9BH.jpg"/>
+    <episode-num system="xmltv_ns">.279.</episode-num>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts165">
+    <title lang="en">Sevanthi</title>
+    <desc lang="en">Sevanthi, a devoted wife and daughter-in-law, takes care of the household affairs. However, she and her family are forced to deal with various conflicts in life.</desc>
+    <credits>
+      <actor>Raghav Ranganathan</actor>
+      <actor>Divya Sridhar</actor>
+      <actor>Jeyanthi Narayanan</actor>
+      <actor>Azhagu</actor>
+      <actor>Sivanya Priyanka</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2558FB6A427A9D124CBDD1BFEB6ECB3245567EB3R.jpg"/>
+    <episode-num system="xmltv_ns">.592.</episode-num>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts165">
+    <title lang="en">Malar</title>
+    <desc lang="en">Sisters Malar and Parvathi who share a close bond navigate various challenges in their lives. While her family is of utmost importance to Malar, Parvathi wishes to find a life partner.</desc>
+    <credits>
+      <actor>Preethi Sharma</actor>
+      <actor>Agni</actor>
+      <actor>Nivisha</actor>
+      <actor>Indiran</actor>
+      <actor>Niharika Harshu</actor>
+      <actor>Akhila Prakash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09C9E0F94B56AFC1F19AC039C72589A8E75121DC8.jpg"/>
+    <episode-num system="xmltv_ns">.413.</episode-num>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts165">
+    <title lang="en">Poova Thalaya</title>
+    <desc lang="en">A young boy hailing from a village falls for a beautiful and intelligent girl from a city. However, their shyness prevents them from expressing their honest feelings.</desc>
+    <credits>
+      <actor>Sithara</actor>
+      <actor>Latha Rao</actor>
+      <actor>Suveta Shrimpton</actor>
+      <actor>Kishore</actor>
+      <actor>Dharshna Sripal Golecha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A22DE6CFCC81E14D6CDF7F465B7A5DB5D8D73A1U.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts165">
+    <title lang="en">Punnagai Poove</title>
+    <desc lang="en">Charming actress Sri Divya shares her career experiences and specialties of Women's Day celebrations.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0495FACEDE3FF7D06C61F19F595C7D75A0771EBD6.jpg"/>
+    <episode-num system="xmltv_ns">.44.</episode-num>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts165">
+    <title lang="en">Puthu Vasantham</title>
+    <desc lang="en">As the parents search for a suitable prospect for their daughter Selvi's marriage, she expresses her desire to get married to a joint family.</desc>
+    <credits>
+      <actor>Soniya Suresh</actor>
+      <actor>Siva Kavitha</actor>
+      <actor>Shyam Ji</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9351931EADA46649D95E405322A8B3CBF1F70396H.jpg"/>
+    <episode-num system="xmltv_ns">.314.</episode-num>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts165">
+    <title lang="en">Ilakkiya</title>
+    <desc lang="en">A selfless woman from a middle-class family finds happiness in helping others. However, her life changes when she encounters an industrialist's son.</desc>
+    <credits>
+      <actor>Nandan Loganathan</actor>
+      <actor>Hima Bindhu</actor>
+      <actor>Rupasree</actor>
+      <actor>Sushma</actor>
+      <actor>Delhi Ganesh</actor>
+      <actor>Satish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/086AD656E47BA4B3BDB529D26BD7228367C5D9B35.jpg"/>
+    <episode-num system="xmltv_ns">.529.</episode-num>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts165">
+    <title lang="en">Lakshmi</title>
+    <desc lang="en">Mahalakshmi, a hardworking woman, wishes to support her family even after marriage. However, fate has other plans and she gets married into a money-minded family.</desc>
+    <credits>
+      <actor>Sruthiraj</actor>
+      <actor>Sanjeev Venkat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFAEBCEDCAB783207EE05D226432C5259B3A034DV.jpg"/>
+    <episode-num system="xmltv_ns">.86.</episode-num>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts165">
+    <title lang="en">Anandha Ragam</title>
+    <desc lang="en">The smart and beautiful Eswari is adored by her family members. Circumstances make her cross path with Alagu Sundaram, who hails from a rich family.</desc>
+    <credits>
+      <actor>Ilavarasu</actor>
+      <actor>Vinodhini Vaidyanathan</actor>
+      <actor>Anusha Prathap</actor>
+      <actor>Alagappan</actor>
+      <actor>Preethi Sanjiv</actor>
+      <actor>Swetha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04D699D53F3FF427E81D5533A376EC8F78C81DEAZ.jpg"/>
+    <episode-num system="xmltv_ns">.576.</episode-num>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626123000 +0000" channel="ts165">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24A0BD230EBF8DB7C635ECDB36F2444ABF4711FBU.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts165">
+    <title lang="en">News</title>
+    <desc lang="en">News. The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts165">
+    <title lang="en">Ramayanam</title>
+    <desc lang="en">Lord Rama and various other figures in Valmiki's Ramayana and Tulsidas's 'Ramcharitmanas' go through trials and tribulations to achieve their goals and protect their loved ones.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/088AE44467650D62E51B7B5EC6763C334AE70F2FC.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts165">
+    <title lang="en">Sundari</title>
+    <desc lang="en">Sundari, a young woman, is judged due to her dark complexion. However, disregarding the animosity, she strives to achieve her dreams.</desc>
+    <credits>
+      <actor>Gabriella Sellus</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/406AAF9F47BAA1057C5A9F10F0C6367524E64337J.jpg"/>
+    <episode-num system="xmltv_ns">.1023.</episode-num>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts165">
+    <title lang="en">Kayal</title>
+    <desc lang="en">Kayal, a selfless woman, earns to provide for her family after her father abandons them. Despite being overwhelmed with responsibilities, she puts her loved ones' well-being before her own happiness.</desc>
+    <credits>
+      <actor>Chaitra Reddy</actor>
+      <actor>Sanjeev Karthik</actor>
+      <actor>Meena Kumari</actor>
+      <actor>Abi Navya</actor>
+      <actor>Avinash</actor>
+      <actor>Ishu Ravichandhran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89ED17DC882ACCB5E15923D90B21AC1BE09723ED3.jpg"/>
+    <episode-num system="xmltv_ns">.846.</episode-num>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts165">
+    <title lang="en">Marumagal</title>
+    <desc lang="en">Prabhu is a miser and puts his needs ahead of his family. Circumstances brings him closer to Aadhirai, who helps others selflessly.</desc>
+    <credits>
+      <actor>Gabriella</actor>
+      <actor>Rahul Ravi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/895A52DBE63757692319B3112531AEE0CFF5D7FFH.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts165">
+    <title lang="en">Vaanathai Pola</title>
+    <desc lang="en">A brother and sister love each other dearly and share an unshakeable bond. His only desire in life is to get her happily married into a big family where she is loved and appreciated.</desc>
+    <credits>
+      <actor>Thaman Kumar</actor>
+      <actor>Shwetha Khelge</actor>
+      <actor>Thilak</actor>
+      <actor>Debjani Modak</actor>
+      <actor>Senthil Kumari</actor>
+      <actor>Ashwanth Seenu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA98AEA81CE90F2E95C68004F3A602E31FC8CF2EM.jpg"/>
+    <episode-num system="xmltv_ns">.1092.</episode-num>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts165">
+    <title lang="en">Singapenne</title>
+    <desc lang="en">Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
+    <credits>
+      <actor>Maneesha Mahesh</actor>
+      <actor>Rama</actor>
+      <actor>G Gnanasambandam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01122AB5E0DF1E63014F33DE6F1AFA971D828593T.jpg"/>
+    <episode-num system="xmltv_ns">.222.</episode-num>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts165">
+    <title lang="en">Malli</title>
+    <desc lang="en">Bala, who hails from a middle-class family, treats Shivani, who is neglected by her rich family, as his older dead sister Malli.</desc>
+    <credits>
+      <actor>Baby Harini</actor>
+      <actor>Sethu Darwin</actor>
+      <actor>Sonia Agarwal</actor>
+      <actor>Theni Murugan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55C7C57DE819B635C096875F3A723B78C44844D5C.jpg"/>
+    <episode-num system="xmltv_ns">.58.</episode-num>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts165">
+    <title lang="en">Iniya</title>
+    <desc lang="en">The host chats with well-known South Indian actress Iniya about her career achievements and upcoming projects.</desc>
+    <credits>
+      <actor>Iniya</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8620577FAD67D42E3AF03F5B6846BA4F451EA3C35.jpg"/>
+    <episode-num system="xmltv_ns">.517.</episode-num>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts165">
+    <title lang="en">Mr. Manaivi</title>
+    <desc lang="en">Despite all odds, two individuals who have different attitude towards life, meet and together set off on their journey of love.</desc>
+    <credits>
+      <actor>Pavan Ravindra</actor>
+      <actor>Shabanaa Shahjahan</actor>
+      <actor>Sanju Baba</actor>
+      <actor>Raj Kanth</actor>
+      <actor>Mansi Joshi</actor>
+      <actor>VJ Aswath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C024FBC301EEFD3F16A83D9B0D90977312A37D8R.jpg"/>
+    <episode-num system="xmltv_ns">.431.</episode-num>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts165">
+    <title lang="en">Malar</title>
+    <desc lang="en">Sisters Malar and Parvathi who share a close bond navigate various challenges in their lives. While her family is of utmost importance to Malar, Parvathi wishes to find a life partner.</desc>
+    <credits>
+      <actor>Preethi Sharma</actor>
+      <actor>Agni</actor>
+      <actor>Nivisha</actor>
+      <actor>Indiran</actor>
+      <actor>Niharika Harshu</actor>
+      <actor>Akhila Prakash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09836937A39D05424BDD0A331558045CABCB08E73.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts165">
+    <title lang="en">Aruvi</title>
+    <desc lang="en">A young girl who wishes to marry a handsome young man with the support of her father faces a hurdle when his mother stops them from marrying.</desc>
+    <credits>
+      <actor>Isvar Raghunathan</actor>
+      <actor>Lavanya</actor>
+      <actor>Ambika</actor>
+      <actor>Krithikaa Laddu</actor>
+      <actor>Karthick Vasu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB61FD4F6E094077D2047E88260DA12C0B08C447G.jpg"/>
+  </programme>
+</tv>

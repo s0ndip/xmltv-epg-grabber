@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts954">
+    <display-name lang="en">Star Maa Gold</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624203000 +0000" channel="ts954">
+    <title lang="en">Yuvasena</title>
+    <desc lang="en">Four engineering students fight against the injustice that takes place in society. They decide to bring about a change by creating a website for people who need help.</desc>
+    <credits>
+      <actor>Arun</actor>
+      <actor>Bharath Srinivasan</actor>
+      <actor>Padmakumar</actor>
+      <actor>Arjun Bose</actor>
+      <actor>Gopika</actor>
+      <actor>Narain</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6958E1C4DA0429AFBA620FCF5FC384BBAC496EA97.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts954">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624233000 +0000" channel="ts954">
+    <title lang="en">Thoota</title>
+    <desc lang="en">Lovers Raghu and Lekha are torn apart by Lekha's guardian, Kuberan, who forces her to act in films. Years later, Raghu receives a call from her informing him about his estranged brother.</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Megha Akash</actor>
+      <actor>Sasikumar</actor>
+      <actor>Senthil Veerasamy</actor>
+      <actor>Sunaina</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49AD7AE8D75DB23591FCC9B872B52F8E1196301CA.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts954">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts954">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts954">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625023000 +0000" channel="ts954">
+    <title lang="en">Jhansi</title>
+    <desc lang="en">Jhansi, a committed police officer, faces various challenges when she sets out to nab the culprit who is responsible for raping an underage girl.</desc>
+    <credits>
+      <actor>Jyothika</actor>
+      <actor>G V Prakash Kumar</actor>
+      <actor>Ivana</actor>
+      <actor>Rockline Venkatesh</actor>
+      <actor>Dr Gurushankar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F768F96CE0C061E019758153AC4058CC67BE249S.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625053000 +0000" channel="ts954">
+    <title lang="en">Saamy 2</title>
+    <desc lang="en">Ramasaamy, who works as a front-end receptionist for Union Minister Viswanathan, decides to pursue civil service. Soon, Viswanathan's daughter falls in love with him after he saves her from gangsters.</desc>
+    <credits>
+      <actor>Vikram</actor>
+      <actor>Prabhu</actor>
+      <actor>Bobby Simha</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Soori</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/71B199CCD086E296771711D7874450945F7D7812G.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts954">
+    <title lang="en">Kanupapa</title>
+    <desc lang="en">A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Anusree</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Vimala Raman</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Baby Meenakshi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93E9DA6A2D05FD7AE31B4459CA0D755788D85F58X.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625113000 +0000" channel="ts954">
+    <title lang="en">Dongaata</title>
+    <desc lang="en">A girl fights to overcome her fears to stop her fiance from falling out of love with her. Instead of winning him back, she falls in love with the thief who is helping her.</desc>
+    <credits>
+      <actor>Jagapathi Babu</actor>
+      <actor>Soundarya</actor>
+      <actor>Suresh</actor>
+      <actor>Ritu Shivpuri</actor>
+      <actor>Srinivasa Rao Kota</actor>
+      <actor>Sarath Babu</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79435FB382D9F634CA8C827DFEB27CFBE2F22589T.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625143000 +0000" channel="ts954">
+    <title lang="en">Raja Rani</title>
+    <desc lang="en">John and Regina, who dislike each other, are forced to get married and lead troubled lives. However, things take a turn when the couple suffers a sudden tragedy.</desc>
+    <credits>
+      <actor>Arya</actor>
+      <actor>Nayantara</actor>
+      <actor>Jai</actor>
+      <actor>Nazriya Nazim</actor>
+      <actor>Santhanam</actor>
+      <actor>Sathyan</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/096899D4EE1BEBD76B46F1A0CDDE297793528E47V.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625173000 +0000" channel="ts954">
+    <title lang="en">Solo</title>
+    <desc lang="en">Gautam, an orphan, wishes to marry a woman from a joint family and his dream comes true when he falls in love with Vaishnavi. However, Vaishnavi's father is against their marriage.</desc>
+    <credits>
+      <actor>Nara Rohit</actor>
+      <actor>Nisha Agarwal</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Jayasudha</actor>
+      <actor>Ali</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D652696C714800D437651C73E45F8B4DF998B474.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625203000 +0000" channel="ts954">
+    <title lang="en">Lovely</title>
+    <desc lang="en">Kittu and Lalli are internet friends who get nervous when it is time to meet. So, Kittu sends Akash in his place while Lalli sends Lavanya, who end up falling in love with each other.</desc>
+    <credits>
+      <actor>Aadi</actor>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Rahul Dev</actor>
+      <actor>Vennela Kishore</actor>
+      <actor>Chinmayi Ghatrazu</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED054A5E1CDB1F9E64F69907178A19E451F8338EK.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts954">
+    <title lang="en">Masthi Maja</title>
+    <desc lang="en">A comprehensive compilation of some of the most funniest comedy scenes from popular Telugu movies is played back to back.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89D146BD3F87FEA03475A6FA60D3562655C3D64R.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625233000 +0000" channel="ts954">
+    <title lang="en">Current</title>
+    <desc lang="en">Sushanth, a college student, believes in living in the present while Sneha, his girlfriend, believes in planning for the future. Due to their contrasting personalities, they part ways with each other.</desc>
+    <credits>
+      <actor>Sushant</actor>
+      <actor>Sneha Ullal</actor>
+      <actor>Raghu Babu</actor>
+      <actor>Tanikella Bharani</actor>
+      <actor>Sudha</actor>
+      <actor>Charan Raj</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/502803897305ED518E3111D3D7B232188DFB35BF6.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts954">
+    <title lang="en">Masthi Maja</title>
+    <desc lang="en">A comprehensive compilation of some of the most funniest comedy scenes from popular Telugu movies is played back to back.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89D146BD3F87FEA03475A6FA60D3562655C3D64R.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts954">
+    <title lang="en">Masthi Maja</title>
+    <desc lang="en">A comprehensive compilation of some of the most funniest comedy scenes from popular Telugu movies is played back to back.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89D146BD3F87FEA03475A6FA60D3562655C3D64R.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts954">
+    <title lang="en">Arogya Jeevana Rahasyaalu</title>
+    <desc lang="en">A renowned health expert provides a variety of tips for maintaining an active lifestyle and shares advice on how one can improve their physical and mental health.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48D0545CC88919C0135110B6A7B28047DE6B013C6.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626023000 +0000" channel="ts954">
+    <title lang="en">Oohalu Gusagusalaade</title>
+    <desc lang="en">Venky, who aspires to become a newsreader, must face the challenges posed by his boss, Uday. Things get worse when Uday seeks Venky's help to woo a girl in return for his desired post.</desc>
+    <credits>
+      <actor>Naga Shourya</actor>
+      <actor>Rashi Khanna</actor>
+      <actor>Srinivas Avasarala</actor>
+      <actor>Surya</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Hema</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD3BD61988BF70FCB8E0EBDAAF22BCD96BED51EAM.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626053000 +0000" channel="ts954">
+    <title lang="en">Kathi</title>
+    <desc lang="en">Jeevanandam, a social activist, fights against a company to restore farming in a village. But things take a twisted turn when he gets arrested instead of his doppelganger, Kathiresan, a criminal.</desc>
+    <credits>
+      <actor>Venu Nagavally</actor>
+      <actor>Menaka Sureshkumar</actor>
+      <actor>Jalaja</actor>
+      <actor>MG Soman</actor>
+      <actor>Seema</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ADCD64634B60AACB2F7F0D761D46399BB3842D0A.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626083000 +0000" channel="ts954">
+    <title lang="en">Mass</title>
+    <desc lang="en">Ganesh falls in love with Anjali, the daughter of a gangster named Satya. When Satya kills his friend and tries to separate the two lovers, Ganesh sets out to exact revenge against him.</desc>
+    <credits>
+      <actor>Akkineni Nagarjuna</actor>
+      <actor>Jyothika</actor>
+      <actor>Charmy Kaur</actor>
+      <actor>Rahul Dev</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Sunil</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7FAE0686AFC3AF4BE6AA0F787D977F64497E9D5C7.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626113000 +0000" channel="ts954">
+    <title lang="en">Allari Pilla Anumanam Pellam</title>
+    <desc lang="en">Sita and Jairam's marriage faces several obstacles due to her possessive attitude. However, things turn even worse when Sita suspects a relationship between Jairam and his colleague, Meera.</desc>
+    <credits>
+      <actor>Ajit</actor>
+      <actor>Devyani</actor>
+      <actor>Heera</actor>
+      <actor>Shavukaru Janaki</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE0CF0E4ED93ABCD3D23F34767624AB0A72730F35.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626143000 +0000" channel="ts954">
+    <title lang="en">Namo Venkatesa</title>
+    <desc lang="en">Ramana, a ventriloquist, falls in love with Pooja, the daughter of a rich factionist. However, when she is forced to marry against her wish, Ramana and her uncle decide to rescue her.</desc>
+    <credits>
+      <actor>Venkatesh</actor>
+      <actor>Trisha Krishnan</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Mukesh Rishi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+      <actor>Jayaprakash Reddy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BDE568E35417C5D2F0568A69260D3078610CD088I.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626173000 +0000" channel="ts954">
+    <title lang="en">Raju Gari Gadhi 2</title>
+    <desc lang="en">Three friends decide to invest in a resort and run a business. When they learn that a series of paranormal activities takes place, they seek help from a renowned mentalist.</desc>
+    <credits>
+      <actor>Nagarjuna Akkineni</actor>
+      <actor>Samantha Ruth Prabhu</actor>
+      <actor>Seerat Kapoor</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Vennela Kishore</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40472B8B8385B43A5FED368E854F1FF74978D955U.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626203000 +0000" channel="ts954">
+    <title lang="en">Kathi</title>
+    <desc lang="en">Jeevanandam, a social activist, fights against a company to restore farming in a village. But things take a twisted turn when he gets arrested instead of his doppelganger, Kathiresan, a criminal.</desc>
+    <credits>
+      <actor>Venu Nagavally</actor>
+      <actor>Menaka Sureshkumar</actor>
+      <actor>Jalaja</actor>
+      <actor>MG Soman</actor>
+      <actor>Seema</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ADCD64634B60AACB2F7F0D761D46399BB3842D0A.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts361">
+    <display-name lang="en">Gemini Life</display-name>
+  </channel>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240625000000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts361">
+    <title lang="en">Mee Choice</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular musical numbers featuring well-known artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76ED50D049224D3395C3FB844DE353A640CDBEC0O.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts361">
+    <title lang="en">Mee Choice</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular musical numbers featuring well-known artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76ED50D049224D3395C3FB844DE353A640CDBEC0O.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts361">
+    <title lang="en">Movie - Rudranetra</title>
+    <desc lang="en">Netra works for a detective agency and is assigned a mission to track down the underworld activities of an influential personality. The situation changes when he gets killed during his mission.</desc>
+    <credits>
+      <actor>Chiranjeevi</actor>
+      <actor>Vijayashanti</actor>
+      <actor>Radha</actor>
+      <actor>Rekha</actor>
+      <actor>Rao Gopal Rao</actor>
+      <actor>Raghuvaran</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/921888B5EAAAB460075FBC92C0A7C0D9DFEDB99FW.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts361">
+    <title lang="en">Marapurani Sannivesalu</title>
+    <desc lang="en">A comprehensive compilation of memorable scenes and clippings from popular movies featuring some of the biggest names from the regional film industry.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2154EC8CC96F9A506B2456CCDFB8BADB882591FAU.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts361">
+    <title lang="en">Superoo Super</title>
+    <desc lang="en">Superoo Super</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0856B58E5EEEAA5F0A4EEB40265669FC08AC97B9Y.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts361">
+    <title lang="en">Naa Paata</title>
+    <desc lang="en">A comprehensive compilation of some of the all-time hit songs performed by famous bands, musicians and singers played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C17CA29BADBED281BEF1D7C4A12766DD8A5847CE.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts361">
+    <title lang="en">Masth Pata Guru</title>
+    <desc lang="en">A comprehensive compilation of hit musical numbers from the latest Tollywood releases composed by various artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E572F9411CD0FABB1CF67FB1758E34B321850421.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts361">
+    <title lang="en">Mi Choice</title>
+    <desc lang="en">Mi Choice</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F613B39528E74EBCEB5B50E86605929AA98395AE.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts361">
+    <title lang="en">Marapurani Sannivesalu</title>
+    <desc lang="en">A comprehensive compilation of memorable scenes and clippings from popular movies featuring some of the biggest names from the regional film industry.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2154EC8CC96F9A506B2456CCDFB8BADB882591FAU.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625160000 +0000" channel="ts361">
+    <title lang="en">Superoo Super</title>
+    <desc lang="en">Superoo Super</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0856B58E5EEEAA5F0A4EEB40265669FC08AC97B9Y.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625170000 +0000" channel="ts361">
+    <title lang="en">Naa Paata</title>
+    <desc lang="en">A comprehensive compilation of some of the all-time hit songs performed by famous bands, musicians and singers played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C17CA29BADBED281BEF1D7C4A12766DD8A5847CE.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625190000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240626000000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts361">
+    <title lang="en">Mee Choice</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular musical numbers featuring well-known artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76ED50D049224D3395C3FB844DE353A640CDBEC0O.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts361">
+    <title lang="en">Mee Choice</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular musical numbers featuring well-known artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76ED50D049224D3395C3FB844DE353A640CDBEC0O.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626083000 +0000" channel="ts361">
+    <title lang="en">Movie - Mahatma</title>
+    <desc lang="en">Das, a small-time rowdy, is manipulated by Thakur to join his gang. One day, Thakur asks him to take the blame for a murder committed by his son.</desc>
+    <credits>
+      <actor>Shrikanth</actor>
+      <actor>Bhavana</actor>
+      <actor>Navneet Kaur</actor>
+      <actor>Yana Gupta</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Jaya Prakash Reddy</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C8F2A4918E20930633C8D369FD1863C5A0264887L.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts361">
+    <title lang="en">Marapurani Sannivesalu</title>
+    <desc lang="en">A comprehensive compilation of memorable scenes and clippings from popular movies featuring some of the biggest names from the regional film industry.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2154EC8CC96F9A506B2456CCDFB8BADB882591FAU.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts361">
+    <title lang="en">Superoo Super</title>
+    <desc lang="en">Superoo Super</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0856B58E5EEEAA5F0A4EEB40265669FC08AC97B9Y.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts361">
+    <title lang="en">Naa Paata</title>
+    <desc lang="en">A comprehensive compilation of some of the all-time hit songs performed by famous bands, musicians and singers played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C17CA29BADBED281BEF1D7C4A12766DD8A5847CE.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts361">
+    <title lang="en">Masth Pata Guru</title>
+    <desc lang="en">A comprehensive compilation of hit musical numbers from the latest Tollywood releases composed by various artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E572F9411CD0FABB1CF67FB1758E34B321850421.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts361">
+    <title lang="en">Mi Choice</title>
+    <desc lang="en">Mi Choice</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F613B39528E74EBCEB5B50E86605929AA98395AE.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts361">
+    <title lang="en">Book Your Song</title>
+    <desc lang="en">The host plays a comprehensive compilation of famous songs by various eminent artists and musicians that the listeners request.</desc>
+    <category lang="en">Request</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51A65EDD26C72B4333676062E383A4DE3FA7A0C3G.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626150000 +0000" channel="ts361">
+    <title lang="en">Marapurani Sannivesalu</title>
+    <desc lang="en">A comprehensive compilation of memorable scenes and clippings from popular movies featuring some of the biggest names from the regional film industry.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2154EC8CC96F9A506B2456CCDFB8BADB882591FAU.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626160000 +0000" channel="ts361">
+    <title lang="en">Superoo Super</title>
+    <desc lang="en">Superoo Super</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0856B58E5EEEAA5F0A4EEB40265669FC08AC97B9Y.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626170000 +0000" channel="ts361">
+    <title lang="en">Naa Paata</title>
+    <desc lang="en">A comprehensive compilation of some of the all-time hit songs performed by famous bands, musicians and singers played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C17CA29BADBED281BEF1D7C4A12766DD8A5847CE.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts361">
+    <title lang="en">Spot Booking</title>
+    <desc lang="en">A comprehensive collection of melodious songs from popular Telugu movies performed by talented artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C8BD3C7DD4D5B8B467BBB61D89FB52CAD21C4F66.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626190000 +0000" channel="ts361">
+    <title lang="en">Musical Melodies</title>
+    <desc lang="en">A comprehensive compilation of the best songs from over the years that feature some of the biggest names in the entertainment industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231A47C049B98494A5C74167880093339210193E7.jpg"/>
+  </programme>
+</tv>

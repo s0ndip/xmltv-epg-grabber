@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts420">
+    <display-name lang="en">Peace of Mind</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624220000 +0000" channel="ts420">
+    <title lang="en">Paramdham Meditation</title>
+    <desc lang="en">The host interacts with a spiritual expert who briefs viewers about practising the proper techniques of meditation through which one can achieve peace and health.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04FA46977920ED09C1E43FFED0353E27681D1E5A8.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624233000 +0000" channel="ts420">
+    <title lang="en">Amritvela Meditation</title>
+    <desc lang="en">A spiritual expert gives a discourse on practising the proper techniques of meditation, which can help one achieve peace and health of the mind, body and soul.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10C423DE8B19D97C175EBC16D72BC43A42E6E4723.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625004500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625004500 +0000" stop="20240625013000 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli Live</title>
+    <desc lang="en">A religious scholar shares some spiritual thoughts and ideologies based on the scriptures to guide the followers and help them lead better lives.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAE88C7FAFC2F1565DEA863273A94F474E42DB1D3.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli</title>
+    <desc lang="en">A spiritual leader delivers a religious discourse on God's version of Murlis, the power they hold and the effect they have on humans.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A16A53DDC0A47582DC485AFB4A9C2ECD38129BCQ.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625021500 +0000" channel="ts420">
+    <title lang="en">Brahma Baba Ke Sang Ka Anubhav</title>
+    <desc lang="en">A spiritual leader sheds light on the teachings of Brahma Baba by sharing experiences of association with him and promoting spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47511FE57BB19E6BBE21D39C53D8367AA01F919BA.jpg"/>
+  </programme>
+  <programme start="20240625021500 +0000" stop="20240625031500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625031500 +0000" stop="20240625033000 +0000" channel="ts420">
+    <title lang="en">Sabrang - A Morning Show</title>
+    <desc lang="en">The host presents tips on health and nutrition, talks about spiritual places, shares thought-provoking jokes and real-life inspirational stories.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23BD7184971CFD79688CEFF5E4E3C9E907A30F3ET.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts420">
+    <title lang="en">Zindagi Bane Aasaan</title>
+    <desc lang="en">The host interviews spiritual leaders, and discusses the importance of maintaining balance in life and attaining peace of mind.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A8133FEBE64697BB2CE4B2FDDFC508ED7D6D263AX.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts420">
+    <title lang="en">Shrimad Bhagavad Gita</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings of the Bhagavad Gita and encourages devotees to follow the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D9D7BB0EF1ACBF83A266B9F1A7E017FB466D0763.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625060000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts420">
+    <title lang="en">Befikra Baadshah Ka Takht</title>
+    <desc lang="en">A Brahma Kumari delivers an enlightening discourse to devotees on how one can find spiritual and mental balance and peace in life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EB86471E5B53D2190A56FDAD1403F00CF5C378FI.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625064500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625064500 +0000" stop="20240625065500 +0000" channel="ts420">
+    <title lang="en">Regional Programme</title>
+    <desc lang="en">Take a look at the telecast of religious lectures by Brahma Kumaris in various parts of the country.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C2749DF66D3988829E4C8BC2B59C1FA792A85632.jpg"/>
+  </programme>
+  <programme start="20240625065500 +0000" stop="20240625070000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625071000 +0000" channel="ts420">
+    <title lang="en">Regional Programme</title>
+    <desc lang="en">Take a look at the telecast of religious lectures by Brahma Kumaris in various parts of the country.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C2749DF66D3988829E4C8BC2B59C1FA792A85632.jpg"/>
+  </programme>
+  <programme start="20240625071000 +0000" stop="20240625071500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625071500 +0000" stop="20240625074500 +0000" channel="ts420">
+    <title lang="en">Amulya Ratan</title>
+    <desc lang="en">Spiritual leaders talk about their experiences and share their knowledge to empower people and help them embrace a better lifestyle.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3286A366A1E2B1FCBEA29C3792F35AC3BCAFBCF7B.jpg"/>
+  </programme>
+  <programme start="20240625074500 +0000" stop="20240625080000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts420">
+    <title lang="en">The Secret of Ultimate Living</title>
+    <desc lang="en">A religious leader sheds light on the different characteristics of human nature and how it plays an important role in spiritual enlightenment and growth.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DA1F34A91BACAF71E97F6E71C5DE1070A277599X.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts420">
+    <title lang="en">Samadhan: Your Problems-Our Solutions</title>
+    <desc lang="en">The host interacts with a spiritual leader who sheds light on the concept of meditation and explains how it helps to overcome various obstacles in life.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49357CEFAF6C9BCB41EE9E632B1176B8A062F31C3.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts420">
+    <title lang="en">Madhuban Ek Mahan Teerth Hai</title>
+    <desc lang="en">A spiritual leader of the Hindu faith delivers a discourse on the teachings of the religion and seeks to educate individuals about the Hindu way of life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D3A446F4316B199D5D7D5337E7AA93FE28EDFB7Q.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625120000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts420">
+    <title lang="en">Anmol Moti</title>
+    <desc lang="en">A spiritual leader sheds light on the divine teachings of the Almighty as well as urges the devotees to follow the path of righteousness and compassion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC0FA486A2E085A40BCD786532FAABEC88F04C89.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625140000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts420">
+    <title lang="en">Andhkaar Se Prakash Ki Aur - Sachhie Gita Saar</title>
+    <desc lang="en">A Hindu spiritual leader delivers a discourse based on the teachings of the Bhagavad Gita to guide devotees on the right path.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B9E65BBFCD7418964D9E8CBEB71EE68E137E7ACX.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625161500 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli</title>
+    <desc lang="en">A spiritual leader delivers a religious discourse on God's version of Murlis, the power they hold and the effect they have on humans.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A16A53DDC0A47582DC485AFB4A9C2ECD38129BCQ.jpg"/>
+  </programme>
+  <programme start="20240625161500 +0000" stop="20240625163000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts420">
+    <title lang="en">Light Of Knowledge</title>
+    <desc lang="en">A panel of experts discusses the key aspects of knowledge and highlight the importance of leading a spiritually balanced life.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/335813B32F1585AA33EDE6DA1F6E125FF94A550A7.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625220000 +0000" channel="ts420">
+    <title lang="en">Paramdham Meditation</title>
+    <desc lang="en">The host interacts with a spiritual expert who briefs viewers about practising the proper techniques of meditation through which one can achieve peace and health.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04FA46977920ED09C1E43FFED0353E27681D1E5A8.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625233000 +0000" channel="ts420">
+    <title lang="en">Amritvela Meditation</title>
+    <desc lang="en">A spiritual expert gives a discourse on practising the proper techniques of meditation, which can help one achieve peace and health of the mind, body and soul.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10C423DE8B19D97C175EBC16D72BC43A42E6E4723.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626004500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626004500 +0000" stop="20240626013000 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli Live</title>
+    <desc lang="en">A religious scholar shares some spiritual thoughts and ideologies based on the scriptures to guide the followers and help them lead better lives.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAE88C7FAFC2F1565DEA863273A94F474E42DB1D3.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli</title>
+    <desc lang="en">A spiritual leader delivers a religious discourse on God's version of Murlis, the power they hold and the effect they have on humans.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A16A53DDC0A47582DC485AFB4A9C2ECD38129BCQ.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626021500 +0000" channel="ts420">
+    <title lang="en">Samay Ki Sameepta</title>
+    <desc lang="en">A Brahma Kumari delivers a discourse on the importance of practising raja yoga and the benefits of self-empowerment.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBC73FB95C0035D3D2D091A5EBA589584EED9953X.jpg"/>
+  </programme>
+  <programme start="20240626021500 +0000" stop="20240626031500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626031500 +0000" stop="20240626033000 +0000" channel="ts420">
+    <title lang="en">Sabrang - A Morning Show</title>
+    <desc lang="en">The host presents tips on health and nutrition, talks about spiritual places, shares thought-provoking jokes and real-life inspirational stories.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23BD7184971CFD79688CEFF5E4E3C9E907A30F3ET.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts420">
+    <title lang="en">Ek Mulakat</title>
+    <desc lang="en">Various personalities from different walks of life talk about the beauty of spirituality and urge the devotees to pay attention to their spiritual life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DD5DA9AA9DA11C602840300FFB2D7CAC2FCCAA5I.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts420">
+    <title lang="en">Geetanjali</title>
+    <desc lang="en">A comprehensive compilation of melodious and spiritual songs is played back-to-back to invoke peace, mindfulness and enlightenment.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D3DE264B03D059D2CD1E190F3F50351444FF52H.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626060000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts420">
+    <title lang="en">Teevra Purusharthi</title>
+    <desc lang="en">A spiritual guru teaches meditation, practice of good thoughts, morals and value of life and inner power.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C8EB9EB84478DB81689AB0B54292BD8664DC61EC8.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626064500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626064500 +0000" stop="20240626065500 +0000" channel="ts420">
+    <title lang="en">Regional Programme</title>
+    <desc lang="en">Take a look at the telecast of religious lectures by Brahma Kumaris in various parts of the country.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C2749DF66D3988829E4C8BC2B59C1FA792A85632.jpg"/>
+  </programme>
+  <programme start="20240626065500 +0000" stop="20240626070000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626071000 +0000" channel="ts420">
+    <title lang="en">Regional Programme</title>
+    <desc lang="en">Take a look at the telecast of religious lectures by Brahma Kumaris in various parts of the country.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C2749DF66D3988829E4C8BC2B59C1FA792A85632.jpg"/>
+  </programme>
+  <programme start="20240626071000 +0000" stop="20240626071500 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626071500 +0000" stop="20240626074500 +0000" channel="ts420">
+    <title lang="en">Youth Connect</title>
+    <desc lang="en">A Brahma Kumari delivers a spiritual discourse where he speaks about issues concerning the youth and provides solutions for the same.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87F7827FBE53422A345BDB67B186EE8174E915B5P.jpg"/>
+  </programme>
+  <programme start="20240626074500 +0000" stop="20240626080000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts420">
+    <title lang="en">Prerna - Inspirations From Senior Rajyogi Sisters</title>
+    <desc lang="en">A religious leader delivers an insightful and inspirational discourse to encourage devout followers to overcome obstacles and lead a peaceful life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97D9EC85CDDFE14CC0A7698FD7F11F1960F1DB932.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts420">
+    <title lang="en">Samadhan: Your Problems-Our Solutions</title>
+    <desc lang="en">The host interacts with a spiritual leader who sheds light on the concept of meditation and explains how it helps to overcome various obstacles in life.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49357CEFAF6C9BCB41EE9E632B1176B8A062F31C3.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts420">
+    <title lang="en">Gehen Tapasya Ke Liye Loveleen Sthiti</title>
+    <desc lang="en">A spiritual leader delivers a discourse on the importance of meditation in one's life and urges followers to fuel their faith in the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD7998026600CFE8016BE2333ACF6BFC6960723FJ.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626120000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts420">
+    <title lang="en">Anmol Moti</title>
+    <desc lang="en">A spiritual leader sheds light on the divine teachings of the Almighty as well as urges the devotees to follow the path of righteousness and compassion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC0FA486A2E085A40BCD786532FAABEC88F04C89.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626140000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626150000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts420">
+    <title lang="en">Andhkaar Se Prakash Ki Aur - Sachhie Gita Saar</title>
+    <desc lang="en">A Hindu spiritual leader delivers a discourse based on the teachings of the Bhagavad Gita to guide devotees on the right path.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B9E65BBFCD7418964D9E8CBEB71EE68E137E7ACX.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626161500 +0000" channel="ts420">
+    <title lang="en">Aaj Ki Murli</title>
+    <desc lang="en">A spiritual leader delivers a religious discourse on God's version of Murlis, the power they hold and the effect they have on humans.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A16A53DDC0A47582DC485AFB4A9C2ECD38129BCQ.jpg"/>
+  </programme>
+  <programme start="20240626161500 +0000" stop="20240626163000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts420">
+    <title lang="en">Divine Connections</title>
+    <desc lang="en">A religious leader conducts a prayer session wherein followers get a chance to meditate and interact with like-minded people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E3FDD70C6F9AC81655C1214E928EDD1DE38BFC4.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts420">
+    <title lang="en">Virtue For Life</title>
+    <desc lang="en">Brahma Kumaris deliver a discourse on the various virtues of life that can help the devotees improve their way of living and walk down a spiritual path.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF10B42DF530608A51438A43EB9B9EED1AEA3CDC7.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts420">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+</tv>

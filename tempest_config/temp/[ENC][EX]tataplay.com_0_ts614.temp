@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts614">
+    <display-name lang="en">Tata Play Bangla Cinema</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624201000 +0000" channel="ts614">
+    <title lang="en">Mister Bhaduri</title>
+    <desc lang="en">Aniruddha, the boss of a company, goes to a bungalow every weekend with a bunch of roses and pretends to stay with someone he loves.</desc>
+    <credits>
+      <actor>Rahul Banerjee</actor>
+      <actor>Malobika Banerjee</actor>
+      <actor>Mou Guha</actor>
+      <actor>Srabanti Chatterjee</actor>
+      <actor>Deboprasad Halder</actor>
+      <actor>Suniita Dey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/485DACCADB372664BFB5383CBDD73AB8545449B0W.jpg"/>
+  </programme>
+  <programme start="20240624201000 +0000" stop="20240624211000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240624211000 +0000" stop="20240624231500 +0000" channel="ts614">
+    <title lang="en">Rong Beronger Korhi</title>
+    <desc lang="en">An anthology of four short stories portraying the impact of money on relationships characterised by different nuances of emotions.</desc>
+    <credits>
+      <actor>Arunima Ghosh</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Chiranjeet Chakraborty</actor>
+      <actor>Arjun Chakrabarty</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF07FA273F47B857307954F456292CA823F6CAB0H.jpg"/>
+  </programme>
+  <programme start="20240624231500 +0000" stop="20240625001500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625001500 +0000" stop="20240625015500 +0000" channel="ts614">
+    <title lang="en">Mister Bhaduri</title>
+    <desc lang="en">Aniruddha, the boss of a company, goes to a bungalow every weekend with a bunch of roses and pretends to stay with someone he loves.</desc>
+    <credits>
+      <actor>Rahul Banerjee</actor>
+      <actor>Malobika Banerjee</actor>
+      <actor>Mou Guha</actor>
+      <actor>Srabanti Chatterjee</actor>
+      <actor>Deboprasad Halder</actor>
+      <actor>Suniita Dey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/485DACCADB372664BFB5383CBDD73AB8545449B0W.jpg"/>
+  </programme>
+  <programme start="20240625015500 +0000" stop="20240625025500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625025500 +0000" stop="20240625050000 +0000" channel="ts614">
+    <title lang="en">Rong Beronger Korhi</title>
+    <desc lang="en">An anthology of four short stories portraying the impact of money on relationships characterised by different nuances of emotions.</desc>
+    <credits>
+      <actor>Arunima Ghosh</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Chiranjeet Chakraborty</actor>
+      <actor>Arjun Chakrabarty</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF07FA273F47B857307954F456292CA823F6CAB0H.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625060000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625074000 +0000" channel="ts614">
+    <title lang="en">Mister Bhaduri</title>
+    <desc lang="en">Aniruddha, the boss of a company, goes to a bungalow every weekend with a bunch of roses and pretends to stay with someone he loves.</desc>
+    <credits>
+      <actor>Rahul Banerjee</actor>
+      <actor>Malobika Banerjee</actor>
+      <actor>Mou Guha</actor>
+      <actor>Srabanti Chatterjee</actor>
+      <actor>Deboprasad Halder</actor>
+      <actor>Suniita Dey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/485DACCADB372664BFB5383CBDD73AB8545449B0W.jpg"/>
+  </programme>
+  <programme start="20240625074000 +0000" stop="20240625084000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625084000 +0000" stop="20240625104500 +0000" channel="ts614">
+    <title lang="en">Rong Beronger Korhi</title>
+    <desc lang="en">An anthology of four short stories portraying the impact of money on relationships characterised by different nuances of emotions.</desc>
+    <credits>
+      <actor>Arunima Ghosh</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Chiranjeet Chakraborty</actor>
+      <actor>Arjun Chakrabarty</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF07FA273F47B857307954F456292CA823F6CAB0H.jpg"/>
+  </programme>
+  <programme start="20240625104500 +0000" stop="20240625113500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625113500 +0000" stop="20240625131500 +0000" channel="ts614">
+    <title lang="en">Mister Bhaduri</title>
+    <desc lang="en">Aniruddha, the boss of a company, goes to a bungalow every weekend with a bunch of roses and pretends to stay with someone he loves.</desc>
+    <credits>
+      <actor>Rahul Banerjee</actor>
+      <actor>Malobika Banerjee</actor>
+      <actor>Mou Guha</actor>
+      <actor>Srabanti Chatterjee</actor>
+      <actor>Deboprasad Halder</actor>
+      <actor>Suniita Dey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/485DACCADB372664BFB5383CBDD73AB8545449B0W.jpg"/>
+  </programme>
+  <programme start="20240625131500 +0000" stop="20240625132000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625132000 +0000" stop="20240625152500 +0000" channel="ts614">
+    <title lang="en">Rong Beronger Korhi</title>
+    <desc lang="en">An anthology of four short stories portraying the impact of money on relationships characterised by different nuances of emotions.</desc>
+    <credits>
+      <actor>Arunima Ghosh</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Chiranjeet Chakraborty</actor>
+      <actor>Arjun Chakrabarty</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF07FA273F47B857307954F456292CA823F6CAB0H.jpg"/>
+  </programme>
+  <programme start="20240625152500 +0000" stop="20240625153000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625171000 +0000" channel="ts614">
+    <title lang="en">Mister Bhaduri</title>
+    <desc lang="en">Aniruddha, the boss of a company, goes to a bungalow every weekend with a bunch of roses and pretends to stay with someone he loves.</desc>
+    <credits>
+      <actor>Rahul Banerjee</actor>
+      <actor>Malobika Banerjee</actor>
+      <actor>Mou Guha</actor>
+      <actor>Srabanti Chatterjee</actor>
+      <actor>Deboprasad Halder</actor>
+      <actor>Suniita Dey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/485DACCADB372664BFB5383CBDD73AB8545449B0W.jpg"/>
+  </programme>
+  <programme start="20240625171000 +0000" stop="20240625183000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625203500 +0000" channel="ts614">
+    <title lang="en">Annyo Na</title>
+    <desc lang="en">A woman dedicated to her family struggles to cope with her ambitious husband's lifestyle as he strives to gain success in the film industry.</desc>
+    <credits>
+      <actor>Ratna Ghoshal</actor>
+      <actor>Krishna Kishore</actor>
+      <actor>Arijit Guha</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Rimlyee Shanlal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B797EAC6A7A6D2A8FD24A1FADC4452442B87F8DS.jpg"/>
+  </programme>
+  <programme start="20240625203500 +0000" stop="20240625213500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240625213500 +0000" stop="20240626000500 +0000" channel="ts614">
+    <title lang="en">Andha Bichar</title>
+    <desc lang="en">Rakesh and his family face a crisis situation when his father gets imprisoned for fraud and he is compelled to run due to police threats. However, he waits for the day he can reunite with his family.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Tanuja</actor>
+      <actor>Aloknath</actor>
+      <actor>Biplab Chattopadhyay</actor>
+      <actor>Mandakini</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/912BF9F2B0DC0BA58C36CDB4B76014634483DF176.jpg"/>
+  </programme>
+  <programme start="20240626000500 +0000" stop="20240626010500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626010500 +0000" stop="20240626031000 +0000" channel="ts614">
+    <title lang="en">Annyo Na</title>
+    <desc lang="en">A woman dedicated to her family struggles to cope with her ambitious husband's lifestyle as he strives to gain success in the film industry.</desc>
+    <credits>
+      <actor>Ratna Ghoshal</actor>
+      <actor>Krishna Kishore</actor>
+      <actor>Arijit Guha</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Rimlyee Shanlal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B797EAC6A7A6D2A8FD24A1FADC4452442B87F8DS.jpg"/>
+  </programme>
+  <programme start="20240626031000 +0000" stop="20240626032500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626032500 +0000" stop="20240626055500 +0000" channel="ts614">
+    <title lang="en">Andha Bichar</title>
+    <desc lang="en">Rakesh and his family face a crisis situation when his father gets imprisoned for fraud and he is compelled to run due to police threats. However, he waits for the day he can reunite with his family.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Tanuja</actor>
+      <actor>Aloknath</actor>
+      <actor>Biplab Chattopadhyay</actor>
+      <actor>Mandakini</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/912BF9F2B0DC0BA58C36CDB4B76014634483DF176.jpg"/>
+  </programme>
+  <programme start="20240626055500 +0000" stop="20240626060000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626080500 +0000" channel="ts614">
+    <title lang="en">Annyo Na</title>
+    <desc lang="en">A woman dedicated to her family struggles to cope with her ambitious husband's lifestyle as he strives to gain success in the film industry.</desc>
+    <credits>
+      <actor>Ratna Ghoshal</actor>
+      <actor>Krishna Kishore</actor>
+      <actor>Arijit Guha</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Rimlyee Shanlal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B797EAC6A7A6D2A8FD24A1FADC4452442B87F8DS.jpg"/>
+  </programme>
+  <programme start="20240626080500 +0000" stop="20240626081000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626081000 +0000" stop="20240626104000 +0000" channel="ts614">
+    <title lang="en">Andha Bichar</title>
+    <desc lang="en">Rakesh and his family face a crisis situation when his father gets imprisoned for fraud and he is compelled to run due to police threats. However, he waits for the day he can reunite with his family.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Tanuja</actor>
+      <actor>Aloknath</actor>
+      <actor>Biplab Chattopadhyay</actor>
+      <actor>Mandakini</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/912BF9F2B0DC0BA58C36CDB4B76014634483DF176.jpg"/>
+  </programme>
+  <programme start="20240626104000 +0000" stop="20240626104500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626104500 +0000" stop="20240626125000 +0000" channel="ts614">
+    <title lang="en">Annyo Na</title>
+    <desc lang="en">A woman dedicated to her family struggles to cope with her ambitious husband's lifestyle as he strives to gain success in the film industry.</desc>
+    <credits>
+      <actor>Ratna Ghoshal</actor>
+      <actor>Krishna Kishore</actor>
+      <actor>Arijit Guha</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Rimlyee Shanlal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B797EAC6A7A6D2A8FD24A1FADC4452442B87F8DS.jpg"/>
+  </programme>
+  <programme start="20240626125000 +0000" stop="20240626125500 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626125500 +0000" stop="20240626152500 +0000" channel="ts614">
+    <title lang="en">Andha Bichar</title>
+    <desc lang="en">Rakesh and his family face a crisis situation when his father gets imprisoned for fraud and he is compelled to run due to police threats. However, he waits for the day he can reunite with his family.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Tanuja</actor>
+      <actor>Aloknath</actor>
+      <actor>Biplab Chattopadhyay</actor>
+      <actor>Mandakini</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/912BF9F2B0DC0BA58C36CDB4B76014634483DF176.jpg"/>
+  </programme>
+  <programme start="20240626152500 +0000" stop="20240626153000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626173500 +0000" channel="ts614">
+    <title lang="en">Annyo Na</title>
+    <desc lang="en">A woman dedicated to her family struggles to cope with her ambitious husband's lifestyle as he strives to gain success in the film industry.</desc>
+    <credits>
+      <actor>Ratna Ghoshal</actor>
+      <actor>Krishna Kishore</actor>
+      <actor>Arijit Guha</actor>
+      <actor>Ananya Chatterjee</actor>
+      <actor>Rimlyee Shanlal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B797EAC6A7A6D2A8FD24A1FADC4452442B87F8DS.jpg"/>
+  </programme>
+  <programme start="20240626173500 +0000" stop="20240626183000 +0000" channel="ts614">
+    <title lang="en">Now Showing Promos</title>
+    <desc lang="en">A compilation of promotional videos of various movies and entertaining programmes featuring popular artists is presented.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DE4A1791CBFD42FF9D509106EF65C410DC04DDEX.jpg"/>
+  </programme>
+</tv>

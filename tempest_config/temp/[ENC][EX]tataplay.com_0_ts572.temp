@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts572">
+    <display-name lang="en">Jalsha Movies</display-name>
+  </channel>
+  <programme start="20240624193500 +0000" stop="20240624211500 +0000" channel="ts572">
+    <title lang="en">Bhoot Chaturdashi</title>
+    <desc lang="en">Rano, a filmmaker, encounters paranormal activity when he decides to visit Lakshmi's Bari in order to make a film on the mansion's notoriety of being haunted.</desc>
+    <credits>
+      <actor>Aryann Bhowmick</actor>
+      <actor>Ena Saha</actor>
+      <actor>Soumendra Bhattacharya</actor>
+      <actor>Deepshita Mitra</actor>
+      <actor>Pradip Mukherjee</actor>
+      <actor>Sumedha Dutta</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8CDB161203715291A1526D4ED4DD6DBDC3474CS.jpg"/>
+  </programme>
+  <programme start="20240624211500 +0000" stop="20240624233000 +0000" channel="ts572">
+    <title lang="en">Bindas Prem</title>
+    <desc lang="en">A young man falls in love with a woman but conceals his real identity from her. Eventually, the woman finds out some truths about him that change things between them.</desc>
+    <credits>
+      <actor>Mainak Banerjee</actor>
+      <actor>Meghna</actor>
+      <actor>Rajesh Sharma</actor>
+      <actor>Laxmi Dasgupta</actor>
+      <actor>Megha</actor>
+      <actor>Paran Bandyopadhyay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B384AD2C8C04035EFC5FF18530FABFA0605BB82E.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625013000 +0000" channel="ts572">
+    <title lang="en">Aschhe Abar Shabor</title>
+    <desc lang="en">After a serial killer starts targeting the unassuming women of Kolkata, Officer Shabor is tasked with finding the culprit and putting an end to the senseless murders.</desc>
+    <credits>
+      <actor>Saswata Chatterjee</actor>
+      <actor>Subhrajit Dutta</actor>
+      <actor>Gaurav Chakraborty</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Arindam Sil</actor>
+      <actor>Lolita Chatterjee</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/272B221F70FFAAFDF551EFE160AFD5273F1C2082R.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts572">
+    <title lang="en">1 Ishwar Katha</title>
+    <desc lang="en">A religious scholar delivers a discourse on Ishvara based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64201DCB74E290420DC1AC8CB8BFB552C1DB553DY.jpg"/>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">As Dhanavantari appoints Radha to take care of Samba, Lakshmanna decides to play spoilsport. Later, he invites Rukmi to meet him.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Following their marriage, Anirudha and Usha seek the blessings of their elders. Meanwhile, Balarama decides to battle Rukmi.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.348.</episode-num>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.349.</episode-num>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.350.</episode-num>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.351.</episode-num>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.183.</episode-num>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.184.</episode-num>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.185.</episode-num>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.186.</episode-num>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.187.</episode-num>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.188.</episode-num>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts572">
+    <title lang="en">Raavan</title>
+    <desc lang="en">Ram, who spreads positivity and happiness fights against Raavan, an evil man who ruthlessly ends the lives of many individuals.</desc>
+    <credits>
+      <actor>Jeet</actor>
+      <actor>Lahoma Bhattacharya</actor>
+      <actor>Tanushree Chakraborty</actor>
+      <actor>Biswanath Basu</actor>
+      <actor>Shataf Figar</actor>
+      <actor>Alok Jain</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/863F95E3DD6E00B71E94E8D376DFBD6A84749885I.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625135000 +0000" channel="ts572">
+    <title lang="en">Joddha</title>
+    <desc lang="en">A soldier dies while fighting for his one true love. He is reincarnated in modern times and has visions of his past and sets out in search of his lover.</desc>
+    <credits>
+      <actor>Dev</actor>
+      <actor>Mimi Chakraborty</actor>
+      <actor>Nigel Akkara</actor>
+      <actor>Rajatava Dutta</actor>
+      <actor>Kanchan Mullick</actor>
+      <actor>Supriyo Dutta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B53E59259315FD5E687B062A7E7A94A20BEAC57CR.jpg"/>
+  </programme>
+  <programme start="20240625135000 +0000" stop="20240625170000 +0000" channel="ts572">
+    <title lang="en">Ghatak</title>
+    <desc lang="en">Bijoy moves to Kolkata with his younger brother, Raju, and starts leading a simple life. However, Bijoy is compelled to battle two anti-socials, when they kill Raju to win the elections.</desc>
+    <credits>
+      <actor>Jeet</actor>
+      <actor>Koyel Mallick</actor>
+      <actor>Tapas Paul</actor>
+      <actor>Master Angshu</actor>
+      <actor>Rajatava Dutta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E93BCB1BF54A9BDFFDFB2FB11680102DC46C82D5.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625193000 +0000" channel="ts572">
+    <title lang="en">Rosogolla</title>
+    <desc lang="en">Nobin Chandra Das, a sweetmaker, is determined to make a delicious and unique sweet for his wife, Khirodmoni Devi. After going through challenges and a series of failures, he invents rosogolla.</desc>
+    <credits>
+      <actor>Ujaan Ganguly</actor>
+      <actor>Abantika Biswas</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Kaushik Sen</actor>
+      <actor>Aparajita Auddy</actor>
+      <actor>Bidipta Chakraborty</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/788B2B3F69361A98E0FF8D382AD137FE03F9BF2A4.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625212500 +0000" channel="ts572">
+    <title lang="en">Borunbabur Bondhu</title>
+    <desc lang="en">Borun Chakraborthy, a seemingly irritable and lonely old man, becomes the centre of attention in his family and the neighbourhood when he receives a letter from a famous former friend.</desc>
+    <credits>
+      <actor>Soumitra Chatterjee</actor>
+      <actor>Madhabi Mukherjee</actor>
+      <actor>Kaushik Sen</actor>
+      <actor>Sreelekha Mitra</actor>
+      <actor>Debolina Dutta</actor>
+      <actor>Arpita Chatterjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3EF6599D35F73238E9960A2FE04F9AC153D963EI.jpg"/>
+  </programme>
+  <programme start="20240625212500 +0000" stop="20240625233000 +0000" channel="ts572">
+    <title lang="en">Byomkesh Hatyamancha</title>
+    <desc lang="en">Byomkesh Bakshi encounters a horrifying murder on the stage and while investigating the case, he uncovers numerous unrevealed secrets.</desc>
+    <credits>
+      <actor>Abir Chatterjee</actor>
+      <actor>Lekha Chatterjee</actor>
+      <actor>Paoli Dam</actor>
+      <actor>Arna Mukherjee</actor>
+      <actor>Suhotra Mukhopadhyay</actor>
+      <actor>Kinjal Nanda</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D72450EE1439275BC037582EA8C77E6BEBA6E09B3.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626013000 +0000" channel="ts572">
+    <title lang="en">Dynamite</title>
+    <desc lang="en">Shivaji goes out on a date with a woman, but she ends up getting kidnapped. When he fails to convince the police of the same, he decides to look for her.</desc>
+    <credits>
+      <actor>Vishnu Manchu</actor>
+      <actor>Pranitha Subhash</actor>
+      <actor>J D Chakravarthy</actor>
+      <actor>Yog Japee</actor>
+      <actor>Nagineedu</actor>
+      <actor>Praveen</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/594B618CE494A92072D857F8DE2ED90AE2A242609.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts572">
+    <title lang="en">1 Ishwar Katha</title>
+    <desc lang="en">A religious scholar delivers a discourse on Ishvara based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64201DCB74E290420DC1AC8CB8BFB552C1DB553DY.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.351.</episode-num>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.352.</episode-num>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.353.</episode-num>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.354.</episode-num>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts572">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.355.</episode-num>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.189.</episode-num>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.190.</episode-num>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">Pisachini takes Kiranmala's avatar and tries to create misunderstandings between Kiranmala and Nagkanya. However, her attempts fail when Kiranmala proves her innocence and exposes her.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.191.</episode-num>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.192.</episode-num>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.193.</episode-num>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts572">
+    <title lang="en">Kiranmala</title>
+    <desc lang="en">As Rajmata's health deteriorates, Kaitapaswi suggests a yajna for healing.</desc>
+    <credits>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Farhan Imroze</actor>
+      <actor>Subhra Sourav Das</actor>
+      <actor>Rooqma Ray</actor>
+      <actor>Arindra Rai Chaudhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EB8A61844F33698F8266461D46973C7F53EB3C8W.jpg"/>
+    <episode-num system="xmltv_ns">.194.</episode-num>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626104000 +0000" channel="ts572">
+    <title lang="en">Paglu 2</title>
+    <desc lang="en">Dev, a high-school dropout, relocates to the city in order to finish his studies. Soon, he falls in love with a girl in his college but things go awry when she is kidnapped by a group of hoodlums.</desc>
+    <credits>
+      <actor>Dev</actor>
+      <actor>Koel Mullick</actor>
+      <actor>Tota Roy Chowdhury</actor>
+      <actor>Rajatava Dutta</actor>
+      <actor>Rimjhim Mitra</actor>
+      <actor>Biswajit Chakraborty</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/171C58A5279368F6DBA4DF4295D056EE6EF8D45FE.jpg"/>
+  </programme>
+  <programme start="20240626104000 +0000" stop="20240626140500 +0000" channel="ts572">
+    <title lang="en">Sangharsha</title>
+    <desc lang="en">Bijay, an orphan, is provided shelter by Dev after he saves his life. When Dev dies, Bijay takes over his business. However, he faces oppression from Janardan, Dev's former employee.</desc>
+    <credits>
+      <actor>Prosenjit Chatterjee</actor>
+      <actor>Swastika Mukherjee</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Anuradha Ray</actor>
+      <actor>Mrinal Mukherjee</actor>
+      <actor>Rajatava Dutta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/371B37EA6EBB7123FCE5E121843BAB25E06503D6Y.jpg"/>
+  </programme>
+  <programme start="20240626140500 +0000" stop="20240626170000 +0000" channel="ts572">
+    <title lang="en">Haar Jeet</title>
+    <desc lang="en">A rich girl gets tortured by her stepsister and stepmother. However, when a wealthy man arrives in their lives to get married to her stepsister, he decides to marry her instead.</desc>
+    <credits>
+      <actor>Firdous Ahmed</actor>
+      <actor>Rachana Banerjee</actor>
+      <actor>Sonali Chakraborty</actor>
+      <actor>Shakuntala Barua</actor>
+      <actor>Sumitra Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3831DBFB5921BE6310C60AD5B500A8E5C9BFD90CT.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626193500 +0000" channel="ts572">
+    <title lang="en">Shapmochan</title>
+    <desc lang="en">A young man returns to his house after completion of his study abroad and meets his childhood best friend. Later, he comes to know that she is a shape-shifting snake who tries to woo him.</desc>
+    <credits>
+      <actor>Jishu Sengupta</actor>
+      <actor>Meghna Haldar</actor>
+      <actor>Subhashish Mukherjee</actor>
+      <actor>Hara Patnaik</actor>
+      <actor>Dulal Lahiri</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B069A9736180C7D11825AE2F8D40D50E1E9D0AED.jpg"/>
+  </programme>
+</tv>

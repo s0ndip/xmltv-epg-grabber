@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1068">
+    <display-name lang="en">Star Sports 1 Telugu HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts BAN v NEP</title>
+    <desc lang="en">Bangladesh vs. Nepal- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83B4ADD8EBD9E0510FA200AEFD3737C067DF1DE4Q.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts SL v NED</title>
+    <desc lang="en">Sri Lanka vs. Netherlands- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/899F5AA1F371965DC1C5852C703B63D6FBD95654V.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts NZ v PNG</title>
+    <desc lang="en">New Zealand vs. Papua New Guinea- Brian Lara Cricket Academy, San Fernando, Trinidad and Tobago</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9EDA9DADA750013E005F02EEAAD6ADD81F748640.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v OMA</title>
+    <desc lang="en">Australia vs. Oman- Kensington Oval, Bridgetown, Barbados</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BEFF1D1304E481622D068F47D05BE2D7266C082D6.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v PAK</title>
+    <desc lang="en">USA vs. Pakistan- Grand Prairie Stadium, Grand Prairie, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DF1830B3B492804A0082E60FD8DCCFF3111FC5F.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts BAN v NEP</title>
+    <desc lang="en">Bangladesh vs. Nepal- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83B4ADD8EBD9E0510FA200AEFD3737C067DF1DE4Q.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts SL v NED</title>
+    <desc lang="en">Sri Lanka vs. Netherlands- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/899F5AA1F371965DC1C5852C703B63D6FBD95654V.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts NZ v PNG</title>
+    <desc lang="en">New Zealand vs. Papua New Guinea- Brian Lara Cricket Academy, San Fernando, Trinidad and Tobago</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9EDA9DADA750013E005F02EEAAD6ADD81F748640.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625002000 +0000" channel="ts1068">
+    <title lang="en">KENT Cricket Live</title>
+    <desc lang="en">Live pre-show analysis of the matches played during the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E7FCF6DD7DD596FF7B740448A5012DDC2579472B.jpg"/>
+  </programme>
+  <programme start="20240625002000 +0000" stop="20240625040000 +0000" channel="ts1068">
+    <title lang="en">Live ICC Men's T20 WC 2024 AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6265D2943AB160F9DA2B36C45EB35BAB61348303J.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1068">
+    <title lang="en">KENT Cricket Live</title>
+    <desc lang="en">Live post-show analysis of the matches played during the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21B0A67E838BCB95F536EF8CE63B6FA30A4B9DF17.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625071500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625071500 +0000" stop="20240625073000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v BAN</title>
+    <desc lang="en">India vs. Bangladesh- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7554EC19734F2145462F8AF6A3C0E377F1EC9749.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625111500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625111500 +0000" stop="20240625113000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625114500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625114500 +0000" stop="20240625120000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625140000 +0000" channel="ts1068">
+    <title lang="en">Winning the Cup:ICC WC 1983 Final: Ext</title>
+    <desc lang="en">Through archival footage of nerve-racking moments and exceptional player performances, the host delves into India's first-ever magnificent Cricket World Cup victory in 1983.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDE5A9D0E6808A6CAFC8C9935B1F3ECA6700AAA5M.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625141500 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v IND</title>
+    <desc lang="en">Afghanistan vs. India- Kensington Oval, Bridgetown, Barbados</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00A6C5BCFC589FF9705E54DECCD4DC5C421F658F5.jpg"/>
+  </programme>
+  <programme start="20240625141500 +0000" stop="20240625143000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v BAN</title>
+    <desc lang="en">India vs. Bangladesh- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7554EC19734F2145462F8AF6A3C0E377F1EC9749.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625144500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0000" stop="20240625150000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625151500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625151500 +0000" stop="20240625153000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625171500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625171500 +0000" stop="20240625173000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625174500 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240625174500 +0000" stop="20240625180000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v IRE</title>
+    <desc lang="en">India vs. Ireland- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/509385F80F551E5EC4125F1ED967EBA932D1E666T.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts SL v NED</title>
+    <desc lang="en">Sri Lanka vs. Netherlands- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/899F5AA1F371965DC1C5852C703B63D6FBD95654V.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts NZ v PNG</title>
+    <desc lang="en">New Zealand vs. Papua New Guinea- Brian Lara Cricket Academy, San Fernando, Trinidad and Tobago</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9EDA9DADA750013E005F02EEAAD6ADD81F748640.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v AFG</title>
+    <desc lang="en">West Indies vs. Afghanistan- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E9A35D92B2397D1447619B9F7778900B1CEA4A4C.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v PAK</title>
+    <desc lang="en">USA vs. Pakistan- Grand Prairie Stadium, Grand Prairie, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DF1830B3B492804A0082E60FD8DCCFF3111FC5F.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts CAN v IRE</title>
+    <desc lang="en">Canada vs. Ireland- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2BFD435FC1A50297DA02DCD1E5EA3A010B23F933Y.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts SL v NED</title>
+    <desc lang="en">Sri Lanka vs. Netherlands- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/899F5AA1F371965DC1C5852C703B63D6FBD95654V.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts NZ v PNG</title>
+    <desc lang="en">New Zealand vs. Papua New Guinea- Brian Lara Cricket Academy, San Fernando, Trinidad and Tobago</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9EDA9DADA750013E005F02EEAAD6ADD81F748640.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v AFG</title>
+    <desc lang="en">West Indies vs. Afghanistan- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E9A35D92B2397D1447619B9F7778900B1CEA4A4C.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v PAK</title>
+    <desc lang="en">USA vs. Pakistan- Grand Prairie Stadium, Grand Prairie, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DF1830B3B492804A0082E60FD8DCCFF3111FC5F.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts CAN v IRE</title>
+    <desc lang="en">Canada vs. Ireland- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2BFD435FC1A50297DA02DCD1E5EA3A010B23F933Y.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v AUS</title>
+    <desc lang="en">Afghanistan vs. Australia- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2EF40247B1959F4AC249AF2360E2EDC012B14CBT.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v ENG</title>
+    <desc lang="en">USA vs. England- Kensington Oval, Bridgetown, Barbados</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5BA293A75E60E1C7133815DA828849855813343C.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626024500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626024500 +0000" stop="20240626030000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626034500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626034500 +0000" stop="20240626040000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626044500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626044500 +0000" stop="20240626050000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626051500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626051500 +0000" stop="20240626053000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626054500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626054500 +0000" stop="20240626060000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626061500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626061500 +0000" stop="20240626063000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626064500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626064500 +0000" stop="20240626070000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v PAK</title>
+    <desc lang="en">India vs. Pakistan- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/099BF3FE61E0BFDE50BCD30B0624CBAD73ED687AU.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626084500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626084500 +0000" stop="20240626090000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626091500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626091500 +0000" stop="20240626093000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AFG v BAN</title>
+    <desc lang="en">Afghanistan vs. Bangladesh- Arnos Vale Ground, Arnos Vale, Saint Vincent and the Grenadines</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824B6EC75766835F42C30C3DBC18898E2F9CD125W.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626094500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626094500 +0000" stop="20240626100000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626101500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626101500 +0000" stop="20240626103000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626114500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626114500 +0000" stop="20240626120000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v PAK</title>
+    <desc lang="en">India vs. Pakistan- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/099BF3FE61E0BFDE50BCD30B0624CBAD73ED687AU.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626124500 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626124500 +0000" stop="20240626130000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626131500 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v IND</title>
+    <desc lang="en">USA vs. India- Nassau County International Cricket Stadium, East Meadow, USA</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDE574E00128F5CAD9154994E2C6182ECEEC6C3AK.jpg"/>
+  </programme>
+  <programme start="20240626131500 +0000" stop="20240626133000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts IND v BAN</title>
+    <desc lang="en">India vs. Bangladesh- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7554EC19734F2145462F8AF6A3C0E377F1EC9749.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626144500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626144500 +0000" stop="20240626150000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626151500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626151500 +0000" stop="20240626153000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626154500 +0000" channel="ts1068">
+    <title lang="en">Road to Semis:ICC Men's T20 WC'24</title>
+    <desc lang="en">Sports experts review player performance and team strategies in the semi-final matches of the 2024 ICC Men's T20 World Cup.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA9A67A63EC29A26C0A509BA24335EA631C210435.jpg"/>
+  </programme>
+  <programme start="20240626154500 +0000" stop="20240626160000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts AUS v IND</title>
+    <desc lang="en">Australia vs. India- Daren Sammy National Cricket Stadium, Gros Islet, Saint Lucia</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336015F03239A8D806D1BE8B1F6D7F5A9AEE151Y.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts1068">
+    <title lang="en">Match Point-ICC Men's T20I WC</title>
+    <desc lang="en">A panel of experts review the matches played and discuss the performances of the teams at the 2024 ICC Men's T20 World Cup, a prestigious international competition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E5AFE2E3A8C3B4DD418041153792FDEC19915A4J.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626171500 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626171500 +0000" stop="20240626173000 +0000" channel="ts1068">
+    <title lang="en">Game Plan:ICC Men's T20I World Cup</title>
+    <desc lang="en">Experts preview the strategies and preparations of the teams competing in the 2024 T20 international cricket matches and discuss the key stakeholders for the tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A4403124EA521552400C8CCBD5C2FF86B46225CZ.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626174500 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts WI v SA</title>
+    <desc lang="en">West Indies vs. South Africa- Sir Vivian Richards Stadium, North Sound, Antigua and Barbuda</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46369F5347C5E73533C3A9197C4699DCA9DBFB7AO.jpg"/>
+  </programme>
+  <programme start="20240626174500 +0000" stop="20240626180000 +0000" channel="ts1068">
+    <title lang="en">ICC Men's T20I World Cup Hlts USA v WI</title>
+    <desc lang="en">USA vs. West Indies- Kensington Oval, Bridgetown, Barbados</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/870AE5453A9E5E37FC649F457468F84D3250B5D7P.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts1068">
+    <title lang="en">Cricket Countdown-ICC Men's T20I WC</title>
+    <desc lang="en">A countdown of impressionable moments of cricket teams from different nationalities competing for victory, in anticipation of the Men's T20 World Cup 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0A240F03E1258F48E3185749A9FA573FF91C692O.jpg"/>
+  </programme>
+</tv>

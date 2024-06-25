@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts537">
+    <display-name lang="en">Jalsha Movies HD</display-name>
+  </channel>
+  <programme start="20240624200500 +0000" stop="20240624221500 +0000" channel="ts537">
+    <title lang="en">Dwitiyo Purush</title>
+    <desc lang="en">A police inspector investigates and tries to uncover dark secrets of a series of murders that resemble the crimes from 25 years ago.</desc>
+    <credits>
+      <actor>Parambrata Chatterjee</actor>
+      <actor>Rwitobroto Mukherjee</actor>
+      <actor>Anirban Bhattacharya</actor>
+      <actor>Raima Sen</actor>
+      <actor>Gaurav Chakrabarty</actor>
+      <actor>Subhra Sourav Das</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF1B4D238ADA816203ADFA4BBBFB7B6830B4A6ABL.jpg"/>
+  </programme>
+  <programme start="20240624221500 +0000" stop="20240624233000 +0000" channel="ts537">
+    <title lang="en">Bal Ganesh 3</title>
+    <desc lang="en">Aliens come to Earth to learn more about their favourite god, Bal Ganesh. They meet three mice, Topi, Dhoti and Suit Boot, and exchange stories of the elephant-headed god.</desc>
+    <credits>
+      <actor>Vidit Kumar</actor>
+      <actor>Parminder Ghumman</actor>
+      <actor>Ganesh Divekar</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Manish Bhawan</actor>
+      <actor>Sanjeev Tiwari</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/791BBB1CC4A419EAEBB8F31E129961108D754843W.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625013000 +0000" channel="ts537">
+    <title lang="en">Kuler Achaar</title>
+    <desc lang="en">A newlywed couple faces problems in their marriage when their families learn that the girl has decided to not change her surname as per traditions.</desc>
+    <credits>
+      <actor>Madhumita Sarcar</actor>
+      <actor>Vikram Chatterjee</actor>
+      <actor>Indrani Haldar</actor>
+      <actor>Sujan Mukhopadhyay</actor>
+      <actor>Rahul Dev Bose</actor>
+      <actor>Oindrilla Bose</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBD6C653047ABEF17A86104EDC181E1C39BB69815.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts537">
+    <title lang="en">1 Ishwar Katha</title>
+    <desc lang="en">A religious scholar delivers a discourse on Ishvara based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64201DCB74E290420DC1AC8CB8BFB552C1DB553DY.jpg"/>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">As Dhanavantari appoints Radha to take care of Samba, Lakshmanna decides to play spoilsport. Later, he invites Rukmi to meet him.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Following their marriage, Anirudha and Usha seek the blessings of their elders. Meanwhile, Balarama decides to battle Rukmi.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.348.</episode-num>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.349.</episode-num>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.350.</episode-num>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.351.</episode-num>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625065000 +0000" channel="ts537">
+    <title lang="en">Swapne Dekha Rajkonya</title>
+    <desc lang="en">Story of a newcomer heroine and a script writer, how they face the struggle in film industry.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Mrinal Mukherjee</actor>
+      <actor>Amitava Bhattacharya</actor>
+      <actor>Jaya Proda</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AFAD38D2DEAB40B825F932618F36E0366EC233EC.jpg"/>
+  </programme>
+  <programme start="20240625065000 +0000" stop="20240625085000 +0000" channel="ts537">
+    <title lang="en">Raktokorobi</title>
+    <desc lang="en">A theater troupe attempts to stage a play written by Rabindranath Tagore. But as they breathe life into the characters, they begin to draw parallels between the story and reality.</desc>
+    <credits>
+      <actor>Kaushik Sen</actor>
+      <actor>Rahul</actor>
+      <actor>Ushasie Chakraborty</actor>
+      <actor>Mumtaz Sorcar</actor>
+      <actor>Debdut Ghosh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B425FF3AE5D17BD7874E3E16448DF8794B0BA9D9V.jpg"/>
+  </programme>
+  <programme start="20240625085000 +0000" stop="20240625113500 +0000" channel="ts537">
+    <title lang="en">Maayakumari</title>
+    <desc lang="en">A moviemaker sets off to a biographical movie on Mayakumari, the legendary actress, and tries to find out the reasons that caused her disappearance.</desc>
+    <credits>
+      <actor>Abir Chatterjee</actor>
+      <actor>Arunima Ghosh</actor>
+      <actor>Rituparna Sengupta</actor>
+      <actor>Sauraseni Maitra</actor>
+      <actor>Ambarish Bhattacharya</actor>
+      <actor>Rajatava Dutta</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86C9AB90A11D8A156B577B7FDEFF685C63C15D46F.jpg"/>
+  </programme>
+  <programme start="20240625113500 +0000" stop="20240625135500 +0000" channel="ts537">
+    <title lang="en">Rong Beronger Korhi</title>
+    <desc lang="en">An anthology of four short stories portraying the impact of money on relationships characterised by different nuances of emotions.</desc>
+    <credits>
+      <actor>Arunima Ghosh</actor>
+      <actor>Soham Chakraborty</actor>
+      <actor>Kharaj Mukherjee</actor>
+      <actor>Chiranjeet Chakraborty</actor>
+      <actor>Arjun Chakrabarty</actor>
+      <actor>Rituparna Sengupta</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF07FA273F47B857307954F456292CA823F6CAB0H.jpg"/>
+  </programme>
+  <programme start="20240625135500 +0000" stop="20240625153000 +0000" channel="ts537">
+    <title lang="en">Sahaj Paather Gappo</title>
+    <desc lang="en">When their father meets with an accident, Gopal and Chhotu, two children, must earn to support their mother. However, they soon find themselves enamoured by the prospect of a feast at a Brahmin house.</desc>
+    <credits>
+      <actor>Nur Islam</actor>
+      <actor>Samiul Alam</actor>
+      <actor>Sneha Biswas</actor>
+      <actor>Shakuntala Barua</actor>
+      <actor>Sanjay Biswas</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F03F3DCFAE581C1DEB26ECC72E1F637492911CB26.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625173000 +0000" channel="ts537">
+    <title lang="en">Cheeni</title>
+    <desc lang="en">When situations compel Cheeni to move back into Mishti's house to care for her, the mother-daughter duo's roles get switched, forcing them to understand each other's perspectives.</desc>
+    <credits>
+      <actor>Madhumita Sarcar</actor>
+      <actor>Aparajita Adhya</actor>
+      <actor>Abhiroop Bakshi</actor>
+      <actor>Pinky Banerjee</actor>
+      <actor>Meghna Bose</actor>
+      <actor>Saurav Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C71ED0906FAF045E90711F6C59F83CE0B6105602B.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625195000 +0000" channel="ts537">
+    <title lang="en">The Eken</title>
+    <desc lang="en">During a holiday in Darjeeling, Detective Ekendra Sen accepts an assignment from a famous film star. However, the plot thickens when a murder case simultaneously emerges.</desc>
+    <credits>
+      <actor>Anirban Chakrabarti</actor>
+      <actor>Payel Sarkar</actor>
+      <actor>Suhotra Mukhopadhyay</actor>
+      <actor>Somak Ghosh</actor>
+      <actor>Debashish Mondal</actor>
+      <actor>Debopriyo Mukherjee</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E3DB72E2B6C9FA82F6AC487B8D1A5F81FEBD43AA.jpg"/>
+  </programme>
+  <programme start="20240625195000 +0000" stop="20240625211000 +0000" channel="ts537">
+    <title lang="en">The Legend Of Buddha</title>
+    <desc lang="en">Siddhartha Gautama, an unhappy prince, leaves his family and kingdom to achieve spiritual liberation. After he attains nirvana, he earns the title of the Enlightened One.</desc>
+    <credits>
+      <actor>Bridgit Mendler</actor>
+      <actor>Dwayne Tan</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86934CF5458D2F25CA35350479AED31E587639C01.jpg"/>
+  </programme>
+  <programme start="20240625211000 +0000" stop="20240625233000 +0000" channel="ts537">
+    <title lang="en">Bandhu</title>
+    <desc lang="en">After the death of Deepak, things take a tragic turn for Neeta as the local landlord, Ajit Kumar Bihari, covets their land and Neeta too. Bihari will stop at nothing to get what he wants.</desc>
+    <credits>
+      <actor>Geetanjali K</actor>
+      <actor>Abhishek</actor>
+      <actor>Danny Denzogapa</actor>
+      <actor>Deb Mukherjee</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51490928F28099E8DD937745498E8AE6EDB034314.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626013000 +0000" channel="ts537">
+    <title lang="en">Nayan Champar Dinratri</title>
+    <desc lang="en">Nayanchampa, Champi and Malati are housemaids and work tirelessly to make their ends meet. However, despite the struggles they face, they find it hard to escape the reality of their lives.</desc>
+    <credits>
+      <actor>Biswajit Chakraborty</actor>
+      <actor>Roopa Ganguly</actor>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Alokananda Roy</actor>
+      <actor>Barun Chanda</actor>
+      <actor>Debranjan Nag</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02EE93978D2504D405B7544061341D66A587B3935.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts537">
+    <title lang="en">1 Ishwar Katha</title>
+    <desc lang="en">A religious scholar delivers a discourse on Ishvara based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64201DCB74E290420DC1AC8CB8BFB552C1DB553DY.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.351.</episode-num>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.352.</episode-num>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.353.</episode-num>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.354.</episode-num>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts537">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE848D51D0FCAC83FCC50233644269BF69BF376C1.jpg"/>
+    <episode-num system="xmltv_ns">.355.</episode-num>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626065000 +0000" channel="ts537">
+    <title lang="en">Agnishapath</title>
+    <desc lang="en">Ajit Singh is the leader of a night guard party in a town in Punjab and lives with his wife, son and daughter. He and his family get killed by a terrorist leader.</desc>
+    <credits>
+      <actor>Dipankar Dey</actor>
+      <actor>Rachana Banerjee</actor>
+      <actor>Sabyasachi Chakraborty</actor>
+      <actor>Dulal Lahiri</actor>
+      <actor>Rajesh Sharma</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2509B6574CB64F6A33CECAF4C89E400803047699.jpg"/>
+  </programme>
+  <programme start="20240626065000 +0000" stop="20240626084000 +0000" channel="ts537">
+    <title lang="en">Bhoot Chaturdashi</title>
+    <desc lang="en">Rano, a filmmaker, encounters paranormal activity when he decides to visit Lakshmi's Bari in order to make a film on the mansion's notoriety of being haunted.</desc>
+    <credits>
+      <actor>Aryann Bhowmick</actor>
+      <actor>Ena Saha</actor>
+      <actor>Soumendra Bhattacharya</actor>
+      <actor>Deepshita Mitra</actor>
+      <actor>Pradip Mukherjee</actor>
+      <actor>Sumedha Dutta</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8CDB161203715291A1526D4ED4DD6DBDC3474CS.jpg"/>
+  </programme>
+  <programme start="20240626084000 +0000" stop="20240626102000 +0000" channel="ts537">
+    <title lang="en">Cancer</title>
+    <desc lang="en">Three siblings share a bitter relationship with each other after they suspect that their father is suffering from a terminal illness.</desc>
+    <credits>
+      <actor>Soumitra Chatterjee</actor>
+      <actor>Tapas Pal</actor>
+      <actor>Satabdi Roy</actor>
+      <actor>Sabyasachi Chakraborty</actor>
+      <actor>June Maliya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C3936A4566C3FDD3311BE3C461647DC32AA6FE3Z.jpg"/>
+  </programme>
+  <programme start="20240626102000 +0000" stop="20240626130000 +0000" channel="ts537">
+    <title lang="en">Asukh</title>
+    <desc lang="en">Sudhamoy is forced to depend on his daughter's earnings. His life takes a drastic turn when his wife falls ill and gets hospitalized.</desc>
+    <credits>
+      <actor>Debosree</actor>
+      <actor>Soumitro</actor>
+      <actor>Shilajit</actor>
+      <actor>Gouri Ghosh</actor>
+      <actor>Arpita Pal</actor>
+      <actor>Silajit Majumder</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB22BFECD7F1196A4004254CF47597BBFCCD8C9BY.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626153000 +0000" channel="ts537">
+    <title lang="en">Chaya Manush</title>
+    <desc lang="en">A devastated writer meets a man at his friend's place who is aware of his life. However, the author is warned to stay away from him.</desc>
+    <credits>
+      <actor>Parambrata Chattopadhyay</actor>
+      <actor>Soumitra Chatterjee</actor>
+      <actor>Raima Sen</actor>
+      <actor>Paoli Dam</actor>
+      <actor>Kaushik Ganguly</actor>
+      <actor>Debdut Ghosh</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB11AE54595DDB35CD79256B7073CFD2B14E549A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626174500 +0000" channel="ts537">
+    <title lang="en">Kakababur Protyaborton</title>
+    <desc lang="en">When a man embarks on a relaxing trip with his nephew, it quickly turns into a dangerous game of life and death as they find themselves in the middle of a mystery involving missing tourists.</desc>
+    <credits>
+      <actor>Prosenjit Chatterjee</actor>
+      <actor>Aryann Bhowmik</actor>
+      <actor>Anirban Chakrabarti</actor>
+      <actor>Srijit Mukherji</actor>
+      <actor>Soumyabrata Rakshit</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1012BE0908B6A83D19EC49A866B49332A2FA8F86W.jpg"/>
+  </programme>
+  <programme start="20240626174500 +0000" stop="20240626193500 +0000" channel="ts537">
+    <title lang="en">Jekhane Bhooter Bhoy</title>
+    <desc lang="en">Tarini Khuro narrates three ghost stories to a group of children from his fan club, which involves a ghost hunter, Anathbandhu, a mysterious entity, Simon, and a friendly ghost from the 19th century.</desc>
+    <credits>
+      <actor>Paran Bandyopadhyay</actor>
+      <actor>Subham Das</actor>
+      <actor>Dwijen Bandopadhyay</actor>
+      <actor>Subhrajit Dutta</actor>
+      <actor>Abir Chatterjee</actor>
+      <actor>Bhaswar Chatterjee</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44C66F2535B34424738FC96202268AB043E06B595.jpg"/>
+  </programme>
+</tv>

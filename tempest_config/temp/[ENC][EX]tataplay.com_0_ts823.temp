@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts823">
+    <display-name lang="en">Goldmines</display-name>
+  </channel>
+  <programme start="20240624195600 +0000" stop="20240624220300 +0000" channel="ts823">
+    <title lang="en">Mirchi</title>
+    <desc lang="en">A girl falls in love with a boy after he helps her and manages to win the hearts of her family with his good deeds. However, she is unaware that he belongs to a rival family.</desc>
+    <credits>
+      <actor>Prabhas</actor>
+      <actor>Anushka Shetty</actor>
+      <actor>Richa Gangopadhyay</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Nadhiya</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8E37FC4D83D692E867B11EF78101ED07ED99006C.jpg"/>
+  </programme>
+  <programme start="20240624220300 +0000" stop="20240625003000 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625033000 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625090900 +0000" channel="ts823">
+    <title lang="en">Bheeshma</title>
+    <desc lang="en">When Bheeshma gets involved with Chaitra, an employee of Bheeshma Organics, he develops an interest in organic farming. Trouble ensues when her company announces a new product that seems to be shady.</desc>
+    <credits>
+      <actor>Nithiin</actor>
+      <actor>Rashmika Mandanna</actor>
+      <actor>Anant Nag</actor>
+      <actor>Jisshu Sengupta</actor>
+      <actor>Vennela Kishore</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CB7D4A5DB400452542025A761F34BBD1DB7B2C25.jpg"/>
+  </programme>
+  <programme start="20240625090900 +0000" stop="20240625113600 +0000" channel="ts823">
+    <title lang="en">Tejasvini</title>
+    <desc lang="en">The media highlights an IAS officer's rescue attempts after a little rural girl falls into a deep borewell, posing a considerable challenge for the official.</desc>
+    <credits>
+      <actor>Nayanthara</actor>
+      <actor>Raja Krishnamoorthy</actor>
+      <actor>Sunu Lakshmi</actor>
+      <actor>Kitty</actor>
+      <actor>Vela Ramamoorthy</actor>
+      <actor>Mahalakshmi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C38AADB1C2BD2F147F705F4E9BF7DAF4E0717187A.jpg"/>
+  </programme>
+  <programme start="20240625113600 +0000" stop="20240625145500 +0000" channel="ts823">
+    <title lang="en">Virasat Ki Jung</title>
+    <desc lang="en">After facing the consequences of his brother's misdoings, Muthappa changes his identity and plans to start afresh. But the girl he loves refuses to marry him until he returns home and redeems himself.</desc>
+    <credits>
+      <actor>Vijay</actor>
+      <actor>Asin Thottumkal</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Geetha</actor>
+      <actor>Lakshana</actor>
+      <actor>Telangana Shakuntala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63CC4456D0343AC23C54072AF6C22D6C7853F1042.jpg"/>
+  </programme>
+  <programme start="20240625145500 +0000" stop="20240625173700 +0000" channel="ts823">
+    <title lang="en">Oxygen</title>
+    <desc lang="en">Krishna Prasad, who is arranged to marry Shruti, finds himself in the midst of trouble when her family's enemies attempt to kill them. However, Shruti soon learns of his hidden agenda.</desc>
+    <credits>
+      <actor>Tottempudi Gopichand</actor>
+      <actor>Raashi Khanna</actor>
+      <actor>Anu Emmanuel</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Shaam</actor>
+      <actor>Asish Vidyarthi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DFD6B6A099CFF135675ADC4F8770786E9C3BCBBQ.jpg"/>
+  </programme>
+  <programme start="20240625173700 +0000" stop="20240625194800 +0000" channel="ts823">
+    <title lang="en">Tarzan The Heman</title>
+    <desc lang="en">Kavya accidentally hits Jara with her car in the jungle. When she takes Jara to the city for better treatment, their lives take an unexpected turn.</desc>
+    <credits>
+      <actor>Jayam Ravi</actor>
+      <actor>Sayyeshaa Saigal</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Thambi Ramaiah</actor>
+      <actor>Varun</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7E935A3C9D703961FA362879034F6C6719A609AV.jpg"/>
+  </programme>
+  <programme start="20240625194800 +0000" stop="20240625215600 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625215600 +0000" stop="20240625223100 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240625223100 +0000" stop="20240626003700 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626003700 +0000" stop="20240626030100 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626030100 +0000" stop="20240626062400 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626062400 +0000" stop="20240626091800 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626091800 +0000" stop="20240626122400 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626122400 +0000" stop="20240626145400 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626145400 +0000" stop="20240626172700 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626172700 +0000" stop="20240626195000 +0000" channel="ts823">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+</tv>

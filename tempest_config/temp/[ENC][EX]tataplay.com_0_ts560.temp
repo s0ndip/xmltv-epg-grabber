@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts560">
+    <display-name lang="en">STAR Movies HD</display-name>
+  </channel>
+  <programme start="20240624190800 +0000" stop="20240624200300 +0000" channel="ts560">
+    <title lang="en">Koffee With Karan</title>
+    <desc lang="en">Host Karan Johar gets candid with Bollywood stars Shah Rukh Khan and Alia Bhatt.</desc>
+    <credits>
+      <actor>Karan Johar</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C94F66FFBC59772FB1F83273C2FD0E4176DF2FCP.jpg"/>
+  </programme>
+  <programme start="20240624200300 +0000" stop="20240624212800 +0000" channel="ts560">
+    <title lang="en">Snow Monster</title>
+    <desc lang="en">With a mission in mind, Shen Yiqin and his group of researchers head to an unexplored region of the Arctic. However, trouble brews when a giant creature ambushes them.</desc>
+    <credits>
+      <actor>Juncheng Wu</actor>
+      <actor>Yongxian Zhang</actor>
+      <actor>Tang Xin</actor>
+      <actor>Yongbo Jiang</actor>
+      <actor>Xu Shaoqiang</actor>
+      <actor>Guojun Jiang</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0871E9BE6D81B832A2E4FD7F47E9B899B39023D63.jpg"/>
+  </programme>
+  <programme start="20240624212800 +0000" stop="20240624215700 +0000" channel="ts560">
+    <title lang="en">Movie In Focus</title>
+    <desc lang="en">A compilation of snippets of movies and behind-the-scene moments of films where the cast and crew share their on-set experiences. Repeat - Tue 3:42 am.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/672302F6BCDFFDB84ED84206D7D25999688A2D55R.jpg"/>
+  </programme>
+  <programme start="20240624215700 +0000" stop="20240625000000 +0000" channel="ts560">
+    <title lang="en">The Python</title>
+    <desc lang="en">When a dictatorial commander orders the death of a python within three days, members of a snake-hunting village must comply or face the consequences of his wrath.</desc>
+    <credits>
+      <actor>Sun Yaowei</actor>
+      <actor>Huang Junfeng</actor>
+      <actor>Peng Haofeng</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/905FF9B8DF56632A0A5676D584A522198F93F352S.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625014500 +0000" channel="ts560">
+    <title lang="en">Sword Master</title>
+    <desc lang="en">A master swordsman is haunted by his greatest skill and simply wishes to live in peace. However, a rival who aims to take his place at all costs forces him to wield his weapon once again.</desc>
+    <credits>
+      <actor>Lin Gengxin</actor>
+      <actor>Peter Ho</actor>
+      <actor>Jiang Yiyan</actor>
+      <actor>Jiang Mengjie</actor>
+      <actor>Norman Chui</actor>
+      <actor>Nina Paw</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B8CF62038364C505C40B14B86EFF3BF4F1EED6AE.jpg"/>
+  </programme>
+  <programme start="20240625014500 +0000" stop="20240625040000 +0000" channel="ts560">
+    <title lang="en">Maze Runner: The Death Cure</title>
+    <desc lang="en">Thomas and his friends attempt to break into The Last City, a stronghold controlled by the villainous WCKD, to rescue a companion who is being imprisoned and tortured.</desc>
+    <credits>
+      <actor>Dylan O'Brien</actor>
+      <actor>Kaya Scodelario</actor>
+      <actor>Thomas Brodie-Sangster</actor>
+      <actor>Dexter Darden</actor>
+      <actor>Nathalie Emmanuel</actor>
+      <actor>Giancarlo Esposito</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDFFA823913797B0A01FE87851F7D896793EA5D5I.jpg"/>
+  </programme>
+  <programme start="20240625035100 +0000" stop="20240625055400 +0000" channel="ts560">
+    <title lang="en">Thor: Ragnarok</title>
+    <desc lang="en">Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tom Hiddleston</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Idris Elba</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Tessa Thompson</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11119924728ECE9EBB38C619AFD868387700B3EBM.jpg"/>
+  </programme>
+  <programme start="20240625055400 +0000" stop="20240625073400 +0000" channel="ts560">
+    <title lang="en">Train To Busan</title>
+    <desc lang="en">Seok-woo and his daughter are on a train to Busan on the latter's birthday to see his wife. However, the journey turns into a nightmare when they are trapped amidst a zombie outbreak in South Korea.</desc>
+    <credits>
+      <actor>Gong Yoo</actor>
+      <actor>Ma Dong seok</actor>
+      <actor>Su an Kim</actor>
+      <actor>Jung Yu Mi</actor>
+      <actor>Choi Woo shik</actor>
+      <actor>Ahn So hee</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2FDAC3259A079F3692BE86E9D28B4B329DBB3A3Z.jpg"/>
+  </programme>
+  <programme start="20240625073400 +0000" stop="20240625091600 +0000" channel="ts560">
+    <title lang="en">Ratatouille</title>
+    <desc lang="en">Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.</desc>
+    <credits>
+      <actor>Patton Oswalt</actor>
+      <actor>Lou Romano</actor>
+      <actor>Ian Holm</actor>
+      <actor>Janeane Garofalo</actor>
+      <actor>Brad Garrett</actor>
+      <actor>Peter O Toole</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A76A96B14EC2F7662084416DCF7364ABACF9FFAF9.jpg"/>
+  </programme>
+  <programme start="20240625091600 +0000" stop="20240625110400 +0000" channel="ts560">
+    <title lang="en">Doctor Strange</title>
+    <desc lang="en">In an accident, Stephen Strange, a famous neurosurgeon, loses the ability to use his hands. He goes to visit the mysterious Ancient One to heal himself and becomes a great sorcerer under her tutelage.</desc>
+    <credits>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Benedict Wong</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Benjamin Bratt</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D8EF73D7E8C5D569A1333F0E4F90D599D8A2742DP.jpg"/>
+  </programme>
+  <programme start="20240625110400 +0000" stop="20240625131000 +0000" channel="ts560">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">After being abandoned at a fair, Billy constantly searches for his mother. His life, however, takes a huge turn when he inherits superpowers from a powerful wizard.</desc>
+    <credits>
+      <actor>Zachary Levi</actor>
+      <actor>Asher Angel</actor>
+      <actor>Mark Strong</actor>
+      <actor>Jack Dylan Grazer</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Faithe Herman</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B22A59E9F3866684619044776369C060CA34C5CG.jpg"/>
+  </programme>
+  <programme start="20240625131000 +0000" stop="20240625151500 +0000" channel="ts560">
+    <title lang="en">Chinese Zodiac</title>
+    <desc lang="en">When the 12 bronze heads of the Chinese zodiac are stolen, JC and his team are assigned to retrieve them. However, during the course of their mission, they encounter numerous challenges.</desc>
+    <credits>
+      <actor>Jackie Chan</actor>
+      <actor>Sang woo Kwon</actor>
+      <actor>Fan Liao</actor>
+      <actor>Xingtong Yao</actor>
+      <actor>Zhang Lanxin</actor>
+      <actor>Laura Weissbecker</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A21004E57C3564AA60C066FCD4D963FFE4AD54DB.jpg"/>
+  </programme>
+  <programme start="20240625151500 +0000" stop="20240625171500 +0000" channel="ts560">
+    <title lang="en">Ant-Man And The Wasp: Quantumania</title>
+    <desc lang="en">Scott, Hope and their loved ones get dragged into the unexplored Quantum Realm. The adventure invites new threats, powers and secrets withheld by Hope's mother.</desc>
+    <credits>
+      <actor>Paul Rudd</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Jonathan Majors</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>David Dastmalchian</actor>
+      <actor>Katy O Brian</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/305B8F22E02199905147674BFF619A1502C91351V.jpg"/>
+  </programme>
+  <programme start="20240625171500 +0000" stop="20240625184100 +0000" channel="ts560">
+    <title lang="en">Aliens vs. Predator: Requiem</title>
+    <desc lang="en">A small town in Colorado becomes a battleground for two warring species of aliens. One of them is a hybrid called the Predalien while the other is a veteran Predator dispatched to stop it.</desc>
+    <credits>
+      <actor>Steven Pasquale</actor>
+      <actor>Reiko Aylesworth</actor>
+      <actor>John Ortiz</actor>
+      <actor>Johnny Lewis</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ariel Gade</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B062F5566CDC2954C9891D03C83B197959CC58D2A.jpg"/>
+  </programme>
+  <programme start="20240625184100 +0000" stop="20240625204500 +0000" channel="ts560">
+    <title lang="en">The Mummy Hunters</title>
+    <desc lang="en">Three tomb raiders retire from their roles and move to New York to enjoy the rest of their lives. However, they are asked to resume duty in order to find out the reason behind the loss of a loved one.</desc>
+    <credits>
+      <actor>Kun Chen</actor>
+      <actor>Bo Huang</actor>
+      <actor>Qi Shu</actor>
+      <actor>Angelababy</actor>
+      <actor>Keith Collea</actor>
+      <actor>Alex Eckstorm</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/824DEB82A2F75391E285B9FFD4649B2E1E28C32D2.jpg"/>
+  </programme>
+  <programme start="20240625204500 +0000" stop="20240625221500 +0000" channel="ts560">
+    <title lang="en">The Adventurers</title>
+    <desc lang="en">After five years of imprisonment, a notorious thief teams up with his partner to conduct a heist in Europe. However, tension rises as a French detective starts pursuing them.</desc>
+    <credits>
+      <actor>Andy Lau</actor>
+      <actor>Eric Tsang</actor>
+      <actor>Shu Qi</actor>
+      <actor>Jean Reno</actor>
+      <actor>Qi Shu</actor>
+      <actor>Jingchu Zhang</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42E3833C572DDD985358D6B58F710D7397F3E44EK.jpg"/>
+  </programme>
+  <programme start="20240625221500 +0000" stop="20240626011500 +0000" channel="ts560">
+    <title lang="en">The Wolverine</title>
+    <desc lang="en">After visiting Japan to meet a friend he rescued many years ago, Wolverine gets ensnared in a scheme involving a gangster and deviants.</desc>
+    <credits>
+      <actor>Hugh Jackman</actor>
+      <actor>Tao Okamoto</actor>
+      <actor>Rila Fukushima</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Svetlana Khodchenkova</actor>
+      <actor>Brian Tee</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F28AE4AD984D4E854BB0292DACDC4F6716A77E6D.jpg"/>
+  </programme>
+  <programme start="20240626011500 +0000" stop="20240626034500 +0000" channel="ts560">
+    <title lang="en">Avatar</title>
+    <desc lang="en">Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie.</desc>
+    <credits>
+      <actor>Sam Worthington</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Giovanni Ribisi</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6703C5034165B9A747358618B77726B04D3077DI.jpg"/>
+  </programme>
+  <programme start="20240626034500 +0000" stop="20240626051500 +0000" channel="ts560">
+    <title lang="en">Wreck-It Ralph</title>
+    <desc lang="en">Ralph is tired of playing the role of a bad guy and embarks on a journey to become a video game hero. But Ralph accidentally lets loose a deadly enemy that threatens the entire arcade.</desc>
+    <credits>
+      <actor>John C Reilly</actor>
+      <actor>Sarah Silverman</actor>
+      <actor>Jack McBrayer</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Mindy Kaling</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/053E9D9F8ACFD900D44E1A66B138433A92D78A1C6.jpg"/>
+  </programme>
+  <programme start="20240626051500 +0000" stop="20240626070000 +0000" channel="ts560">
+    <title lang="en">League of Gods</title>
+    <desc lang="en">Chaos ensues when the soul of King Zhou becomes corrupted after a devious female spirit disguises herself as one of his concubines and lures the ruler to the dark side.</desc>
+    <credits>
+      <actor>Jet Li</actor>
+      <actor>Fan Bingbing</actor>
+      <actor>Louis Koo</actor>
+      <actor>Mark Huang</actor>
+      <actor>Angela Yeung Wing</actor>
+      <actor>Tony Leung Ka-fai</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0768F9595A8A7A2369994CF88BB6338168B5CD90W.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626094500 +0000" channel="ts560">
+    <title lang="en">Black Panther: Wakanda Forever</title>
+    <desc lang="en">After the death of their beloved King T'Challa, the people of Wakanda attempt to protect their kingdom from the world and a new foe.</desc>
+    <credits>
+      <actor>Letitia Wright</actor>
+      <actor>Lupita Nyong'o</actor>
+      <actor>Danai Gurira</actor>
+      <actor>Winston Duke</actor>
+      <actor>Florence Kasumba</actor>
+      <actor>Dominique Thorne</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C2115019C316A93935BC627A1895DC52857C6E5L.jpg"/>
+  </programme>
+  <programme start="20240626094500 +0000" stop="20240626120000 +0000" channel="ts560">
+    <title lang="en">Independence Day</title>
+    <desc lang="en">When aliens invade the Earth in order to destroy the planet, the humans unite to fight the superior entities with their will to outlast.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary McDonnell</actor>
+      <actor>Judd Hirsch</actor>
+      <actor>Robert Loggia</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFFCA01D4ACC13D5EEE2552A9284D3656671FC5DC.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626134500 +0000" channel="ts560">
+    <title lang="en">Incredibles 2</title>
+    <desc lang="en">Entrusted with a task to restore public faith in superheroes, Helen sets off on a mission to catch a supervillain, while Bob faces the challenges of stay-at-home parenting.</desc>
+    <credits>
+      <actor>Craig T Nelson</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Sarah Vowell</actor>
+      <actor>Huck Milner</actor>
+      <actor>Eli Fucile</actor>
+      <actor>Samuel L Jackson</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C4A76A7B74367E86FC8712F23AFA5B2E292B0C72.jpg"/>
+  </programme>
+  <programme start="20240626134500 +0000" stop="20240626153000 +0000" channel="ts560">
+    <title lang="en">Cinderella</title>
+    <desc lang="en">After the untimely death of her father, Ella is troubled by her stepmother and stepsisters. However, her life changes forever after dancing with a charming stranger at the Royal Ball.</desc>
+    <credits>
+      <actor>Cate Blanchett</actor>
+      <actor>Lily James</actor>
+      <actor>Richard Madden</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Nonso Anozie</actor>
+      <actor>Stellan Skarsgard</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B18BC722859522B59ED6AABB03D6A3F97B928CEAW.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626174500 +0000" channel="ts560">
+    <title lang="en">Valerian and the City of a Thousand Planets</title>
+    <desc lang="en">Valerian and Laureline, two special operatives for the space station of Alpha, have to protect the city from an evil force that threatens not only its existence, but the future of the universe.</desc>
+    <credits>
+      <actor>Dane DeHaan</actor>
+      <actor>Cara Delevingne</actor>
+      <actor>Clive Owen</actor>
+      <actor>Rihanna</actor>
+      <actor>Ethan Hawke</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/938ACC81C55B2EF23631E2032C7B876F5B46DC93B.jpg"/>
+  </programme>
+  <programme start="20240626174500 +0000" stop="20240626200000 +0000" channel="ts560">
+    <title lang="en">Captain America: Civil War</title>
+    <desc lang="en">Friction arises between the Avengers when one group supports the government's decision to implement a law to control their powers while the other opposes it.</desc>
+    <credits>
+      <actor>Chris Evans</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Sebastian Stan</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Don Cheadle</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAC40DF177D22C74248A564035FCDD7B7EE9C116D.jpg"/>
+  </programme>
+</tv>

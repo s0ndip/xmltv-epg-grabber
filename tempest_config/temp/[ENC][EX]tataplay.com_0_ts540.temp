@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts540">
+    <display-name lang="en">Star Suvarna Plus</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts540">
+    <title lang="en">Deerghayushman Bhava</title>
+    <desc lang="en">Deerghayushman Bhava</desc>
+    <credits>
+      <actor>Karthik Raju</actor>
+      <actor>Kaikala Satyanarayana</actor>
+      <actor>Amani</actor>
+      <actor>Prudhvi Raj</actor>
+      <actor>Gemini Suresh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/352ED1B9E2ECB4DDFDBB54B8A972B610CCE8A5315.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts540">
+    <title lang="en">Lucifer</title>
+    <desc lang="en">A major power struggle occurs when the leader of a political party passes away. In the midst of the chaos, a mysterious man named Stephen steps in to ascend the throne.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Vivek Oberoi</actor>
+      <actor>Manju Warrier</actor>
+      <actor>Tovino Thomas</actor>
+      <actor>Indrajith Sukumaran</actor>
+      <actor>Saikumar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46E05D20D6590C8D9502BF82C428908321385C89F.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts540">
+    <title lang="en">Star Comedy Cafe</title>
+    <desc lang="en">Various comedians and stand-up artists tickle the funny bones of the audience with their outstanding and hilarious skits.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/006D945550E508E532130BC05D83C5787C1AB717T.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts540">
+    <title lang="en">Star Comedy Cafe</title>
+    <desc lang="en">Various comedians and stand-up artists tickle the funny bones of the audience with their outstanding and hilarious skits.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/006D945550E508E532130BC05D83C5787C1AB717T.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts540">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/957BB7196784851F72E365502A65CE6E1EB3637A7.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts540">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Krishna tries to convince Arjuna to kill Karna when he is unarmed. On the other hand, the battle between Bhima and Duryodhana leads to the latter's death.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/957BB7196784851F72E365502A65CE6E1EB3637A7.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts540">
+    <title lang="en">Mahabharata</title>
+    <desc lang="en">The Pandavas and the Kauravas, claim to be the heirs to the throne of Hastinapur. However, their disagreement culminates in a war on the grounds of Kurukshetra.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Shaheer Sheikh</actor>
+      <actor>Pooja Sharma</actor>
+      <actor>Aham Sharma</actor>
+      <actor>Aarav Chowdhary</actor>
+      <actor>Praneet Bhat</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C7C9EB164ED87FC3466250F0916B5C9747F7890G.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts540">
+    <title lang="en">Guru Raghavendra Vaibhava</title>
+    <desc lang="en">Sri Raghavendra Teertha, a Hindu Vaishnava saint, faces various struggles and scenarios as he makes his journey to sainthood.</desc>
+    <credits>
+      <actor>Shivaram</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Anup Chandrasekharan</actor>
+      <actor>Parikshith</actor>
+      <actor>Hosmane Murthy</actor>
+      <actor>Pavitra Lokesh</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95615FABBEA57F058B6ED52231C65BA4FB602570Z.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts540">
+    <title lang="en">Kranthiveera Sangolli Rayanna</title>
+    <desc lang="en">Sangolli Rayanna, the army chief of the Kingdom of Kittur and a freedom fighter, revolts against the British in a bid to oust them from the country.</desc>
+    <credits>
+      <actor>Darshan Thoogudeepa</actor>
+      <actor>Jaya Prada</actor>
+      <actor>Nikita Thukral</actor>
+      <actor>Divya Parameshwaran</actor>
+      <actor>Shashikumar</actor>
+      <actor>Srinivasa Murthy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7846803071D48BCE7F285BF0E0D103F6C8E62884K.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts540">
+    <title lang="en">Veera Maharshi</title>
+    <desc lang="en">A businessman returns to his homeland to reconcile with his friend. Soon, upon learning of his friend's plight, he becomes a crusader for the farmers in the village.</desc>
+    <credits>
+      <actor>Mahesh Babu</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Allari Naresh</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Kaikala Satyanarayana</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F510A56BD66F43DCE1AB40DB10B8D7B32E3C15FCX.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts540">
+    <title lang="en">Maanikya</title>
+    <desc lang="en">Vijay and Manasa's families have been at each other's throat's since the past 25 years. However, things take a turn when they fall in love with each other.</desc>
+    <credits>
+      <actor>Sudeep</actor>
+      <actor>Veeraswamy Ravichandran</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Varalaxmi Sarathkumar</actor>
+      <actor>Ranya Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF636CE035103BB237C7E8A0F6ED39CB695256C3J.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625153000 +0000" channel="ts540">
+    <title lang="en">James</title>
+    <desc lang="en">The life of Santhosh changes after Vijay, owner of a crime organisation called Gayakwad Syndicate, enlists his help in his business dealings.</desc>
+    <credits>
+      <actor>Puneeth Rajkumar</actor>
+      <actor>Priya Anand</actor>
+      <actor>Anu Prabhakar</actor>
+      <actor>Srikanth</actor>
+      <actor>R Sarathkumar</actor>
+      <actor>Madhusudhan Rao</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/735DFB12920F5FC3308F1D0837FB989F0CD566A8Q.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625183000 +0000" channel="ts540">
+    <title lang="en">Anna Bond</title>
+    <desc lang="en">Bond Ravi, a martial arts champion, and Meera, a documentary film-maker, fall in love with each other. However, she gets kidnapped by a drug lord, prompting Bond to spring into action.</desc>
+    <credits>
+      <actor>Puneeth Rajkumar</actor>
+      <actor>Nidhi Subbaiah</actor>
+      <actor>Priyamani</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Avinash</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA43EAA0C95FE311A3B959851172183E5D3768365.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts540">
+    <title lang="en">Marakkar</title>
+    <desc lang="en">In response to oppression by the empire of Portugal during the late 1500s, a naval chieftain and his gang wage war against the Portuguese and their allies.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>Suniel Shetty</actor>
+      <actor>Prabhu</actor>
+      <actor>Manju Warrier</actor>
+    </credits>
+    <category lang="en">War</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05C4C831A0A5D9F50E29FAB44DEDD24C887AE471E.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts540">
+    <title lang="en">Ramayya Bartanayya</title>
+    <desc lang="en">A happy-go-lucky man courts his classmate in order to get close to the perpetrators and exact revenge for his fiance's murder.</desc>
+    <credits>
+      <actor>N T Rama Rao Jr</actor>
+      <actor>Shruti Haasan</actor>
+      <actor>Samantha Ruth Prabhu</actor>
+      <actor>P. Ravi Shankar</actor>
+      <actor>Mukesh Rishi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B488E68BD9A6AEF6D93F0535E584FE408EA54A69.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts540">
+    <title lang="en">Star Comedy Cafe</title>
+    <desc lang="en">Various comedians and stand-up artists tickle the funny bones of the audience with their outstanding and hilarious skits.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/006D945550E508E532130BC05D83C5787C1AB717T.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts540">
+    <title lang="en">Star Comedy Cafe</title>
+    <desc lang="en">Various comedians and stand-up artists tickle the funny bones of the audience with their outstanding and hilarious skits.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/006D945550E508E532130BC05D83C5787C1AB717T.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts540">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/957BB7196784851F72E365502A65CE6E1EB3637A7.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts540">
+    <title lang="en">Radha Krishna</title>
+    <desc lang="en">Radha and Krishna fall in love with each other but after Radha receives a curse that she will be separated from her lover, Krishna is reborn.</desc>
+    <credits>
+      <actor>Sumedh Mudgalkar</actor>
+      <actor>Shivya Pathania</actor>
+      <actor>Zalak Desai</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Monika Chauhan</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/957BB7196784851F72E365502A65CE6E1EB3637A7.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts540">
+    <title lang="en">Mahabharata</title>
+    <desc lang="en">The Pandavas and the Kauravas, claim to be the heirs to the throne of Hastinapur. However, their disagreement culminates in a war on the grounds of Kurukshetra.</desc>
+    <credits>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Shaheer Sheikh</actor>
+      <actor>Pooja Sharma</actor>
+      <actor>Aham Sharma</actor>
+      <actor>Aarav Chowdhary</actor>
+      <actor>Praneet Bhat</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C7C9EB164ED87FC3466250F0916B5C9747F7890G.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts540">
+    <title lang="en">Guru Raghavendra Vaibhava</title>
+    <desc lang="en">Sri Raghavendra Teertha, a Hindu Vaishnava saint, faces various struggles and scenarios as he makes his journey to sainthood.</desc>
+    <credits>
+      <actor>Shivaram</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Anup Chandrasekharan</actor>
+      <actor>Parikshith</actor>
+      <actor>Hosmane Murthy</actor>
+      <actor>Pavitra Lokesh</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95615FABBEA57F058B6ED52231C65BA4FB602570Z.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts540">
+    <title lang="en">Chingari</title>
+    <desc lang="en">Dhanush, a courageous police officer, is in love with Geetha. However, when she is kidnapped and taken to Switzerland to be sold into prostitution, he must rescue her.</desc>
+    <credits>
+      <actor>Darshan Thoogudeepa</actor>
+      <actor>Deepika Kamaiah</actor>
+      <actor>Bhavana</actor>
+      <actor>Srujan Lokesh</actor>
+      <actor>Yashas Surya</actor>
+      <actor>Vera Prunn</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D9D47823057AE6C9C2A071E60A6E69BE8CF1514P.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts540">
+    <title lang="en">Avatara Purusha</title>
+    <desc lang="en">A junior artist named Anila is roped into a plan to bring together a broken family. However, he stumbles upon a powerful secret of theirs that involves black magic and the supernatural.</desc>
+    <credits>
+      <actor>Sharan</actor>
+      <actor>Ashika Ranganath</actor>
+      <actor>P Sai Kumar</actor>
+      <actor>Bhavya</actor>
+      <actor>Balaji Manohar</actor>
+      <actor>Sudha Rani</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AFCBACC95447F5FD6C28CA7424FFB21085B18C39.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts540">
+    <title lang="en">Aarya</title>
+    <desc lang="en">Deepika, a gangster's sister, falls in love with Aarya, a soft-spoken but brave man. However, he faces the wrath of the gangster when he refuses to marry Deepika.</desc>
+    <credits>
+      <actor>R Madhavan</actor>
+      <actor>Bhavana</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Vadivelu</actor>
+      <actor>Devan</actor>
+      <actor>Tejashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/019A537104896B5A96104555B3EE86015468CC1B2.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts540">
+    <title lang="en">Aayushmanbhava</title>
+    <desc lang="en">Krishna works as a caretaker for Gopi, the free-spirited patriarch of a joint family. However, when he learns of Lakshmi, Gopi's granddaughter with a mental disability, he tries to cure her.</desc>
+    <credits>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Rachita Ram</actor>
+      <actor>Ananth Nag</actor>
+      <actor>Prabhu</actor>
+      <actor>Nidhi Subbaiah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/683419905BAECCF2FD838E15692B135F66210F6FY.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626183000 +0000" channel="ts540">
+    <title lang="en">Por Thozhil</title>
+    <desc lang="en">With limited evidence in a race against time, two police officers must combine their skills and experience to arrest a psychopath targeting women.</desc>
+    <credits>
+      <actor>Sarath Kumar</actor>
+      <actor>Ashok Selvan</actor>
+      <actor>Nikhila Vimal</actor>
+      <actor>Nizhalgal Ravi</actor>
+      <actor>Sarath Babu</actor>
+      <actor>P L Thenappan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3874729E60321E4254BB77C9623DC6192216F015H.jpg"/>
+  </programme>
+</tv>

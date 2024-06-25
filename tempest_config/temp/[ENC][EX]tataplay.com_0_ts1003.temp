@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1003">
+    <display-name lang="en">Tata Play South Talkies</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624221500 +0000" channel="ts1003">
+    <title lang="en">Aparichit 2</title>
+    <desc lang="en">Kadhal Sadugudu - Chitambaram (PrakashRaj) doesn't want his daughter Kausalya to marry Suresh (Vikram), so Suresh then decides to marry Kausalya with her father's permission and strives...</desc>
+    <credits>
+      <actor>Vikram</actor>
+      <actor>Priyanka Trivedi</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Vivek</actor>
+      <actor>Rekha</actor>
+      <actor>Vaishnavi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CE5900A156FD2F74504ED623E05CD8C65F483579.jpg"/>
+  </programme>
+  <programme start="20240624221500 +0000" stop="20240625020000 +0000" channel="ts1003">
+    <title lang="en">Meri Taqat</title>
+    <desc lang="en">This film is about the family of Ajith and his Uncle Bala Singh (Rambha's father). The problem between two families start when Ajith is unable to spend too much money for an occasion in his...</desc>
+    <credits>
+      <actor>Ajith Kumar</actor>
+      <actor>Rambha</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Nagesh</actor>
+      <actor>Vadivelu</actor>
+      <actor>Jayachitra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/945B9F78837FE6D4161458733CEADFE633DD6438V.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625053000 +0000" channel="ts1003">
+    <title lang="en">My Duty</title>
+    <desc lang="en">The film is about a young man who suffers from a neurological condition that results in partial retrograde amnesia and delusions due to a head injury and his subsequent recovery thanks to a kind...</desc>
+    <credits>
+      <actor>Vijay</actor>
+      <actor>Shalini</actor>
+      <actor>Kaveri</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Srividya</actor>
+      <actor>Charle</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E868A7CDEFDC4988F2A4878608E10F322AAFB0ES.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts1003">
+    <title lang="en">Shastra The Revenge</title>
+    <desc lang="en">Will Meghna continue to love Sampath after he kills her brother?</desc>
+    <credits>
+      <actor>Allari Naresh</actor>
+      <actor>Madalasa Sharma</actor>
+      <actor>Chandra Mohan</actor>
+      <actor>Sudha</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Amit Tiwari</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F55A0551ACF3D3EFDFF21C3646264C14B6A8E969G.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625110000 +0000" channel="ts1003">
+    <title lang="en">Yes Or No</title>
+    <desc lang="en">Sravani and Subramanyam meet at a suicide point but are unsuccessful when they try to help each other die. They soon begin to fall in love and decide to run away from their homes.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Tanu Roy</actor>
+      <actor>Sheen</actor>
+      <actor>Tanikella Bharani</actor>
+      <actor>LB Sriram</actor>
+      <actor>MS Narayana</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/118196AAD1AB4DCF13746AE6DFD67C15F9F68F960.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625133000 +0000" channel="ts1003">
+    <title lang="en">Secret Agent</title>
+    <desc lang="en">The film is about a man with a criminal background who aspires to be a cop.</desc>
+    <credits>
+      <actor>Nithin</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>Megha Akash</actor>
+      <actor>Sriram</actor>
+      <actor>Ravi Kishan</actor>
+      <actor>Ajay</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E1B15FFDA4DD59326536C70E76CF84C5CE287B0U.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625160000 +0000" channel="ts1003">
+    <title lang="en">Phir Aaya Deewana</title>
+    <desc lang="en">Yaradi Nee Mohini - Vasu (Dhanush) falls in love with Keerthi (Nayantara). However, she rejects his advances as her marriage has been arranged with her uncle's son, who is Vasu's best...</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Nayanthara</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Karthik Kumar</actor>
+      <actor>K. Vishwanath</actor>
+      <actor>Karunas</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FBC0C722199E2D6A0E05FA43380727BADC48BC58K.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625183000 +0000" channel="ts1003">
+    <title lang="en">Sabse Bada Badshah</title>
+    <desc lang="en">Athisaya Piravi- Kalicharan (Rajinikanth) falls in love with Sumathi (Kanaka) but is soon killed. However, things change when he makes a deal with Yamaraj and returns to earth in the body of Balu.</desc>
+    <credits>
+      <actor>Rajinikanth</actor>
+      <actor>Kanaka</actor>
+      <actor>Sheeba Akashdeep</actor>
+      <actor>Nagesh</actor>
+      <actor>Jaiganesh</actor>
+      <actor>Vijayalalitha</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/515B45F37FB788623686ED9757F81474157A2F62D.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625221500 +0000" channel="ts1003">
+    <title lang="en">Yatra</title>
+    <desc lang="en">An Indian politician takes up a decision to go on a 900-mile walking tour as a part of his election campaign. Yatra is an emotional tribute to the former Chief Minister of Andhra Pradesh Y. S....</desc>
+    <credits>
+      <actor>Mammootty</actor>
+      <actor>Suhasini Maniratnam</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Ashrita Vemuganti</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Anasuya Bharadwaj</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5929FE1F3FA13DB2940740242F27B338A74051004.jpg"/>
+  </programme>
+  <programme start="20240625221500 +0000" stop="20240626020000 +0000" channel="ts1003">
+    <title lang="en">Masters</title>
+    <desc lang="en">Milan Paul (Prithviraj Sukumaran), a reporter, and Sriramakrishnan (Sasikumar), a police officer, are best friends who investigate a series of suicide-murders, they discover some shocking truths.</desc>
+    <credits>
+      <actor>Prithviraj</actor>
+      <actor>Sasikumar</actor>
+      <actor>Mukesh</actor>
+      <actor>Saikumar</actor>
+      <actor>Ananya</actor>
+      <actor>Pia Bajpai</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/141C68357D34D541A6F40CD99D6A9A89BC5D4183N.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626053000 +0000" channel="ts1003">
+    <title lang="en">Street Fighter</title>
+    <desc lang="en">Follows a youngster ready to get married, but funny events happen and changes his plans.</desc>
+    <credits>
+      <actor>Tovino Thomas</actor>
+      <actor>Kalyani Priyadarshan</actor>
+      <actor>Shine Tom Chacko</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Binu Pappu</actor>
+      <actor>Lukman Lukku</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE97CC03D182A3B120A6F5C23D138EDF732F5B8AL.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626090000 +0000" channel="ts1003">
+    <title lang="en">Jeene Do - Let Us Live</title>
+    <desc lang="en">An Upcoming Cyclist Arrives In Mumbai For The Final Round Of A Championship. But His Life Take A 360 Degree Turn When He Discovers The Painful Past About His Family And Sets Out To Avenge Them.</desc>
+    <credits>
+      <actor>Nitin</actor>
+      <actor>Genelia D'souza</actor>
+      <actor>Hrishitaa Bhatt</actor>
+      <actor>Krishnam Raju</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FBDFEA60252E19E15F074467AF2C5B60033F1A12O.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626110000 +0000" channel="ts1003">
+    <title lang="en">Chota Johny</title>
+    <desc lang="en">When a visiting researcher tries desperately to escape, after mistakenly captured by police for an alleged theft in a temple, bizarre things start happening.</desc>
+    <credits>
+      <actor>Bentley Mitchum</actor>
+      <actor>Jyothika</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Nassar</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00757C7C13D650B89E8394A15C78C0F148B4A84C4.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626133000 +0000" channel="ts1003">
+    <title lang="en">Sarfira - The Power Man</title>
+    <desc lang="en">An honest police officer's son runs away from home after being scolded by his father for using his gun as a toy. Years later, he returns home as someone else, but the truth is soon revealed.</desc>
+    <credits>
+      <actor>Nithiin</actor>
+      <actor>Priyamani</actor>
+      <actor>Mukesh Rishi</actor>
+      <actor>Kelly Dorjee</actor>
+      <actor>Sunil</actor>
+      <actor>Raghu Babu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3303EBCEF008EBBF01D1E2255AC59938FF79818R.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626160000 +0000" channel="ts1003">
+    <title lang="en">Love</title>
+    <desc lang="en">A family and the various situations navigated by a husband and wife.</desc>
+    <credits>
+      <actor>Shine Tom Chacko</actor>
+      <actor>Rajisha Vijayan</actor>
+      <actor>Gokulan</actor>
+      <actor>Sudhi Koppa</actor>
+      <actor>Veena Nandakumar</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9EDA772775E40CF22F9F4554C85A7E00143145AX.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626183000 +0000" channel="ts1003">
+    <title lang="en">Lockdown Wedding</title>
+    <desc lang="en">Mahesh, a lower-middle-class miser, falls in love with Anitha, a rich heiress. However, he is forced to host her family indefinitely when a nationwide lockdown is announced.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54166AFEB14246978B0FC14F22D7DB58C2010B25E.jpg"/>
+  </programme>
+</tv>

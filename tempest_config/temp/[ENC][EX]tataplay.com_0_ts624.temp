@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts624">
+    <display-name lang="en">Pitaara TV</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts624">
+    <title lang="en">LOVER</title>
+    <desc lang="en">Lally and Heer are a young couple in love. However, things get complicated when their relationship faces opposition resulting in their separation.</desc>
+    <credits>
+      <actor>Guri</actor>
+      <actor>Ronak Joshi</actor>
+      <actor>Yashpal Sharma</actor>
+      <actor>Avtar Gill</actor>
+      <actor>Rupinder Rupi</actor>
+      <actor>Karan Sandhiwalia</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB223E6BC5A6EB989C2212C9D49B0599C40E7E08X.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts624">
+    <title lang="en">Paani Ch Madhaani</title>
+    <desc lang="en">A group of musicians from Punjab get the opportunity to perform in the UK. However, the leader, Gulli, decides to invest his time pursuing schemes to get rich.</desc>
+    <credits>
+      <actor>Neeru Bajwa</actor>
+      <actor>Gippy Grewal</actor>
+      <actor>Gurpreet Bhangu</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Karamjit Anmol</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65641AEC3E495DF06B078BA199570980C20B887EO.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625053000 +0000" channel="ts624">
+    <title lang="en">Rupinder Gandhi The Gangster..?</title>
+    <desc lang="en">A group of college students decides to take the law into their own hands to deliver justice after they realise that the local police force is unable to deal with crime.</desc>
+    <credits>
+      <actor>Dev Kharoud</actor>
+      <actor>Lucky Dhaliwal</actor>
+      <actor>Bunty Dhillon</actor>
+      <actor>Jagjeet Sandhu</actor>
+      <actor>Karamjeet Brar</actor>
+      <actor>Diksha Dhyani</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D2F72088F20A21D3C239D2194DE67F96726CED5H.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts624">
+    <title lang="en">Vekh Baraatan Challiyan</title>
+    <desc lang="en">Jaggi, a Sikh Jat from Punjab, falls in love with Sarla, a woman from Haryana, and wishes to marry her. However, a priest declares their marriage unlucky unless Jaggi marries a black dog first.</desc>
+    <credits>
+      <actor>Binnu Dhillon</actor>
+      <actor>Kavita Kaushik</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Govind Namdev</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDEA74C74B1DA5BF04F59A4220EC30663E1358E3Z.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625110000 +0000" channel="ts624">
+    <title lang="en">Teeja Punjab</title>
+    <desc lang="en">Bhagat, an alcoholic farmer, is highly money-minded and loses his land to the village chief. Consequently, his wife leaves him, causing him to get his act together and transform himself.</desc>
+    <credits>
+      <actor>Amberdeep Singh</actor>
+      <actor>Nimrat Khaira</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Sukhwinder Raj</actor>
+      <actor>Gurpreet Bhangu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC71DAB853AEBAF8325F6AA8EC86E3C97EE4774DM.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625133000 +0000" channel="ts624">
+    <title lang="en">Goreyan Nu Daffa Karo</title>
+    <desc lang="en">Two people belonging to different cultures and countries fall in love with each other.</desc>
+    <credits>
+      <actor>Amrinder Gill</actor>
+      <actor>Binnu Dhillon</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Amrit Maghera</actor>
+      <actor>Yograj Singh</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1093F32110F360F2710B7D281A4F6632079CC2EEX.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts624">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular comedy scenes from various movies played back-to-back in order to entertain the audience.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14D57B23EFEFA944E4BA1CFDC72E670DCC4DE6170.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625173000 +0000" channel="ts624">
+    <title lang="en">Aaja Mexico Challiye</title>
+    <desc lang="en">Pamma, an ambitious man from Punjab, dream's of going abroad which leads him into perilous situations as he pursues his goal.</desc>
+    <credits>
+      <actor>Ammy Virk</actor>
+      <actor>Nasir Chinyoti</actor>
+      <actor>Yasaman Mohsani</actor>
+      <actor>Zafri Khan</actor>
+      <actor>Sukhwinder Chahal</actor>
+      <actor>Honey Mattu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F39B602CDB0CF8B8DE3ED45E7E77BBC74D2ED78N.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts624">
+    <title lang="en">Vekh Baraatan Challiyan</title>
+    <desc lang="en">Jaggi, a Sikh Jat from Punjab, falls in love with Sarla, a woman from Haryana, and wishes to marry her. However, a priest declares their marriage unlucky unless Jaggi marries a black dog first.</desc>
+    <credits>
+      <actor>Binnu Dhillon</actor>
+      <actor>Kavita Kaushik</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Govind Namdev</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDEA74C74B1DA5BF04F59A4220EC30663E1358E3Z.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts624">
+    <title lang="en">Teeja Punjab</title>
+    <desc lang="en">Bhagat, an alcoholic farmer, is highly money-minded and loses his land to the village chief. Consequently, his wife leaves him, causing him to get his act together and transform himself.</desc>
+    <credits>
+      <actor>Amberdeep Singh</actor>
+      <actor>Nimrat Khaira</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Sukhwinder Raj</actor>
+      <actor>Gurpreet Bhangu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC71DAB853AEBAF8325F6AA8EC86E3C97EE4774DM.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626053000 +0000" channel="ts624">
+    <title lang="en">Jinde Meriye</title>
+    <desc lang="en">Using unlawful means to impress the love of his life turns the tables for Yaadi when it creates a chain of unfortunate events.</desc>
+    <credits>
+      <actor>Parmish Verma</actor>
+      <actor>Sonam Bajwa</actor>
+      <actor>Yuvraj Hans</actor>
+      <actor>Navneet Kaur Dhillon</actor>
+      <actor>Malkeet Rauni</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF56E11C88F4F4327849B44B9D99FAD8E1E52918.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626083000 +0000" channel="ts624">
+    <title lang="en">Jatt Brothers</title>
+    <desc lang="en">A fierce competition ensues between best friends Jaggi and Pamma when they go to great lengths to impress the women they love.</desc>
+    <credits>
+      <actor>Guri</actor>
+      <actor>Jass Manak</actor>
+      <actor>Nikeet Dhillon</actor>
+      <actor>Anita Devgan</actor>
+      <actor>Swalina</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/27869699A7571FB18B23AA8C758D2E0379FCEDAEH.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626110000 +0000" channel="ts624">
+    <title lang="en">Carry On Jatta 3</title>
+    <desc lang="en">Jass's father, Advocate Dhillon, disapproves of Jass's marriage with his lover, Meet, when he gets into a fight with her uncle. So, Jass devises a plan to unite both families.</desc>
+    <credits>
+      <actor>Gippy Grewal</actor>
+      <actor>Binnu Dhillon</actor>
+      <actor>Sonam Bajwa</actor>
+      <actor>Kavita Kaushik</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Gurpreet Ghuggi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/137CCE3D8EDE84280FC60DC4DB4E3B39CAA2E7ADC.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626133000 +0000" channel="ts624">
+    <title lang="en">Lucky Di Unlucky Story</title>
+    <desc lang="en">Lucky lives a carefree life along with his three friends until he meets and falls in love with Seerat. However, a series of unfortunate circumstances keep them from getting married.</desc>
+    <credits>
+      <actor>Gippy Grewal</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Gurpreet Ghuggi</actor>
+      <actor>Binnu Dhillon</actor>
+      <actor>Surveen Chawla</actor>
+      <actor>Jackie Shroff</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E149915FC77861B9CCADB4E330AE79ABCAF3176V.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts624">
+    <title lang="en">Kaato Kaahto</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular comedy scenes from various movies played back-to-back in order to entertain the audience.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14D57B23EFEFA944E4BA1CFDC72E670DCC4DE6170.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626173000 +0000" channel="ts624">
+    <title lang="en">Warning 2</title>
+    <desc lang="en">Situations get heated up as Geja, a cop, continues his plan to assassinate Pamma as the former failed to do the same earlier.</desc>
+    <credits>
+      <actor>Gippy Grewal</actor>
+      <actor>Prince Kanwaljit Singh</actor>
+      <actor>Jasmin Bhasin</actor>
+      <actor>Raghveer Boli</actor>
+      <actor>Raj Singh Jhinjar</actor>
+      <actor>Dheeraj Kumar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/08CD520591CF8497A8F4C2A8B7BC85835AB3F410B.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts624">
+    <title lang="en">Speaker Kharke</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular songs from movies in the Punjabi film industry played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E316844AF6F475133129E32266F216CFDBE6BA23.jpg"/>
+  </programme>
+</tv>

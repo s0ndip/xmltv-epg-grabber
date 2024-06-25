@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts928">
+    <display-name lang="en">Tata Play NEET Prep</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Modern Physics -7 by Vedantu</title>
+    <desc lang="en">Atomic Structure- Bohr Model</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1EC07BC8D492D384ABBBA735B5DAAB0FCCF0687A.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Hydrogen -2 By Vedantu</title>
+    <desc lang="en">Hydrides</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/266BFB53881FB3F6C56CF4A7AD071D447FA52366J.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-7</title>
+    <desc lang="en">Preparation of Ethers</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A66857FF1507350E1D99C2182CB21906AD4C4D607.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Excretion &amp; Elimination-3</title>
+    <desc lang="en">Structure and Types of Nephrons</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D371B60B8FA9380A16930727BEC44F84246B03C5X.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Microbes in Human Welfare-1</title>
+    <desc lang="en">Microbes in Household Products</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10501DD5CDE0B0BFC36CA70D7F10EB8F11D3755A7.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Anatomy of Flowering Plants-6</title>
+    <desc lang="en">Anatomy of Dicot Root, Secondary Growth</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2253D706A161CB59F85F238734DD42849F3AECD2Z.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Climate -2 by Vedantu</title>
+    <desc lang="en">The Four Seasons in India, Monsoon as a Unifying Bond</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ED7965C031575FF3EF2EEC89CCA8CB5F176A0AA4.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Body Fluids And Circulation-6</title>
+    <desc lang="en">Electrocardiogram, Blood Vessels</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB1132E211EE6B7CCBD9232EFCDAECCF1A262A4B1.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Number System -1 by Vedantu</title>
+    <desc lang="en">Euclid's Division Algorithm and Fundamental Theorem of Arithmetic</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80B0F5063B47F1B3EE2E520A74E96B9282B79BE8J.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Ray Optics -7 by Vedantu</title>
+    <desc lang="en">Ray Tracing &amp; Graph of image distance with object distance</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/000C69F5F880DEF19A159E5DA67DDDF220FB0AFEU.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Coordinate Geometry-3 by Vedantu</title>
+    <desc lang="en">Straighnt Lines and its Slope</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2ED53C56923D756B85673126003316D743BB61F3K.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-4</title>
+    <desc lang="en">Substitution Reactions</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22D6AF4134D95D508B05B672D0B59E19E17A8608W.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Clocks -1 By Vedantu</title>
+    <desc lang="en">Clocks</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B585EA6597B5AF576BEF905A6D12EA6A15AA8510.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts928">
+    <title lang="en">Grade 11 GOC-1 by Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7B15612ACF26F411197B19891EF8BA9E29CEDF9N.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Carboxylic Acids-1</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABB895C02BBD43F942A0D24108367C52AB27D350F.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Heat Transfer -3 by Vedantu</title>
+    <desc lang="en">Emissive Power of a Black Body &amp; Emissivity Kirchoff's Law</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B66434CEFC72DFC56F258044E9028B3CA765727R.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Modern Physics -7 by Vedantu</title>
+    <desc lang="en">Atomic Structure- Bohr Model</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1EC07BC8D492D384ABBBA735B5DAAB0FCCF0687A.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Hydrogen -2 By Vedantu</title>
+    <desc lang="en">Hydrides</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/266BFB53881FB3F6C56CF4A7AD071D447FA52366J.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-7</title>
+    <desc lang="en">Preparation of Ethers</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A66857FF1507350E1D99C2182CB21906AD4C4D607.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Magnetism -1 by Vedantu</title>
+    <desc lang="en">Magnets and Magnetic Field</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC727910830FE78EB663A41AD88532208DFDF498G.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Natural Vegetation-1 by Vedantu</title>
+    <desc lang="en">Flora And Fauna, Types of Vegetation</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00AF162CDA063EBE85A379248ECF4527FBA845E6Z.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Excretion &amp; Elimination-3</title>
+    <desc lang="en">Structure and Types of Nephrons</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D371B60B8FA9380A16930727BEC44F84246B03C5X.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Microbes in Human Welfare-1</title>
+    <desc lang="en">Microbes in Household Products</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10501DD5CDE0B0BFC36CA70D7F10EB8F11D3755A7.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Heat Transfer -3 by Vedantu</title>
+    <desc lang="en">Emissive Power of a Black Body &amp; Emissivity Kirchoff's Law</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B66434CEFC72DFC56F258044E9028B3CA765727R.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Modern Physics -8 by Vedantu</title>
+    <desc lang="en">Atomic Structure- H Spectrum</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61D11852BB363AA6CADDF6B201E17B7A098967618.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625203000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Hydrogen -3 By Vedantu</title>
+    <desc lang="en">Water-Structure and Properties</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E864F578483888163861A3E4A46867F75576EC06R.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-8</title>
+    <desc lang="en">Reactions of Ether</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E54DFD1E8013CFAD67F06A0808A9FB5ACC2F9657S.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625223000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Excretion &amp; Elimination-4</title>
+    <desc lang="en">Urine Formation</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45E4485982AE23E6B52617C97AF62AAFB207F6CFX.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625233000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Microbes in Human Welfare-2</title>
+    <desc lang="en">Microbes in Industrial Products</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F22DA64A89C118B232195C51AB757D466173693BC.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626003000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Anatomy of Flowering Plants-7</title>
+    <desc lang="en">Anatomy of Monocot Root</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A867F0B35F027DB42F9577E088710332D33C779P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626013000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Balancing Chemical Equations-1</title>
+    <desc lang="en">Characteristics of Chemical Reactions</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F969369235910AC3FB46782FF290FF8C1E4A6E0DM.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Body Fluids and Circulation-7</title>
+    <desc lang="en">Double Circulation, Regulation of Cardiac Activity, Disorders</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77EA848A490EDF6D23098890CB69B99F4FD7B9E1H.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Number System -2 by Vedantu</title>
+    <desc lang="en">Irrational Numbers</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C713C668FCAC9CDE9709AC9F714C50824A974B7E.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Ray Optics -8 by Vedantu</title>
+    <desc lang="en">Laws of Refraction- General and Vector Form &amp; Total Internal Reflection(TIR)</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6F900DDA8E349592986DB9FD51B8F3365A548230.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Coordinate Geometry-4 by Vedantu</title>
+    <desc lang="en">Equation of a Line</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/800A241B7B80BFF2D662E8D35E79A0B85C10548FX.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626063000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-5</title>
+    <desc lang="en">Oxidation of Alcohols</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DE0C969DFAC9BD4BF57358A0A52D14317C541D2L.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Calendar -1 by Vedantu</title>
+    <desc lang="en">Calendars</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0246427A7ADB531E9CBD07E7D919B4222D8D388R.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts928">
+    <title lang="en">Grade 11 GOC-2 By Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769956359A7E6C9E34D4D6760051756C03A308E74.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Amines-1 by Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F1E156FEFF3388D3485D6143D14DD2C6A318CE9K.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Heat Transfer -4 by Vedantu</title>
+    <desc lang="en">Wien's Displacement Law &amp; Stefan's Law</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEBFE2D7FBB2A7396C19D79BCD221B76C514B56BG.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Modern Physics -8 by Vedantu</title>
+    <desc lang="en">Atomic Structure- H Spectrum</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61D11852BB363AA6CADDF6B201E17B7A098967618.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Hydrogen -3 By Vedantu</title>
+    <desc lang="en">Water-Structure and Properties</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E864F578483888163861A3E4A46867F75576EC06R.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Alcohols, Ethers and Phenols-8</title>
+    <desc lang="en">Reactions of Ether</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E54DFD1E8013CFAD67F06A0808A9FB5ACC2F9657S.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts928">
+    <title lang="en">Grade 10 Magnetism -2 by Vedantu</title>
+    <desc lang="en">Field Around Current Carrying Conductors</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E074F896BCF0A28C15E1AA5D3A78C5324E75729.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts928">
+    <title lang="en">Grade 9 Improvement in Food Resources-1</title>
+    <desc lang="en">Genetic Engineering, Plant Breeding</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D639DBD2633F6ACF12EE706AEBA2ED6B2D35FF7A.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Excretion &amp; Elimination-4</title>
+    <desc lang="en">Urine Formation</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45E4485982AE23E6B52617C97AF62AAFB207F6CFX.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts928">
+    <title lang="en">Grade 12 Microbes in Human Welfare-2</title>
+    <desc lang="en">Microbes in Industrial Products</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F22DA64A89C118B232195C51AB757D466173693BC.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts928">
+    <title lang="en">Grade 11 Heat Transfer -4 by Vedantu</title>
+    <desc lang="en">Wien's Displacement Law &amp; Stefan's Law</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEBFE2D7FBB2A7396C19D79BCD221B76C514B56BG.jpg"/>
+  </programme>
+</tv>

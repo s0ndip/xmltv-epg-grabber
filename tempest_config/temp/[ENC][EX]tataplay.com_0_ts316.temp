@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts316">
+    <display-name lang="en">DD Bharati</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts316">
+    <title lang="en">Raag Rang Shastra Ke Sang</title>
+    <desc lang="en">The host presents the teaching technique of various renowned singers, which is beneficial for beginners, in the field of singing.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F68560A3DECA56F8173D1D59ADCF020FB1AF5AA6J.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624230000 +0000" channel="ts316">
+    <title lang="en">Movie - Sambandh</title>
+    <desc lang="en">Movie - Sambandh</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CC38BF73C904A24C673FB130F1621F6569F0FA4F.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts316">
+    <title lang="en">Ghazal</title>
+    <desc lang="en">Talented music artists and singers entertain aficionados of the genre through their performances and rendition of numerous ghazals.</desc>
+    <credits>
+      <actor>Talat Aziz</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/450664E006B2B0BFABD7318CB9886E754385917AL.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts316">
+    <title lang="en">Indian Art And Modernism</title>
+    <desc lang="en">Take a look at art based on the concept of modernism by Rabindranath Tagore, a renowned Indian polymath.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82BAA5A851A9AD8FB0D196DBF1C2041FEB671198K.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts316">
+    <title lang="en">Carnatic Music</title>
+    <desc lang="en">A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8427C47D5521915465EB0D28F4370926D2230BD.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts316">
+    <title lang="en">Bharat Ke Sant Kavi</title>
+    <desc lang="en">Some of the most popular poets of all over the country, along with their notable compositions, are put under the spotlight.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80CBAAB55C4DFCCB231BEFCF39C2C472CA3FA1C2V.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts316">
+    <title lang="en">Yogabhyas</title>
+    <desc lang="en">A yoga instructor sheds light on the impact of various asanas and how they can improve one's health and enrich the mind and soul.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CE3D7A7B8C57153949380EED967313BAFED2678N.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts316">
+    <title lang="en">Raag Rang Shastra Ke Sang</title>
+    <desc lang="en">The host presents the teaching technique of various renowned singers, which is beneficial for beginners, in the field of singing.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F68560A3DECA56F8173D1D59ADCF020FB1AF5AA6J.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033500 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240625033500 +0000" stop="20240625043000 +0000" channel="ts316">
+    <title lang="en">DD Morning Show</title>
+    <desc lang="en">The host provides information on various trending topics related to technology, finance, society, economy and culture and interviews experts on them.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78B4B29647CDDBFD3521A62D8963935637FF26239.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Instrumental: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts316">
+    <title lang="en">Movie - Shikhar</title>
+    <desc lang="en">In an attempt to make money, Dr Aarti distances herself from her husband and kid to the point that she reaches a peak, but their relationship becomes fragile.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EB94D1D60624C4E1FC13126B78FC03B68D4031FA.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts316">
+    <title lang="en">Tradition - Traditional Indian Architecture</title>
+    <desc lang="en">The host sheds light on the unique designs of traditional Indian architecture and the various architectural styles of the ancient structures.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DED85C1726F611D5D7FE3B92555E45F782B8A90C.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts316">
+    <title lang="en">Sugam Sangeet</title>
+    <desc lang="en">Renowned artists, musicians and vocalists perform a collection of melodious songs based on the ragas of Indian classical music.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/654F32915F3EF719A3352598C08ED9E26226B7162.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts316">
+    <title lang="en">Carnatic Music</title>
+    <desc lang="en">A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8427C47D5521915465EB0D28F4370926D2230BD.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts316">
+    <title lang="en">Lok Dhara</title>
+    <desc lang="en">Take a look at the folk dance performance called the 'gorakhali chutka', by the natives of Darjeeling.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D929A024DEFBCB0ACC49A1C37D51C2AE9F153DN.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts316">
+    <title lang="en">Yogabhyas</title>
+    <desc lang="en">A yoga instructor sheds light on the impact of various asanas and how they can improve one's health and enrich the mind and soul.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CE3D7A7B8C57153949380EED967313BAFED2678N.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts316">
+    <title lang="en">Bharat Ke Sant Kavi</title>
+    <desc lang="en">Some of the most popular poets of all over the country, along with their notable compositions, are put under the spotlight.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80CBAAB55C4DFCCB231BEFCF39C2C472CA3FA1C2V.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts316">
+    <title lang="en">Raag Rang Shastra Ke Sang</title>
+    <desc lang="en">The host presents the teaching technique of various renowned singers, which is beneficial for beginners, in the field of singing.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F68560A3DECA56F8173D1D59ADCF020FB1AF5AA6J.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts316">
+    <title lang="en">Sugam Sangeet</title>
+    <desc lang="en">Renowned artists, musicians and vocalists perform a collection of melodious songs based on the ragas of Indian classical music.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/654F32915F3EF719A3352598C08ED9E26226B7162.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625170000 +0000" channel="ts316">
+    <title lang="en">Movie - Shikhar</title>
+    <desc lang="en">In an attempt to make money, Dr Aarti distances herself from her husband and kid to the point that she reaches a peak, but their relationship becomes fragile.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EB94D1D60624C4E1FC13126B78FC03B68D4031FA.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts316">
+    <title lang="en">Tradition - Traditional Indian Architecture</title>
+    <desc lang="en">The host sheds light on the unique designs of traditional Indian architecture and the various architectural styles of the ancient structures.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DED85C1726F611D5D7FE3B92555E45F782B8A90C.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts316">
+    <title lang="en">Lok Dhara</title>
+    <desc lang="en">Take a look at the folk dance performance called the 'gorakhali chutka', by the natives of Darjeeling.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D929A024DEFBCB0ACC49A1C37D51C2AE9F153DN.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Instrumental: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts316">
+    <title lang="en">Raag Rang Shastra Ke Sang</title>
+    <desc lang="en">The host presents the teaching technique of various renowned singers, which is beneficial for beginners, in the field of singing.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F68560A3DECA56F8173D1D59ADCF020FB1AF5AA6J.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625230000 +0000" channel="ts316">
+    <title lang="en">Movie - Shikhar</title>
+    <desc lang="en">In an attempt to make money, Dr Aarti distances herself from her husband and kid to the point that she reaches a peak, but their relationship becomes fragile.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EB94D1D60624C4E1FC13126B78FC03B68D4031FA.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts316">
+    <title lang="en">Sugam Sangeet</title>
+    <desc lang="en">Renowned artists, musicians and vocalists perform a collection of melodious songs based on the ragas of Indian classical music.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/654F32915F3EF719A3352598C08ED9E26226B7162.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts316">
+    <title lang="en">Tradition - Traditional Indian Architecture</title>
+    <desc lang="en">The host sheds light on the unique designs of traditional Indian architecture and the various architectural styles of the ancient structures.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DED85C1726F611D5D7FE3B92555E45F782B8A90C.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts316">
+    <title lang="en">Carnatic Music</title>
+    <desc lang="en">A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8427C47D5521915465EB0D28F4370926D2230BD.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts316">
+    <title lang="en">Bharat Ke Sant Kavi</title>
+    <desc lang="en">Some of the most popular poets of all over the country, along with their notable compositions, are put under the spotlight.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80CBAAB55C4DFCCB231BEFCF39C2C472CA3FA1C2V.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts316">
+    <title lang="en">Yogabhyas</title>
+    <desc lang="en">A yoga instructor sheds light on the impact of various asanas and how they can improve one's health and enrich the mind and soul.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CE3D7A7B8C57153949380EED967313BAFED2678N.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts316">
+    <title lang="en">Dhadkan Dilli Ki</title>
+    <desc lang="en">The host sheds light on the performance of talented artists who enact the story of Ramayana on the occasion of Rama Navami.</desc>
+    <category lang="en">Events &amp; Festivals</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D6B47779FBC2EFBF0176C7ABC9C6660EBCAFBC2M.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033500 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240626033500 +0000" stop="20240626043000 +0000" channel="ts316">
+    <title lang="en">DD Morning Show</title>
+    <desc lang="en">The host provides information on various trending topics related to technology, finance, society, economy and culture and interviews experts on them.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78B4B29647CDDBFD3521A62D8963935637FF26239.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Instrumental: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts316">
+    <title lang="en">Movie - Chandramukhi</title>
+    <desc lang="en">Mukhi blames her sister for her miserable life when she comes to visit her. She tells her that she wanted to study, but instead she and her family got her married.</desc>
+    <credits>
+      <actor>Vanitha Malik</actor>
+      <actor>Jaswant Sethy</actor>
+      <actor>Porshiya Mukherjee</actor>
+      <actor>Neelam</actor>
+      <actor>Jai Prakash Agarwal</actor>
+      <actor>Bhushan Khanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1F8328470C89369597B359560706899F7FE551B0.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts316">
+    <title lang="en">Traditions</title>
+    <desc lang="en">Crafts In Indian Tradition</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1655C7B755BE3CB6F09CD3BCD077D816DDFE579G.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts316">
+    <title lang="en">Chand Ghazale</title>
+    <desc lang="en">Chand Ghazale</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1393A4F9FD7FF436C4E354DC0D0FC1A2C1F378F9O.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts316">
+    <title lang="en">Carnatic Music</title>
+    <desc lang="en">A comprehensive compilation of melodious Carnatic songs performed by several renowned Indian artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E8427C47D5521915465EB0D28F4370926D2230BD.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts316">
+    <title lang="en">Malgudi Days</title>
+    <desc lang="en">The people living in the small town of Malgudi lead simple lives and face several trials and tribulations which they must strive to overcome.</desc>
+    <credits>
+      <actor>Master Manjunath</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>Suhasini Adarkar</actor>
+      <actor>Kanti Madiya</actor>
+      <actor>B. Jayashree</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EBB9AE1DBB8ACB15E6FC1875DFE8E4A3C008046T.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Dance</title>
+    <desc lang="en">Talented and experienced dancers perform different Indian classical dance forms in front of a large audience who are fond of the genre.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/707100ABFED07C1BC69EA300EF538B959F87D6E36.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts316">
+    <title lang="en">Khoj</title>
+    <desc lang="en">Madhur Anand, a renowned chef, is distraught when his wife goes missing. The investigative officer attempts to solve the case while dealing with his own personal demons.</desc>
+    <credits>
+      <actor>Shashank</actor>
+      <actor>Rajesh Edara</actor>
+      <actor>Pavani Gangireddy</actor>
+      <actor>Chandra Vempaty</actor>
+      <actor>Chandramouli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45CED106FC57BA7333B5626FB8A38FA245814DB14.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts316">
+    <title lang="en">Spectacular India</title>
+    <desc lang="en">The narrator unveils the beauty of all the historical monuments across India and explores the artistic and religious aspects of each monument.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BC5636BCA4FD5E659A59E4CDF5AEBE145970B7EY.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts316">
+    <title lang="en">Lok Dhara</title>
+    <desc lang="en">Take a look at the folk dance performance called the 'gorakhali chutka', by the natives of Darjeeling.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D929A024DEFBCB0ACC49A1C37D51C2AE9F153DN.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts316">
+    <title lang="en">Yogabhyas</title>
+    <desc lang="en">A yoga instructor sheds light on the impact of various asanas and how they can improve one's health and enrich the mind and soul.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CE3D7A7B8C57153949380EED967313BAFED2678N.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Vocal: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts316">
+    <title lang="en">Bharat Ke Sant Kavi</title>
+    <desc lang="en">Some of the most popular poets of all over the country, along with their notable compositions, are put under the spotlight.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80CBAAB55C4DFCCB231BEFCF39C2C472CA3FA1C2V.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts316">
+    <title lang="en">Dhadkan Dilli Ki</title>
+    <desc lang="en">The host sheds light on the performance of talented artists who enact the story of Ramayana on the occasion of Rama Navami.</desc>
+    <category lang="en">Events &amp; Festivals</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D6B47779FBC2EFBF0176C7ABC9C6660EBCAFBC2M.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts316">
+    <title lang="en">Chand Ghazale</title>
+    <desc lang="en">Chand Ghazale</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1393A4F9FD7FF436C4E354DC0D0FC1A2C1F378F9O.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts316">
+    <title lang="en">Chitrangada</title>
+    <desc lang="en">Chitrangada</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF922B3020641A7AFCC98FC9766B74148141B6ECE.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts316">
+    <title lang="en">Nrityanjali - Kahani Kathak Ki</title>
+    <desc lang="en">Highly talented artistes execute impressive classical performances to showcase cultural resplendence and enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/475D2D517C5E875F090DD38524598186DE9CED994.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626170000 +0000" channel="ts316">
+    <title lang="en">Movie - Chandramukhi</title>
+    <desc lang="en">Mukhi blames her sister for her miserable life when she comes to visit her. She tells her that she wanted to study, but instead she and her family got her married.</desc>
+    <credits>
+      <actor>Vanitha Malik</actor>
+      <actor>Jaswant Sethy</actor>
+      <actor>Porshiya Mukherjee</actor>
+      <actor>Neelam</actor>
+      <actor>Jai Prakash Agarwal</actor>
+      <actor>Bhushan Khanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1F8328470C89369597B359560706899F7FE551B0.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts316">
+    <title lang="en">Traditions</title>
+    <desc lang="en">Crafts In Indian Tradition</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1655C7B755BE3CB6F09CD3BCD077D816DDFE579G.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts316">
+    <title lang="en">Lok Dhara</title>
+    <desc lang="en">Take a look at the folk dance performance called the 'gorakhali chutka', by the natives of Darjeeling.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7D929A024DEFBCB0ACC49A1C37D51C2AE9F153DN.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts316">
+    <title lang="en">National Programme Of Music</title>
+    <desc lang="en">Instrumental: Prominent artists perform different musical pieces, which include renditions of Hindustani classical and Carnatic music.</desc>
+    <credits>
+      <actor>Srishti Saxena</actor>
+    </credits>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51374E2E490C4E5DD9DF64615BEC9CE6C9FFB141S.jpg"/>
+  </programme>
+</tv>

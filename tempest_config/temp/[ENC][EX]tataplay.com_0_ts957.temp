@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts957">
+    <display-name lang="en">Star Maa Movies HD</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts957">
+    <title lang="en">Gouravam</title>
+    <desc lang="en">Arjun reaches his friend Shanmughan's village, only to find out that he has eloped with Pasupathy's daughter. So, Arjun, along with his friends and Yazhini, a lawyer, sets out to find the couple.</desc>
+    <credits>
+      <actor>Allu Sirish</actor>
+      <actor>Yami Gautam</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Harish Uthaman</actor>
+      <actor>Nasser</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B1CD82B751F21BFB770E13028171F53CC71DCEF1.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts957">
+    <title lang="en">Chandrakala</title>
+    <desc lang="en">A family moves into their ancestral mansion to try to sell it off. However, trouble starts brewing when they experience supernatural phenomena and a ghost mysteriously killing people.</desc>
+    <credits>
+      <actor>Sundar C</actor>
+      <actor>Vinay</actor>
+      <actor>Andrea Jeremiah</actor>
+      <actor>Hansika Motwani</actor>
+      <actor>Laxmi Rai</actor>
+      <actor>Santhanam</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B2BBA3695978B36833A240F609A4AEEF12B4D4BS.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts957">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts957">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12E46F58865F633D02AB35C388C17032018C34A9U.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625033000 +0000" channel="ts957">
+    <title lang="en">Bullet</title>
+    <desc lang="en">Gangaprasad and Yamunaprasad are two judges of a musical show and a popular musical duo. Things change dramatically when Gangaprasad gets murdered.</desc>
+    <credits>
+      <actor>Suresh Gopi</actor>
+      <actor>Rajan P. Dev</actor>
+      <actor>Devan</actor>
+      <actor>Babu Namboothiri</actor>
+      <actor>Kalabhavan Mani</actor>
+      <actor>Cochin Haneefa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70888AF7C259B8EE2C0C7442CC6A07AAF99723B6D.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts957">
+    <title lang="en">Entha Manchivaadavuraa</title>
+    <desc lang="en">Balu grows up without the love of a family due to his parents' untimely death. Later, he embarks on a noble quest to help people like himself receive the affection they missed out on.</desc>
+    <credits>
+      <actor>Nandamuri Kalyan Ram</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>V K Naresh</actor>
+      <actor>Sarath Babu</actor>
+      <actor>Suhasini Maniratnam</actor>
+      <actor>Vijayakumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41F14411ACECFC69DBDE4B32360B9D241B8970E74.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts957">
+    <title lang="en">Yevadu</title>
+    <desc lang="en">Satya gets a different face after he suffers from burn injuries, but a new face multiplies his problems. His ordeal begins when he leaves the hospital and has to deal with his lover's murderer.</desc>
+    <credits>
+      <actor>Ram Charan</actor>
+      <actor>Shruti K Haasan</actor>
+      <actor>Amy Jackson</actor>
+      <actor>Sai Kumar</actor>
+      <actor>Rahul Dev</actor>
+      <actor>Jayasudha</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C5DD7BD0D9B64C70054D14F3B89348CA5DA303C4.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts957">
+    <title lang="en">Gowri</title>
+    <desc lang="en">Gowri, a mechanic, falls in love with Shweta, the daughter of a media magnate. However, her father disapproves of their relationship and enlists the help of Sarkar, a gangster, to separate them.</desc>
+    <credits>
+      <actor>Sumanth</actor>
+      <actor>Charmy Kaur</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Vizag Prasad</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73AE61663945C44933B0561831F8380024969B4C7.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625153000 +0000" channel="ts957">
+    <title lang="en">Manyam Puli</title>
+    <desc lang="en">Murugan, with his tools and expertise, protects Puliyoor's villagers from deadly tiger attacks. However, Daddy, an illegal drugs dealer, takes advantage of his innocence and falsely implicates him.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Kamalinee Mukherjee</actor>
+      <actor>Jagapati Babu</actor>
+      <actor>Lal</actor>
+      <actor>Vinu Mohan</actor>
+      <actor>Bala</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/461C5580F23BE5B66939DE9ED753584569C4100AW.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625183000 +0000" channel="ts957">
+    <title lang="en">S3</title>
+    <desc lang="en">A police chief is tasked with solving the murder case of the police commissioner. When he finds out that a powerful gangster is responsible for it, he decides to end the latter's tyrannical reign.</desc>
+    <credits>
+      <actor>Suriya</actor>
+      <actor>Anushka Shetty</actor>
+      <actor>Shruti Haasan</actor>
+      <actor>Raadhika</actor>
+      <actor>Thakur Anoop Singh</actor>
+      <actor>Krish</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA587462B9E3EE32268AD73EF0EE5FD80C432CE0H.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts957">
+    <title lang="en">Yenthavaadu Gaani</title>
+    <desc lang="en">Sathyadev, an honest police officer, pursues an organ-trafficking racket and captures them red-handed. However, the man behind the trafficking operation is after Sathya's life.</desc>
+    <credits>
+      <actor>Ajith Kumar</actor>
+      <actor>Arun Vijay</actor>
+      <actor>Trisha Krishnan</actor>
+      <actor>Anushka Shetty</actor>
+      <actor>Parvathy Nair</actor>
+      <actor>Vivek</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/473BD9548A8B80372E87B1A7A68B60D827EB8CCF4.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts957">
+    <title lang="en">Vishwaroopam 2</title>
+    <desc lang="en">Wisam Ahmad Kashmiri, a RAW agent, tries to prevent a terrorist organisation from executing a deadly mission against three countries.</desc>
+    <credits>
+      <actor>Kamal Haasan</actor>
+      <actor>Rahul Bose</actor>
+      <actor>Pooja Kumar</actor>
+      <actor>Andrea Jeremiah</actor>
+      <actor>Shekhar Kapur</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC0FFE52CEC7CA3B4E9125BA8E53D6D0D40C2231T.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts957">
+    <title lang="en">Masthi Maja</title>
+    <desc lang="en">A comprehensive compilation of some of the most funniest comedy scenes from popular Telugu movies is played back to back.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89D146BD3F87FEA03475A6FA60D3562655C3D64R.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts957">
+    <title lang="en">Calvary Darshanam</title>
+    <desc lang="en">Religious scholars give sermons related to Christianity and spread the message of Jesus Christ.</desc>
+    <credits>
+      <actor>N Jaya Paul</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBFD2BE6409554EBE54AC867A6F6E11714BF19C5Q.jpg"/>
+    <episode-num system="xmltv_ns">.2952.</episode-num>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626033000 +0000" channel="ts957">
+    <title lang="en">Crazy Uncles</title>
+    <desc lang="en">Unhappy in their respective marriages, three moderately wealthy middle-aged men decide to live life to the fullest. However, their plans go awry when they try to seduce a singer.</desc>
+    <credits>
+      <actor>Ganesh Babu</actor>
+      <actor>Bhargavi</actor>
+      <actor>Hema</actor>
+      <actor>Raghu Kunche</actor>
+      <actor>Mano</actor>
+      <actor>Krishna Murali Posani</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C210CA4752CE657F999A14691E942B53DD739599.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts957">
+    <title lang="en">Mikhael</title>
+    <desc lang="en">The police begin raising suspicions when members of two rival gangs are killed. However further investigation points towards a doctor who is at the heart of a vicious revenge saga.</desc>
+    <credits>
+      <actor>Nivin Pauly</actor>
+      <actor>Unni Mukundan</actor>
+      <actor>Manjima Mohan</actor>
+      <actor>Siddique</actor>
+      <actor>Babu Antony</actor>
+      <actor>Navani Devanand</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB67A2E2D56864A06E2A48D5C782962078DAA1AAU.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts957">
+    <title lang="en">Khaidi No. 150</title>
+    <desc lang="en">Seenu, a criminal, escapes from the prison and places his doppelganger, Shankar, in his place. However, upon learning about Shankar's noble mission, he takes up the cause himself.</desc>
+    <credits>
+      <actor>Chiranjeevi</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Tarun Arora</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Ali</actor>
+      <actor>Posani Krishna Murali</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D3D63FDEBD57A52C9FAF3932EDF3CC289F26142L.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts957">
+    <title lang="en">Bujjigadu: Made in Chennai</title>
+    <desc lang="en">Bujji moves to Chennai for 12 years to stay away from his best friend Chitti, with the promise that she will marry him. When they finally reunite, Bujji is a thug with a mission on his hands.</desc>
+    <credits>
+      <actor>Prabhas</actor>
+      <actor>Mohan Babu</actor>
+      <actor>Trisha Krishnan</actor>
+      <actor>Sanjjanaa Galrani</actor>
+      <actor>Kota Srinivas Rao</actor>
+      <actor>Raja Ravindra</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFE6424678B263F15F9178A4F634C87934CA0435S.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts957">
+    <title lang="en">Raja The Great</title>
+    <desc lang="en">Raja, a person with visual impairment, is skilled and sets out on a mission to rescue a girl, Lucky, the pampered daughter of a sincere police officer.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Raadhika</actor>
+      <actor>Vivan Bhatena</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF242DC313A5FE7ED08A5A448703F314BE067BABZ.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626183000 +0000" channel="ts957">
+    <title lang="en">Subramanyam For Sale</title>
+    <desc lang="en">Subramanyam, a money-minded man, comes across Seetha, a woman living alone in the US after being abandoned by her boyfriend. Seeing her plight, he decides to help her.</desc>
+    <credits>
+      <actor>Sai Dharam Tej</actor>
+      <actor>Regina Cassandra</actor>
+      <actor>Adah Sharma</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Suman</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B50B5AC3EBB937873E59AB7B13C79E652B3C7DD9W.jpg"/>
+  </programme>
+</tv>

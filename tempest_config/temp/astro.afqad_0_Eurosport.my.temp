@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="Eurosport.my">
+    <display-name lang="en">Eurosport 🄼</display-name>
+  </channel>
+  <programme start="20240625000200 +0000" stop="20240625010200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625010200 +0000" stop="20240625013200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625013200 +0000" stop="20240625020200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625020200 +0000" stop="20240625040200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625040200 +0000" stop="20240625060200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625060200 +0000" stop="20240625063200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MX2 Race 1</title>
+    <desc lang="en">Motocross: World Championships Galicia - MX2 Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625063200 +0000" stop="20240625070200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MX2 Race 2</title>
+    <desc lang="en">Motocross: World Championships Galicia - MX2 Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625070200 +0000" stop="20240625073200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MXGP Race 1</title>
+    <desc lang="en">Motocross: World Championships Galicia - MXGP Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625073200 +0000" stop="20240625080200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MXGP Race 2</title>
+    <desc lang="en">Motocross: World Championships Galicia - MXGP Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625080200 +0000" stop="20240625083200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625083200 +0000" stop="20240625103200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625103200 +0000" stop="20240625123200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625123200 +0000" stop="20240625130200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625130200 +0000" stop="20240625140200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625140200 +0000" stop="20240625150200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Tour De France 2023</title>
+    <desc lang="en">Cycling: World Tour, Tour de France in France - Review.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625150200 +0000" stop="20240625170200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625170200 +0000" stop="20240625180200 +0000" channel="Eurosport.my">
+    <title lang="en">WEC: 24 Hours Le Mans 2024</title>
+    <desc lang="en">Endurance Car Racing: FIA World Endurance Championship 24 Hours of Le Mans in France - Review.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625180200 +0000" stop="20240625181700 +0000" channel="Eurosport.my">
+    <title lang="en">WTCR: Eset V4 - Hungaroring</title>
+    <desc lang="en">Touring Car Racing: Eset V4 Cup in Hungaroring, Hungary - Review.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625181700 +0000" stop="20240625200200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625200200 +0000" stop="20240625203200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MX2 Race 1</title>
+    <desc lang="en">Motocross: World Championships Galicia - MX2 Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625203200 +0000" stop="20240625210200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MX2 Race 2</title>
+    <desc lang="en">Motocross: World Championships Galicia - MX2 Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625210200 +0000" stop="20240625213200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MXGP Race 1</title>
+    <desc lang="en">Motocross: World Championships Galicia - MXGP Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625213200 +0000" stop="20240625220200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: Galicia - MXGP Race 2</title>
+    <desc lang="en">Motocross: World Championships Galicia - MXGP Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240625220200 +0000" stop="20240626000200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626000200 +0000" stop="20240626003200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626003200 +0000" stop="20240626010200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626010200 +0000" stop="20240626013200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626013200 +0000" stop="20240626023200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626023200 +0000" stop="20240626030200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626030200 +0000" stop="20240626040200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626040200 +0000" stop="20240626060200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626060200 +0000" stop="20240626063200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MX2 Race 1</title>
+    <desc lang="en">Motocross: World Championships France - MX2 - Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626063200 +0000" stop="20240626070200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MX2 Race 2</title>
+    <desc lang="en">Motocross: World Championships France - MX2 - Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626070200 +0000" stop="20240626073200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MXGP Race 1</title>
+    <desc lang="en">Motocross: World Championships France - MXGP - Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626073200 +0000" stop="20240626080200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MXGP Race 2</title>
+    <desc lang="en">Motocross: World Championships France - MXGP - Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626080200 +0000" stop="20240626090200 +0000" channel="Eurosport.my">
+    <title lang="en">Porsche Supercup: Emilia Romagna</title>
+    <desc lang="en">One Make Racing: Porsche Supercup Emilia Romagna Grand Prix at Autodromo Imola in Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626090200 +0000" stop="20240626093200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626093200 +0000" stop="20240626103200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626103200 +0000" stop="20240626130200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626130200 +0000" stop="20240626150200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Giro D'Italia 2024</title>
+    <desc lang="en">Cycling: World Tour, Giro d'Italia in Italy - Stage 21 Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626150200 +0000" stop="20240626163200 +0000" channel="Eurosport.my">
+    <title lang="en">Porsche Supercup: Emilia Romagna</title>
+    <desc lang="en">One Make Racing: Porsche Supercup Emilia Romagna Grand Prix at Autodromo Imola in Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626163200 +0000" stop="20240626180200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626180200 +0000" stop="20240626190200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626190200 +0000" stop="20240626200200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Olympic Elite Men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626200200 +0000" stop="20240626203200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MX2 Race 1</title>
+    <desc lang="en">Motocross: World Championships France - MX2 - Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626203200 +0000" stop="20240626210200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MX2 Race 2</title>
+    <desc lang="en">Motocross: World Championships France - MX2 - Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626210200 +0000" stop="20240626213200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MXGP Race 1</title>
+    <desc lang="en">Motocross: World Championships France - MXGP - Race 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626213200 +0000" stop="20240626220200 +0000" channel="Eurosport.my">
+    <title lang="en">Motocross: France - MXGP Race 2</title>
+    <desc lang="en">Motocross: World Championships France - MXGP - Race 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorsport</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240626220200 +0000" stop="20240627000200 +0000" channel="Eurosport.my">
+    <title lang="en">Fencing: European Championship Basel</title>
+    <desc lang="en">Fencing: European Championship Basel in Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240627000200 +0000" stop="20240627003200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240627003200 +0000" stop="20240627010200 +0000" channel="Eurosport.my">
+    <title lang="en">Mountain Bike: Crans Montana</title>
+    <desc lang="en">Mountain Bike: UCI World Cup Crans Montana, Switzerland - Cross Country Short Track Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240627010200 +0000" stop="20240627013200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240627013200 +0000" stop="20240627020200 +0000" channel="Eurosport.my">
+    <title lang="en">Cycling: Saint Martin De Landelles</title>
+    <desc lang="en">Cycling: National Frech Championship Saint Martin De Landelles - Road Race Elite Women.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240627020200 +0000" stop="20240627040200 +0000" channel="Eurosport.my">
+    <title lang="en">Powerlifting: Druskininkai 2024</title>
+    <desc lang="en">Powerlifting: World Classic Championships Druskininkai, Lithuania.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+</tv>

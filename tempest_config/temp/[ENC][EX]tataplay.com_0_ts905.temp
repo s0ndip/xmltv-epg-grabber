@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts905">
+    <display-name lang="en">ETV Bal Bharat</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240625003000 +0000" channel="ts905">
+    <title lang="en">Songs</title>
+    <desc lang="en">Songs</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts905">
+    <title lang="en">Wisdom Tree / Tree House Stories</title>
+    <desc lang="en">Wisdom Tree / Tree House Stories</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDC6076B208DCACB42D0B640C942F7A107D8B158N.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240626003000 +0000" channel="ts905">
+    <title lang="en">Songs</title>
+    <desc lang="en">Songs</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts905">
+    <title lang="en">Wisdom Tree / Tree House Stories</title>
+    <desc lang="en">Wisdom Tree / Tree House Stories</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDC6076B208DCACB42D0B640C942F7A107D8B158N.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts905">
+    <title lang="en">Golmaal Junior</title>
+    <desc lang="en">Golmaal Junior</desc>
+    <credits>
+      <actor>Viral Shah</actor>
+      <actor>Shanoor Mirza</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Anamay Verma</actor>
+      <actor>Nilufer Middey</actor>
+      <actor>Samridhii Shukla</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F363C1714D97D2DAC437E6763F31297180B6457C.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts905">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Paw Patrol</desc>
+    <credits>
+      <actor>Ron Pardo</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Justin Paul Kelly</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Solomon Brown</actor>
+      <actor>Samuel Faraci</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29BEF0B1A6B5B75358499C4D2C7670D43398648EB.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts905">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+</tv>

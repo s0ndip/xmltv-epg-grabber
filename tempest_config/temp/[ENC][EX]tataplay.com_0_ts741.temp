@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts741">
+    <display-name lang="en">Tata Play Classic Cinema</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624203500 +0000" channel="ts741">
+    <title lang="en">Naujawan</title>
+    <desc lang="en">India 1951; Drama; Dir. Mahesh Kaul; Cast: Nalini Jaywant, Prem Nath. Wealthy Kamlas father wants her married off to a more or equally wealthy suitor, which he finds in Kishore.</desc>
+    <credits>
+      <actor>Nalini Jaywant</actor>
+      <actor>Prem Nath</actor>
+      <actor>Yashodra Katju</actor>
+      <actor>Kamal Mehra</actor>
+      <actor>Zeb Qureshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7123510CC5ABEF28606DD55A9A894DAA2B335E21J.jpg"/>
+  </programme>
+  <programme start="20240624203500 +0000" stop="20240624213000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624234000 +0000" channel="ts741">
+    <title lang="en">Anokhi Ada</title>
+    <desc lang="en">India 1948; Drama; Dir. Mehboob Khan; Cast: Naseem Banu, Surendra. When a beautiful woman loses her memory in a train accident, a professor who is smitten by her gives her a new identity.</desc>
+    <credits>
+      <actor>Naseem Banu</actor>
+      <actor>Surendra</actor>
+      <actor>Prem Adib</actor>
+      <actor>Zeb Qureshi</actor>
+      <actor>Pratima Devi</actor>
+      <actor>Murad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B281AF2947691D3FC974D1386564E13C8B7BF7EBF.jpg"/>
+  </programme>
+  <programme start="20240624234000 +0000" stop="20240625003000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625030500 +0000" channel="ts741">
+    <title lang="en">Bahar</title>
+    <desc lang="en">India 1951; Drama; Dir. M. V. Raman; Cast: Karan Dewan, Vyjayanthimala. A young man pretends to be someone else in order to marry the one he loves. But his rival is all set to unmask his true...</desc>
+    <credits>
+      <actor>Vyjayanthimala</actor>
+      <actor>Karan Dewan</actor>
+      <actor>Pandari Bai</actor>
+      <actor>Pran</actor>
+      <actor>Om Prakash</actor>
+      <actor>Leela Mishra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C2029957F3F8978AB274A3A4B004B63E6FF0584G.jpg"/>
+  </programme>
+  <programme start="20240625030500 +0000" stop="20240625033000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts741">
+    <title lang="en">Kamini Kaushal - Chat Show</title>
+    <desc lang="en">RJ Anmol in Conversation with Kamini Kaushal.</desc>
+    <credits>
+      <actor>RJ Anmol</actor>
+      <actor>Kamini Kaushal</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABAE2F11D7B02F192E7EBE1149822A3549248BE6A.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts741">
+    <title lang="en">Screen Legends - Waheeda Rehman</title>
+    <desc lang="en">Screen Legends is an episodic celebration of all-time great Bollywood actors &amp; actresses with RJ Adaa narrating their life journeys and showcasing some of their memorable scenes.</desc>
+    <credits>
+      <actor>RJ Adaa</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C39EAB00898B774FBD034302976EC98D434118B0.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts741">
+    <title lang="en">Shyam Benegal - Chat Show</title>
+    <desc lang="en">Renowned Bollywood trade analyst Komal Nahata in conversation with Legends of Indian Cinema Shyam Benegal.</desc>
+    <credits>
+      <actor>Komal Nahta</actor>
+      <actor>Shyam Benegal</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79425C19BF761219AA3CCE01171EBCBDC1595861O.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625073100 +0000" channel="ts741">
+    <title lang="en">Bazaar</title>
+    <desc lang="en">India 1982; Drama; Dir. Sagar Sarhadi; Cast: Smita Patil, Naseeruddin Shah. Najma is in love with Akhtar but cannot marry him until he is financially stable. An elderly Shakir promises to help Akhtar.</desc>
+    <credits>
+      <actor>Smita Patil</actor>
+      <actor>Naseeruddin Shah</actor>
+      <actor>Farooq Sheikh</actor>
+      <actor>Supriya Pathak</actor>
+      <actor>Bharat Kapoor</actor>
+      <actor>B L Chopra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/60C02FDE12B0ED0F1DE5C4096C19656386C178C0A.jpg"/>
+  </programme>
+  <programme start="20240625073100 +0000" stop="20240625080000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts741">
+    <title lang="en">Kamini Kaushal - Chat Show</title>
+    <desc lang="en">RJ Anmol in Conversation with Kamini Kaushal.</desc>
+    <credits>
+      <actor>RJ Anmol</actor>
+      <actor>Kamini Kaushal</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABAE2F11D7B02F192E7EBE1149822A3549248BE6A.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625111300 +0000" channel="ts741">
+    <title lang="en">Madhumati</title>
+    <desc lang="en">India 1958; Drama; Dir. Bimal Roy; Cast: Dilip Kumar, Vyjayanthimala. Devendra takes shelter in a mansion when a landslide blocks his route to the railway station. He finds the mansion eerily...</desc>
+    <credits>
+      <actor>Dilip Kumar</actor>
+      <actor>Vyjayanthimala</actor>
+      <actor>Johnny Walker</actor>
+      <actor>Pran</actor>
+      <actor>Jayant</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D76AFD5F5EC6F8D4AE0F861C69DB63855EAB7BDN.jpg"/>
+  </programme>
+  <programme start="20240625111300 +0000" stop="20240625113000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625141800 +0000" channel="ts741">
+    <title lang="en">Aan Milo Sajna</title>
+    <desc lang="en">India 1970; Drama; Dir. Mukul Dutt; Cast: Rajesh Khanna, Asha Parekh. A wealthy widow refuses to will anything to her selfish son. In order to win her affection, he introduces her to his fiancee.</desc>
+    <credits>
+      <actor>Rajesh Khanna</actor>
+      <actor>Asha Parekh</actor>
+      <actor>Vinod Khanna</actor>
+      <actor>Aruna Irani</actor>
+      <actor>Rajendra Nath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FA4CCE149BC4740EABAE9DC6E3D9A719436D97CV.jpg"/>
+  </programme>
+  <programme start="20240625141800 +0000" stop="20240625143000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625162600 +0000" channel="ts741">
+    <title lang="en">Dhund</title>
+    <desc lang="en">India 1973; Mystery; Dir. B.R. Chopra; Cast: Zeenat Aman, Sanjay Khan. After crashing his car on a foggy night, a man seeks help at a nearby home, where he encounters a dead man &amp; a woman...</desc>
+    <credits>
+      <actor>Navin Nischol</actor>
+      <actor>Zeenat Aman</actor>
+      <actor>Sanjay Khan</actor>
+      <actor>Danny Denzongpa</actor>
+      <actor>Madan Puri</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5823078F1F751041DE8BEB66A21AB060B7E7056AS.jpg"/>
+  </programme>
+  <programme start="20240625162600 +0000" stop="20240625163000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts741">
+    <title lang="en">David Dhawan - Chat Show</title>
+    <desc lang="en">Renowned Bollywood trade analyst Komal Nahata in conversation with Legends of Indian Cinema David Dhawan.</desc>
+    <credits>
+      <actor>Komal Nahta</actor>
+      <actor>David Dhawan</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2068B1B64351C9889BD4E5CC198CAA403FA67B78.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625204900 +0000" channel="ts741">
+    <title lang="en">Aas Ka Panchhi</title>
+    <desc lang="en">India 1961; Drama; Dir. Mohan Kumar; Cast: Vyjayanthimala, Rajendra Kumar. An army officer volunteers to rescue a senior officer from across enemy lines however, only one can cross the war zone...</desc>
+    <credits>
+      <actor>Vyjayanthimala</actor>
+      <actor>Rajendra Kumar</actor>
+      <actor>Raj Mehra</actor>
+      <actor>Sunder</actor>
+      <actor>Nasir Hussain</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99BDCDD348731CDF2D562EDA3F5016DFF3D8C058N.jpg"/>
+  </programme>
+  <programme start="20240625204900 +0000" stop="20240625213000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625233800 +0000" channel="ts741">
+    <title lang="en">Jeewan Jyoti</title>
+    <desc lang="en">India 1953; Drama; Dir. Mahesh Kaul; Cast: Shammi Kapoor, Shashikala, Leela. A young couple, Shammi &amp; Kishori, get married &amp; have a child. When differences start to grow between they decide...</desc>
+    <credits>
+      <actor>Shammi Kapoor</actor>
+      <actor>Chand Usmani</actor>
+      <actor>Shashikala</actor>
+      <actor>Leela Mishra</actor>
+      <actor>Dulari</actor>
+      <actor>Nazir Hussain</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E557C87ADA778167EEFF79D66E45B8E8FA824CB18.jpg"/>
+  </programme>
+  <programme start="20240625233800 +0000" stop="20240626003000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626024900 +0000" channel="ts741">
+    <title lang="en">Jaal Saz</title>
+    <desc lang="en">India 1959; Thriller; Dir. Arabind Sen; Cast: Kishore Kumar, Mala Sinha, Pran. The film stars Kishore Kumar, Mala Sinha, Pran and Achala Sachdev in lead roles &amp; had musical score by N Dutta.</desc>
+    <credits>
+      <actor>Nasir Hussain</actor>
+      <actor>Kishore Kumar</actor>
+      <actor>Mala Sinha</actor>
+      <actor>Dara Singh</actor>
+      <actor>Nana Palsikar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D3795A3C1585AC67B63A04D9A729E9BC6144D84N.jpg"/>
+  </programme>
+  <programme start="20240626024900 +0000" stop="20240626033000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts741">
+    <title lang="en">Khayyam - Chat Show</title>
+    <desc lang="en">RJ Anmol in Conversation with Khayyam.</desc>
+    <credits>
+      <actor>Khayyam</actor>
+      <actor>RJ Anmol</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B32EEA7FFE527B52FF0634E52AA085D1A8713CEAW.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts741">
+    <title lang="en">Screen Legends - Madhubala</title>
+    <desc lang="en">Screen Legends is an episodic celebration of all-time great Bollywood actors &amp; actresses with RJ Adaa narrating their life journeys and showcasing some of their memorable scenes.</desc>
+    <credits>
+      <actor>RJ Adaa</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9BC304342510FF18A71BE0DB9B34CA1B7EB14901.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts741">
+    <title lang="en">Waheeda Rehman - Chat Show</title>
+    <desc lang="en">Renowned Bollywood trade analyst Komal Nahata in conversation with Legends of Indian Cinema Waheeda Rehman.</desc>
+    <credits>
+      <actor>Waheeda Rehman</actor>
+      <actor>Komal Nahta</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30AC2B193060CC55333B8E2EED2886AA201A7B8FS.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626074700 +0000" channel="ts741">
+    <title lang="en">Bombai Ka Babu</title>
+    <desc lang="en">India 1960; Thriller; Dir. Raj Khosla; Cast: Dev Anand, Suchitra Sen. Babu, who killed his former friend &amp; criminal, is blackmailed by Bhagat into pretending to be Kundan, the heir of wealthy...</desc>
+    <credits>
+      <actor>Dev Anand</actor>
+      <actor>Suchitra Sen</actor>
+      <actor>Nazir Hussain</actor>
+      <actor>Rashid Khan</actor>
+      <actor>Manohar Deepak</actor>
+      <actor>Jagdish Raj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/177052AACCC5DFBDF63BFB9553DD1E4BA3671A1FA.jpg"/>
+  </programme>
+  <programme start="20240626074700 +0000" stop="20240626080000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts741">
+    <title lang="en">Khayyam - Chat Show</title>
+    <desc lang="en">RJ Anmol in Conversation with Khayyam.</desc>
+    <credits>
+      <actor>Khayyam</actor>
+      <actor>RJ Anmol</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B32EEA7FFE527B52FF0634E52AA085D1A8713CEAW.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626105600 +0000" channel="ts741">
+    <title lang="en">Kasme Vaade</title>
+    <desc lang="en">India 1978; Drama; Dir. Ramesh Behl; Cast: Rakhee, Amitabh. Amit lives with his brother Raju whose involvement with gangsters gets him into trouble. He tries to help Raju but is killed by the goons.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Raakhee Gulzar</actor>
+      <actor>Randhir Kapoor</actor>
+      <actor>Neetu Singh</actor>
+      <actor>Vijayendra Ghatge</actor>
+      <actor>Amjad Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D5BCC04E3774D65B59939A7E87B7B3446C1E99AM.jpg"/>
+  </programme>
+  <programme start="20240626105600 +0000" stop="20240626110000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626132600 +0000" channel="ts741">
+    <title lang="en">Manzil</title>
+    <desc lang="en">India 1979; Romance; Dir. Basu Chatterjee; Cast: Amitabh Bachchan, Moushumi Chatterjee. Ajay falls in love with Aruna and pretends to be rich in hopes of impressing her and her father.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Moushmi Chatterjee</actor>
+      <actor>Rakesh Pandey</actor>
+      <actor>Satyen Kappu</actor>
+      <actor>A K Hangal</actor>
+      <actor>Lalita Pawar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83E2505F0D10A81E42CDD1489B7DCC19E0B25A05Q.jpg"/>
+  </programme>
+  <programme start="20240626132600 +0000" stop="20240626140000 +0000" channel="ts741">
+    <title lang="en">Evergreen Mix</title>
+    <desc lang="en">Watch promos, snippets, trivia &amp; more.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A2ADFAF92EB0AE7826EE2FF353811CEBE483EA8N.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626164800 +0000" channel="ts741">
+    <title lang="en">Gol Maal</title>
+    <desc lang="en">India 1979; Comedy; Dir. Hrishikesh Mukherjee; Cast: Amol Palekar, Bindiya Goswami. Ramprasad works for a company owned by Bhavani Shankar, a quirky man who discourages employees from pursuing...</desc>
+    <credits>
+      <actor>Amol Palekar</actor>
+      <actor>Utpal Dutt</actor>
+      <actor>Bindiya Goswami</actor>
+      <actor>David</actor>
+      <actor>Dina Pathak</actor>
+      <actor>Manju Singh</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/160C484799D2D46EC05BF9E1EDCBE841C6B13F65F.jpg"/>
+  </programme>
+  <programme start="20240626164800 +0000" stop="20240626174800 +0000" channel="ts741">
+    <title lang="en">Shyam Benegal - Chat Show</title>
+    <desc lang="en">Renowned Bollywood trade analyst Komal Nahata in conversation with Legends of Indian Cinema Shyam Benegal.</desc>
+    <credits>
+      <actor>Komal Nahta</actor>
+      <actor>Shyam Benegal</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79425C19BF761219AA3CCE01171EBCBDC1595861O.jpg"/>
+  </programme>
+  <programme start="20240626174800 +0000" stop="20240626183000 +0000" channel="ts741">
+    <title lang="en">Filmi Gaane</title>
+    <desc lang="en">Superhit &amp; Classic Bollywood songs of yesteryears.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D091FDD2EB5627C5E23F0A8EBD3A9246F0A0CB08T.jpg"/>
+  </programme>
+</tv>

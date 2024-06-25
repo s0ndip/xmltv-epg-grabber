@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts978">
+    <display-name lang="en">Sidharth TV</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624200000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts978">
+    <title lang="en">Sri Jagannath Sahasra Nama</title>
+    <desc lang="en">A religious scholar recites a thousand names of Lord Jagannath, a prominent God in Hinduism, and seeks his divine blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E80BF8C338D65A9F9E5692DB5FDFAE5B68AF663N.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts978">
+    <title lang="en">Mahamantra</title>
+    <desc lang="en">Religious leaders recite devotional hymns and compositions signifying the glories of deities and urge followers to tread on a righteous path.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F330FB3E42ACF7DE25839D38B53818886134092V.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts978">
+    <title lang="en">Archana</title>
+    <desc lang="en">Religious singers and scholars recite holy prayers and sing devotional songs dedicated to various deities of the Hindu religion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E7FAD26272DBB85C66A85601B9BEC84D89D0EB9W.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts978">
+    <title lang="en">Jagannatha Tume Parambrahma</title>
+    <desc lang="en">Religious leaders and devotees sing devotional hymns to praise and worship Lord Jagannath, a Hindu deity who is an incarnation of Lord Vishnu.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8862EE27D841A3CDFACD9E9A05AF513975527B526.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts978">
+    <title lang="en">Aradhana</title>
+    <desc lang="en">Religious leaders and devotees come together to chant devotional hymns and offer their prayers in order to feel connected with the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6316A9B9807C3C393D7F014893A0FAA7774DE6A8E.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts978">
+    <title lang="en">Satya Pathe Ghenija Mote</title>
+    <desc lang="en">A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E846E41E9431A883C2187CC35ADEBF951EBCF9F49.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts978">
+    <title lang="en">Bhakti Chandana</title>
+    <desc lang="en">A religious scholar delivers a discourse on the teachings of Hinduism and sings soulful hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1B17301FFDB769B91601A31215A13AC588DD319F.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts978">
+    <title lang="en">Bhakti Chandana</title>
+    <desc lang="en">A religious scholar delivers a discourse on the teachings of Hinduism and sings soulful hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1B17301FFDB769B91601A31215A13AC588DD319F.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625113000 +0000" channel="ts978">
+    <title lang="en">Movie - College Time</title>
+    <desc lang="en">A group of students must rely on their friendship and love for each other to overcome numerous hurdles and challenges during their time at college.</desc>
+    <credits>
+      <actor>Amlan Das</actor>
+      <actor>Riya Dey</actor>
+      <actor>Mihir Das</actor>
+      <actor>Biswajeet</actor>
+      <actor>Abhilash</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A8F151CB651687AA1EC218E1EA3C0981AF6816ACY.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts978">
+    <title lang="en">Raja Sundari 2024</title>
+    <desc lang="en">Young female contestants compete against each other in a series of challenges put forth by the judges during the 2024 edition of the competition.</desc>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/60C5BDB506E90A761EDCA0154A23821D80A2B1B30.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts978">
+    <title lang="en">Sri Krishna</title>
+    <desc lang="en">When evil takes over the world, Lord Vishnu incarnates into the world as Lord Krishna for the protection of the righteous and the destruction of the wicked.</desc>
+    <credits>
+      <actor>Sarvadaman D Banerjee</actor>
+      <actor>Deepak Deulkar</actor>
+      <actor>Pinky Parikh</actor>
+      <actor>Reshma Modi</actor>
+      <actor>Shweta Rastogi</actor>
+      <actor>Paulomi Mukherjee</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED54DA3B5C1F6FD689884C03FF5B4FCADC21BCE6C.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts978">
+    <title lang="en">Chandralekha</title>
+    <desc lang="en">Chandralekha</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90DD6A7BB7CA5EA5A5E80DC521BC86A517B94882S.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625200000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts978">
+    <title lang="en">Sri Jagannath Sahasra Nama</title>
+    <desc lang="en">A religious scholar recites a thousand names of Lord Jagannath, a prominent God in Hinduism, and seeks his divine blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E80BF8C338D65A9F9E5692DB5FDFAE5B68AF663N.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts978">
+    <title lang="en">Mahamantra</title>
+    <desc lang="en">Religious leaders recite devotional hymns and compositions signifying the glories of deities and urge followers to tread on a righteous path.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F330FB3E42ACF7DE25839D38B53818886134092V.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts978">
+    <title lang="en">Archana</title>
+    <desc lang="en">Religious singers and scholars recite holy prayers and sing devotional songs dedicated to various deities of the Hindu religion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E7FAD26272DBB85C66A85601B9BEC84D89D0EB9W.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts978">
+    <title lang="en">Jagannatha Tume Parambrahma</title>
+    <desc lang="en">Religious leaders and devotees sing devotional hymns to praise and worship Lord Jagannath, a Hindu deity who is an incarnation of Lord Vishnu.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8862EE27D841A3CDFACD9E9A05AF513975527B526.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts978">
+    <title lang="en">Aradhana</title>
+    <desc lang="en">Religious leaders and devotees come together to chant devotional hymns and offer their prayers in order to feel connected with the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6316A9B9807C3C393D7F014893A0FAA7774DE6A8E.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts978">
+    <title lang="en">Satya Pathe Ghenija Mote</title>
+    <desc lang="en">A religious leader sheds light on the divine teachings of Hinduism and urges the devotees to follow the path of compassion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E846E41E9431A883C2187CC35ADEBF951EBCF9F49.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts978">
+    <title lang="en">Bhakti Chandana</title>
+    <desc lang="en">A religious scholar delivers a discourse on the teachings of Hinduism and sings soulful hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1B17301FFDB769B91601A31215A13AC588DD319F.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts978">
+    <title lang="en">Bhakti Chandana</title>
+    <desc lang="en">A religious scholar delivers a discourse on the teachings of Hinduism and sings soulful hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1B17301FFDB769B91601A31215A13AC588DD319F.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626113000 +0000" channel="ts978">
+    <title lang="en">Movie - To Akhi Mo Aaina</title>
+    <desc lang="en">Amar and Radha are childhood friends and love each other very much. Amar's father Indrajit does not approve their relationship; hence, Amar gets married to Sonali and Radha loses her mental status.</desc>
+    <credits>
+      <actor>Jyoti Mishra</actor>
+      <actor>Bijay Mohanty</actor>
+      <actor>Uttam Mohanty</actor>
+      <actor>Sihanta</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B50DE106AAEA5E698D5F9B234634EC92EF34BBA7C.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts978">
+    <title lang="en">Raja Sundari 2024</title>
+    <desc lang="en">Young female contestants compete against each other in a series of challenges put forth by the judges during the 2024 edition of the competition.</desc>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/60C5BDB506E90A761EDCA0154A23821D80A2B1B30.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts978">
+    <title lang="en">Sri Krishna</title>
+    <desc lang="en">When evil takes over the world, Lord Vishnu incarnates into the world as Lord Krishna for the protection of the righteous and the destruction of the wicked.</desc>
+    <credits>
+      <actor>Sarvadaman D Banerjee</actor>
+      <actor>Deepak Deulkar</actor>
+      <actor>Pinky Parikh</actor>
+      <actor>Reshma Modi</actor>
+      <actor>Shweta Rastogi</actor>
+      <actor>Paulomi Mukherjee</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED54DA3B5C1F6FD689884C03FF5B4FCADC21BCE6C.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts978">
+    <title lang="en">Kedara Gouri</title>
+    <desc lang="en">Two deeply connected children make heartfelt commitments in their early youth. However, the passage of time leaves challenges on the way to fulfilling their promises.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7B858D1EDD8481E2665D2FE98750383C8B1B5E0.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts978">
+    <title lang="en">Mu Bi Namita Agarwal Hebi</title>
+    <desc lang="en">Talented singers showcase their musical inclinations on stage by executing impressionable performances to delight the audience.</desc>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1EEACAB4FBDF45043656FB6BBBD9934872F18740X.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts978">
+    <title lang="en">Chandralekha</title>
+    <desc lang="en">Chandralekha</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90DD6A7BB7CA5EA5A5E80DC521BC86A517B94882S.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts978">
+    <title lang="en">Maya O Mamata</title>
+    <desc lang="en">A boy feels caught up and depressed when his mothers, one who raised and another his birth mother, fight over him and his life-related choices.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805260E646ECC956BB343562FEF2DCA332E764DEL.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts978">
+    <title lang="en">Sunayana</title>
+    <desc lang="en">A girl gets married into a reputed family, hoping to fulfill her studies and ambitions. However, she discovers her in-laws have some other motives.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE8B072C27735B3361820CC4F66E5935B11A2B48K.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts978">
+    <title lang="en">Sindura Nuhen Khela Ghara</title>
+    <desc lang="en">Two sisters who are opposite in character love and take care of each other. However, their equation changes into jealousy when a third person enters their life.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D540EC587CFAF9D3A82668BA13328F305CB2EA752.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts727">
+    <display-name lang="en">Zee Classic</display-name>
+  </channel>
+  <programme start="20240624193500 +0000" stop="20240624233700 +0000" channel="ts727">
+    <title lang="en">Jis Desh Mein Ganga Behti Hai</title>
+    <desc lang="en">A few bandits kidnap Raju, who falls in love with their chief's daughter. Things take a turn when he informs the police about them and they set out to kill the clan.</desc>
+    <credits>
+      <actor>Raj Kapoor</actor>
+      <actor>Padmini</actor>
+      <actor>Pran</actor>
+      <actor>Chanchal</actor>
+      <actor>Lalita Pawar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E1ED40CAAA81C253D6046FDCD4F19DB01F66C28Z.jpg"/>
+  </programme>
+  <programme start="20240624233700 +0000" stop="20240625015700 +0000" channel="ts727">
+    <title lang="en">Sharara</title>
+    <desc lang="en">A gang of traitors plots to steal military secrets by planting an informer who is the doppelganger of a colonel's wife in her place.</desc>
+    <credits>
+      <actor>Raaj Kumar</actor>
+      <actor>Hema Malini</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Tina Ambani</actor>
+      <actor>Kader Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B4307044D21BB14BD39CB1BB41773548927222AI.jpg"/>
+  </programme>
+  <programme start="20240625015700 +0000" stop="20240625041000 +0000" channel="ts727">
+    <title lang="en">Rakhwala</title>
+    <desc lang="en">After Deepak's widowed mother passes away, she leaves him with the responsibility to protect his younger brother Suresh. He finds himself in trouble when he is framed for Suresh's murder.</desc>
+    <credits>
+      <actor>Dharmendra</actor>
+      <actor>Leena Chandavarkar</actor>
+      <actor>Vinod Khanna</actor>
+      <actor>Madan Puri</actor>
+      <actor>Jagdeep</actor>
+      <actor>Rakesh Pandey</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C641220DF22A066BCE55A86E7FDC878A6EC603C33.jpg"/>
+  </programme>
+  <programme start="20240625043600 +0000" stop="20240625071400 +0000" channel="ts727">
+    <title lang="en">Zinda Dil</title>
+    <desc lang="en">Problems arise between two brothers over their father's discriminatory nature. However, things take a turn after one of the sons stumbles upon a shocking secret about their estranged mother.</desc>
+    <credits>
+      <actor>Rishi Kapoor</actor>
+      <actor>Neetu Singh</actor>
+      <actor>Zaheera</actor>
+      <actor>Rajesh Leher</actor>
+      <actor>Pran</actor>
+      <actor>Pinchoo Kapoor</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3AFAC9390295AE80F0D98F3E436332F16032EF7Y.jpg"/>
+  </programme>
+  <programme start="20240625071400 +0000" stop="20240625103300 +0000" channel="ts727">
+    <title lang="en">Kal Aaj Aur Kal</title>
+    <desc lang="en">Three generations of a family, Diwan, Ram and Rajesh, decide to live together. However, their different mindsets create conflicts with each other and disrupt the house's harmony.</desc>
+    <credits>
+      <actor>Prithviraj Kapoor</actor>
+      <actor>Raj Kapoor</actor>
+      <actor>Babita Kapoor</actor>
+      <actor>Randhir Kapoor</actor>
+      <actor>Roopesh Kumar</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/372E2D681689CBDC9F9942584DFF39D32EFA1BC7U.jpg"/>
+  </programme>
+  <programme start="20240625103300 +0000" stop="20240625133000 +0000" channel="ts727">
+    <title lang="en">Besharam</title>
+    <desc lang="en">Digvijay Singh falsely implicates Ramchandra in a corruption case, which leads to the latter committing suicide. However, his son, Ram Kumar, vows to avenge his father's death.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Sharmila Tagore</actor>
+      <actor>Bindu</actor>
+      <actor>Amjad Khan</actor>
+      <actor>Uma Dhawan</actor>
+      <actor>A. K. Hangal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/811D86AD7C8A6F5A4C0AEE1BAEEB240FA225686BE.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625172500 +0000" channel="ts727">
+    <title lang="en">Kranti</title>
+    <desc lang="en">Sanga, a devout employee of Raja Laxman Singh, is falsely accused of killing him. He escapes prison and forms a group of revolutionaries with the sole aim of driving the British out of India.</desc>
+    <credits>
+      <actor>Dilip Kumar</actor>
+      <actor>Manoj Kumar</actor>
+      <actor>Shashi Kapoor</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Hema Malini</actor>
+      <actor>Parveen Babi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82D743AABC107974AC111DCBA50C8486ED587951T.jpg"/>
+  </programme>
+  <programme start="20240625172500 +0000" stop="20240625204700 +0000" channel="ts727">
+    <title lang="en">Kalicharan</title>
+    <desc lang="en">Prabhakar, an honest policeman, is murdered by Din Dayal, a crime lord. Later, Khanna comes across Kalicharan who is Prabhakar's lookalike and recruits him to defeat Din Dayal.</desc>
+    <credits>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Reena Roy</actor>
+      <actor>Prem Nath</actor>
+      <actor>Ajit</actor>
+      <actor>Madan Puri</actor>
+      <actor>Danny Denzongpa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2C77A5DC92A6DDB92183B2C139EDD0841B024CFL.jpg"/>
+  </programme>
+  <programme start="20240625204700 +0000" stop="20240625225000 +0000" channel="ts727">
+    <title lang="en">Apna Haath Jagannath</title>
+    <desc lang="en">Madan takes a labouring job to the disappointment of his father and his future in-laws. Things take a turn when he leaves for Mumbai after his father throws him out of the house.</desc>
+    <credits>
+      <actor>Kishore Kumar</actor>
+      <actor>Sayeeda Khan</actor>
+      <actor>Nasir Hussain</actor>
+      <actor>Leela Chitnis</actor>
+      <actor>Sabita Chatterjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/868EB7856AF67CF4A8A0B1D012DC2943F58A5CA5Q.jpg"/>
+  </programme>
+  <programme start="20240625225000 +0000" stop="20240626003700 +0000" channel="ts727">
+    <title lang="en">Banarasi Babu</title>
+    <desc lang="en">Sohan Lal, a rich businessman, is abducted and imprisoned. When Gulabiya helps him to escape from the prison, he meets with an accident. He then attempts to sort out his jeopardised life.</desc>
+    <credits>
+      <actor>Dev Anand</actor>
+      <actor>Raakhee Gulzar</actor>
+      <actor>Yogita Bali</actor>
+      <actor>Jeevan</actor>
+      <actor>Veena</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CEFC31225D6DD80236B35931F639873AC06ABC5CJ.jpg"/>
+  </programme>
+  <programme start="20240626003700 +0000" stop="20240626035600 +0000" channel="ts727">
+    <title lang="en">Phir Wohi Dil Laya Hoon</title>
+    <desc lang="en">Due to a rift in their relationship, Jamuna leaves her husband and takes her son Mohan with her. Years later, her husband announces that his son has returned, unaware that the man is an imposter.</desc>
+    <credits>
+      <actor>Joy Mukherjee</actor>
+      <actor>Asha Parekh</actor>
+      <actor>Pran</actor>
+      <actor>Rajendra Nath</actor>
+      <actor>Veena</actor>
+      <actor>Ram Avtar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CE3956E7CCE52349AC4D5D62EFC81AFE49A40ABR.jpg"/>
+  </programme>
+  <programme start="20240626035600 +0000" stop="20240626072400 +0000" channel="ts727">
+    <title lang="en">Biwi O Biwi</title>
+    <desc lang="en">Overcome with his love for Asha, singer Chandermohan masquerades as an army officer when her father, a retired military officer, refuses to let her marry a civilian.</desc>
+    <credits>
+      <actor>Randhir Kapoor</actor>
+      <actor>Poonam Dhillon</actor>
+      <actor>Yogeeta Bali</actor>
+      <actor>Sanjeev Kumar</actor>
+      <actor>Simi Garewal</actor>
+      <actor>Shashikala</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3E44CA99D755B61038281BCA4A593A4BE20A672K.jpg"/>
+  </programme>
+  <programme start="20240626072400 +0000" stop="20240626102400 +0000" channel="ts727">
+    <title lang="en">Anokha Bandhan</title>
+    <desc lang="en">Anu raises her young brother-in-law like a son after the death of her mother-in-law. But with her own son in the picture, and interference from her mother, the equation begins to change.</desc>
+    <credits>
+      <actor>Ashok Kumar</actor>
+      <actor>Jeetendra</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Navin Nischol</actor>
+      <actor>Master Bittoo</actor>
+      <actor>Satyen Kappu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEB02B25E9DD406D3BABD7285F9C0A0403DCB8D7.jpg"/>
+  </programme>
+  <programme start="20240626102400 +0000" stop="20240626133000 +0000" channel="ts727">
+    <title lang="en">Mere Sanam</title>
+    <desc lang="en">Neena and her mother stop by a motel where she falls in love with Kumar, another occupant. When the two decide to get married, Neena learns of Kumar's dark past.</desc>
+    <credits>
+      <actor>Biswajeet</actor>
+      <actor>Asha Parekh</actor>
+      <actor>Mumtaz</actor>
+      <actor>Pran</actor>
+      <actor>Rajendra Nath</actor>
+      <actor>Nazir Hussain</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1277C41B55E818E927EA2D84A6FC0D143E2ED5CX.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626165700 +0000" channel="ts727">
+    <title lang="en">Khoon Bhari Maang</title>
+    <desc lang="en">Widowed Aarti falls prey to Sanjay's vicious plan of getting married to him. Later, with the help of her best friend Nandini, he drowns Aarti and seizes her wealth but she survives and seeks revenge.</desc>
+    <credits>
+      <actor>Rekha</actor>
+      <actor>Kabir Bedi</actor>
+      <actor>Sonu Walia</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Satyajeet</actor>
+      <actor>Kader Khan</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B5EFF7267D6AEB04458C70912CACD8F9649F31E0.jpg"/>
+  </programme>
+  <programme start="20240626165700 +0000" stop="20240626204700 +0000" channel="ts727">
+    <title lang="en">Itihaas</title>
+    <desc lang="en">Joginder, an honest police commissioner, is instrumental in arresting Alexander, a dreaded gangster. Alexander is granted bail by the court and as revenge he molests Joginder's daughter Jyoti.</desc>
+    <credits>
+      <actor>Raaj Kumar</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Rati Agnihotri</actor>
+      <actor>Anil Kapoor</actor>
+      <actor>Mohnish Bahl</actor>
+      <actor>Danny Denzongpa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AB154E1251F449CEB91C05A55D4944BF5DABF9F4.jpg"/>
+  </programme>
+</tv>

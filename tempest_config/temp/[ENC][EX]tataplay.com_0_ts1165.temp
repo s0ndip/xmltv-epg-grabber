@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1165">
+    <display-name lang="en">Raapchik</display-name>
+  </channel>
+  <programme start="20240624193000 +0000" stop="20240624223000 +0000" channel="ts1165">
+    <title lang="en">Bhojpuriya Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Bhojpuri songs is played.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/117A432229A3698E08FDAA31FDB1127401B1D778G.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625013000 +0000" channel="ts1165">
+    <title lang="en">Bhakti Bhajan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs by various artists.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/530CEE8C8941F5AACB1B8AE1E126EAE9E32A0BA4Q.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts1165">
+    <title lang="en">Hanuman Chalisa</title>
+    <desc lang="en">Devotees recite the Hanuman Chalisa, a set of hymns dedicated to Lord Hanuman.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65F774B7203D84713426B7C7F09B954B007280A10.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625031500 +0000" channel="ts1165">
+    <title lang="en">Bhojpuriya Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Bhojpuri songs is played.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/117A432229A3698E08FDAA31FDB1127401B1D778G.jpg"/>
+  </programme>
+  <programme start="20240625031500 +0000" stop="20240625033000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625060000 +0000" channel="ts1165">
+    <title lang="en">Sasurari Zindabad</title>
+    <desc lang="en">A young woman leads a life of tranquillity until her husband marries another woman.</desc>
+    <credits>
+      <actor>Arvind Akela Kallu</actor>
+      <actor>Shweta Mahara</actor>
+      <actor>Chandni Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F96CAE4540A4FCC1E7DB824EFA318C8AEE135472N.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts1165">
+    <title lang="en">Babul Ke Ghar Se Bidai</title>
+    <desc lang="en">Babul Ke Ghar Se Bidai</desc>
+    <credits>
+      <actor>Gaurav Sharma</actor>
+      <actor>Sanchita Banerjee</actor>
+      <actor>Mohit Sonkar</actor>
+      <actor>Priti</actor>
+      <actor>Rani Sharma</actor>
+      <actor>Shakila</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/380B37296DD62B9AC4355A21E8196A337EFF69820.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625133000 +0000" channel="ts1165">
+    <title lang="en">Deewana</title>
+    <desc lang="en">An ardent devotee of Radha Krishna falls in love with a woman named Radha.</desc>
+    <credits>
+      <actor>Viraj Bhatt</actor>
+      <actor>Rani Chatterjee</actor>
+      <actor>Pakhi Hedge</actor>
+      <actor>Dinesh Lal Yadav</actor>
+      <actor>Manoj Tiger</actor>
+      <actor>Poonam Sagar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E128B8C4D9E8D02CD3961A97F2FF8D5BBB853BE0.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625164500 +0000" channel="ts1165">
+    <title lang="en">Jai Ho Tulsi Maiya</title>
+    <desc lang="en">A humble woman who is a devotee of Goddess Tulsi is disregarded by her husband.</desc>
+    <credits>
+      <actor>Sumit Chandravanshi</actor>
+      <actor>Amrish Singh</actor>
+      <actor>Priti Maurya</actor>
+      <actor>Kunal Singh</actor>
+      <actor>Radha Singh</actor>
+      <actor>Ashutosh Khare</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5CEF5C642DB14D2A1C485FF536C6A5ABF1A90A59B.jpg"/>
+  </programme>
+  <programme start="20240625164500 +0000" stop="20240625170000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625193000 +0000" channel="ts1165">
+    <title lang="en">Apaharan</title>
+    <desc lang="en">Lovers Purvi and Amar elope but soon she realises that Amar has abducted her.</desc>
+    <credits>
+      <actor>Yash Kumar</actor>
+      <actor>Priyanka Rewri</actor>
+      <actor>Gauri Shankar</actor>
+      <actor>Poonam Singh</actor>
+      <actor>Dhananjay Singh</actor>
+      <actor>Sanjay Singh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/829079205AB09C77EC16D9700DCB3DD56A4CDA8D9.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625223000 +0000" channel="ts1165">
+    <title lang="en">Bhojpuriya Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Bhojpuri songs is played.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/117A432229A3698E08FDAA31FDB1127401B1D778G.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240626013000 +0000" channel="ts1165">
+    <title lang="en">Bhakti Bhajan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs by various artists.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/530CEE8C8941F5AACB1B8AE1E126EAE9E32A0BA4Q.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626031500 +0000" channel="ts1165">
+    <title lang="en">Bhojpuriya Beats</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Bhojpuri songs is played.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/117A432229A3698E08FDAA31FDB1127401B1D778G.jpg"/>
+  </programme>
+  <programme start="20240626031500 +0000" stop="20240626033000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626060000 +0000" channel="ts1165">
+    <title lang="en">Return Ticket</title>
+    <desc lang="en">Kunal learns a sinister secret behind his birth and aims to find justice for his mother.</desc>
+    <credits>
+      <actor>Adhyayan Suman</actor>
+      <actor>Arbaaz Khan</actor>
+      <actor>Mugdha Godse</actor>
+      <actor>Dev Sharma</actor>
+      <actor>Ruslaan Mumtaz</actor>
+      <actor>Vikram Gokhale</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/18F49B9701593D58D6A2A4038C0F395DF4AE23E4M.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts1165">
+    <title lang="en">Damad Ji Kiraye Par Hai</title>
+    <desc lang="en">A girl marries a villager under a contract, but after an incident, she falls for him.</desc>
+    <credits>
+      <actor>Yash Kumar</actor>
+      <actor>Shivika Diwan</actor>
+      <actor>Shraddha Yadav</actor>
+      <actor>Ritu Pandey</actor>
+      <actor>Sharad Srivastava</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/456E7A6F65D9E4902161FF5BD7CFC8853D4F158AV.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626133000 +0000" channel="ts1165">
+    <title lang="en">Wajood</title>
+    <desc lang="en">Things take a bleak turn for Prem when his grandfather becomes terminally sick.</desc>
+    <credits>
+      <actor>Arvind Akela Kallu</actor>
+      <actor>Awdhesh Mishra</actor>
+      <actor>Himanshi Singh</actor>
+      <actor>Anita Rawat</actor>
+      <actor>Samarth Chaturvedi</actor>
+      <actor>Vivek Mishra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD424C902C2C6DB77865512A1DBAA9E8536F2211M.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626164500 +0000" channel="ts1165">
+    <title lang="en">Kabhi Khushi Kabhie Gham</title>
+    <desc lang="en">After defying his wealthy father's wishes by marrying a poor woman, the man gets disowned.</desc>
+    <credits>
+      <actor>Pradeep Pandey</actor>
+      <actor>Amrapali Dubey</actor>
+      <actor>Sanchita Banerjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEDDC091ED8084DBEAD4D23B9E23E7F573E0781DC.jpg"/>
+  </programme>
+  <programme start="20240626164500 +0000" stop="20240626170000 +0000" channel="ts1165">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626193000 +0000" channel="ts1165">
+    <title lang="en">Sanak</title>
+    <desc lang="en">Struggling to lead a normal life, Aditya meets his departed girlfriend's lookalike.</desc>
+    <credits>
+      <actor>Pawan Singh</actor>
+      <actor>Smriti Sinha</actor>
+      <actor>Awdhesh Mishra</actor>
+      <actor>Raghav Nayyar</actor>
+      <actor>Amit Shukla</actor>
+      <actor>Anita Rawat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A14EF339FE7ADFAB822435DA5CA1FF80D4EEC92P.jpg"/>
+  </programme>
+</tv>

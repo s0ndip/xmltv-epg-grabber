@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts819">
+    <display-name lang="en">RDX Goa</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts819">
+    <title lang="en">Sai Baba Aarti</title>
+    <desc lang="en">Devotees from different parts of the country participate in the daily 'aarti' of Sai Baba of Shirdi, a highly revered Indian sage who lived in Shirdi, Maharashtra, India.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D5A85CE7B47AC554330406CC9431D191E8F5C30C.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts819">
+    <title lang="en">Dattaaarti</title>
+    <desc lang="en">A compilation of melodious devotional songs performed by talented singers and musicians in praise of Lord Dattatreya is played.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C738DBB4092BBEB052F017770216C85492705AAQ.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts819">
+    <title lang="en">Devotional</title>
+    <desc lang="en">A comprehensive compilation of popular devotional songs performed by talented singers and artists is played in quick succession.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C75FB0EBC18D06B3E1F9560264ACF84838D73866.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts819">
+    <title lang="en">Prime News</title>
+    <desc lang="en">The host sheds light on the top regional stories, major events and recent happenings from the nation and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E969D7BB82D91109A25B00F4B1E92B7ECC104078.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625140000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts819">
+    <title lang="en">Sai Baba Aarti</title>
+    <desc lang="en">Devotees from different parts of the country participate in the daily 'aarti' of Sai Baba of Shirdi, a highly revered Indian sage who lived in Shirdi, Maharashtra, India.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D5A85CE7B47AC554330406CC9431D191E8F5C30C.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts819">
+    <title lang="en">Dattaaarti</title>
+    <desc lang="en">A compilation of melodious devotional songs performed by talented singers and musicians in praise of Lord Dattatreya is played.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C738DBB4092BBEB052F017770216C85492705AAQ.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts819">
+    <title lang="en">Devotional</title>
+    <desc lang="en">A comprehensive compilation of popular devotional songs performed by talented singers and artists is played in quick succession.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C75FB0EBC18D06B3E1F9560264ACF84838D73866.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts819">
+    <title lang="en">Prime News</title>
+    <desc lang="en">The host sheds light on the top regional stories, major events and recent happenings from the nation and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E969D7BB82D91109A25B00F4B1E92B7ECC104078.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts819">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626140000 +0000" channel="ts819">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A509D09A734F5508F5596A2FC212D8B4A7390738C.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts819">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts819">
+    <title lang="en">Features</title>
+    <desc lang="en">Features</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/847917E03CCC2CD257358406EE5985604B69D95C7.jpg"/>
+  </programme>
+</tv>

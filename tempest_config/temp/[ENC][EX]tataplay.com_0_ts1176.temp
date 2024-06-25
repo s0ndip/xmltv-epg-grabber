@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1176">
+    <display-name lang="en">Vijay Super HD</display-name>
+  </channel>
+  <programme start="20240624190000 +0000" stop="20240624213000 +0000" channel="ts1176">
+    <title lang="en">Movie - Raja Vikramarka</title>
+    <desc lang="en">An NIA agent must protect what he loves most from the wrath of a vengeful gangster.</desc>
+    <credits>
+      <actor>Kartikeya Gummakonda</actor>
+      <actor>Tanya Ravichandran</actor>
+      <actor>P Sai Kumar</actor>
+      <actor>Tanikella Bharani</actor>
+      <actor>Harsha Vardhan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/842DFD16C2525296BCA33C637A7E423283D45231V.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625000000 +0000" channel="ts1176">
+    <title lang="en">Movie - Stree</title>
+    <desc lang="en">Vicky, a tailor from Chanderi, decides to solve the mystery of Stree, a vindictive spirit.</desc>
+    <credits>
+      <actor>Rajkummar Rao</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Pankaj Tripathi</actor>
+      <actor>Aparshakti Khurana</actor>
+      <actor>Abhishek Banerjee</actor>
+      <actor>Flora Saini</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6CA935A5D6222E232F910EEB1AD5A74C9D3089BH.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1176">
+    <title lang="en">Super Hit Songs</title>
+    <desc lang="en">A compilation of catchy and entertaining hit songs from various Tamil movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBD6A7176D390CE4EF92F920B1B5087D14322676L.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625030000 +0000" channel="ts1176">
+    <title lang="en">Movie - Naan Yenna Summavaa</title>
+    <desc lang="en">Kalyan must become an MLA in order to prove his love for Indu and marry her.</desc>
+    <credits>
+      <actor>Nandamuri Kalyan Ram</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Ravi Kishan</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Manali Rathod</actor>
+      <actor>Vennela Kishore</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C46E7293EEC35AA1CCA8A4FAE7A4F3C3EB3AF97C.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625053000 +0000" channel="ts1176">
+    <title lang="en">Movie - Amma Kanakku</title>
+    <desc lang="en">A mother struggles to make her daughter understand the importance of education.</desc>
+    <credits>
+      <actor>Amala Paul</actor>
+      <actor>Yuvasri Lakshmi</actor>
+      <actor>Revathi</actor>
+      <actor>Samuthirakani</actor>
+      <actor>Malvika Jayan</actor>
+      <actor>Vishal Dev</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/429779CC6B6658AAE0DE4CFB1DD0ADF0E8B0D4DD7.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625080000 +0000" channel="ts1176">
+    <title lang="en">Movie - Maari</title>
+    <desc lang="en">Maari, a criminal, transforms into a better person when Sridevi falls in love with him.</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Kajal Agarwal</actor>
+      <actor>Vijay Yesudas</actor>
+      <actor>Kalloori Vinoth</actor>
+      <actor>Robo Shankar</actor>
+      <actor>Kaali Venkat</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D116C50139F2B86F9D82DE9B46335EE3A7733E539.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625103000 +0000" channel="ts1176">
+    <title lang="en">Movie - Bhanumathi</title>
+    <desc lang="en">An NRI student falls in love with a woman but personal differences create complications.</desc>
+    <credits>
+      <actor>Varun Tej</actor>
+      <actor>Sai Pallavi</actor>
+      <actor>Sai Chand</actor>
+      <actor>Satyam Rajesh</actor>
+      <actor>Raja Chembolu</actor>
+      <actor>Saranya Pradeep</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/141CA96BAE7A67DE76F8FEDF44AAEC1451367FE9L.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625130000 +0000" channel="ts1176">
+    <title lang="en">Movie - Nenjamundu Nermaiyundu Odu Raja</title>
+    <desc lang="en">Youtubers Shiva and Vicky decide to work for Jeepakaran when he offers them money.</desc>
+    <credits>
+      <actor>Rio Raj</actor>
+      <actor>Shirin Kanchwala</actor>
+      <actor>RJ Vigneshkanth</actor>
+      <actor>Nanjil Sampath</actor>
+      <actor>Radha Ravi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91B7FBD6F97A40A831BB3D68E6E59AA68CC2702FG.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625160000 +0000" channel="ts1176">
+    <title lang="en">Movie - Magadheera</title>
+    <desc lang="en">A young man receives a face transplant and sets out to avenge the death of his girlfriend.</desc>
+    <credits>
+      <actor>Ram Charan</actor>
+      <actor>Allu Arjun</actor>
+      <actor>Shruti Haasan</actor>
+      <actor>Amy Jackson</actor>
+      <actor>Kajal Aggarwal</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5316CA2F57803757B253E4060F5CD7D5AA177E8DM.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625190000 +0000" channel="ts1176">
+    <title lang="en">Movie - Kalki</title>
+    <desc lang="en">A policeman confronts a ruthless politician who disturbs the peace of Nanchenkotta.</desc>
+    <credits>
+      <actor>Tovino Thomas</actor>
+      <actor>Shivajith Padmanabhan</actor>
+      <actor>Sudheesh</actor>
+      <actor>James Eliya</actor>
+      <actor>Samyuktha Menon</actor>
+      <actor>Dheeraj Denny</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABEC32D9B25951876E9B10A34A438F039064F617L.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625213000 +0000" channel="ts1176">
+    <title lang="en">Movie - Kaadu Nelam</title>
+    <desc lang="en">A young man decides to work as a shepherd and in the process finds his calling.</desc>
+    <credits>
+      <actor>Panja Vaisshnav Tej</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Sai Chand</actor>
+      <actor>Kota Srinivas Rao</actor>
+      <actor>Nassar</actor>
+      <actor>Annapurna</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63876DFB16B998FB25E90A72C34672FFF38AD60F8.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626000000 +0000" channel="ts1176">
+    <title lang="en">Movie - Tarak</title>
+    <desc lang="en">A man's life changes forever when he falls in love with a selfless woman named Meera.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Sruthi Hariharan</actor>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Devaraj</actor>
+      <actor>Sumithra</actor>
+      <actor>Sharath Lohitashwa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5D79221274B70E19C4478BA43ADD3F4DC9DFC2DQ.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts1176">
+    <title lang="en">Super Hit Songs</title>
+    <desc lang="en">A compilation of catchy and entertaining hit songs from various Tamil movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBD6A7176D390CE4EF92F920B1B5087D14322676L.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626030000 +0000" channel="ts1176">
+    <title lang="en">Movie - Chitralahari</title>
+    <desc lang="en">Depressed with his constant failures, Vijay is looking for a chance to prove himself.</desc>
+    <credits>
+      <actor>Sai Dharam Tej</actor>
+      <actor>Kalyani Priyadarshan</actor>
+      <actor>Nivetha Pethuraj</actor>
+      <actor>Sunil Varma</actor>
+      <actor>Vennela Kishore</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA2137A7A305C83AEDFC37902EE887A475BF0173D.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626053000 +0000" channel="ts1176">
+    <title lang="en">Movie - Idharkuthane Aasaipattai Balakumara</title>
+    <desc lang="en">Bala needs to find Kumar, who can help him save the lady whom Bala hit while being drunk.</desc>
+    <credits>
+      <actor>Vijay Sethupathi</actor>
+      <actor>Ashwin Kakumanu</actor>
+      <actor>Swati Reddy</actor>
+      <actor>Nandita</actor>
+      <actor>Pasupathy</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A96C1555F26C3874A9F4EF8EB9EF4CC6DEBCBB0F.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626080000 +0000" channel="ts1176">
+    <title lang="en">Movie - Yevanda</title>
+    <desc lang="en">Ravi, a collection agent, decides to trick a couple who cheat gullible people.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Shruti Haasan</actor>
+      <actor>Anjali</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Adivi Sesh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/768515E40170E50ED5987CC8F767DFC1C3AD9DD62.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626103000 +0000" channel="ts1176">
+    <title lang="en">Movie - Velainu Vandhutta Vellaikaaran</title>
+    <desc lang="en">An MLA who knows the whereabouts of billions in cash loses his memory in an accident.</desc>
+    <credits>
+      <actor>Vishnu Vishal</actor>
+      <actor>Nikki Galrani</actor>
+      <actor>Soori</actor>
+      <actor>Robo Shankar</actor>
+      <actor>Aadukalam Naren</actor>
+      <actor>Ravi Mariya</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C2B3D34F697EB2B8DEC5EFD337933CA38BEBFC1K.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626130000 +0000" channel="ts1176">
+    <title lang="en">Movie - It's My Life</title>
+    <desc lang="en">When Sita visits Ram, she tries to snatch away his 5,000-crore property.</desc>
+    <credits>
+      <actor>Kajal Agarwal</actor>
+      <actor>Bellamkonda Sai Sreenivas</actor>
+      <actor>Sonu Sood</actor>
+      <actor>Abhinav Gomatam</actor>
+      <actor>Mannara Chopra</actor>
+      <actor>Bhagyaraj</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0540DA83E17EA51772375F1B29B4088C389E6D1EG.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626160000 +0000" channel="ts1176">
+    <title lang="en">Movie - Bharath Ennum Naan</title>
+    <desc lang="en">A young man becomes the chief minister and tries to reform the corrupt society.</desc>
+    <credits>
+      <actor>Mahesh Babu</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Sarath Kumar</actor>
+      <actor>Devaraj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8DD2F361745A04D30B1987F707175A96B9C31240Q.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626190000 +0000" channel="ts1176">
+    <title lang="en">Movie - Roberrt</title>
+    <desc lang="en">A cook leads a peaceful life with his son, unaware of the troubles that await him.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Vinod Prabhakar</actor>
+      <actor>P. Ravi Shankar</actor>
+      <actor>Asha Bhat</actor>
+      <actor>Sonal Monteiro</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D574A906E8D6496BCADCFB32F8B87DAA4A20EEFFP.jpg"/>
+  </programme>
+</tv>

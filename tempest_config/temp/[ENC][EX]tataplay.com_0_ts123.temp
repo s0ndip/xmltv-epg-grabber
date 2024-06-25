@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts123">
+    <display-name lang="en">Zee Cinema</display-name>
+  </channel>
+  <programme start="20240624200700 +0000" stop="20240624223900 +0000" channel="ts123">
+    <title lang="en">Mahaabali 2</title>
+    <desc lang="en">Ramu, a commoner, sets out to unite his estranged brother, Rama, with their mother. However, Rama, now known as Ravana, is a mafia don and makes it difficult for Ramu to reach out to him.</desc>
+    <credits>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Sudeep</actor>
+      <actor>Meka Srikanth</actor>
+      <actor>Amy Jackson</actor>
+      <actor>Mithun Chakraborty</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4FFDCCFBEDCA44DEC97D4D27BEF415CCC2365CD8J.jpg"/>
+  </programme>
+  <programme start="20240624223900 +0000" stop="20240625010000 +0000" channel="ts123">
+    <title lang="en">Shiva The Super Hero</title>
+    <desc lang="en">The financial woes of anyone who leaves a message at a temple are taken care of by a masked crusader. Meanwhile, a CBI officer is in hot pursuit of those who stash away their black money.</desc>
+    <credits>
+      <actor>Vikram</actor>
+      <actor>Prabhu Ganesan</actor>
+      <actor>Krishna</actor>
+      <actor>Shriya Saran</actor>
+      <actor>Ashish Vidyarthi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74028A72B76F7E3CE08F261D482BD8729527DE99P.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013200 +0000" channel="ts123">
+    <title lang="en">The Faith Show</title>
+    <desc lang="en">Romildo Ribeiro Soares, a beloved Brazilian televangelist, stresses the importance of faith in the Almighty and explains inner life and how to condition it for the world.</desc>
+    <credits>
+      <actor>Romildo Ribeiro Soares</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26F04A6F93E5E34DE6AD40FC6D983B91E40D570AQ.jpg"/>
+  </programme>
+  <programme start="20240625013200 +0000" stop="20240625035200 +0000" channel="ts123">
+    <title lang="en">Sherdil: The Pilibhit Saga</title>
+    <desc lang="en">In a bid to reform his village suffering from drought, Gangaram sets out to find a man-eating tiger that has terrorised his village. In his pursuit, he forms an unlikely bond with a hunter.</desc>
+    <credits>
+      <actor>Pankaj Tripathi</actor>
+      <actor>Sayani Gupta</actor>
+      <actor>Neeraj Kabi</actor>
+      <actor>Rk Rakesh Boro</actor>
+      <actor>Akshay Kapoor</actor>
+      <actor>Rohit Basfore</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63CB42FC2E0F27D2DD1FBA6E1AD06DFBC89CD181I.jpg"/>
+  </programme>
+  <programme start="20240625041400 +0000" stop="20240625065800 +0000" channel="ts123">
+    <title lang="en">Daring Baaz</title>
+    <desc lang="en">Goutham promises his grandfather that he will reunite him with his estranged daughter, Sunanda. Posing as a driver, Goutham enters Sunanda's house but trouble soon follows.</desc>
+    <credits>
+      <actor>Pawan Kalyan</actor>
+      <actor>Samantha Akkineni</actor>
+      <actor>Pranitha Subhash</actor>
+      <actor>Nadhiya</actor>
+      <actor>Boman Irani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA2D48CFFB334AAEC5B4A46E8A793EFB682963D10.jpg"/>
+  </programme>
+  <programme start="20240625065800 +0000" stop="20240625095300 +0000" channel="ts123">
+    <title lang="en">Gangubai Kathiawadi</title>
+    <desc lang="en">After being duped and sold to a brothel, a young woman takes control of the world she was once a pawn in, utilising her underworld connections to rule it.</desc>
+    <credits>
+      <actor>Alia Bhatt</actor>
+      <actor>Ajay Devgn</actor>
+      <actor>Shantanu Maheshwari</actor>
+      <actor>Vijay Raaz</actor>
+      <actor>Indira Tiwari</actor>
+      <actor>Seema Pahwa</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45B69E26A2F08EDACBBD25339AE99DCACFEBAAE5U.jpg"/>
+  </programme>
+  <programme start="20240625095300 +0000" stop="20240625142400 +0000" channel="ts123">
+    <title lang="en">Lagaan</title>
+    <desc lang="en">During the British Raj, a farmer named Bhuvan accepts the challenge of Captain Andrew Russell to beat his team in a game of cricket and enable his village to not pay taxes for the next three years.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Gracy Singh</actor>
+      <actor>Rachel Shelley</actor>
+      <actor>Paul Blackthorne</actor>
+      <actor>Suhasini Mulay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/944CF39C331FFA0004426F7AF514D5A5A2947B010.jpg"/>
+  </programme>
+  <programme start="20240625142400 +0000" stop="20240625171500 +0000" channel="ts123">
+    <title lang="en">Pathu Thala</title>
+    <desc lang="en">An undercover police officer goes on a mission to capture a crime boss and rescue a politician. However, what he learns begins to change his perspective on good and evil.</desc>
+    <credits>
+      <actor>Silambarasan</actor>
+      <actor>Gautham Karthik</actor>
+      <actor>Gautham Vasudev Menon</actor>
+      <actor>Priya Bhavani Shankar</actor>
+      <actor>Santhosh Prathap</actor>
+      <actor>Anu Sithara</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6221F4DD80E64497DDF9E02B04FE384D913F8550X.jpg"/>
+  </programme>
+  <programme start="20240625171500 +0000" stop="20240625204700 +0000" channel="ts123">
+    <title lang="en">Commando 3</title>
+    <desc lang="en">Upon learning of a possible threat to their country, officers Karan and Bhavana set out on a mission to London to stop a terrorist attack on India.</desc>
+    <credits>
+      <actor>Vidyut Jammwal</actor>
+      <actor>Adah Sharma</actor>
+      <actor>Angira Dhar</actor>
+      <actor>Gulshan Devaiah</actor>
+      <actor>Sumeet Thakur</actor>
+      <actor>Rajesh Tailang</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBBE34FB1C21416D0F18FFABD0FA81F54305B9F33.jpg"/>
+  </programme>
+  <programme start="20240625204700 +0000" stop="20240625225200 +0000" channel="ts123">
+    <title lang="en">Rashmi Rocket</title>
+    <desc lang="en">A small-town girl goes on to become a national-level athlete while overcoming societal barriers. However, her glory is interrupted when she is forced to undergo a gender test.</desc>
+    <credits>
+      <actor>Taapsee Pannu</actor>
+      <actor>Priyanshu Painyuli</actor>
+      <actor>Abhishek Banerjee</actor>
+      <actor>Shweta Tripathi</actor>
+      <actor>Supriya Pathak</actor>
+      <actor>Manoj Joshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B043BB50F3279AF52D387A1E6BF331AF4A36E5965.jpg"/>
+  </programme>
+  <programme start="20240625225200 +0000" stop="20240626011400 +0000" channel="ts123">
+    <title lang="en">Kesari</title>
+    <desc lang="en">Havildar Ishar Singh, a soldier in the British Indian Army, leads 21 Sikh soldiers in a fight against 10,000 Pashtun invaders. However, what unfolds is the greatest last stand wars of all time.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Parineeti Chopra</actor>
+      <actor>Vivek Saini</actor>
+      <actor>Vikram Kochhar</actor>
+      <actor>Suvinder Vicky</actor>
+      <actor>Vansh Bharadwaj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11BFA5A92A8520EA77293F8155782151BE20E8C9D.jpg"/>
+  </programme>
+  <programme start="20240626011400 +0000" stop="20240626011800 +0000" channel="ts123">
+    <title lang="en">The Faith Show</title>
+    <desc lang="en">Romildo Ribeiro Soares, a beloved Brazilian televangelist, stresses the importance of faith in the Almighty and explains inner life and how to condition it for the world.</desc>
+    <credits>
+      <actor>Romildo Ribeiro Soares</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26F04A6F93E5E34DE6AD40FC6D983B91E40D570AQ.jpg"/>
+  </programme>
+  <programme start="20240626011800 +0000" stop="20240626032900 +0000" channel="ts123">
+    <title lang="en">Vidroh Let's Fight Back</title>
+    <desc lang="en">Conman Chandu desires to release his father from jail and make his sister a doctor. However, he gets into trouble when he crosses paths with the powerful criminal Manikyam.</desc>
+    <credits>
+      <actor>Naga Chaitanya</actor>
+      <actor>Kriti Sanon</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Bharath Raju</actor>
+      <actor>Raghu Raju</actor>
+      <actor>Ravi Babu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/430C1E641160314D524F60AB13D5FA9D6B1F5FD91.jpg"/>
+  </programme>
+  <programme start="20240626032900 +0000" stop="20240626063100 +0000" channel="ts123">
+    <title lang="en">Bhajarangi 2</title>
+    <desc lang="en">An evil drug baron named Araka kidnaps innocent villagers and forces them to produce drugs for him. Fortunately, a forest officer learns of this and decides to put a stop to it.</desc>
+    <credits>
+      <actor>Shiva Rajkumar</actor>
+      <actor>Bhavana Menon</actor>
+      <actor>Shruthi</actor>
+      <actor>Saurav Lokesh</actor>
+      <actor>Shivaraj K R Pete</actor>
+      <actor>Cheluvaraj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAEA4746E2E08DEB711BE0E0E3999CF947B95F5FW.jpg"/>
+  </programme>
+  <programme start="20240626063100 +0000" stop="20240626090100 +0000" channel="ts123">
+    <title lang="en">Maayon</title>
+    <desc lang="en">An archaeological team arrives at a historical temple to learn about its secrets. Meanwhile, a group of idol smugglers plan to steal the hidden treasure inside the temple.</desc>
+    <credits>
+      <actor>Sibi Sathyaraj</actor>
+      <actor>Tanya Ravichandran</actor>
+      <actor>Radha Ravi</actor>
+      <actor>KS Ravi Kumar</actor>
+      <actor>Bagavathi Perumal</actor>
+      <actor>G. Marimuthu</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5B267259D5BF11FB07212A96148FD43B1041D1DR.jpg"/>
+  </programme>
+  <programme start="20240626090100 +0000" stop="20240626110300 +0000" channel="ts123">
+    <title lang="en">Mane Number 13</title>
+    <desc lang="en">Five IT professionals move into a new house together. However, little do they know that it is haunted, making them fight for their survival.</desc>
+    <credits>
+      <actor>Varsha Bollamma</actor>
+      <actor>Aishwarya Gowda</actor>
+      <actor>Praveen Prem</actor>
+      <actor>Chethan Gandarva</actor>
+      <actor>Ramana</actor>
+      <actor>Sanjeev</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9202FFEDDBE8AAE079D5B59DFCA0A3268459543AP.jpg"/>
+  </programme>
+  <programme start="20240626110300 +0000" stop="20240626142000 +0000" channel="ts123">
+    <title lang="en">Saaho</title>
+    <desc lang="en">An undercover agent and his partner go after a thief who has stolen 2,000 crore rupees. Soon, they realise that the case is linked to the death of a crime lord and an emerging gang war.</desc>
+    <credits>
+      <actor>Prabhas</actor>
+      <actor>Shraddha Kapoor</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Neil Nitin Mukesh</actor>
+      <actor>Arun Vijay</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC040C40A57E925C7ABF0DD65B8F540317693B47W.jpg"/>
+  </programme>
+  <programme start="20240626142000 +0000" stop="20240626172100 +0000" channel="ts123">
+    <title lang="en">Fukrey 3</title>
+    <desc lang="en">Determined to secure funds for their election campaign, a group of bumbling idiots travel to a diamond mine in South Africa. However, hilarity ensues after they stumble upon a potential energy source.</desc>
+    <credits>
+      <actor>Pulkit Samrat</actor>
+      <actor>Varun Sharma</actor>
+      <actor>Manjot Singh</actor>
+      <actor>Richa Chadda</actor>
+      <actor>Pankaj Tripathi</actor>
+      <actor>Ali Zafar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E01C759826688A177D49E6CA5DA4AA663ABF01CZ.jpg"/>
+  </programme>
+  <programme start="20240626172100 +0000" stop="20240626203000 +0000" channel="ts123">
+    <title lang="en">Sirivennela</title>
+    <desc lang="en">A paranormal investigator finds herself face-to-face with the angry poltergeist of a young child with a dark and tragic past.</desc>
+    <credits>
+      <actor>Priyamani</actor>
+      <actor>Sai Tejaswani</actor>
+      <actor>Prabhakar</actor>
+      <actor>Ajay Rathnam</actor>
+      <actor>Rocket Raghava</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8297FE40B9D8251E5CBCCE91A3B0A4189986F353Y.jpg"/>
+  </programme>
+</tv>

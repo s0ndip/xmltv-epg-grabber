@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts128">
+    <display-name lang="en">ETV Cinema</display-name>
+  </channel>
+  <programme start="20240624193000 +0000" stop="20240624223000 +0000" channel="ts128">
+    <title lang="en">Mee Sreyobhilashi</title>
+    <desc lang="en">After losing his family, an elderly man contemplates suicide. He then gathers people with suicidal tendencies and arranges for a bus to drop them off a cliff.</desc>
+    <credits>
+      <actor>Rajendra Prasad</actor>
+      <actor>Naresh</actor>
+      <actor>Nasser</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Krishna Bhagavan</actor>
+      <actor>Raavi Kondala Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63FCC7741DD00D57930B567884A20485FABBD9F7.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="ts128">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts128">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89A40706F30CF16F2ACB67AEE09F1211EF346BFE.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts128">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B0DF76F1BF1DB91C3AB6C1485C8E64A74B98E305.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625043000 +0000" channel="ts128">
+    <title lang="en">Kanchana Seeta</title>
+    <desc lang="en">Kanchana Seeta</desc>
+    <credits>
+      <actor>Jayasudha</actor>
+      <actor>Sarathbabu</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Nirmala</actor>
+      <actor>Pushpalatha</actor>
+      <actor>Sri Lakshmi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4638512EB0256CE011B81A184BEEBC9666D22D54D.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625073000 +0000" channel="ts128">
+    <title lang="en">Srimathi</title>
+    <desc lang="en">Childhood friends Anand and Jasmine are close to each other and share an innocent love, however, Anand longs for their time together when he marries Anju.</desc>
+    <credits>
+      <actor>Kantha Rao</actor>
+      <actor>Sharada</actor>
+      <actor>Vasanthi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C702A9A98E0B0011819EA4C79BEDCD0BA091E26W.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts128">
+    <title lang="en">Sahasam</title>
+    <desc lang="en">Sahasam</desc>
+    <credits>
+      <actor>Jagapathi Babu</actor>
+      <actor>Bhanu Chander</actor>
+      <actor>Saranya</actor>
+      <actor>Kaveri</actor>
+      <actor>Gollapudi Maruthi Rao</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FBFE99D8E0CCED8535AC0C866F97E748E3F4B568A.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts128">
+    <title lang="en">Jaganaddam And Sons</title>
+    <desc lang="en">Unscrupulous people hatch a series of tactics as they try their luck at acquiring the ownership of a hardworking businessman's factory.</desc>
+    <credits>
+      <actor>Suresh</actor>
+      <actor>Sindhuja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/266BD32560BAEBD68D2F08A6EF85C30EF5700A14L.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625163000 +0000" channel="ts128">
+    <title lang="en">Shri Krishna Vijayam</title>
+    <desc lang="en">When Krishna tricks Kalayavana into getting himself killed, Mahodara swears to seek revenge on his brother's behalf. Things take a turn when Lord Shiva grants a boon to Mahodara.</desc>
+    <credits>
+      <actor>NTR</actor>
+      <actor>Jayalalitha J</actor>
+      <actor>S. V. Ranga Rao</actor>
+      <actor>Kanta Rao</actor>
+      <actor>Mikkilineni</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D895341CD8A8647B90427ACB7476C5F16741461Z.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts128">
+    <title lang="en">My Choice</title>
+    <desc lang="en">The host talks to various celebrities from the Telugu movie industry who share their experiences of working in the movies.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF390F131201EE253D4C95B361724CF0FE66AF7AX.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625193000 +0000" channel="ts128">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625223000 +0000" channel="ts128">
+    <title lang="en">Kanchana Seeta</title>
+    <desc lang="en">Kanchana Seeta</desc>
+    <credits>
+      <actor>Jayasudha</actor>
+      <actor>Sarathbabu</actor>
+      <actor>Raghuvaran</actor>
+      <actor>Nirmala</actor>
+      <actor>Pushpalatha</actor>
+      <actor>Sri Lakshmi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4638512EB0256CE011B81A184BEEBC9666D22D54D.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240626003000 +0000" channel="ts128">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts128">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F89A40706F30CF16F2ACB67AEE09F1211EF346BFE.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts128">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B0DF76F1BF1DB91C3AB6C1485C8E64A74B98E305.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626043000 +0000" channel="ts128">
+    <title lang="en">Pandanti Samsaram</title>
+    <desc lang="en">Chalaati, a descendant of the Kulapati family, tries to express his agony against the Rudramanaidu family and change the course of his fate.</desc>
+    <credits>
+      <actor>Krishna</actor>
+      <actor>Charulatha</actor>
+      <actor>Ravali</actor>
+      <actor>Pruthivi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/859AF884EE8055D23AD5A73501F65B594C2E99CFF.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626073000 +0000" channel="ts128">
+    <title lang="en">Khaidi Kannayya</title>
+    <desc lang="en">Kannaiah, a bank manager, gets framed and arrested for a robbery and later, learns that the real culprits also murdered his son. He then sets out to seek revenge against the perpetrators.</desc>
+    <credits>
+      <actor>Kantha Rao</actor>
+      <actor>Rajanala</actor>
+      <actor>Gummadi</actor>
+      <actor>Relangi Venkatramaiah</actor>
+      <actor>Rajasulochana</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6D5C9A3069569030DD0B44A713F16E1D367405FS.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts128">
+    <title lang="en">Chitram</title>
+    <desc lang="en">Janaki comes to India from US and joins a college. Here she meets Ramana and the two fall in love. Soon, she gets pregnant which results in further complications.</desc>
+    <credits>
+      <actor>Uday Kiran</actor>
+      <actor>Reema Sen</actor>
+      <actor>Amitov Teja</actor>
+      <actor>Chitram Seenu</actor>
+      <actor>Uttej</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1642BF8893DBF3C7AC3ACC1EC452DAEAB4061DDEU.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626133000 +0000" channel="ts128">
+    <title lang="en">Maafia</title>
+    <desc lang="en">A journalist happens to witness his brother's death and goes on to settle scores with the gangster who orchestrated his dear one's murder.</desc>
+    <credits>
+      <actor>Suresh Gopi</actor>
+      <actor>Vikram</actor>
+      <actor>Janardhanan</actor>
+      <actor>Tiger Prabhakar</actor>
+      <actor>Babu Antony</actor>
+      <actor>Vijayaraghavan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC9F93C36C0A43A0F26990575BA923290F294B28Q.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626163000 +0000" channel="ts128">
+    <title lang="en">Missamma</title>
+    <desc lang="en">Two unemployed college graduates, from the city, pretend to be a married couple in order to find employment as school teachers in a small village.</desc>
+    <credits>
+      <actor>N T Rama Rao</actor>
+      <actor>Savitri</actor>
+      <actor>Akkineni Nageswara Rao</actor>
+      <actor>Jamuna</actor>
+      <actor>S V Ranga Rao</actor>
+      <actor>Rushyendramani</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C0E15EE9A4E9E9C78E6B73A183E2C87CC938A71O.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626193000 +0000" channel="ts128">
+    <title lang="en">Drohi</title>
+    <desc lang="en">A married man has an extramarital affair after his wife begins ignoring him due to their son's illness. His life is turned upside down when a goon rapes his mistress and begins extorting him.</desc>
+    <credits>
+      <actor>R Sarath Kumar</actor>
+      <actor>Jyothika</actor>
+      <actor>Andrea Jeremiah</actor>
+      <actor>Milind Soman</actor>
+      <actor>VTV Ganesh</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB8E3F5169E5C8046EB36C91DBD3065170CF5CB6H.jpg"/>
+  </programme>
+</tv>

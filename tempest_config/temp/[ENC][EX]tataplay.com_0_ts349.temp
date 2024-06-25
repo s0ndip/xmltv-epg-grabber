@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts349">
+    <display-name lang="en">HM TV</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts349">
+    <title lang="en">Pakka Hyderabadi</title>
+    <desc lang="en">The host interacts with prominent personalities from various fields and provides detailed insights into their life and career.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD349A6EFBFD2CBBCB9D1E22E2A17712B49764941.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625002500 +0000" channel="ts349">
+    <title lang="en">Yoga</title>
+    <desc lang="en">A yoga expert talks about the importance of meditation and explains various postures that aid in maintaining a healthy lifestyle.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2D0B504994D6ED135A64550D87A7CBEB70544AFT.jpg"/>
+  </programme>
+  <programme start="20240625002500 +0000" stop="20240625003000 +0000" channel="ts349">
+    <title lang="en">5/25 Heads</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE2DDE2B3D84A4C5EDC913475F9F23F3BAE3AE813.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts349">
+    <title lang="en">News @ 6 AM</title>
+    <desc lang="en">The host presents all the latest stories, updates and developments pertaining to the current affairs of regional and national significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3247B54A91681165FBDF3298B16A400644BA9FF9H.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625012500 +0000" channel="ts349">
+    <title lang="en">Nelathalli</title>
+    <desc lang="en">The host provides the latest updates from the world of agriculture and experts share solutions for common problems faced by farmers.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17B7DCF760C2E205E29B3BB892551342659463442.jpg"/>
+  </programme>
+  <programme start="20240625012500 +0000" stop="20240625020000 +0000" channel="ts349">
+    <title lang="en">Super Fast 50</title>
+    <desc lang="en">The host presents the top fifty news updates and developments pertaining to various social, political and economic issues in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DD77D15ABC9808683CCADB8EE39A0947590A7707.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts349">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B077BDDB2AAFE1334B3C02082D92BF1A68E098R.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts349">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B077BDDB2AAFE1334B3C02082D92BF1A68E098R.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts349">
+    <title lang="en">News @ 9 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADBAAA0F7D88B37DBB431B8DEF5A1CFBC9D00EEAW.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625042500 +0000" channel="ts349">
+    <title lang="en">News / School Stories Focus</title>
+    <desc lang="en">News / School Stories Focus</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53D299368A4EE70B13C4DAD41604DCD70B912642A.jpg"/>
+  </programme>
+  <programme start="20240625042500 +0000" stop="20240625043000 +0000" channel="ts349">
+    <title lang="en">Kapil</title>
+    <desc lang="en">Kapil</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CDB22334DE956FDF49259FC4FE0915A266721638.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts349">
+    <title lang="en">News @ 10 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC387D011C0D0CAE90FE84A93336C1DAC3082288F.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts349">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E209245FC1B715D97D9451D08F2BB3E28081A9FN.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts349">
+    <title lang="en">News @ 11 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D922192EFC0F2F402EB290BC120762CEAF2DCB8C.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Noon</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE47CFC2E2389F277C9558401BDDF4259657A0D96.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts349">
+    <title lang="en">News @ 1 Pm</title>
+    <desc lang="en">The host presents the latest and most significant political, social and economic news updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1387D34A7DB006FEBE437F8C36B4AA21DFAEA54AK.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts349">
+    <title lang="en">Kalki Movie Interview</title>
+    <desc lang="en">Kalki Movie Interview</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84DC404A75D9E0E85555E9B23A9354F4D809CBDBI.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts349">
+    <title lang="en">News @ 2 Pm</title>
+    <desc lang="en">The host provides the latest news stories, major developments and important updates that affect people from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8973828389D5316B977E7B813D71DF178D1C12EAL.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts349">
+    <title lang="en">News @ 3 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7B555406274B572E0C15D02EB6F97D129DD221CI.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts349">
+    <title lang="en">OTT This Week</title>
+    <desc lang="en">The host presents updates and developments related to the movies and popular web series releasing on the OTT platforms during the week.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A76FC1FB396068C00F7AA61D933D45AFDC34BE67Y.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts349">
+    <title lang="en">News @ 4 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62CA276B536253C70E84BF4717AC74BA1A19784B0.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625112500 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240625112500 +0000" stop="20240625120000 +0000" channel="ts349">
+    <title lang="en">India 360 News</title>
+    <desc lang="en">The host presents a detailed report on the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C325D96B554D3D6813C2EB52AF78520AEB757BA53.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts349">
+    <title lang="en">Yuva Keratalu</title>
+    <desc lang="en">The host invites young political figures and interviews them on key socio-political matters concerning the state and the nation.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC5AAAAD8BB2D1B59027D23B5FC24FA9F4C88A45J.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts349">
+    <title lang="en">News @ 6 PM</title>
+    <desc lang="en">The host provides detailed information on the latest political, economic and social updates and developments making headlines around the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F19C0643E63791F3D6860F6FD5E3E55A55D78AF27.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts349">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39A01BF5ED5D61392B34A3F85AA08ABBC0FF28613.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts349">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39A01BF5ED5D61392B34A3F85AA08ABBC0FF28613.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625144500 +0000" channel="ts349">
+    <title lang="en">BBC</title>
+    <desc lang="en">The host presents the latest news updates and developments from the world of business, politics, entertainment and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4E644CC9164A909C02F7FD96048B6E88557B04EE.jpg"/>
+  </programme>
+  <programme start="20240625144500 +0000" stop="20240625150000 +0000" channel="ts349">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90236FE122EA43511965D992A6444BEF111ED69AB.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts349">
+    <title lang="en">9 Pm Prime Time</title>
+    <desc lang="en">Comprenesive Bulliten: The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1B105FBE6F5B2F68C079AC544BCE508EF1A9C2BU.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts349">
+    <title lang="en">Pakka Hyderabadi</title>
+    <desc lang="en">The host interacts with prominent personalities from various fields and provides detailed insights into their life and career.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD349A6EFBFD2CBBCB9D1E22E2A17712B49764941.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625172500 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240625172500 +0000" stop="20240625180000 +0000" channel="ts349">
+    <title lang="en">News @ 11 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/019CF0149DA483BA7718FE48EEBCFA03E2477C1DG.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF1B8CE37523FBC4729A64C4D964A925095288DCN.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626002500 +0000" channel="ts349">
+    <title lang="en">Yoga</title>
+    <desc lang="en">A yoga expert talks about the importance of meditation and explains various postures that aid in maintaining a healthy lifestyle.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2D0B504994D6ED135A64550D87A7CBEB70544AFT.jpg"/>
+  </programme>
+  <programme start="20240626002500 +0000" stop="20240626003000 +0000" channel="ts349">
+    <title lang="en">5/25 Heads</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE2DDE2B3D84A4C5EDC913475F9F23F3BAE3AE813.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts349">
+    <title lang="en">News @ 6 AM</title>
+    <desc lang="en">The host presents all the latest stories, updates and developments pertaining to the current affairs of regional and national significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3247B54A91681165FBDF3298B16A400644BA9FF9H.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626012500 +0000" channel="ts349">
+    <title lang="en">Nelathalli</title>
+    <desc lang="en">The host provides the latest updates from the world of agriculture and experts share solutions for common problems faced by farmers.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17B7DCF760C2E205E29B3BB892551342659463442.jpg"/>
+  </programme>
+  <programme start="20240626012500 +0000" stop="20240626020000 +0000" channel="ts349">
+    <title lang="en">Super Fast 50</title>
+    <desc lang="en">The host presents the top fifty news updates and developments pertaining to various social, political and economic issues in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DD77D15ABC9808683CCADB8EE39A0947590A7707.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts349">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B077BDDB2AAFE1334B3C02082D92BF1A68E098R.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts349">
+    <title lang="en">News Analysis</title>
+    <desc lang="en">The host digs deep into the latest news headlines and presents an in-depth analysis to help viewers gain a better understanding.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B077BDDB2AAFE1334B3C02082D92BF1A68E098R.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts349">
+    <title lang="en">News @ 9 Am</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADBAAA0F7D88B37DBB431B8DEF5A1CFBC9D00EEAW.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626042500 +0000" channel="ts349">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90236FE122EA43511965D992A6444BEF111ED69AB.jpg"/>
+  </programme>
+  <programme start="20240626042500 +0000" stop="20240626043000 +0000" channel="ts349">
+    <title lang="en">Kapil</title>
+    <desc lang="en">Kapil</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CDB22334DE956FDF49259FC4FE0915A266721638.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts349">
+    <title lang="en">News @ 10 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC387D011C0D0CAE90FE84A93336C1DAC3082288F.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts349">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E209245FC1B715D97D9451D08F2BB3E28081A9FN.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts349">
+    <title lang="en">News @ 11 Am</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D922192EFC0F2F402EB290BC120762CEAF2DCB8C.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts349">
+    <title lang="en">News @ 12 Noon</title>
+    <desc lang="en">The host presents the latest news stories, important developments and major updates that impact people across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE47CFC2E2389F277C9558401BDDF4259657A0D96.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts349">
+    <title lang="en">News @ 1 Pm</title>
+    <desc lang="en">The host presents the latest and most significant political, social and economic news updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1387D34A7DB006FEBE437F8C36B4AA21DFAEA54AK.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts349">
+    <title lang="en">Hero Upendra Interview</title>
+    <desc lang="en">The host invites Upendra, a prominent Sandalwood actor, and engages in an insightful conversation on various aspects of his life.</desc>
+    <credits>
+      <actor>Upendra</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96567E94810AE207850333BF3162687DBD2651CF5.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts349">
+    <title lang="en">News @ 2 Pm</title>
+    <desc lang="en">The host provides the latest news stories, major developments and important updates that affect people from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8973828389D5316B977E7B813D71DF178D1C12EAL.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts349">
+    <title lang="en">News @ 3 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7B555406274B572E0C15D02EB6F97D129DD221CI.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts349">
+    <title lang="en">Commercial</title>
+    <desc lang="en">The host shares information about a wide selection of products that can be purchased from the comfort of the consumer's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E209245FC1B715D97D9451D08F2BB3E28081A9FN.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts349">
+    <title lang="en">News @ 4 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62CA276B536253C70E84BF4717AC74BA1A19784B0.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626112500 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240626112500 +0000" stop="20240626120000 +0000" channel="ts349">
+    <title lang="en">India 360 News</title>
+    <desc lang="en">The host presents a detailed report on the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C325D96B554D3D6813C2EB52AF78520AEB757BA53.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts349">
+    <title lang="en">OTT This Week</title>
+    <desc lang="en">The host presents updates and developments related to the movies and popular web series releasing on the OTT platforms during the week.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A76FC1FB396068C00F7AA61D933D45AFDC34BE67Y.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts349">
+    <title lang="en">News @ 6 PM</title>
+    <desc lang="en">The host provides detailed information on the latest political, economic and social updates and developments making headlines around the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F19C0643E63791F3D6860F6FD5E3E55A55D78AF27.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts349">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39A01BF5ED5D61392B34A3F85AA08ABBC0FF28613.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts349">
+    <title lang="en">Debate @ 7 PM</title>
+    <desc lang="en">The host invites guests from different walks of life to engage in a debate surrounding various matters concerning the state and the nation.</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39A01BF5ED5D61392B34A3F85AA08ABBC0FF28613.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626144500 +0000" channel="ts349">
+    <title lang="en">BBC</title>
+    <desc lang="en">The host presents the latest news updates and developments from the world of business, politics, entertainment and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4E644CC9164A909C02F7FD96048B6E88557B04EE.jpg"/>
+  </programme>
+  <programme start="20240626144500 +0000" stop="20240626150000 +0000" channel="ts349">
+    <title lang="en">News Focus</title>
+    <desc lang="en">The host presents a compilation of the latest social, political and economic news updates and developments from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90236FE122EA43511965D992A6444BEF111ED69AB.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts349">
+    <title lang="en">Jordar Varthalu</title>
+    <desc lang="en">The host covers events and latest news stories and presents the updates while having funny conversations with the ground reporter.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438288FE75DA62388CEC0C876F10020EDAA39F94U.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts349">
+    <title lang="en">9 Pm Prime Time</title>
+    <desc lang="en">The host presents the latest news updates and developments regarding social, political and economic issues from various parts of the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1B105FBE6F5B2F68C079AC544BCE508EF1A9C2BU.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts349">
+    <title lang="en">Burning Topic</title>
+    <desc lang="en">Burning Topic</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02D99224A0D679E1842E90A89CB4D5C2CC3BC8433.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts349">
+    <title lang="en">Pakka Hyderabadi</title>
+    <desc lang="en">The host interacts with prominent personalities from various fields and provides detailed insights into their life and career.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD349A6EFBFD2CBBCB9D1E22E2A17712B49764941.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626172500 +0000" channel="ts349">
+    <title lang="en">Movies Now</title>
+    <desc lang="en">The host presents an in-depth review and analysis of recently released famous movies along with providing their critic ratings.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8FAEAA6B68E5EEF60BB08D736379BC0134450FF9J.jpg"/>
+  </programme>
+  <programme start="20240626172500 +0000" stop="20240626180000 +0000" channel="ts349">
+    <title lang="en">News @ 11 Pm</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/019CF0149DA483BA7718FE48EEBCFA03E2477C1DG.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts349">
+    <title lang="en">Off The Record</title>
+    <desc lang="en">Off The Record</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1585FF41CC50E89009D168ABE250D6F7F7D65FDK.jpg"/>
+  </programme>
+</tv>

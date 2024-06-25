@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts571">
+    <display-name lang="en">Tata Play Punjab De Rang</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624203200 +0000" channel="ts571">
+    <title lang="en">Ranjha Refugee</title>
+    <desc lang="en">While a Punjabi man fights for the love of his life, he ends up learning about his long-lost brother who was raised by a Muslim family.</desc>
+    <credits>
+      <actor>Roshan Prince</actor>
+      <actor>Saanvi Dhiman</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Harby Sangha</actor>
+      <actor>Aman Sidhu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95F5707C06BE8EB2F04C2D1F4C86BD70C7A92FF04.jpg"/>
+  </programme>
+  <programme start="20240624203200 +0000" stop="20240625003000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625023000 +0000" channel="ts571">
+    <title lang="en">Shabad</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various religious leaders and devotees in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53375674CAE798B83B8F657C38AC12D409EA2227S.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625042000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625042000 +0000" stop="20240625043000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625052000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625052000 +0000" stop="20240625053000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625073900 +0000" channel="ts571">
+    <title lang="en">Bhalwan Singh</title>
+    <desc lang="en">In the pre-independence era, the British steal from the people and terrorise them. However, Bhalwan Singh, a village man, decides to stop them and also win the heart of his lady-love, Veero.</desc>
+    <credits>
+      <actor>Ranjit Bawa</actor>
+      <actor>Navpreet Banga</actor>
+      <actor>J Brandon Hill</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Manav Vij</actor>
+      <actor>Mahabir Bhullar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2BA1620E12ACC45451C500919F77EA48BF5D7C3W.jpg"/>
+  </programme>
+  <programme start="20240625073900 +0000" stop="20240625074500 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625074500 +0000" stop="20240625093000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625113200 +0000" channel="ts571">
+    <title lang="en">Ranjha Refugee</title>
+    <desc lang="en">While a Punjabi man fights for the love of his life, he ends up learning about his long-lost brother who was raised by a Muslim family.</desc>
+    <credits>
+      <actor>Roshan Prince</actor>
+      <actor>Saanvi Dhiman</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>Harby Sangha</actor>
+      <actor>Aman Sidhu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95F5707C06BE8EB2F04C2D1F4C86BD70C7A92FF04.jpg"/>
+  </programme>
+  <programme start="20240625113200 +0000" stop="20240625114000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625114000 +0000" stop="20240625123000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts571">
+    <title lang="en">Shabad</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various religious leaders and devotees in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53375674CAE798B83B8F657C38AC12D409EA2227S.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625152000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625152000 +0000" stop="20240625153000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625173900 +0000" channel="ts571">
+    <title lang="en">Munda Hi Chahida</title>
+    <desc lang="en">On finding out that his wife is pregnant, Dharminder, the only male member in his family, goes to hilarious lengths to ensure that his wife gives birth to a son.</desc>
+    <credits>
+      <actor>Harish Verma</actor>
+      <actor>Rubina Bajwa</actor>
+      <actor>Jatinder Kaur</actor>
+      <actor>Pawan Johal</actor>
+      <actor>Rupinder Rupi</actor>
+      <actor>Seema Kaushal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90D032CC232B2FAB4DDC86E2C2F58A14491367A88.jpg"/>
+  </programme>
+  <programme start="20240625173900 +0000" stop="20240625175000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240625175000 +0000" stop="20240625183000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625203400 +0000" channel="ts571">
+    <title lang="en">Yaar Belly</title>
+    <desc lang="en">A young man and a woman belonging to different socio-economic backgrounds fall in love. However, they face numerous obstacles from their families.</desc>
+    <credits>
+      <actor>Dev Kharoud</actor>
+      <actor>Sabby Suri</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>BN Sharma</actor>
+      <actor>Gurpreet Bhangu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCB8B9EE8C29EEA8A5E94C810703A1AC833297C7M.jpg"/>
+  </programme>
+  <programme start="20240625203400 +0000" stop="20240626003000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626023000 +0000" channel="ts571">
+    <title lang="en">Shabad</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various religious leaders and devotees in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53375674CAE798B83B8F657C38AC12D409EA2227S.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626042000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240626042000 +0000" stop="20240626043000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626052000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240626052000 +0000" stop="20240626053000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626074200 +0000" channel="ts571">
+    <title lang="en">Aa Gaye Munde U.K. De</title>
+    <desc lang="en">Roop falls madly in love with Disha the moment he sees her. However, when he learns that Disha's father wants an NRI son-in-law, he pretends to have returned from the UK and woos her and her family.</desc>
+    <credits>
+      <actor>Jimmy Shergill</actor>
+      <actor>Neeru Bajwa</actor>
+      <actor>Om Puri</actor>
+      <actor>Khushboo Grewal</actor>
+      <actor>Binnu Dhillon</actor>
+      <actor>Gurpreet Ghuggi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC5FB5D5F7F0003A0C6A517A407478CA88CB132BS.jpg"/>
+  </programme>
+  <programme start="20240626074200 +0000" stop="20240626075200 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626075200 +0000" stop="20240626093000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626113400 +0000" channel="ts571">
+    <title lang="en">Yaar Belly</title>
+    <desc lang="en">A young man and a woman belonging to different socio-economic backgrounds fall in love. However, they face numerous obstacles from their families.</desc>
+    <credits>
+      <actor>Dev Kharoud</actor>
+      <actor>Sabby Suri</actor>
+      <actor>Karamjit Anmol</actor>
+      <actor>BN Sharma</actor>
+      <actor>Gurpreet Bhangu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCB8B9EE8C29EEA8A5E94C810703A1AC833297C7M.jpg"/>
+  </programme>
+  <programme start="20240626113400 +0000" stop="20240626114000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626114000 +0000" stop="20240626123000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts571">
+    <title lang="en">Shabad</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and hymns sung by various religious leaders and devotees in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53375674CAE798B83B8F657C38AC12D409EA2227S.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626152000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+  <programme start="20240626152000 +0000" stop="20240626153000 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626175000 +0000" channel="ts571">
+    <title lang="en">Aate Di Chidi</title>
+    <desc lang="en">A Punjabi family in Canada joyfully opts to relocate to India, bringing happiness to the elders. Yet, the generational gap sparks chaos as the young and old adopt divergent perspectives.</desc>
+    <credits>
+      <actor>Neeru Bajwa</actor>
+      <actor>Sardar Sohi</actor>
+      <actor>Amrit Maan</actor>
+      <actor>Anmol Verma</actor>
+      <actor>Ashlyn J</actor>
+      <actor>Gurpreet Ghuggi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1FA748795AF78CF72FE7CC9C056F8ED9BBE6FADCO.jpg"/>
+  </programme>
+  <programme start="20240626175000 +0000" stop="20240626175800 +0000" channel="ts571">
+    <title lang="en">Promos</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promos and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3AE6076938411D051379D171907887656BFA4EB0.jpg"/>
+  </programme>
+  <programme start="20240626175800 +0000" stop="20240626183000 +0000" channel="ts571">
+    <title lang="en">Punjabi Songs</title>
+    <desc lang="en">A comprehensive compilation of some of the best and most popular Punjabi songs composed and performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7E2AFF886195666532D48C32C8BDF81C2886573D.jpg"/>
+  </programme>
+</tv>

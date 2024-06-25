@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts1031">
+    <display-name lang="en">Surya Samachar</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts1031">
+    <title lang="en">Haryana Vishesh</title>
+    <desc lang="en">Haryana Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF5B81C23C3EBB1A4A94A235262D2736C87601076.jpg"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts1031">
+    <title lang="en">Final Report</title>
+    <desc lang="en">Final Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A26C1D2209C40A1B36C42CDC376E6027036B669.jpg"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts1031">
+    <title lang="en">Haryana Vishesh</title>
+    <desc lang="en">Haryana Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF5B81C23C3EBB1A4A94A235262D2736C87601076.jpg"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts1031">
+    <title lang="en">Final Report</title>
+    <desc lang="en">Final Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A26C1D2209C40A1B36C42CDC376E6027036B669.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1031">
+    <title lang="en">Good Morning Haryana</title>
+    <desc lang="en">Good Morning Haryana</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CEF552376A742A365040CBA163DE73112335387V.jpg"/>
+  </programme>
+  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1031">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">Bollywood Express</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF13B67B87530328DFA324900F3D0675FF927A1EV.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts1031">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">Bollywood Express</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF13B67B87530328DFA324900F3D0675FF927A1EV.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts1031">
+    <title lang="en">Haryana Vishesh</title>
+    <desc lang="en">Haryana Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF5B81C23C3EBB1A4A94A235262D2736C87601076.jpg"/>
+  </programme>
+  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts1031">
+    <title lang="en">Final Report</title>
+    <desc lang="en">Final Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A26C1D2209C40A1B36C42CDC376E6027036B669.jpg"/>
+  </programme>
+  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts1031">
+    <title lang="en">Haryana Vishesh</title>
+    <desc lang="en">Haryana Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF5B81C23C3EBB1A4A94A235262D2736C87601076.jpg"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625210000 +0000" channel="ts1031">
+    <title lang="en">Final Report</title>
+    <desc lang="en">Final Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A26C1D2209C40A1B36C42CDC376E6027036B669.jpg"/>
+  </programme>
+  <programme start="20240625210000 +0000" stop="20240625213000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625220000 +0000" stop="20240625223000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625230000 +0000" channel="ts1031">
+    <title lang="en">Haryana Vishesh</title>
+    <desc lang="en">Haryana Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF5B81C23C3EBB1A4A94A235262D2736C87601076.jpg"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240625233000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626000000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts1031">
+    <title lang="en">Final Report</title>
+    <desc lang="en">Final Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A26C1D2209C40A1B36C42CDC376E6027036B669.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts1031">
+    <title lang="en">Good Morning Haryana</title>
+    <desc lang="en">Good Morning Haryana</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CEF552376A742A365040CBA163DE73112335387V.jpg"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626030000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626043000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626063000 +0000" channel="ts1031">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">Bollywood Express</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF13B67B87530328DFA324900F3D0675FF927A1EV.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626070000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626080000 +0000" stop="20240626083000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626090000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="ts1031">
+    <title lang="en">Bollywood Express</title>
+    <desc lang="en">Bollywood Express</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF13B67B87530328DFA324900F3D0675FF927A1EV.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626100000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626100000 +0000" stop="20240626103000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626113000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626130000 +0000" channel="ts1031">
+    <title lang="en">Haryana Live</title>
+    <desc lang="en">Haryana Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2ED1DED9C7E17DC258E510AB03CCB378A4A45CW.jpg"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts1031">
+    <title lang="en">Himachal live</title>
+    <desc lang="en">Himachal live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA61A42186AFE895E9F142EBEC2D9C8EA3201B23K.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626143000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts1031">
+    <title lang="en">The Mukesh Rajpoot Show</title>
+    <desc lang="en">The Mukesh Rajpoot Show</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A07E15B8137F1E666A5F98634F931C21BD92D3B7S.jpg"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts1031">
+    <title lang="en">Non Stop News</title>
+    <desc lang="en">Non Stop News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5B11000C20D07C52DBBBE322910F4A346E16CE2X.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts1031">
+    <title lang="en">Raaj Ki Baat</title>
+    <desc lang="en">Raaj Ki Baat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE6A05B40E5779E45579C9B96A8295322C715116T.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626163000 +0000" channel="ts1031">
+    <title lang="en">Himachal Update</title>
+    <desc lang="en">Himachal Update</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35D07D445141AEB253DC41A2E4C26AAC8AD058A8P.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626170000 +0000" channel="ts1031">
+    <title lang="en">The Mukesh Rajpoot Show</title>
+    <desc lang="en">The Mukesh Rajpoot Show</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A07E15B8137F1E666A5F98634F931C21BD92D3B7S.jpg"/>
+  </programme>
+  <programme start="20240626170000 +0000" stop="20240626173000 +0000" channel="ts1031">
+    <title lang="en">Ground Reporter</title>
+    <desc lang="en">Ground Reporter</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70420DDFA11CD9F045FC83EC7D4C19F245DBCEA63.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626180000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts1031">
+    <title lang="en">Big News Big Show</title>
+    <desc lang="en">Big News Big Show</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BB3C657DCD1831CC8E0BBBC874D6328964210E33.jpg"/>
+  </programme>
+</tv>

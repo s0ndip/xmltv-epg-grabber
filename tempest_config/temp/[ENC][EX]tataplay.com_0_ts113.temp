@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts113">
+    <display-name lang="en">Discovery Science</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts113">
+    <title lang="en">Deadliest Tech</title>
+    <desc lang="en">Fighters: America's fighter planes are renowned as the world's deadliest and most dominant aerial assassins. Experts explore the top fighters ever.</desc>
+    <credits>
+      <actor>Rob Naughton</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10B060791E16E08B4320FEAD3C3489378D3D8F30U.jpg"/>
+  </programme>
+  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Mad Max Melee: Using material salvaged from scrap yards, Adam and two colleagues design and build three motorised monsters of destruction, inspired by post-apocalyptic worlds.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts113">
+    <title lang="en">Alaska Mega Machines</title>
+    <desc lang="en">Behemoths Of The Bush: An airport exists in Alaska that is made of nothing but water and ice. Meanwhile, next to a field of moose, 16 missiles stand by to prevent a nuclear disaster.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C48A2E8C3D8EF8C33848B51964E86889201A443C7.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts113">
+    <title lang="en">How The Universe Works</title>
+    <desc lang="en">Battle Of The Dark Universe: Dark matter and energy battle for the cosmos and the winner will determine the universe's fate.</desc>
+    <credits>
+      <actor>Phil Plait</actor>
+      <actor>Michelle Thaller</actor>
+      <actor>Lawrence Krauss</actor>
+      <actor>Richard Lintern</actor>
+      <actor>Mike Rowe</actor>
+      <actor>Erik Todd Dellums</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68FF659ABB0770D281AB11E0D8AD0439D05368540.jpg"/>
+  </programme>
+  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts113">
+    <title lang="en">How The Universe Works</title>
+    <desc lang="en">The Interstellar Mysteries: New discoveries reveal that the universe is not empty and unremarkable as previously thought, but filled with weird objects that might hold the darkest secrets of the cosmos.</desc>
+    <credits>
+      <actor>Phil Plait</actor>
+      <actor>Michelle Thaller</actor>
+      <actor>Lawrence Krauss</actor>
+      <actor>Richard Lintern</actor>
+      <actor>Mike Rowe</actor>
+      <actor>Erik Todd Dellums</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68FF659ABB0770D281AB11E0D8AD0439D05368540.jpg"/>
+  </programme>
+  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts113">
+    <title lang="en">Mysteries Of The Deep</title>
+    <desc lang="en">Nasas Lost Treasure: Jeremy explores the loss of a NASA space capsule deep in the Atlantic. He also studies what is the underwater secret behind ship disappearances in the Devil's Sea.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E84C170FB77B21E9549B9405FF6272FCD717DE6F.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Epic Elements: Experts reveal how pioneers tackle the forces of the universe and face the elements to capture something amazing.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts113">
+    <title lang="en">X-Machines</title>
+    <desc lang="en">Dartagnan Tuhd60 And Sea King: The world's most fearsome dredger races to deepen the Panama Canal. Meanwhile, a telescopic demolition rig devastates a building in the heart of Amsterdam.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD7B46E0B649C84913D920573BCF3B658AA32065Z.jpg"/>
+  </programme>
+  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Revenge Of The Fireflies: Experts try to figure out what is attacking astronaut brains and the appearance of space fireflies, which cause the glowing spiral in the Norway skies.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Crowdpleasers: The presenter counts down the top 20 crowd-pleasing moments of scientific know-how, from close encounters in the wild and the world's fastest skateboarder to a trapeze at 300 feet.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts113">
+    <title lang="en">X-Machines</title>
+    <desc lang="en">Jumbo Javelin Colossus And Menzi Muck: A heavy-lift ship delivers one of the largest pieces of cargo ever. Meanwhile, a transport installs a radio telescope in the highest and driest desert on Earth.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD7B46E0B649C84913D920573BCF3B658AA32065Z.jpg"/>
+  </programme>
+  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Cias Secret Revenge: When the Soviet Union unveils its own space shuttle, the CIA hatches a secret revenge plot.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts113">
+    <title lang="en">Morgan Freeman's Through The Wormhole</title>
+    <desc lang="en">Will Sex Become Extinct: As technology gets closer to making children from two fathers or mothers, the host delves into the possibility of whether sex will become extinct.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+      <actor>Sean Carroll</actor>
+      <actor>Michio Kaku</actor>
+      <actor>Kip Thorne</actor>
+      <actor>Max Tegmark</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D9AC2FD29AAC5EA9C54C0CA629F1C77371B86ED84.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Secret Aliens: Geologists discover alien deposits on the Earth's surface and try to find answers to the greatest extinction in history.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Moguls Of Mahem: Focusing on a theme of carnage and chaos experts explain the science behind experiments like real-life hungry hippos and a firearm symphony shootout.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts113">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Curse Of The Seventh Wonder: The Lighthouse of Alexandria is one of the world's original Seven Wonders but it also could have been home to a mysterious superweapon.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Mad Max Melee: Using material salvaged from scrap yards, Adam and two colleagues design and build three motorised monsters of destruction, inspired by post-apocalyptic worlds.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts113">
+    <title lang="en">Through The Wormhole With Morgan Freeman</title>
+    <desc lang="en">Are Aliens Inside Us: Drops of rain could be bringing visitors from another planet, invading bloodlines or even infecting technology so the host questions if aliens are already inside humans.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39FEE3B30F2971F72CB5092DE4F61AC0F1A57AFDW.jpg"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Stonehenge On Mars: NASA spots a strange structure on the surface of Mars that resembles Stonehenge and investigates what could possibly have created it.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts113">
+    <title lang="en">Invent It Rich</title>
+    <desc lang="en">Marc vets a ratchet tool that gives five times the power with five times the speed, an efficient portable solar cooker, the safest boat in the world and an archery training system.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B4A408171B9249CEDAE1C3BA6C082019357E537Y.jpg"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts113">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Dead Sea Scrolls The Dark Truth: The Dead Sea Scrolls are one of the Holy Land's greatest mysteries but new discoveries may finally reveal the hidden meaning behind the strange texts.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts113">
+    <title lang="en">My Feet Are Killing Me</title>
+    <desc lang="en">Sixth Toe Surprise: Podiatrists meet desperate patients with extreme foot issues and abnormalities and help them change their feet and their lives.</desc>
+    <credits>
+      <actor>Brad Schaeffer</actor>
+      <actor>Ebonie Vincent</actor>
+      <actor>Sarah Haller</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFC65B9BF550754E7F194907718CFF79945B0744V.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts113">
+    <title lang="en">Through The Wormhole With Morgan Freeman</title>
+    <desc lang="en">Do We Live In The Matrix: Explore the theory of the universe not being as real as it seems and delve into some hidden glitches.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39FEE3B30F2971F72CB5092DE4F61AC0F1A57AFDW.jpg"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Cias Secret Revenge: When the Soviet Union unveils its own space shuttle, the CIA hatches a secret revenge plot.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts113">
+    <title lang="en">Deadliest Tech</title>
+    <desc lang="en">Helicopters: The presenter takes a look at some of the fastest and deadliest attack helicopters currently soaring over combat zones.</desc>
+    <credits>
+      <actor>Rob Naughton</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10B060791E16E08B4320FEAD3C3489378D3D8F30U.jpg"/>
+  </programme>
+  <programme start="20240625193000 +0000" stop="20240625203000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Forging Excalibur: Adam wants to build his own version of King Arthur's legendary sword, the Excalibur by using the iron found in a meteorite, he attempts to make this indestructible weapon.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts113">
+    <title lang="en">Richard Hammond's Big</title>
+    <desc lang="en">World Biggest Car Factory: Richard explores Volkswagen's giant car plant in Wolfsburg, Germany. He checks out its futuristic technology and discovers how the mega-factory works.</desc>
+    <credits>
+      <actor>Richard Hammond</actor>
+    </credits>
+    <category lang="en">Engineering</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/547061606BF6B46710529FC59435E1D4B3CFABB6F.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625223000 +0000" channel="ts113">
+    <title lang="en">How The Universe Works</title>
+    <desc lang="en">Cassinis Final Secrets: NASA's Cassini spacecraft reveals the strange secrets of Saturn until it vaporised in its atmosphere in a blaze of glory.</desc>
+    <credits>
+      <actor>Phil Plait</actor>
+      <actor>Michelle Thaller</actor>
+      <actor>Lawrence Krauss</actor>
+      <actor>Richard Lintern</actor>
+      <actor>Mike Rowe</actor>
+      <actor>Erik Todd Dellums</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68FF659ABB0770D281AB11E0D8AD0439D05368540.jpg"/>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625233000 +0000" channel="ts113">
+    <title lang="en">How The Universe Works</title>
+    <desc lang="en">Did The Big Bang Really Happen: As new discoveries cause astronomers to question if the Big Bang really happened, they investigate if it was the start of many mysterious multiverses.</desc>
+    <credits>
+      <actor>Phil Plait</actor>
+      <actor>Michelle Thaller</actor>
+      <actor>Lawrence Krauss</actor>
+      <actor>Richard Lintern</actor>
+      <actor>Mike Rowe</actor>
+      <actor>Erik Todd Dellums</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68FF659ABB0770D281AB11E0D8AD0439D05368540.jpg"/>
+  </programme>
+  <programme start="20240625233000 +0000" stop="20240626003000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Pluto Under Pressure: Lost tapes reveal Apollo astronauts hear unexplained transmissions on the moon, and a strange object in Earth's orbit starts stalking Russian spacecraft.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626013000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Crowdpleasers: The presenter counts down the top 20 crowd-pleasing moments of scientific know-how, from close encounters in the wild and the world's fastest skateboarder to a trapeze at 300 feet.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts113">
+    <title lang="en">X-Machines</title>
+    <desc lang="en">Jumbo Javelin Colossus And Menzi Muck: A heavy-lift ship delivers one of the largest pieces of cargo ever. Meanwhile, a transport installs a radio telescope in the highest and driest desert on Earth.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD7B46E0B649C84913D920573BCF3B658AA32065Z.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Cias Secret Revenge: When the Soviet Union unveils its own space shuttle, the CIA hatches a secret revenge plot.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Moguls Of Mahem: Focusing on a theme of carnage and chaos experts explain the science behind experiments like real-life hungry hippos and a firearm symphony shootout.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts113">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Curse Of The Seventh Wonder: The Lighthouse of Alexandria is one of the world's original Seven Wonders but it also could have been home to a mysterious superweapon.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626063000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Nitro Explodeaganza: Adam and a demolition expert stage a series of daring experiments on one of the world's most dangerous and explosive substances, nitroglycerin.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts113">
+    <title lang="en">Through The Wormhole With Morgan Freeman</title>
+    <desc lang="en">Are Aliens Inside Us: Drops of rain could be bringing visitors from another planet, invading bloodlines or even infecting technology so the host questions if aliens are already inside humans.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39FEE3B30F2971F72CB5092DE4F61AC0F1A57AFDW.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Stonehenge On Mars: NASA spots a strange structure on the surface of Mars that resembles Stonehenge and investigates what could possibly have created it.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">Pure Power: The narrator counts down a number of clips featuring individuals who use all their skills to remove the lid off the Internet, bungee jumps and drones that can fly and swim.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts113">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Dead Sea Scrolls The Dark Truth: The Dead Sea Scrolls are one of the Holy Land's greatest mysteries but new discoveries may finally reveal the hidden meaning behind the strange texts.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Hollywoods Deadliest Weapon: Adam teams up with actor Gary Oldman to build one of Hollywood's deadliest weapons, the ZF1 multi-artillery gun from the science fiction film, The Fifth Element.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts113">
+    <title lang="en">Through The Wormhole With Morgan Freeman</title>
+    <desc lang="en">Do We Live In The Matrix: Explore the theory of the universe not being as real as it seems and delve into some hidden glitches.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39FEE3B30F2971F72CB5092DE4F61AC0F1A57AFDW.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">Cias Secret Revenge: When the Soviet Union unveils its own space shuttle, the CIA hatches a secret revenge plot.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts113">
+    <title lang="en">You Have Been Warned</title>
+    <desc lang="en">No Brainers: Experts explain the science behind excruciating face masks, astonishing snowmobile stunts and also take a look at helicopter stunts with Bob Burnquist.</desc>
+    <credits>
+      <actor>Tim Dadabo</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADC60FB3AB7DC9FB6B55FA48B968741A0EEE653BB.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts113">
+    <title lang="en">What Could Possibly Go Wrong?</title>
+    <desc lang="en">Trash Can Rocketeers: Kevin and Grant push the physics of flight to build the ultimate dustbin rocket.</desc>
+    <credits>
+      <actor>Grant Reynolds</actor>
+      <actor>Kevin Moore</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E702615A64A459BB0BD83C5DFC50D36DD0A03EA3F.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts113">
+    <title lang="en">Savage Builds</title>
+    <desc lang="en">Mega Food Fight: Adam stages an epic food fight with his 'Mythbusters' friend, Tory Belleci. They build a rapid-fire weapon that turns hot dogs into destructive projectiles.</desc>
+    <credits>
+      <actor>Adam Savage</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6652024311C595C6A0E6A3F0EF0BC92B08E0DD8B0.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts113">
+    <title lang="en">Through The Wormhole With Morgan Freeman</title>
+    <desc lang="en">Are We All Bigots: Many humans think they see everyone as equal but no matter how open-minded one believes one is, stereotypes still colour one's judgment of others.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39FEE3B30F2971F72CB5092DE4F61AC0F1A57AFDW.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts113">
+    <title lang="en">NASA's Unexplained Files</title>
+    <desc lang="en">The Moons Strange Secret: Astronauts on the final Apollo mission discover something bizarre on the surface of the Moon. Later, they investigate the strange substance.</desc>
+    <credits>
+      <actor>Erik Dellums</actor>
+    </credits>
+    <category lang="en">Space</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CC7E7A44CA018C929400449EEBBF14370F434A13.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts231">
+    <display-name lang="en">Udaya Movies</display-name>
+  </channel>
+  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts231">
+    <title lang="en">Sindhu</title>
+    <desc lang="en">An unfortunate incident involving men in the past causes Sindhu to detest all men until she meets Chetan. She gradually falls in love with him but her father fixes her marriage with someone else.</desc>
+    <credits>
+      <actor>Sanjay</actor>
+      <actor>Vanishree</actor>
+      <actor>Srinivasamurthy</actor>
+      <actor>Mukyamanthri Chandru</actor>
+      <actor>Bhavyashree Rai</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0FECA7899F4212159A2D65F74062CDB7319427FCU.jpg"/>
+  </programme>
+  <programme start="20240624213000 +0000" stop="20240625003000 +0000" channel="ts231">
+    <title lang="en">Nan Hendthi Madhuve</title>
+    <desc lang="en">Nan Hendthi Madhuve</desc>
+    <credits>
+      <actor>Sa Ra Govindu</actor>
+      <actor>Om Prakash</actor>
+      <actor>Anu Prabhakar</actor>
+      <actor>Ruthika</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE1571DFDC64B37E88E656CA4ECE8E82BAE7B3C5O.jpg"/>
+  </programme>
+  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts231">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C73A55FAAEC6FD93EED425BA5378EE40A634BCEE.jpg"/>
+  </programme>
+  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts231">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C73A55FAAEC6FD93EED425BA5378EE40A634BCEE.jpg"/>
+  </programme>
+  <programme start="20240625013000 +0000" stop="20240625043000 +0000" channel="ts231">
+    <title lang="en">Sakkare</title>
+    <desc lang="en">Neha does not seem to have any luck when it comes to finding love. However, Vinay tries to get her to see the bright side of things.</desc>
+    <credits>
+      <actor>Ganesh</actor>
+      <actor>Deepa Sannidhi</actor>
+      <actor>Ananth Nag</actor>
+      <actor>Anu Prabhakar</actor>
+      <actor>Vinaya Prasad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47B2C2A72E8A563E98BA0B234008AB0FE498D357C.jpg"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625073000 +0000" channel="ts231">
+    <title lang="en">Geetha</title>
+    <desc lang="en">Geetha, a college student who suffers from a mysterious illness, meets Sanjay, a singer who performs at a charity concert in her college, and the two form a close bond.</desc>
+    <credits>
+      <actor>Shankar Nag</actor>
+      <actor>Padmavati Rao</actor>
+      <actor>K. S. Ashwath</actor>
+      <actor>Sowcar Janaki</actor>
+      <actor>Ramesh Bhat</actor>
+      <actor>Shivaram</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2900E10AAAEE2EC561C7A6C42418DFCB5345C30Q.jpg"/>
+  </programme>
+  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts231">
+    <title lang="en">Dasharatha</title>
+    <desc lang="en">Dasharatha, a righteous lawyer, leads a happy life with his wife, son and daughter who gets a job after college. However, trouble begins when his daughter falls in love with her employer.</desc>
+    <credits>
+      <actor>Ravichandran</actor>
+      <actor>Sonia Agarwal</actor>
+      <actor>Abhirami</actor>
+      <actor>Meghashree</actor>
+      <actor>Avinash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F74609966274B9B3263C8897561F9461C600CCD90.jpg"/>
+  </programme>
+  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts231">
+    <title lang="en">Guri</title>
+    <desc lang="en">Kaliprasad, an efficient and dedicated customs officer, is falsely accused of rape after he rejects mafia leader Rudrayya's invitation to participate in illegal activities with him.</desc>
+    <credits>
+      <actor>Rajkumar</actor>
+      <actor>Archana</actor>
+      <actor>Pandari Bai</actor>
+      <actor>Jai Jagadish</actor>
+      <actor>Mukyamanthri Chandru</actor>
+      <actor>Lokanath</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70E94F073EB4DA7881E2FF0D9EC76FE1A9B730BEH.jpg"/>
+  </programme>
+  <programme start="20240625133000 +0000" stop="20240625163000 +0000" channel="ts231">
+    <title lang="en">Rama Shama Bhama</title>
+    <desc lang="en">Rama, a married man, has an affair with Priya who pursues him despite knowing about his wife. When his friend Shama learns of the affair, the latter decides to reunite him with his wife.</desc>
+    <credits>
+      <actor>Kamal Haasan</actor>
+      <actor>Ramesh Aravind</actor>
+      <actor>Shruti</actor>
+      <actor>Daisy Bopanna</actor>
+      <actor>Urvashi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1D1DC64DCE03F47D628DA6FFE89C466DB67856DG.jpg"/>
+  </programme>
+  <programme start="20240625163000 +0000" stop="20240625183000 +0000" channel="ts231">
+    <title lang="en">Prana</title>
+    <desc lang="en">Prana</desc>
+    <credits>
+      <actor>Prem Kumar</actor>
+      <actor>Preethi</actor>
+      <actor>Shobha Chandrashekhar</actor>
+      <actor>Manjunath</actor>
+      <actor>Padmini</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F73C03739E6C079E14A1ECFD20083612E462049EU.jpg"/>
+  </programme>
+  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts231">
+    <title lang="en">Nagabharana</title>
+    <desc lang="en">Gopala makes a living by treating people bitten by snakes. Things turn sour when his wife avoids him after learning that there is a curse on him which will bring death if he gets close with her.</desc>
+    <credits>
+      <actor>Shobhraj</actor>
+      <actor>Srividya</actor>
+      <actor>Rekha Das</actor>
+      <actor>Doddanna</actor>
+      <actor>Shanthamma</actor>
+      <actor>Vaishnavi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4219B2E83172E9E855926DD64127E40FAF55F3A29.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts231">
+    <title lang="en">Rathna Manjari</title>
+    <desc lang="en">Rathna Manjari</desc>
+    <credits>
+      <actor>Udaykumar</actor>
+      <actor>Narasimharaju</actor>
+      <actor>K S Ashwath</actor>
+      <actor>C V Shivashankar</actor>
+      <actor>M P Shankar</actor>
+      <actor>Subbanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F1CB06A4E7981B9E5238FBD541F2AB4DED94DE6C.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts231">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C73A55FAAEC6FD93EED425BA5378EE40A634BCEE.jpg"/>
+  </programme>
+  <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts231">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C73A55FAAEC6FD93EED425BA5378EE40A634BCEE.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626043000 +0000" channel="ts231">
+    <title lang="en">Patela</title>
+    <desc lang="en">Patela, an orphan, is adopted by a rich village couple. Years later, he falls in love with a city woman, Madhu, but she walks out on him after learning that he is illiterate.</desc>
+    <credits>
+      <actor>Jaggesh</actor>
+      <actor>Payal Malhotra</actor>
+      <actor>Lokesh</actor>
+      <actor>Jayanthi</actor>
+      <actor>Tennis Krishna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFA5080B1B57E77F32D22EAA33CCDD83546D5642S.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626073000 +0000" channel="ts231">
+    <title lang="en">Ambari</title>
+    <desc lang="en">Dhanu, a cobbler leads a simple life, away from any form of affection. Life becomes miraculously different for Dhanu once he meets Saraswathi.</desc>
+    <credits>
+      <actor>Yogish</actor>
+      <actor>Supritha</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Petrol Prasanna</actor>
+      <actor>Sandeep</actor>
+      <actor>Kishori Ballal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/02B2BDA9BB416EC89FF0B94A99151AC680675D16U.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626103000 +0000" channel="ts231">
+    <title lang="en">Jai Lalitha</title>
+    <desc lang="en">A young man falls in love with Lalitha and convinces his uncle to meet her. However, on the day of the meeting, Lalitha leaves for Mumbai.</desc>
+    <credits>
+      <actor>Sharan</actor>
+      <actor>Ravishankar Gowda</actor>
+      <actor>Disha Pandey</actor>
+      <actor>Aishwarya Devan</actor>
+      <actor>Harish Raj</actor>
+      <actor>Sayaji Shinde</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF62830B7A6C02F58F4C35F123A8C3D8B4D45FD5K.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626133000 +0000" channel="ts231">
+    <title lang="en">Samyuktha</title>
+    <desc lang="en">A young man falls in love with a girl and will go to any extent to prove his love for her. However, things take a turn when he is challenged to stay in a haunted house.</desc>
+    <credits>
+      <actor>Shivaraj Kumar</actor>
+      <actor>Veena</actor>
+      <actor>Chi Guru Dutt</actor>
+      <actor>Balaraj</actor>
+      <actor>K. S. Ashwath</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F52D911975D9C15E1D9C00A57C7439490FB80D29G.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626163000 +0000" channel="ts231">
+    <title lang="en">Ekadantha</title>
+    <desc lang="en">Vakky ventures on a pilgrimage to Ganapathipura with his wife to fulfil a promise he made to his father. On the way, they meet many peculiar people that make their journey enjoyable.</desc>
+    <credits>
+      <actor>Vishnuvardhan</actor>
+      <actor>Ramesh Aravind</actor>
+      <actor>Prema</actor>
+      <actor>Ramesh Bhat</actor>
+      <actor>Mimicry Dayanand</actor>
+      <actor>Umashree</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3E72F01BB86B6CEE869828D40C5149A57B0D0861.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626183000 +0000" channel="ts231">
+    <title lang="en">Gharshane</title>
+    <desc lang="en">Gharshane</desc>
+    <credits>
+      <actor>Vishnuvardhan</actor>
+      <actor>Anitha</actor>
+      <actor>Avinash</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78A83067356227DDD056D06AB7D20DD396227414V.jpg"/>
+  </programme>
+</tv>
