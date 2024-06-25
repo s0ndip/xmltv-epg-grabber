@@ -40,7 +40,7 @@ def compress_file(file_name):
 
 # URLs of the EPG files
 urls = [
-    'https://s0ndip.github.io/personal.epg.grabber/tempest_config/epg/tempest.xml.gz',
+    'https://s0ndip.github.io/automated.epg.grabber/tempest_config/epg/tempest.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/in.xml.gz'
 ]
 
