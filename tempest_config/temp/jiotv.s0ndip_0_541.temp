@@ -3,246 +3,6 @@
   <channel id="541">
     <display-name lang="en">Discovery Turbo</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625065200 +0530" channel="541">
-    <title lang="en">Wheeler Dealers</title>
-    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
-    <credits>
-      <director>Warren Green</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541007.jpg"/>
-  </programme>
-  <programme start="20240625065200 +0530" stop="20240625074400 +0530" channel="541">
-    <title lang="en">Street Outlaws: Memphis</title>
-    <desc lang="en">JJ Da Boss, from Memphis, USA, alongside his family and friends who have a decade-long history in street racing, welcomes the challengers who are tyring to beat them in a race.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541008.jpg"/>
-  </programme>
-  <programme start="20240625074400 +0530" stop="20240625083600 +0530" channel="541">
-    <title lang="en">Garage Squad</title>
-    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
-    <credits>
-      <director>Ted Lega</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541009.jpg"/>
-  </programme>
-  <programme start="20240625083600 +0530" stop="20240625092800 +0530" channel="541">
-    <title lang="en">Wheeler Dealers</title>
-    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
-    <credits>
-      <director>Warren Green</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541010.jpg"/>
-  </programme>
-  <programme start="20240625092800 +0530" stop="20240625102000 +0530" channel="541">
-    <title lang="en">Street Outlaws: Memphis</title>
-    <desc lang="en">JJ Da Boss, from Memphis, USA, alongside his family and friends who have a decade-long history in street racing, welcomes the challengers who are tyring to beat them in a race.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541011.jpg"/>
-  </programme>
-  <programme start="20240625102000 +0530" stop="20240625111200 +0530" channel="541">
-    <title lang="en">Garage Squad</title>
-    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
-    <credits>
-      <director>Ted Lega</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541012.jpg"/>
-  </programme>
-  <programme start="20240625111200 +0530" stop="20240625120400 +0530" channel="541">
-    <title lang="en">Diesel Brothers</title>
-    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
-    <credits>
-      <director>Eric G Duncan</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541013.jpg"/>
-  </programme>
-  <programme start="20240625120400 +0530" stop="20240625125600 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541014.jpg"/>
-  </programme>
-  <programme start="20240625125600 +0530" stop="20240625134800 +0530" channel="541">
-    <title lang="en">Roadkill</title>
-    <desc lang="en">The hosts, David Freiburger and Mike Finnegan, journey across the country to track down worn out gassers, hot-rods and muscle cars and then push them past their limits.</desc>
-    <credits>
-      <director>Bradford Alicea</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541015.jpg"/>
-  </programme>
-  <programme start="20240625134800 +0530" stop="20240625144000 +0530" channel="541">
-    <title lang="en">Wheeler Dealers</title>
-    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
-    <credits>
-      <director>Warren Green</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541016.jpg"/>
-  </programme>
-  <programme start="20240625144000 +0530" stop="20240625153200 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541017.jpg"/>
-  </programme>
-  <programme start="20240625153200 +0530" stop="20240625162400 +0530" channel="541">
-    <title lang="en">Last Chance Garage</title>
-    <desc lang="en">Highly skilled technicians and engineers endeavour to fulfil the difficult task of restoring vehicles that have fallen into disrepair and malfunction.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541018.jpg"/>
-  </programme>
-  <programme start="20240625162400 +0530" stop="20240625171600 +0530" channel="541">
-    <title lang="en">Diesel Brothers</title>
-    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
-    <credits>
-      <director>Eric G Duncan</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541019.jpg"/>
-  </programme>
-  <programme start="20240625171600 +0530" stop="20240625180800 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541020.jpg"/>
-  </programme>
-  <programme start="20240625180800 +0530" stop="20240625190000 +0530" channel="541">
-    <title lang="en">American Chopper</title>
-    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
-    <credits>
-      <director>Ivan Dudynsky</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541021.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625195200 +0530" channel="541">
-    <title lang="en">Wheeler Dealers</title>
-    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
-    <credits>
-      <director>Warren Green</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541022.jpg"/>
-  </programme>
-  <programme start="20240625195200 +0530" stop="20240625204400 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541023.jpg"/>
-  </programme>
-  <programme start="20240625204400 +0530" stop="20240625213600 +0530" channel="541">
-    <title lang="en">Garage Squad</title>
-    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
-    <credits>
-      <director>Ted Lega</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541024.jpg"/>
-  </programme>
-  <programme start="20240625213600 +0530" stop="20240625222800 +0530" channel="541">
-    <title lang="en">Diesel Brothers</title>
-    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
-    <credits>
-      <director>Eric G Duncan</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541025.jpg"/>
-  </programme>
-  <programme start="20240625222800 +0530" stop="20240625232000 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541026.jpg"/>
-  </programme>
-  <programme start="20240625232000 +0530" stop="20240626000000 +0530" channel="541">
-    <title lang="en">American Chopper</title>
-    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
-    <credits>
-      <director>Ivan Dudynsky</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625541027.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626001200 +0530" channel="541">
-    <title lang="en">American Chopper</title>
-    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
-    <credits>
-      <director>Ivan Dudynsky</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541000.jpg"/>
-  </programme>
-  <programme start="20240626001200 +0530" stop="20240626010400 +0530" channel="541">
-    <title lang="en">Wheeler Dealers</title>
-    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
-    <credits>
-      <director>Warren Green</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541001.jpg"/>
-  </programme>
-  <programme start="20240626010400 +0530" stop="20240626020000 +0530" channel="541">
-    <title lang="en">Street Outlaws</title>
-    <desc lang="en">Oklahoma City's street racers participate in a contest to showcase their driving skills and compete against each other to win the title.</desc>
-    <credits>
-      <director>Steve Korkis</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541002.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="541">
-    <title lang="en">Texas Metal</title>
-    <desc lang="en">Bill Carlton and his team build customised trucks and cars for their clients from all around the country using ordinary materials.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541003.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="541">
-    <title lang="en">Diesel Brothers</title>
-    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
-    <credits>
-      <director>Eric G Duncan</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541004.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="541">
-    <title lang="en">Iron Resurrection</title>
-    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
-    <credits>
-      <director>James Conant</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541005.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="541">
-    <title lang="en">Roadkill</title>
-    <desc lang="en">The hosts, David Freiburger and Mike Finnegan, journey across the country to track down worn out gassers, hot-rods and muscle cars and then push them past their limits.</desc>
-    <credits>
-      <director>Bradford Alicea</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541006.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626065200 +0530" channel="541">
     <title lang="en">Wheeler Dealers</title>
     <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
@@ -413,5 +173,344 @@
     </credits>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541026.jpg"/>
+  </programme>
+  <programme start="20240626232000 +0530" stop="20240627000000 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626541027.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627001200 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541000.jpg"/>
+  </programme>
+  <programme start="20240627001200 +0530" stop="20240627010400 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541001.jpg"/>
+  </programme>
+  <programme start="20240627010400 +0530" stop="20240627020000 +0530" channel="541">
+    <title lang="en">Street Outlaws</title>
+    <desc lang="en">Oklahoma City's street racers participate in a contest to showcase their driving skills and compete against each other to win the title.</desc>
+    <credits>
+      <director>Steve Korkis</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541002.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="541">
+    <title lang="en">Texas Metal</title>
+    <desc lang="en">Bill Carlton and his team build customised trucks and cars for their clients from all around the country using ordinary materials.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541003.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="541">
+    <title lang="en">Diesel Brothers</title>
+    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541004.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541005.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="541">
+    <title lang="en">Roadkill</title>
+    <desc lang="en">The hosts, David Freiburger and Mike Finnegan, journey across the country to track down worn out gassers, hot-rods and muscle cars and then push them past their limits.</desc>
+    <credits>
+      <director>Bradford Alicea</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541006.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627065200 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541007.jpg"/>
+  </programme>
+  <programme start="20240627065200 +0530" stop="20240627074400 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541008.jpg"/>
+  </programme>
+  <programme start="20240627074400 +0530" stop="20240627083600 +0530" channel="541">
+    <title lang="en">Last Chance Garage</title>
+    <desc lang="en">Highly skilled technicians and engineers endeavour to fulfil the difficult task of restoring vehicles that have fallen into disrepair and malfunction.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541009.jpg"/>
+  </programme>
+  <programme start="20240627083600 +0530" stop="20240627092800 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541010.jpg"/>
+  </programme>
+  <programme start="20240627092800 +0530" stop="20240627102000 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541011.jpg"/>
+  </programme>
+  <programme start="20240627102000 +0530" stop="20240627111200 +0530" channel="541">
+    <title lang="en">Garage Squad</title>
+    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
+    <credits>
+      <director>Ted Lega</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541012.jpg"/>
+  </programme>
+  <programme start="20240627111200 +0530" stop="20240627120400 +0530" channel="541">
+    <title lang="en">Diesel Brothers</title>
+    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541013.jpg"/>
+  </programme>
+  <programme start="20240627120400 +0530" stop="20240627125600 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541014.jpg"/>
+  </programme>
+  <programme start="20240627125600 +0530" stop="20240627134800 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541015.jpg"/>
+  </programme>
+  <programme start="20240627134800 +0530" stop="20240627144000 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541016.jpg"/>
+  </programme>
+  <programme start="20240627144000 +0530" stop="20240627153200 +0530" channel="541">
+    <title lang="en">Texas Metal</title>
+    <desc lang="en">Bill Carlton and his team build customised trucks and cars for their clients from all around the country using ordinary materials.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541017.jpg"/>
+  </programme>
+  <programme start="20240627153200 +0530" stop="20240627162400 +0530" channel="541">
+    <title lang="en">Garage Squad</title>
+    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
+    <credits>
+      <director>Ted Lega</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541018.jpg"/>
+  </programme>
+  <programme start="20240627162400 +0530" stop="20240627171600 +0530" channel="541">
+    <title lang="en">Diesel Brothers</title>
+    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541019.jpg"/>
+  </programme>
+  <programme start="20240627171600 +0530" stop="20240627180800 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541020.jpg"/>
+  </programme>
+  <programme start="20240627180800 +0530" stop="20240627190000 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541021.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627195200 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541022.jpg"/>
+  </programme>
+  <programme start="20240627195200 +0530" stop="20240627204400 +0530" channel="541">
+    <title lang="en">Roadkill</title>
+    <desc lang="en">The hosts, David Freiburger and Mike Finnegan, journey across the country to track down worn out gassers, hot-rods and muscle cars and then push them past their limits.</desc>
+    <credits>
+      <director>Bradford Alicea</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541023.jpg"/>
+  </programme>
+  <programme start="20240627204400 +0530" stop="20240627213600 +0530" channel="541">
+    <title lang="en">Garage Squad</title>
+    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
+    <credits>
+      <director>Ted Lega</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541024.jpg"/>
+  </programme>
+  <programme start="20240627213600 +0530" stop="20240627222800 +0530" channel="541">
+    <title lang="en">Diesel Brothers</title>
+    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541025.jpg"/>
+  </programme>
+  <programme start="20240627222800 +0530" stop="20240627232000 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541026.jpg"/>
+  </programme>
+  <programme start="20240627232000 +0530" stop="20240628000000 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627541027.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628001200 +0530" channel="541">
+    <title lang="en">American Chopper</title>
+    <desc lang="en">A group of specialists builds and customises some of the most innovative motorcycles for various celebrities and enthusiasts.</desc>
+    <credits>
+      <director>Ivan Dudynsky</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541000.jpg"/>
+  </programme>
+  <programme start="20240628001200 +0530" stop="20240628010400 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541001.jpg"/>
+  </programme>
+  <programme start="20240628010400 +0530" stop="20240628020000 +0530" channel="541">
+    <title lang="en">Street Outlaws</title>
+    <desc lang="en">Oklahoma City's street racers participate in a contest to showcase their driving skills and compete against each other to win the title.</desc>
+    <credits>
+      <director>Steve Korkis</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541002.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="541">
+    <title lang="en">Texas Metal</title>
+    <desc lang="en">Bill Carlton and his team build customised trucks and cars for their clients from all around the country using ordinary materials.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541003.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="541">
+    <title lang="en">Diesel Brothers</title>
+    <desc lang="en">Automobile experts and their crew restore and repair diesel-powered vehicles while also designing and building different trucks.</desc>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541004.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541005.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="541">
+    <title lang="en">Roadkill</title>
+    <desc lang="en">The hosts, David Freiburger and Mike Finnegan, journey across the country to track down worn out gassers, hot-rods and muscle cars and then push them past their limits.</desc>
+    <credits>
+      <director>Bradford Alicea</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541006.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628065200 +0530" channel="541">
+    <title lang="en">Wheeler Dealers</title>
+    <desc lang="en">Automobile enthusiasts embark on a mission to restore various cars to their original condition and sell them to a new owner.</desc>
+    <credits>
+      <director>Warren Green</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541007.jpg"/>
+  </programme>
+  <programme start="20240628065200 +0530" stop="20240628074400 +0530" channel="541">
+    <title lang="en">Iron Resurrection</title>
+    <desc lang="en">A gang of vehicle lovers headed by Joe Martin work hard towards giving rusted and damaged vehicles a second chance at life.</desc>
+    <credits>
+      <director>James Conant</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541008.jpg"/>
+  </programme>
+  <programme start="20240628074400 +0530" stop="20240628083600 +0530" channel="541">
+    <title lang="en">Garage Squad</title>
+    <desc lang="en">A group of mechanics set out to transform the project cars of common people into reality. They also provide expert advice to maintain the finished product.</desc>
+    <credits>
+      <director>Ted Lega</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628541009.jpg"/>
   </programme>
 </tv>

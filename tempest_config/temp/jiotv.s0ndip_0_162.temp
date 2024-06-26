@@ -3,120 +3,6 @@
   <channel id="162">
     <display-name lang="en">Sony Ten 1 HD</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625083000 +0530" channel="162">
-    <title lang="en">WWE Raw Live</title>
-    <desc lang="en">Professional wrestlers compete against each other in a prestigious tournament to emerge victorious and win the coveted title, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162007.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="162">
-    <title lang="en">RAW Talk Live</title>
-    <desc lang="en">The hosts talk to the superstars of WWE Raw about their performances and their preparations for the upcoming matches, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="162">
-    <title lang="en">UEFA Euro 2024 HLs</title>
-    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162009.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625121500 +0530" channel="162">
-    <title lang="en">UFC 2023-24</title>
-    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between William Gomis and Yanis Ghemmouri here, only on Sony LIV.</desc>
-    <credits>
-      <director>Kevin Dunn</director>
-    </credits>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162010.jpg"/>
-  </programme>
-  <programme start="20240625121500 +0530" stop="20240625150000 +0530" channel="162">
-    <title lang="en">UFC 2023-24</title>
-    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Volkan Oezdemir and Bogdan Guskov here, only on Sony LIV.</desc>
-    <credits>
-      <director>Kevin Dunn</director>
-    </credits>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162011.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625174500 +0530" channel="162">
-    <title lang="en">UFC 2023-24</title>
-    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Manon Fiorot and Rose Namajunas here, only on Sony LIV.</desc>
-    <credits>
-      <director>Kevin Dunn</director>
-    </credits>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162012.jpg"/>
-  </programme>
-  <programme start="20240625174500 +0530" stop="20240625203000 +0530" channel="162">
-    <title lang="en">UFC 2023-24</title>
-    <desc lang="en">Catch all the highlights of the UFC 294 - Makhachev vs Alex Volkanovski 2 here, only on Sony LIV.</desc>
-    <credits>
-      <director>Kevin Dunn</director>
-    </credits>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162013.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625213000 +0530" channel="162">
-    <title lang="en">Football Extraaa Live</title>
-    <desc lang="en">Experts analyse the performance of clubs playing in a professional football tournament, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162014.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625231500 +0530" channel="162">
-    <title lang="en">UEFA EURO 2024 Live</title>
-    <desc lang="en">Professional football teams compete against each other in the 2024 UEFA European Football Championship in a bid to emerge victorious, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162015.jpg"/>
-  </programme>
-  <programme start="20240625231500 +0530" stop="20240626000000 +0530" channel="162">
-    <title lang="en">Football Extraaa Live</title>
-    <desc lang="en">Experts analyse the performance of clubs playing in a professional football tournament, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625162016.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="162">
-    <title lang="en">Football Extraaa Live</title>
-    <desc lang="en">Experts analyse the performance of clubs playing in a professional football tournament, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626021500 +0530" channel="162">
-    <title lang="en">UEFA EURO 2024 Live</title>
-    <desc lang="en">Professional football teams compete against each other in the 2024 UEFA European Football Championship in a bid to emerge victorious, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162001.jpg"/>
-  </programme>
-  <programme start="20240626021500 +0530" stop="20240626030000 +0530" channel="162">
-    <title lang="en">Football Extraaa Live</title>
-    <desc lang="en">Experts analyse the performance of clubs playing in a professional football tournament, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="162">
-    <title lang="en">The People's Champion</title>
-    <desc lang="en">A comprehensive compilation of some of the greatest matches and achievements of former professional wrestler Dwayne Johnson.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162003.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="162">
-    <title lang="en">UEFA Euro 2024 HLs</title>
-    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162004.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="162">
-    <title lang="en">Extreme E: Electric Odyssey 2024</title>
-    <desc lang="en">Professional drivers compete against each other in the 2024 edition of the Extreme E Championship to win the prestigious title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162005.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626053000 +0530" channel="162">
-    <title lang="en">FORMULA E 2024 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Formula E World Championship, a motorsport tournament for electric cars, are presented.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162006.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626073000 +0530" channel="162">
     <title lang="en">WWE NXT Live</title>
     <desc lang="en">Professionals from all over the world compete against each other in the NXT, a prominent wrestling competition, to win the title, live.</desc>
@@ -200,5 +86,248 @@
     <desc lang="en">Professional football teams compete against each other in the 2024 UEFA European Football Championship in a bid to emerge victorious, live.</desc>
     <category lang="en">Sport</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162020.jpg"/>
+  </programme>
+  <programme start="20240626231500 +0530" stop="20240627000000 +0530" channel="162">
+    <title lang="en">Football Extraaa Live</title>
+    <desc lang="en">Experts analyse the performance of clubs playing in a professional football tournament, live.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626162021.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Fiziev vs Gamrot here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627021500 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between William Gomis and Yanis Ghemmouri here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162001.jpg"/>
+  </programme>
+  <programme start="20240627021500 +0530" stop="20240627030000 +0530" channel="162">
+    <title lang="en">Hyundai Archery World Cup 2023</title>
+    <desc lang="en">Watch all the highlights from the finals of the Women's Compound event final at the Hyundai Archery World Cup 2023 here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between William Gomis and Yanis Ghemmouri here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162003.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC 293 - Adesanya vs Strickland here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162004.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC 295 - Prochazka vs Pereira here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162005.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627053000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Morgan Charriere and Manolo Zecchini here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162006.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="162">
+    <title lang="en">SAIL GP 2023-24</title>
+    <desc lang="en">Watch the latest episode of Sail GP Season 4 as we explore the world's most exciting water racing across four continents, exclusively on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162007.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Fiziev vs Gamrot here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162008.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627083000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC 295 - Prochazka vs Pereira here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162009.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Fiziev vs Gamrot here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162010.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">In this edition of UFC Countdown, we delve into the highly anticipated UFC 296 where the competition takes place in Nevada, United States. Catch all the action from this episode here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162011.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627113000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Gane vs Spivac here, only on Sony LIV.</desc>
+    <credits>
+      <director>Kevin Dunn</director>
+    </credits>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162012.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between William Gomis and Yanis Ghemmouri here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162013.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Song and Gutierrez here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162014.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627143000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC 295 - Prochazka vs Pereira here, only on Sony LIV.</desc>
+    <credits>
+      <director>Kevin Dunn</director>
+    </credits>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162015.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627153000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Gane vs Spivac here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162016.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC 293 - Adesanya vs Strickland here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162017.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627180000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Song and Gutierrez here, only on Sony LIV.</desc>
+    <credits>
+      <director>Kevin Dunn</director>
+    </credits>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162018.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Catch all the highlights of the UFC Fight Night - Fiziev vs Gamrot here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162019.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Ciryl Gane and Sergey Spivak here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162020.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627233000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Volkan Oezdemir and Bogdan Guskov here, only on Sony LIV.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162021.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="162">
+    <title lang="en">UFC 2023-24</title>
+    <desc lang="en">Watch all the highlights from the UFC Fight Night fixture between Song and Gutierrez here, only on Sony LIV.</desc>
+    <credits>
+      <director>Kevin Dunn</director>
+      <actor>Nic Nemeth</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>Paul Wight</actor>
+    </credits>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627162022.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="162">
+    <title lang="en">WWE SmackDown</title>
+    <desc lang="en">A professional wrestling tournament, wherein the world's best wrestlers compete against each other to win the coveted title.</desc>
+    <credits>
+      <director>Kevin Dunn</director>
+      <actor>Nic Nemeth</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>Paul Wight</actor>
+    </credits>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628023000 +0530" channel="162">
+    <title lang="en">Extreme E 2024 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Extreme E Championship, where professional drivers compete against each other to win the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162003.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162004.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="162">
+    <title lang="en">The People's Champion</title>
+    <desc lang="en">A comprehensive compilation of some of the greatest matches and achievements of former professional wrestler Dwayne Johnson.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162005.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162006.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="162">
+    <title lang="en">Mobil 1 The Grid 2024</title>
+    <desc lang="en">The hosts present the latest stories, behind-the-scenes moments and interviews with renowned drivers from the world of motorsports in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162007.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628053000 +0530" channel="162">
+    <title lang="en">FORMULA E 2024 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Formula E World Championship, a motorsport tournament for electric cars, are presented.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162008.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162009.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="162">
+    <title lang="en">UEFA Euro 2024 HLs</title>
+    <desc lang="en">Highlights from the 2024 edition of the UEFA European Football Championship, wherein football teams compete for the title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162010.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628083000 +0530" channel="162">
+    <title lang="en">WWE Specials Clash At The Castle 2024 HLs</title>
+    <desc lang="en">Highlights of professional wrestlers competing against each other in the 2024 edition of the WWE Clash at the Castle event in a bid to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162011.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628093000 +0530" channel="162">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">A compilation of highlights of various matches of 'Raw' and 'SmackDown' franchises and interviews of professional wrestlers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628162012.jpg"/>
   </programme>
 </tv>

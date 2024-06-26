@@ -3,115 +3,7 @@
   <channel id="ts810">
     <display-name lang="en">Zee Picchar</display-name>
   </channel>
-  <programme start="20240624183500 +0000" stop="20240624213000 +0000" channel="ts810">
-    <title lang="en">Hosa Kavya</title>
-    <desc lang="en">Hosa Kavya</desc>
-    <credits>
-      <actor>Tiger Prabhakar</actor>
-      <actor>Lakshmi</actor>
-      <actor>Aishwarya</actor>
-      <actor>Vinod Alva</actor>
-      <actor>Ramesh Bhat</actor>
-      <actor>Sudhir</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB87E8DB1E3CF0DEDFE1D1DF23248A354D952711B.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240625010000 +0000" channel="ts810">
-    <title lang="en">College College</title>
-    <desc lang="en">Naveen helps his fellow college student Namritha overcome her dark past.</desc>
-    <credits>
-      <actor>Namratha</actor>
-      <actor>Sharan</actor>
-      <actor>Madan Adithya</actor>
-      <actor>M S Umesh</actor>
-      <actor>Vanitha Vasu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D93706AB020246A866402AA19D91C5AF39B7C332U.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts810">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts810">
-    <title lang="en">Picchar Morning Hits</title>
-    <desc lang="en">A comprehensive compilation of melodious and peppy regional songs.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2F1E4C7F256EB67D2E79878AC07BCD66687E22CD.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts810">
-    <title lang="en">Picchar Story</title>
-    <desc lang="en">Picchar Story E45.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169499AD10962DCDE3B645E3E7EF2378A4E7A9770.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625062800 +0000" channel="ts810">
-    <title lang="en">Ka Pae Ranasingam</title>
-    <desc lang="en">A poor woman fights the corrupt Indian bureaucracy to bring her dead husband's body home.</desc>
-    <credits>
-      <actor>Vijay Sethupathi</actor>
-      <actor>Aishwarya Rajesh</actor>
-      <actor>Rangaraj Pandey</actor>
-      <actor>Munishkanth</actor>
-      <actor>Vela Ramamoorthy</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E30255F35F6AE226B7E6960C46480230D035E82DX.jpg"/>
-  </programme>
-  <programme start="20240625062800 +0000" stop="20240625092800 +0000" channel="ts810">
-    <title lang="en">Shravani Subramanya</title>
-    <desc lang="en">Subramanya helps Shravani to escape from the clutches of her boyfriend who is a thug.</desc>
-    <credits>
-      <actor>Ganesh</actor>
-      <actor>Amulaya</actor>
-      <actor>Ananth Nag</actor>
-      <actor>Tara</actor>
-      <actor>Avinash</actor>
-      <actor>Yashas</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A61F4A14B3D2DDB94176EC0399B9DEFBDB6A301F9.jpg"/>
-  </programme>
-  <programme start="20240625092800 +0000" stop="20240625122600 +0000" channel="ts810">
-    <title lang="en">Kallara Santhe</title>
-    <desc lang="en">A dejected man who is on the verge of committing suicide undergoes a life-changing event.</desc>
-    <credits>
-      <actor>Naveen Kumar Gowda</actor>
-      <actor>Haripriya</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE2E05ED760F62ADF56C6A74BD08C1E9DB45A22ES.jpg"/>
-  </programme>
-  <programme start="20240625122600 +0000" stop="20240625153000 +0000" channel="ts810">
-    <title lang="en">Drishya 2</title>
-    <desc lang="en">New clues in a murder case send Rajendra and his family on an erratic hustle to escape.</desc>
-    <credits>
-      <actor>Ravichandran</actor>
-      <actor>Navya Nair</actor>
-      <actor>Aarohi Narayan</actor>
-      <actor>Unnathi</actor>
-      <actor>Prabhu</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2A3806111BB76177B99D569822300BCBD6BE2EFQ.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625183000 +0000" channel="ts810">
-    <title lang="en">100</title>
-    <desc lang="en">A young policeman's life takes an unusual turn after he begins working in a control room.</desc>
-    <credits>
-      <actor>Atharvaa</actor>
-      <actor>Hansika Motwani</actor>
-      <actor>Radha Ravi</actor>
-      <actor>Raaj Aiyyappa</actor>
-      <actor>Yogi Babu</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B0225DF0AC97C3BA57CC3A57020933C8235E4096.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts810">
+  <programme start="20240625183000 +0000" stop="20240625204000 +0000" channel="ts810">
     <title lang="en">Uyyale</title>
     <desc lang="en">Radha, the wife of a negligent man, forms a rare bond with her husband's cousin, Krishna.</desc>
     <credits>
@@ -124,7 +16,13 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F430EFC09D10BF21BDCEA77742ABB72E52D7F279S.jpg"/>
   </programme>
-  <programme start="20240625213000 +0000" stop="20240626010000 +0000" channel="ts810">
+  <programme start="20240625204000 +0000" stop="20240625213000 +0000" channel="ts810">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625213000 +0000" stop="20240625232500 +0000" channel="ts810">
     <title lang="en">Kurunadu</title>
     <desc lang="en">Suruchi tries to change the fate of the people belonging to Kurunadu, a remote island.</desc>
     <credits>
@@ -135,11 +33,17 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00131E57C2002C5F41CB4DA7242C89F40FB86FC99.jpg"/>
   </programme>
+  <programme start="20240625232500 +0000" stop="20240626010000 +0000" channel="ts810">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts810">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <title lang="en">T W R Daivanveshane</title>
+    <desc lang="en">The host presents a large range of consumer products from popular brands to be purchased.</desc>
     <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C21C1BC9B4A37C94825D20DC1F812F2BA1455CE7.jpg"/>
   </programme>
   <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts810">
     <title lang="en">Picchar Morning Hits</title>
@@ -149,11 +53,11 @@
   </programme>
   <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts810">
     <title lang="en">Picchar Story</title>
-    <desc lang="en">Picchar Story E51.</desc>
+    <desc lang="en">Picchar Story E46.</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169499AD10962DCDE3B645E3E7EF2378A4E7A9770.jpg"/>
   </programme>
-  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts810">
+  <programme start="20240626033000 +0000" stop="20240626062700 +0000" channel="ts810">
     <title lang="en">Thutturi</title>
     <desc lang="en">Some children transform a vacant land belonging to an old man into a beautiful playground.</desc>
     <credits>
@@ -166,7 +70,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B6BA292F0ACD32CFDE1B4A4EA4C8133768B9B0FV.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts810">
+  <programme start="20240626062700 +0000" stop="20240626093000 +0000" channel="ts810">
     <title lang="en">Sri Ramachandra</title>
     <desc lang="en">Srirama's spirit possesses his twin to exact revenge on his greedy manager.</desc>
     <credits>
@@ -220,5 +124,116 @@
     </credits>
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BD8CFF2A534307C77B4375C2AACEDC1E09E36AEA.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626213000 +0000" channel="ts810">
+    <title lang="en">Eesha</title>
+    <desc lang="en">Eesha faces challenges when an evil man sets his eyes on the girl he loves.</desc>
+    <credits>
+      <actor>Tara</actor>
+      <actor>Dheeraj</actor>
+      <actor>Neetha</actor>
+      <actor>K Musthafa</actor>
+      <actor>Aravind</actor>
+      <actor>Anil Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB54B8E678526B8C139CD2A7CC663DAD86E87A238.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627010000 +0000" channel="ts810">
+    <title lang="en">Grahana</title>
+    <desc lang="en">A Brahmin's son, Puttaswamy, is exiled to live with the Dalits for helping them.</desc>
+    <credits>
+      <actor>Anand Paricharan</actor>
+      <actor>G K Govindarao</actor>
+      <actor>Malathi Rao</actor>
+      <actor>Venkataramane Gowda</actor>
+      <actor>Mallika Issak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9BBE9AE2792A1EB57ACE88B379B1BEEBF8222D1J.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts810">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627023000 +0000" channel="ts810">
+    <title lang="en">Picchar Morning Hits</title>
+    <desc lang="en">A comprehensive compilation of melodious and peppy regional songs.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2F1E4C7F256EB67D2E79878AC07BCD66687E22CD.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts810">
+    <title lang="en">Picchar Story</title>
+    <desc lang="en">Picchar Story E52.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169499AD10962DCDE3B645E3E7EF2378A4E7A9770.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts810">
+    <title lang="en">Kismat</title>
+    <desc lang="en">Vijay's life changes as he elopes with his girlfriend, with a loan shark hot on his heels.</desc>
+    <credits>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Sonu Gowda</actor>
+      <actor>Naveen Krishna</actor>
+      <actor>Chikkanna</actor>
+      <actor>Girish Shivanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/216DC185E2FBDDC18AA28D36D30CE179E18B75937.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts810">
+    <title lang="en">Indina Ramayana</title>
+    <desc lang="en">A family falls apart after Bharath claims his brother's wife is a prostitute.</desc>
+    <credits>
+      <actor>Vishnuvardhan</actor>
+      <actor>Gayathri</actor>
+      <actor>Sridhar</actor>
+      <actor>Tulasi</actor>
+      <actor>C. R. Simha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/154263CBA24CE21C6EC5DF9E060EBBB0EC86565BK.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts810">
+    <title lang="en">O Premavee</title>
+    <desc lang="en">Prema and Raja fall in love but their union is opposed by her father.</desc>
+    <credits>
+      <actor>Ravichandran</actor>
+      <actor>Rambha</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Srihari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D535FB593A089430FC29D5BB3731FE3A3301B8AF.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts810">
+    <title lang="en">Kasthuri Mahal</title>
+    <desc lang="en">Upon discovering a mysterious book, an inquisitive archaeologist lands in trouble.</desc>
+    <credits>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Skanda Ashok</actor>
+      <actor>Shruti Prakash</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Kaashima Rafi</actor>
+      <actor>Kempegowda</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50AE815E471B9F3F3D427B22B7ABAAF426C30A46I.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627183000 +0000" channel="ts810">
+    <title lang="en">F3: Fun and Frustration</title>
+    <desc lang="en">Venky and Varun plan to get rich wives, but they fall into the trap of their own making.</desc>
+    <credits>
+      <actor>Venkatesh</actor>
+      <actor>Varun Tej</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Murali Sharma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9B08B2C2778B94E648A97CC89CCDD5C89208CF9X.jpg"/>
   </programme>
 </tv>

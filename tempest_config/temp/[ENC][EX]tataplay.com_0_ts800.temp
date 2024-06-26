@@ -3,167 +3,6 @@
   <channel id="ts800">
     <display-name lang="en">Shemaroo MarathiBana</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624203000 +0000" channel="ts800">
-    <title lang="en">Movie - Kokanastha</title>
-    <desc lang="en">Ramchandra Gokhale sets out to avenge and seek justice for his son's murder.</desc>
-    <credits>
-      <actor>Sachin Khedekar</actor>
-      <actor>Sonali Kulkarni</actor>
-      <actor>Jitendra Joshi</actor>
-      <actor>Vidyadhar Joshi</actor>
-      <actor>Upendra Limaye</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC8A6BA7F2E4CEB751874001E4757360BCF7C79B9.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624223000 +0000" channel="ts800">
-    <title lang="en">Movie - Kumari Gangubai Non Matric</title>
-    <desc lang="en">A politician exchanges his wife with a lookalike activist to gain power.</desc>
-    <credits>
-      <actor>Nirmiti Sawant</actor>
-      <actor>Pandharinath Kamble</actor>
-      <actor>Anand Ingle</actor>
-      <actor>Nagesh Bhosale</actor>
-      <actor>Rajshree Sawant</actor>
-      <actor>Atul Todankar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D164437E9B8BD77E85D9B7522452EF67CA9BF0O.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="ts800">
-    <title lang="en">Movie - Kalubaicha Navan Changbal</title>
-    <desc lang="en">Goddess Kalubai comes to the rescue of her most devoted believer.</desc>
-    <credits>
-      <actor>Ashok Saraf</actor>
-      <actor>Ninda Shinde</actor>
-      <actor>Alka Kubal Athalye</actor>
-      <actor>Kuldeep Pawar</actor>
-      <actor>Maya Jadhav</actor>
-    </credits>
-    <category lang="en">Family</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BC7D4546BA84A338D4BD0846115AD79FC6DE9AC1.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts800">
-    <title lang="en">Anandwari</title>
-    <desc lang="en">Devotees gather to listen to kirtans, where scholars share religious stories and ideas.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4EFBC7E1C217FA7311E0B1F6C1B8F999FAA29D13.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts800">
-    <title lang="en">Anandwari</title>
-    <desc lang="en">Devotees gather to listen to kirtans, where scholars share religious stories and ideas.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4EFBC7E1C217FA7311E0B1F6C1B8F999FAA29D13.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts800">
-    <title lang="en">Gajar Maulicha</title>
-    <desc lang="en">A speaker recites religious stories and gives praise to the Almighty.</desc>
-    <credits>
-      <actor>Neha Tai Bhosale</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts800">
-    <title lang="en">Movie - Bal Ganesh</title>
-    <desc lang="en">Bal Ganesh embarks on various adventures with Mooshak and also battles evil forces.</desc>
-    <credits>
-      <actor>Ashar Shaikh</actor>
-      <actor>Adarsh Gautam</actor>
-      <actor>Namrata Sawhney</actor>
-      <actor>Jai Prakash Singh</actor>
-      <actor>Neshma Mantri</actor>
-      <actor>Dhananjay</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E649FFEB4F734913464C6DA7D742EE644248CFC9J.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts800">
-    <title lang="en">Movie - Tulas Aali Ghara</title>
-    <desc lang="en">After Varsha's death, her husband is devastated, but his life is about to change.</desc>
-    <credits>
-      <actor>Alka Kubal Athalye</actor>
-      <actor>Sharad Ponikshe</actor>
-      <actor>Ravindra Berde</actor>
-      <actor>Vijay Kadam</actor>
-      <actor>Avinash Khurshikar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1882A47A3358F454A29394E5EBD023D4AB109C8Y.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts800">
-    <title lang="en">Movie - Bhakti Hich Khari Shakti</title>
-    <desc lang="en">Shanker regains his eyesight owing to his wife's devotion towards Goddess Jagdamba.</desc>
-    <credits>
-      <actor>Milind Gawali</actor>
-      <actor>Alka Kubal</actor>
-      <actor>Dipti Samel</actor>
-      <actor>Ashok Saraf</actor>
-      <actor>Ashok Shinde</actor>
-    </credits>
-    <category lang="en">Family</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70FEAC5D582DF1281D555DA9D95C51B594D87EBA3.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625140000 +0000" channel="ts800">
-    <title lang="en">Gajar Maulicha Utsav Aashadhvaricha</title>
-    <desc lang="en">People go on a pilgrimage to Pandharpur on the occasion of Ashadhi Ekadashi.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17D816D193463C4A85DDC65DD3DC87635B3696A8X.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts800">
-    <title lang="en">Sai Majhe Taranhaar</title>
-    <desc lang="en">Sai Baba of Shirdi devotes his life to serving people and influences several lives.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC224DED4352DDE7FA89BD85CE4B0DEC98D0BE1F2.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts800">
-    <title lang="en">Karmadhikari Shanidev</title>
-    <desc lang="en">Shanidev successfully controls his anger and passes the test.</desc>
-    <credits>
-      <actor>Vineet Kumar Chaudhary</actor>
-      <actor>Danish Akhtar Saifi</actor>
-      <actor>Kumar Hegde</actor>
-      <actor>Sandeep Mohan</actor>
-      <actor>Suhasi Dhami</actor>
-      <actor>Zalak Desai</actor>
-    </credits>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9062532A42EAE3A52C7F18C4D2C2DC79BB9C5ED7W.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts800">
-    <title lang="en">Punyashloka Ahiladevi</title>
-    <desc lang="en">Ahilya Bai blossoms under the guidance of her father-in-law and takes the reign of Malwa.</desc>
-    <credits>
-      <actor>Aetashaa Sansgiri</actor>
-      <actor>Aditi Jaltare</actor>
-      <actor>Rajesh Shringarpure</actor>
-      <actor>Snehlata Tawde Vasaikar</actor>
-      <actor>Gaurav Amlani</actor>
-      <actor>Krish Chauhan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06BCE4351B3D0E33201E269E829D1D88C98C16DAT.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts800">
-    <title lang="en">Swamini</title>
-    <desc lang="en">Neha marries Sameer, but her mother-in-law is unhappy about her relationship with Abhay.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F07F7336EC2296D9D3FB160AEA329307A8C1846EW.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625183000 +0000" channel="ts800">
-    <title lang="en">Movie - Zenda</title>
-    <desc lang="en">The members of a political party encounter several conflicts after a change in leadership.</desc>
-    <credits>
-      <actor>Siddharth Chandekar</actor>
-      <actor>Neha Joshi</actor>
-      <actor>Santosh Juvekar</actor>
-      <actor>Chinmay Mandlekar</actor>
-      <actor>Sachit Patil</actor>
-      <actor>Rajesh Shringarpure</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E3DA0954AE0FE648BEE36D7A077A096A7CCFA3BN.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625203000 +0000" channel="ts800">
     <title lang="en">Movie - Kundmauli Malganga</title>
     <desc lang="en">Bhairav, a priest, believes in black magic while his son, a doctor, wants to help people.</desc>
@@ -325,5 +164,165 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1A3B4BE65941FADD4D8F4622E09C41360D9A6756.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626203000 +0000" channel="ts800">
+    <title lang="en">Movie - Rang He Premache Rangeele</title>
+    <desc lang="en">Four people share their experiences of love and go through a turmoil of emotions.</desc>
+    <credits>
+      <actor>Sara Shravan</actor>
+      <actor>Rohan Gujar</actor>
+      <actor>Reshma Shinde</actor>
+      <actor>Pankaj Khamkar</actor>
+      <actor>Kunal Devalkar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5A92905FB05F2B5BACD0EB721D8FC38BDA923ED.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626223000 +0000" channel="ts800">
+    <title lang="en">Movie - Mazhi Tapasya</title>
+    <desc lang="en">Baburao and his friend get into a fight, which affects the former's daughter's life.</desc>
+    <credits>
+      <actor>Makarand Deshpande</actor>
+      <actor>Milind Shinde</actor>
+      <actor>Girish Oak</actor>
+      <actor>Namrata Gaikwad</actor>
+      <actor>Deepti Bhagat</actor>
+      <actor>Jairaj Nair</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DFBD92682D9BB5B61B062A5E425689C97B607B1CQ.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240627003000 +0000" channel="ts800">
+    <title lang="en">Movie - Memory Card</title>
+    <desc lang="en">Chetan, an introvert, keeps things to himself until his classmate Swara approaches him.</desc>
+    <credits>
+      <actor>Reeshab Purohit</actor>
+      <actor>Apurva Paranjape</actor>
+      <actor>Vibhuti Kadam</actor>
+      <actor>Sanjay Khapre</actor>
+      <actor>Sunil Tawade</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/805ACA3AB3A6AF56CFEEDB3623BA3223C52956193.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts800">
+    <title lang="en">Anandwari</title>
+    <desc lang="en">Devotees gather to listen to kirtans, where scholars share religious stories and ideas.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4EFBC7E1C217FA7311E0B1F6C1B8F999FAA29D13.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627023000 +0000" channel="ts800">
+    <title lang="en">Anandwari</title>
+    <desc lang="en">Devotees gather to listen to kirtans, where scholars share religious stories and ideas.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4EFBC7E1C217FA7311E0B1F6C1B8F999FAA29D13.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts800">
+    <title lang="en">Gajar Maulicha</title>
+    <desc lang="en">A speaker recites religious stories and gives praise to the Almighty.</desc>
+    <credits>
+      <actor>Neha Tai Bhosale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EA0C4A2AFB4C54153FC8AADAA9F2D84F06B8A23B.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts800">
+    <title lang="en">Movie - Bhakti Hich Khari Shakti</title>
+    <desc lang="en">Shanker regains his eyesight owing to his wife's devotion towards Goddess Jagdamba.</desc>
+    <credits>
+      <actor>Milind Gawali</actor>
+      <actor>Alka Kubal</actor>
+      <actor>Dipti Samel</actor>
+      <actor>Ashok Saraf</actor>
+      <actor>Ashok Shinde</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70FEAC5D582DF1281D555DA9D95C51B594D87EBA3.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts800">
+    <title lang="en">Movie - Baap Re Baap Dokyala Taap</title>
+    <desc lang="en">Yuvraj is happy with his girlfriend till he meets Chiku, a child who claims to be his son.</desc>
+    <credits>
+      <actor>Makarand Anaspure</actor>
+      <actor>Sukrut Khandekar</actor>
+      <actor>Tejshawini</actor>
+      <actor>Mohan Joshi</actor>
+      <actor>Vandana Gupte</actor>
+      <actor>Siddarth Jadhav</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DFD2382BC3FFCE80E4D589B0FA8EE5DA6AF9AF07.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts800">
+    <title lang="en">Movie - Devki</title>
+    <desc lang="en">Vasudha asks her sister-in-law to adopt her son since the latter is unable to conceive.</desc>
+    <credits>
+      <actor>Alka Kubal Athalye</actor>
+      <actor>Sudhir Joshi</actor>
+      <actor>Dr Girish Oak</actor>
+      <actor>Shilpa Tulaskar</actor>
+      <actor>Milind Gawli</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/680A8C41775A7E8221178C3E291CD8EDA19FBFF6V.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627140000 +0000" channel="ts800">
+    <title lang="en">Gajar Maulicha Utsav Aashadhvaricha</title>
+    <desc lang="en">People go on a pilgrimage to Pandharpur on the occasion of Ashadhi Ekadashi.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17D816D193463C4A85DDC65DD3DC87635B3696A8X.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts800">
+    <title lang="en">Sai Majhe Taranhaar</title>
+    <desc lang="en">Sai Baba of Shirdi devotes his life to serving people and influences several lives.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC224DED4352DDE7FA89BD85CE4B0DEC98D0BE1F2.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts800">
+    <title lang="en">Karmadhikari Shanidev</title>
+    <desc lang="en">Shanidev vows to persist in his penance tirelessly until his desire is realised.</desc>
+    <credits>
+      <actor>Vineet Kumar Chaudhary</actor>
+      <actor>Danish Akhtar Saifi</actor>
+      <actor>Kumar Hegde</actor>
+      <actor>Sandeep Mohan</actor>
+      <actor>Suhasi Dhami</actor>
+      <actor>Zalak Desai</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9062532A42EAE3A52C7F18C4D2C2DC79BB9C5ED7W.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts800">
+    <title lang="en">Punyashloka Ahiladevi</title>
+    <desc lang="en">Ahilya Bai blossoms under the guidance of her father-in-law and takes the reign of Malwa.</desc>
+    <credits>
+      <actor>Aetashaa Sansgiri</actor>
+      <actor>Aditi Jaltare</actor>
+      <actor>Rajesh Shringarpure</actor>
+      <actor>Snehlata Tawde Vasaikar</actor>
+      <actor>Gaurav Amlani</actor>
+      <actor>Krish Chauhan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06BCE4351B3D0E33201E269E829D1D88C98C16DAT.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts800">
+    <title lang="en">Swamini</title>
+    <desc lang="en">Neha marries Sameer, but her mother-in-law is unhappy about her relationship with Abhay.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F07F7336EC2296D9D3FB160AEA329307A8C1846EW.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627183000 +0000" channel="ts800">
+    <title lang="en">Movie - Tuzyachsathi</title>
+    <desc lang="en">Nikhil, a tour guide, tries to help Radhika, a troubled married woman.</desc>
+    <credits>
+      <actor>Ajinkya Deo</actor>
+      <actor>Varsha Usgaonkar</actor>
+      <actor>Laxmikant Berde</actor>
+      <actor>Mohan Joshi</actor>
+      <actor>Shivaji Satam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FB16518FB72E60346689524902FB307BEFDCFC53.jpg"/>
   </programme>
 </tv>

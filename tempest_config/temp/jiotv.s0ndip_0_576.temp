@@ -3,286 +3,6 @@
   <channel id="576">
     <display-name lang="en">Discovery Telugu</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625064400 +0530" channel="576">
-    <title lang="en">Man Vs Bear</title>
-    <desc lang="en">Contestants compete against three grizzly bears, Bart, Honey Bump and Tank, in a series of tasks that tests their strength and endurance.</desc>
-    <credits>
-      <director>Anthony Gonzales</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576008.jpg"/>
-  </programme>
-  <programme start="20240625064400 +0530" stop="20240625073600 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576009.jpg"/>
-  </programme>
-  <programme start="20240625073600 +0530" stop="20240625083100 +0530" channel="576">
-    <title lang="en">Man, Woman, Wild</title>
-    <desc lang="en">Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources.</desc>
-    <credits>
-      <director>Doug McCallie</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576010.jpg"/>
-  </programme>
-  <programme start="20240625083100 +0530" stop="20240625092400 +0530" channel="576">
-    <title lang="en">Dual Survival Brazil</title>
-    <desc lang="en">Professional survivalists put their skills to the test and attempt to conquer the dangerous wilderness of South America.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576011.jpg"/>
-  </programme>
-  <programme start="20240625092400 +0530" stop="20240625101400 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576012.jpg"/>
-  </programme>
-  <programme start="20240625101400 +0530" stop="20240625104200 +0530" channel="576">
-    <title lang="en">Man Vs Mayhem</title>
-    <desc lang="en">The filmmaker sheds light on some of the destructive and explosive moments from various instances while examining the science behind them.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576013.jpg"/>
-  </programme>
-  <programme start="20240625104200 +0530" stop="20240625111100 +0530" channel="576">
-    <title lang="en">Man Vs Mayhem</title>
-    <desc lang="en">The filmmaker sheds light on some of the destructive and explosive moments from various instances while examining the science behind them.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576014.jpg"/>
-  </programme>
-  <programme start="20240625111100 +0530" stop="20240625120800 +0530" channel="576">
-    <title lang="en">Ed Stafford: First Man Out</title>
-    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
-    <credits>
-      <director>Rob Sixsmith</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576015.jpg"/>
-  </programme>
-  <programme start="20240625120800 +0530" stop="20240625125900 +0530" channel="576">
-    <title lang="en">I Survived Bear Grylls</title>
-    <desc lang="en">Bear Grylls presents contestants who face several challenges that tests their power, agility and tolerance in the wilderness.</desc>
-    <credits>
-      <actor>Bear Grylls</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576016.jpg"/>
-  </programme>
-  <programme start="20240625125900 +0530" stop="20240625135000 +0530" channel="576">
-    <title lang="en">Men, Women, Wild</title>
-    <desc lang="en">A couple journeys into the jungle of different regions across the world to test their intelligence and persistence against the threat of weather and landscape.</desc>
-    <credits>
-      <director>Mark Westcott</director>
-      <actor>Mykel Hawke</actor>
-      <actor>Ruth England</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576017.jpg"/>
-  </programme>
-  <programme start="20240625135000 +0530" stop="20240625141500 +0530" channel="576">
-    <title lang="en">Man Fire Food</title>
-    <desc lang="en">The host explores the many different ways of using fire for cooking by visiting various chefs from restaurants across the country.</desc>
-    <credits>
-      <director>Irene Wong</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576018.jpg"/>
-  </programme>
-  <programme start="20240625141500 +0530" stop="20240625144100 +0530" channel="576">
-    <title lang="en">Food Factory</title>
-    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
-    <credits>
-      <director>Sebastian Cluer</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576019.jpg"/>
-  </programme>
-  <programme start="20240625144100 +0530" stop="20240625153300 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576020.jpg"/>
-  </programme>
-  <programme start="20240625153300 +0530" stop="20240625162900 +0530" channel="576">
-    <title lang="en">100 Days Wild</title>
-    <desc lang="en">Seven individuals leave behind the comfortable city life and set out to establish an independent community in the Alaskan wilderness.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576021.jpg"/>
-  </programme>
-  <programme start="20240625162900 +0530" stop="20240625171900 +0530" channel="576">
-    <title lang="en">Running Wild With Bear Grylls</title>
-    <desc lang="en">Survivalist Bear Grylls takes popular stars on a rigorous journey where they are faced with inhospitable conditions. They are forced to push themselves as much as they can in order to survive.</desc>
-    <credits>
-      <director>Ben Simms</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576022.jpg"/>
-  </programme>
-  <programme start="20240625171900 +0530" stop="20240625181500 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576023.jpg"/>
-  </programme>
-  <programme start="20240625181500 +0530" stop="20240625190000 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576024.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625190700 +0530" channel="576">
-    <title lang="en">Good Morning India With Nutella</title>
-    <desc lang="en">This is Documentary - Factual Entertainment Category</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576025.jpg"/>
-  </programme>
-  <programme start="20240625190700 +0530" stop="20240625200300 +0530" channel="576">
-    <title lang="en">Man, Woman, Wild</title>
-    <desc lang="en">Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources.</desc>
-    <credits>
-      <director>Doug McCallie</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576026.jpg"/>
-  </programme>
-  <programme start="20240625200300 +0530" stop="20240625205300 +0530" channel="576">
-    <title lang="en">I Survived Bear Grylls</title>
-    <desc lang="en">Bear Grylls presents contestants who face several challenges that tests their power, agility and tolerance in the wilderness.</desc>
-    <credits>
-      <actor>Bear Grylls</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576027.jpg"/>
-  </programme>
-  <programme start="20240625205300 +0530" stop="20240625210800 +0530" channel="576">
-    <title lang="en">Disaster Decodeed</title>
-    <desc lang="en">This is Documentary - Factual Entertainment Category</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576028.jpg"/>
-  </programme>
-  <programme start="20240625210800 +0530" stop="20240625220200 +0530" channel="576">
-    <title lang="en">Expedition Unknown With Josh Gates</title>
-    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
-    <credits>
-      <director>Douglas Segal</director>
-    </credits>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576029.jpg"/>
-  </programme>
-  <programme start="20240625220200 +0530" stop="20240625225400 +0530" channel="576">
-    <title lang="en">Men, Women, Wild</title>
-    <desc lang="en">A couple journeys into the jungle of different regions across the world to test their intelligence and persistence against the threat of weather and landscape.</desc>
-    <credits>
-      <director>Mark Westcott</director>
-      <actor>Mykel Hawke</actor>
-      <actor>Ruth England</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576030.jpg"/>
-  </programme>
-  <programme start="20240625225400 +0530" stop="20240625234300 +0530" channel="576">
-    <title lang="en">Naked And Afraid</title>
-    <desc lang="en">Several pairs of total strangers have to survive the extreme environment and dangerous wildlife of the wilderness, naked and afraid.</desc>
-    <credits>
-      <director>Ariel Shaffir</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576031.jpg"/>
-  </programme>
-  <programme start="20240625234300 +0530" stop="20240626000000 +0530" channel="576">
-    <title lang="en">Naked And Afraid</title>
-    <desc lang="en">Several pairs of total strangers have to survive the extreme environment and dangerous wildlife of the wilderness, naked and afraid.</desc>
-    <credits>
-      <director>Ariel Shaffir</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625576032.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626002700 +0530" channel="576">
-    <title lang="en">Naked And Afraid</title>
-    <desc lang="en">Several pairs of total strangers have to survive the extreme environment and dangerous wildlife of the wilderness, naked and afraid.</desc>
-    <credits>
-      <director>Ariel Shaffir</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576000.jpg"/>
-  </programme>
-  <programme start="20240626002700 +0530" stop="20240626011100 +0530" channel="576">
-    <title lang="en">Naked And Afraid XL</title>
-    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576001.jpg"/>
-  </programme>
-  <programme start="20240626011100 +0530" stop="20240626015400 +0530" channel="576">
-    <title lang="en">Naked And Afraid</title>
-    <desc lang="en">Several pairs of total strangers have to survive the extreme environment and dangerous wildlife of the wilderness, naked and afraid.</desc>
-    <credits>
-      <director>Ariel Shaffir</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576002.jpg"/>
-  </programme>
-  <programme start="20240626015400 +0530" stop="20240626023800 +0530" channel="576">
-    <title lang="en">Bering Sea Gold</title>
-    <desc lang="en">A group of enthusiasts dive into the frigid ocean floor in search of gold and also lay their hands on other precious items hidden at the seabed.</desc>
-    <credits>
-      <director>John Gray</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576003.jpg"/>
-  </programme>
-  <programme start="20240626023800 +0530" stop="20240626032600 +0530" channel="576">
-    <title lang="en">Gold Rush</title>
-    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
-    <credits>
-      <director>Justin Kelly</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576004.jpg"/>
-  </programme>
-  <programme start="20240626032600 +0530" stop="20240626041100 +0530" channel="576">
-    <title lang="en">Ed Stafford: First Man Out</title>
-    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
-    <credits>
-      <director>Rob Sixsmith</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576005.jpg"/>
-  </programme>
-  <programme start="20240626041100 +0530" stop="20240626050200 +0530" channel="576">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
-    <credits>
-      <director>Stephen Shearman</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576006.jpg"/>
-  </programme>
-  <programme start="20240626050200 +0530" stop="20240626053500 +0530" channel="576">
-    <title lang="en">Bering Sea Gold</title>
-    <desc lang="en">A group of enthusiasts dive into the frigid ocean floor in search of gold and also lay their hands on other precious items hidden at the seabed.</desc>
-    <credits>
-      <director>John Gray</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576007.jpg"/>
-  </programme>
   <programme start="20240626053500 +0530" stop="20240626060000 +0530" channel="576">
     <title lang="en">Food Factory</title>
     <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
@@ -472,5 +192,341 @@
     <desc lang="en">Several pairs of total strangers set out on a thrilling adventure where have to survive the extreme environment and dangers of the wilderness.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576029.jpg"/>
+  </programme>
+  <programme start="20240626233200 +0530" stop="20240627000000 +0530" channel="576">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626576030.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010200 +0530" channel="576">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576000.jpg"/>
+  </programme>
+  <programme start="20240627010200 +0530" stop="20240627015700 +0530" channel="576">
+    <title lang="en">Naked And Afraid Brazil</title>
+    <desc lang="en">Men and women pair up with each other and set out on a thrilling adventure where they experience extreme situations and an environment to survive.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576001.jpg"/>
+  </programme>
+  <programme start="20240627015700 +0530" stop="20240627025000 +0530" channel="576">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576002.jpg"/>
+  </programme>
+  <programme start="20240627025000 +0530" stop="20240627034000 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576003.jpg"/>
+  </programme>
+  <programme start="20240627034000 +0530" stop="20240627044000 +0530" channel="576">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576004.jpg"/>
+  </programme>
+  <programme start="20240627044000 +0530" stop="20240627053500 +0530" channel="576">
+    <title lang="en">Dual Survival</title>
+    <desc lang="en">Survival experts Cody Lundin and Dave Canterbury take on the planet's most unforgiving terrains and demonstrate valuable survival skills.</desc>
+    <credits>
+      <director>Brandon Gulish</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576005.jpg"/>
+  </programme>
+  <programme start="20240627053500 +0530" stop="20240627060000 +0530" channel="576">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576006.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627065900 +0530" channel="576">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <director>Barny Revill</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576007.jpg"/>
+  </programme>
+  <programme start="20240627065900 +0530" stop="20240627075200 +0530" channel="576">
+    <title lang="en">Ed Stafford: First Man Out</title>
+    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
+    <credits>
+      <director>Rob Sixsmith</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576008.jpg"/>
+  </programme>
+  <programme start="20240627075200 +0530" stop="20240627084500 +0530" channel="576">
+    <title lang="en">Man, Woman, Wild</title>
+    <desc lang="en">Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources.</desc>
+    <credits>
+      <director>Doug McCallie</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576009.jpg"/>
+  </programme>
+  <programme start="20240627084500 +0530" stop="20240627093800 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576010.jpg"/>
+  </programme>
+  <programme start="20240627093800 +0530" stop="20240627103100 +0530" channel="576">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <director>Barny Revill</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576011.jpg"/>
+  </programme>
+  <programme start="20240627103100 +0530" stop="20240627112400 +0530" channel="576">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <director>Douglas Segal</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576012.jpg"/>
+  </programme>
+  <programme start="20240627112400 +0530" stop="20240627121000 +0530" channel="576">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <director>Douglas Segal</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576013.jpg"/>
+  </programme>
+  <programme start="20240627121000 +0530" stop="20240627130300 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576014.jpg"/>
+  </programme>
+  <programme start="20240627130300 +0530" stop="20240627135600 +0530" channel="576">
+    <title lang="en">Expedition Unknown: Hunt For Extraterrestrials</title>
+    <desc lang="en">The host consults experts and travels across the US to learn about the possibility of the existence of extraterrestrials on other planets.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576015.jpg"/>
+  </programme>
+  <programme start="20240627135600 +0530" stop="20240627142300 +0530" channel="576">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576016.jpg"/>
+  </programme>
+  <programme start="20240627142300 +0530" stop="20240627144900 +0530" channel="576">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576017.jpg"/>
+  </programme>
+  <programme start="20240627144900 +0530" stop="20240627154200 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576018.jpg"/>
+  </programme>
+  <programme start="20240627154200 +0530" stop="20240627163500 +0530" channel="576">
+    <title lang="en">Into The Wild With Bear Grylls And Ajay Devgn</title>
+    <desc lang="en">Bear Grylls and Ajay Devgn, an Indian actor, embark on an exciting adventurous journey and go through the ultimate survival experience.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576019.jpg"/>
+  </programme>
+  <programme start="20240627163500 +0530" stop="20240627172800 +0530" channel="576">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <director>Douglas Segal</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576020.jpg"/>
+  </programme>
+  <programme start="20240627172800 +0530" stop="20240627181400 +0530" channel="576">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <director>Douglas Segal</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576021.jpg"/>
+  </programme>
+  <programme start="20240627181400 +0530" stop="20240627190700 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576022.jpg"/>
+  </programme>
+  <programme start="20240627190700 +0530" stop="20240627200000 +0530" channel="576">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Archaeologists examine places of historical significance and the artefacts they find inside them.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576023.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627205300 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576024.jpg"/>
+  </programme>
+  <programme start="20240627205300 +0530" stop="20240627214600 +0530" channel="576">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <director>Douglas Segal</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576025.jpg"/>
+  </programme>
+  <programme start="20240627214600 +0530" stop="20240627223900 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576026.jpg"/>
+  </programme>
+  <programme start="20240627223900 +0530" stop="20240627233200 +0530" channel="576">
+    <title lang="en">Naked And Afraid: Deadliest Challenges</title>
+    <desc lang="en">Several pairs of total strangers set out on a thrilling adventure where have to survive the extreme environment and dangers of the wilderness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576027.jpg"/>
+  </programme>
+  <programme start="20240627233200 +0530" stop="20240628000000 +0530" channel="576">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627576028.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628001700 +0530" channel="576">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576000.jpg"/>
+  </programme>
+  <programme start="20240628001700 +0530" stop="20240628010200 +0530" channel="576">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576001.jpg"/>
+  </programme>
+  <programme start="20240628010200 +0530" stop="20240628015700 +0530" channel="576">
+    <title lang="en">Naked And Afraid Brazil</title>
+    <desc lang="en">Men and women pair up with each other and set out on a thrilling adventure where they experience extreme situations and an environment to survive.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576002.jpg"/>
+  </programme>
+  <programme start="20240628015700 +0530" stop="20240628025000 +0530" channel="576">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576003.jpg"/>
+  </programme>
+  <programme start="20240628025000 +0530" stop="20240628034000 +0530" channel="576">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576004.jpg"/>
+  </programme>
+  <programme start="20240628034000 +0530" stop="20240628044000 +0530" channel="576">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576005.jpg"/>
+  </programme>
+  <programme start="20240628044000 +0530" stop="20240628053500 +0530" channel="576">
+    <title lang="en">Dual Survival</title>
+    <desc lang="en">Survival experts Cody Lundin and Dave Canterbury take on the planet's most unforgiving terrains and demonstrate valuable survival skills.</desc>
+    <credits>
+      <director>Brandon Gulish</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576006.jpg"/>
+  </programme>
+  <programme start="20240628053500 +0530" stop="20240628060000 +0530" channel="576">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <director>Sebastian Cluer</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576007.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628065900 +0530" channel="576">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <director>Barny Revill</director>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576008.jpg"/>
+  </programme>
+  <programme start="20240628065900 +0530" stop="20240628075200 +0530" channel="576">
+    <title lang="en">Ed Stafford: First Man Out</title>
+    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
+    <credits>
+      <director>Rob Sixsmith</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576009.jpg"/>
+  </programme>
+  <programme start="20240628075200 +0530" stop="20240628084500 +0530" channel="576">
+    <title lang="en">Man, Woman, Wild</title>
+    <desc lang="en">Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources.</desc>
+    <credits>
+      <director>Doug McCallie</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628576010.jpg"/>
   </programme>
 </tv>

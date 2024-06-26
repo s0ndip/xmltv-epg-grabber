@@ -3,124 +3,6 @@
   <channel id="252">
     <display-name lang="en">ETV Cinema</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="252">
-    <title lang="en">Yoga Based Programme</title>
-    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252003.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="252">
-    <title lang="en">Madhurimalu</title>
-    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252004.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="252">
-    <title lang="en">Kanchana Seeta</title>
-    <desc lang="en">Movie starring Jayasudha, Sarathbabu, Raghuvaran and directed by Dasari Narayana Rao.</desc>
-    <credits>
-      <director>Narayana Rao Dasari</director>
-      <actor>Jayasudha</actor>
-      <actor>Sarathbabu</actor>
-      <actor>Raghuvaran</actor>
-      <actor>Nirmala</actor>
-      <actor>Pushpalatha</actor>
-      <actor>Sri Lakshmi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252005.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="252">
-    <title lang="en">Srimathi</title>
-    <desc lang="en">Childhood friends Anand and Jasmine are close to each other and share an innocent love, however, Anand longs for their time together when he marries Anju.</desc>
-    <credits>
-      <director>B Vijaya Reddy</director>
-      <actor>Kantha Rao</actor>
-      <actor>Sharada</actor>
-      <actor>Vasanthi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252006.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="252">
-    <title lang="en">Sahasam</title>
-    <desc lang="en">Movie starring Jagapathi Babu, Bhanu Chander, Saranya and directed by Suresh Krishna.</desc>
-    <credits>
-      <director>Suresh Krishna</director>
-      <actor>Jagapathi Babu</actor>
-      <actor>Bhanu Chander</actor>
-      <actor>Saranya</actor>
-      <actor>Kaveri</actor>
-      <actor>Gollapudi Maruthi Rao</actor>
-      <actor>Nassar</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252007.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625190000 +0530" channel="252">
-    <title lang="en">Jaganaddam And Sons</title>
-    <desc lang="en">Unscrupulous people hatch a series of tactics as they try their luck at acquiring the ownership of a hardworking businessman's factory.</desc>
-    <credits>
-      <director>Anil Kumar</director>
-      <actor>Suresh</actor>
-      <actor>Sindhuja</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252008.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625220000 +0530" channel="252">
-    <title lang="en">Shri Krishna Vijayam</title>
-    <desc lang="en">When Krishna tricks Kalayavana into getting himself killed, Mahodara swears to seek revenge on his brother's behalf. Things take a turn when Lord Shiva grants a boon to Mahodara.</desc>
-    <credits>
-      <director>Kamalakara Kameshwara Rao</director>
-      <actor>NTR</actor>
-      <actor>Jayalalitha J</actor>
-      <actor>S. V. Ranga Rao</actor>
-      <actor>Kanta Rao</actor>
-      <actor>Mikkilineni</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252009.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="252">
-    <title lang="en">My Choice</title>
-    <desc lang="en">The host talks to various celebrities from the Telugu movie industry who share their experiences of working in the movies.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252010.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="252">
-    <title lang="en">Songs</title>
-    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625252011.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="252">
-    <title lang="en">Songs</title>
-    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626252000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626040000 +0530" channel="252">
-    <title lang="en">Kanchana Seeta</title>
-    <desc lang="en">Movie starring Jayasudha, Sarathbabu, Raghuvaran and directed by Dasari Narayana Rao.</desc>
-    <credits>
-      <director>Narayana Rao Dasari</director>
-      <actor>Jayasudha</actor>
-      <actor>Sarathbabu</actor>
-      <actor>Raghuvaran</actor>
-      <actor>Nirmala</actor>
-      <actor>Pushpalatha</actor>
-      <actor>Sri Lakshmi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626252001.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626060000 +0530" channel="252">
-    <title lang="en">Songs</title>
-    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626252002.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="252">
     <title lang="en">Yoga Based Programme</title>
     <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
@@ -204,5 +86,205 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626252009.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240627000000 +0530" channel="252">
+    <title lang="en">Drohi</title>
+    <desc lang="en">A married man has an extramarital affair after his wife begins ignoring him due to their son's illness. His life is turned upside down when a goon rapes his mistress and begins extorting him.</desc>
+    <credits>
+      <director>Gautham Vasudev Menon</director>
+      <actor>R Sarath Kumar</actor>
+      <actor>Jyothika</actor>
+      <actor>Andrea Jeremiah</actor>
+      <actor>Milind Soman</actor>
+      <actor>VTV Ganesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626252010.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="252">
+    <title lang="en">Drohi</title>
+    <desc lang="en">A married man has an extramarital affair after his wife begins ignoring him due to their son's illness. His life is turned upside down when a goon rapes his mistress and begins extorting him.</desc>
+    <credits>
+      <director>Gautham Vasudev Menon</director>
+      <actor>R Sarath Kumar</actor>
+      <actor>Jyothika</actor>
+      <actor>Andrea Jeremiah</actor>
+      <actor>Milind Soman</actor>
+      <actor>VTV Ganesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627040000 +0530" channel="252">
+    <title lang="en">Pandanti Samsaram</title>
+    <desc lang="en">Chalaati, a descendant of the Kulapati family, tries to express his agony against the Rudramanaidu family and change the course of his fate.</desc>
+    <credits>
+      <director>Krishna</director>
+      <actor>Krishna</actor>
+      <actor>Charulatha</actor>
+      <actor>Ravali</actor>
+      <actor>Pruthivi</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252001.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627060000 +0530" channel="252">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252002.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="252">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252003.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="252">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252004.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627100000 +0530" channel="252">
+    <title lang="en">Subhodayam</title>
+    <desc lang="en">Chandram, a idler, marries Geeta, the daughter of an industrialist, in order to lead an easy and a comfortable life at his in-laws' house. But they move out, which results in a fight between them.</desc>
+    <credits>
+      <director>K. Viswanath</director>
+      <actor>Chandramohan</actor>
+      <actor>Sulakshana</actor>
+      <actor>Manorama</actor>
+      <actor>Sakshi Ranga Rao</actor>
+      <actor>Charu Haasan</actor>
+      <actor>J V Ramana Murthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252005.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627130000 +0530" channel="252">
+    <title lang="en">Paadipantalu</title>
+    <desc lang="en">Gopalam, a good Samaritan, lives the simple life of a villager and relies on agriculture to earn a living. He fights against corrupt men in order to construct a dam for the well-being of the village.</desc>
+    <credits>
+      <director>P Chandrashekar Reddy</director>
+      <actor>Krishna Ghattamaneni</actor>
+      <actor>Vijaya Nirmala</actor>
+      <actor>Chandramohan</actor>
+      <actor>Kongara Jaggaiah</actor>
+      <actor>Anjali Devi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252006.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627160000 +0530" channel="252">
+    <title lang="en">Pilla Nacchindi</title>
+    <desc lang="en">A widower struggles with anguish after his wife dies and he is unable to come to terms with it. His father-in-law tries to set him up with another girl.</desc>
+    <credits>
+      <director>E V V Satyanarayana</director>
+      <actor>Srikanth</actor>
+      <actor>Kota Srinivasa Rao</actor>
+      <actor>Brahmanandam</actor>
+      <actor>M S Narayana</actor>
+      <actor>Sanghavi</actor>
+      <actor>Rachana</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252007.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627190000 +0530" channel="252">
+    <title lang="en">Sixteens</title>
+    <desc lang="en">Five teenage boys are attracted to their new neighbour who has returned from the USA and find themselves vying for her attention.</desc>
+    <credits>
+      <director>G Nageswara Reddy</director>
+      <actor>Rohit</actor>
+      <actor>Ruthika</actor>
+      <actor>Santosh Pawan</actor>
+      <actor>Rakhi Sawant</actor>
+      <actor>Abhijit</actor>
+      <actor>Amit</actor>
+      <actor>Vijaya Bhaskar</actor>
+      <actor>Rutika</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252008.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627220000 +0530" channel="252">
+    <title lang="en">Marina Manishi</title>
+    <desc lang="en">Raju is a thief though nobody is aware of this. His life take a turn when he comes across burglar Rangoon, who holds several secrets.</desc>
+    <credits>
+      <director>C S Rao</director>
+      <actor>NTR</actor>
+      <actor>Vijaya Nirmala</actor>
+      <actor>Kaikala Satyanarayana</actor>
+      <actor>Chittor V. Nagaiah</actor>
+      <actor>Ramakrishna</actor>
+      <actor>Allu Ramalingaiah</actor>
+      <actor>Jyothi Lakshmi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252009.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="252">
+    <title lang="en">Gurthukostunnai</title>
+    <desc lang="en">The host strikes a conversation with veteran film stars who talk about their personal and professional lives and recount their most memorable experiences.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252010.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="252">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627252011.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="252">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628040000 +0530" channel="252">
+    <title lang="en">Subhodayam</title>
+    <desc lang="en">Chandram, a idler, marries Geeta, the daughter of an industrialist, in order to lead an easy and a comfortable life at his in-laws' house. But they move out, which results in a fight between them.</desc>
+    <credits>
+      <director>K. Viswanath</director>
+      <actor>Chandramohan</actor>
+      <actor>Sulakshana</actor>
+      <actor>Manorama</actor>
+      <actor>Sakshi Ranga Rao</actor>
+      <actor>Charu Haasan</actor>
+      <actor>J V Ramana Murthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252001.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628060000 +0530" channel="252">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252002.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="252">
+    <title lang="en">Yoga Based Programme</title>
+    <desc lang="en">Yoga experts demonstrate various asanas and meditation techniques to help people deal with the stress in their daily lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252003.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="252">
+    <title lang="en">Madhurimalu</title>
+    <desc lang="en">A culinary expert shares cooking tips, easy-to-make dessert recipes and demonstrates the preparation of these delicious dishes.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252004.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628100000 +0530" channel="252">
+    <title lang="en">Anukunnadhi Sadhista</title>
+    <desc lang="en">Movie starring Anjali Devi and is directed by P Chandrasekhara Reddy.</desc>
+    <credits>
+      <director>P Chandrasekhara Reddy</director>
+      <actor>Anjali Devi</actor>
+      <actor>Lata</actor>
+      <actor>Narasimha Raju</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628252005.jpg"/>
   </programme>
 </tv>

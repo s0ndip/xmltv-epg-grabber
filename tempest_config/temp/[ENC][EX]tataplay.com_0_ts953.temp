@@ -3,237 +3,6 @@
   <channel id="ts953">
     <display-name lang="en">Asianet Plus</display-name>
   </channel>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts953">
-    <title lang="en">Badai Bungalow</title>
-    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
-    <credits>
-      <actor>Mithun Ramesh</actor>
-      <actor>Ramesh Pishardai</actor>
-      <actor>Mukesh</actor>
-      <actor>Ramesh Pisharody</actor>
-      <actor>Arya Rohit</actor>
-      <actor>Dharmajan Bolgatty</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
-    <episode-num system="xmltv_ns">0.167.</episode-num>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240625000000 +0000" channel="ts953">
-    <title lang="en">Movie - Nruthasala</title>
-    <desc lang="en">Priyamvatha, a classical dancer, struggles to provide for her poor family. Hoping for a better future for her and her loved ones, she joins the crew of a magician in a carnival.</desc>
-    <credits>
-      <actor>Prem Nazir</actor>
-      <actor>Jayabharathi</actor>
-      <actor>Innocent</actor>
-      <actor>Adoor Bhasi</actor>
-      <actor>Jose Prakash</actor>
-      <actor>Prema</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3738F484811F8ED2BF7BA76C03144B2F8EDF94FB5.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625023000 +0000" channel="ts953">
-    <title lang="en">Movie - Ellarum Chollanu</title>
-    <desc lang="en">A man borrows money to go to Dubai and assures his money lenders visas and jobs in return. Instead, he vanishes and promises to reopen a mill that has been shut down when they demand their money back.</desc>
-    <credits>
-      <actor>Mukesh</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Master Jithin</actor>
-      <actor>Suman Ranganathan</actor>
-      <actor>Sukumari</actor>
-      <actor>Mamukoya</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4540A26EE709505C8F0027C74DF2D208C9D90B96B.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts953">
-    <title lang="en">Devi Mahaathmyam</title>
-    <desc lang="en">King Sudarshan escapes from his enemies and arrives in an ashram where he encounters a saint who tells him stories of the goddess.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9092D81AA843B564A6A75F44CD2901999CA6E42F3.jpg"/>
-    <episode-num system="xmltv_ns">.189.</episode-num>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts953">
-    <title lang="en">Shappile Kariyum Naavile Ruchiyum</title>
-    <desc lang="en">The host travels through local markets in Kerala to explore the local cuisine and learn more about the preparation behind the mouth-watering dishes.</desc>
-    <credits>
-      <actor>Kishor</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3277892D800E382D9A7DB55655D90EFFD2932A0FZ.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts953">
-    <title lang="en">Best Of Comedy Stars</title>
-    <desc lang="en">A comprehensive compilation of the most hilarious skits that are performed by talented comedians to entertain the audience.</desc>
-    <credits>
-      <actor>Jagadish</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Tini Tom</actor>
-      <actor>Sruthi Menon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F95A90D4394FB340D93D11D621CB574111CE9120.jpg"/>
-    <episode-num system="xmltv_ns">1.885.</episode-num>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625070000 +0000" channel="ts953">
-    <title lang="en">Movie - Ivar Vivahitharayal...?</title>
-    <desc lang="en">Vivek, the only son of two advocates, is a spoilt and entitled man. When he marries Kavya, a radio jockey, he fails to fulfil his responsibilities as a husband which causes a rift between the two.</desc>
-    <credits>
-      <actor>Jayasurya</actor>
-      <actor>Bhama</actor>
-      <actor>Samvrutha Sunil</actor>
-      <actor>Siddique</actor>
-      <actor>Rekha</actor>
-      <actor>Nedumudi Venu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1F161A57A8F6D258C1DBCC59C47F55EB7F6EA08F.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625080000 +0000" channel="ts953">
-    <title lang="en">Best Of Comedy Stars</title>
-    <desc lang="en">A comprehensive compilation of the most hilarious skits that are performed by talented comedians to entertain the audience.</desc>
-    <credits>
-      <actor>Jagadish</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Tini Tom</actor>
-      <actor>Sruthi Menon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E9E46369C7FAF6AF466E006D54065012BB962223.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625090000 +0000" channel="ts953">
-    <title lang="en">Badai Bungalow</title>
-    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
-    <credits>
-      <actor>Mithun Ramesh</actor>
-      <actor>Ramesh Pishardai</actor>
-      <actor>Mukesh</actor>
-      <actor>Ramesh Pisharody</actor>
-      <actor>Arya Rohit</actor>
-      <actor>Dharmajan Bolgatty</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
-    <episode-num system="xmltv_ns">0.167.</episode-num>
-  </programme>
-  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts953">
-    <title lang="en">Best Of Comedy Stars</title>
-    <desc lang="en">A comprehensive compilation of the most hilarious skits that are performed by talented comedians to entertain the audience.</desc>
-    <credits>
-      <actor>Jagadish</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Tini Tom</actor>
-      <actor>Sruthi Menon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F95A90D4394FB340D93D11D621CB574111CE9120.jpg"/>
-    <episode-num system="xmltv_ns">1.850.</episode-num>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts953">
-    <title lang="en">Movie - Kaliyoonjal</title>
-    <desc lang="en">Nandagopal raises his epileptic sister, Ammu, after their parents' death. He gets her married to Venu without telling him about her illness but it comes to light soon and creates problems for them.</desc>
-    <credits>
-      <actor>Mammootty</actor>
-      <actor>Shobhana</actor>
-      <actor>Dileep</actor>
-      <actor>Shalini</actor>
-      <actor>Mala Aravindan</actor>
-      <actor>Karamana Janardanan Nair</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/784032227DE13332FE1012E5988ED7FB41EFF3CF8.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts953">
-    <title lang="en">Devi Mahaathmyam</title>
-    <desc lang="en">King Sudarshan escapes from his enemies and arrives in an ashram where he encounters a saint who tells him stories of the goddess.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9092D81AA843B564A6A75F44CD2901999CA6E42F3.jpg"/>
-    <episode-num system="xmltv_ns">.190.</episode-num>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts953">
-    <title lang="en">Shappile Kariyum Naavile Ruchiyum</title>
-    <desc lang="en">The host travels through local markets in Kerala to explore the local cuisine and learn more about the preparation behind the mouth-watering dishes.</desc>
-    <credits>
-      <actor>Kishor</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3277892D800E382D9A7DB55655D90EFFD2932A0FZ.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts953">
-    <title lang="en">Best Of Comedy Stars</title>
-    <desc lang="en">A comprehensive compilation of the most hilarious skits that are performed by talented comedians to entertain the audience.</desc>
-    <credits>
-      <actor>Jagadish</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Tini Tom</actor>
-      <actor>Sruthi Menon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E9E46369C7FAF6AF466E006D54065012BB962223.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts953">
-    <title lang="en">Santhwanam</title>
-    <desc lang="en">A renowned astrologer makes predictions based on planetary positions and provides essential tips to help one lead a better life.</desc>
-    <credits>
-      <actor>Nanda Kumar</actor>
-    </credits>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A29D2F2A9B32F914C9994656D751AC42545EFB6FV.jpg"/>
-    <episode-num system="xmltv_ns">.192.</episode-num>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts953">
-    <title lang="en">Santhwanam</title>
-    <desc lang="en">A renowned astrologer makes predictions based on planetary positions and provides essential tips to help one lead a better life.</desc>
-    <credits>
-      <actor>Nanda Kumar</actor>
-    </credits>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A29D2F2A9B32F914C9994656D751AC42545EFB6FV.jpg"/>
-    <episode-num system="xmltv_ns">.193.</episode-num>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts953">
-    <title lang="en">Badai Bungalow</title>
-    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
-    <credits>
-      <actor>Mithun Ramesh</actor>
-      <actor>Ramesh Pishardai</actor>
-      <actor>Mukesh</actor>
-      <actor>Ramesh Pisharody</actor>
-      <actor>Arya Rohit</actor>
-      <actor>Dharmajan Bolgatty</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
-    <episode-num system="xmltv_ns">0.163.</episode-num>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts953">
-    <title lang="en">Comedy Stars</title>
-    <desc lang="en">Talented comedians from Kerala are handpicked by the judges. The contestants then perform comic skits which deal with everyday life experiences to impress the judges and win the coveted title.</desc>
-    <credits>
-      <actor>Sruthi Menon</actor>
-      <actor>Maniyanpilla Raju</actor>
-      <actor>Tini Tom</actor>
-      <actor>Jagadish</actor>
-      <actor>Kalpana Priyadarshini</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465608D48920A2FB4EE3B396845B558FA200EB6EV.jpg"/>
-    <episode-num system="xmltv_ns">1.771.</episode-num>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625203000 +0000" channel="ts953">
-    <title lang="en">Movie - Narayam</title>
-    <desc lang="en">Gayatri, who hails from a poor Brahmin family, accepts a job as an Arabic teacher in a Muslim school. This spurs out some controversy from some members of the management of the school.</desc>
-    <credits>
-      <actor>Murali</actor>
-      <actor>Urvashi</actor>
-      <actor>Jagadish</actor>
-      <actor>Kalpana</actor>
-      <actor>Pratapachandran</actor>
-      <actor>Aboobacker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F284124237433834055FF436201A89ECD1A0F70D.jpg"/>
-  </programme>
   <programme start="20240625203000 +0000" stop="20240625213000 +0000" channel="ts953">
     <title lang="en">Badai Bungalow</title>
     <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
@@ -476,5 +245,248 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7505051C3BEFF4A1BC017BC837792D15F32DD841E.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626213000 +0000" channel="ts953">
+    <title lang="en">Badai Bungalow</title>
+    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
+    <credits>
+      <actor>Mithun Ramesh</actor>
+      <actor>Ramesh Pishardai</actor>
+      <actor>Mukesh</actor>
+      <actor>Ramesh Pisharody</actor>
+      <actor>Arya Rohit</actor>
+      <actor>Dharmajan Bolgatty</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
+    <episode-num system="xmltv_ns">0.160.</episode-num>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627000000 +0000" channel="ts953">
+    <title lang="en">Movie - Isabella</title>
+    <desc lang="en">Isabella, a guide, falls in love with Unnikrishnan, a customer, but he refuses to accept her. However, when he finally decides to be with her, he gets the shock of his life.</desc>
+    <credits>
+      <actor>Sumalatha</actor>
+      <actor>Balachandra Menon</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Anand Mahadevan</actor>
+      <actor>Ajay Menon</actor>
+      <actor>Asha Jayaram</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C62B8160C4337A381127CDB78F86CEA61F35B7A5.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627023000 +0000" channel="ts953">
+    <title lang="en">Movie - Changathipoocha</title>
+    <desc lang="en">Brothers Sreedharan and Raman fight over their ancestral properties. In a bid to amass all the wealth, Raman hires Sivankutty, a young man who is drowning in debt, to woo Sreedharan's daughter.</desc>
+    <credits>
+      <actor>Jayasurya</actor>
+      <actor>Radhika</actor>
+      <actor>Ramya Nambeesan</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Harisree Ashokan</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F086AAA1CADC616EBA063921BEA4E97EB041CBAQ.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts953">
+    <title lang="en">Devi Mahaathmyam</title>
+    <desc lang="en">King Sudarshan escapes from his enemies and arrives in an ashram where he encounters a saint who tells him stories of the goddess.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9092D81AA843B564A6A75F44CD2901999CA6E42F3.jpg"/>
+    <episode-num system="xmltv_ns">.191.</episode-num>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts953">
+    <title lang="en">Kailasanadhan</title>
+    <desc lang="en">When Janaka informs Sita about her marriage, she gets emotional. Janaka comforts her and explains her about marital life. Vishwamithra orders Rama and Lakshmana to move to Mithila.</desc>
+    <credits>
+      <actor>Mohit Raina</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Sonarika Bhadoria</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7305384956D8BCC1E66AEC4C0CD4587C014DB3A7R.jpg"/>
+    <episode-num system="xmltv_ns">.445.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts953">
+    <title lang="en">Best Of Comedy Stars</title>
+    <desc lang="en">A comprehensive compilation of the most hilarious skits that are performed by talented comedians to entertain the audience.</desc>
+    <credits>
+      <actor>Jagadish</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Tini Tom</actor>
+      <actor>Sruthi Menon</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F95A90D4394FB340D93D11D621CB574111CE9120.jpg"/>
+    <episode-num system="xmltv_ns">1.887.</episode-num>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627070000 +0000" channel="ts953">
+    <title lang="en">Movie - Aanachandam</title>
+    <desc lang="en">After an elephant saves him from an accident in childhood, Krishna becomes fond of elephants. His life changes when he decides to adopt Arjunan, a severely injured elephant.</desc>
+    <credits>
+      <actor>Jayaram</actor>
+      <actor>Sai Kumar</actor>
+      <actor>Remya Nambeesan</actor>
+      <actor>Jagathy Sreekumar</actor>
+      <actor>Cochin Hanifa</actor>
+      <actor>Balachandran Chullikad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC4B346CB98FE6F342AB718DC9F0B075EBB7EAEE0.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627080000 +0000" channel="ts953">
+    <title lang="en">Comedy Stars</title>
+    <desc lang="en">Talented comedians from Kerala are handpicked by the judges. The contestants then perform comic skits which deal with everyday life experiences to impress the judges and win the coveted title.</desc>
+    <credits>
+      <actor>Sruthi Menon</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Tini Tom</actor>
+      <actor>Jagadish</actor>
+      <actor>Kalpana Priyadarshini</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465608D48920A2FB4EE3B396845B558FA200EB6EV.jpg"/>
+    <episode-num system="xmltv_ns">1.772.</episode-num>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627090000 +0000" channel="ts953">
+    <title lang="en">Badai Bungalow</title>
+    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
+    <credits>
+      <actor>Mithun Ramesh</actor>
+      <actor>Ramesh Pishardai</actor>
+      <actor>Mukesh</actor>
+      <actor>Ramesh Pisharody</actor>
+      <actor>Arya Rohit</actor>
+      <actor>Dharmajan Bolgatty</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
+    <episode-num system="xmltv_ns">0.160.</episode-num>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts953">
+    <title lang="en">Best Of Comedy Stars</title>
+    <desc lang="en">Various talented comedians from Kerala perform comic skits which deal with everyday life experiences to impress the judges and win prizes.</desc>
+    <credits>
+      <actor>Jagadish</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Tini Tom</actor>
+      <actor>Sruthi Menon</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F95A90D4394FB340D93D11D621CB574111CE9120.jpg"/>
+    <episode-num system="xmltv_ns">1.852.</episode-num>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts953">
+    <title lang="en">Movie - Best Actor</title>
+    <desc lang="en">Mohan, a school teacher, wants to act in films. He makes several attempts to make his dream come true but certain incidents occur in his life and his story takes a different turn.</desc>
+    <credits>
+      <actor>Mammootty</actor>
+      <actor>Shruthi Ramakrishnan</actor>
+      <actor>Nedumudi Venu</actor>
+      <actor>Lal</actor>
+      <actor>Salim Kumar</actor>
+      <actor>Vinayakan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2BD5E7F2F80DC3C52B2A4042F35E85E33293BDD46.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts953">
+    <title lang="en">Devi Mahaathmyam</title>
+    <desc lang="en">King Sudarshan escapes from his enemies and arrives in an ashram where he encounters a saint who tells him stories of the goddess.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9092D81AA843B564A6A75F44CD2901999CA6E42F3.jpg"/>
+    <episode-num system="xmltv_ns">.192.</episode-num>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts953">
+    <title lang="en">Kailasanadhan</title>
+    <desc lang="en">When Janaka informs Sita about her marriage, she gets emotional. Janaka comforts her and explains her about marital life. Vishwamithra orders Rama and Lakshmana to move to Mithila.</desc>
+    <credits>
+      <actor>Mohit Raina</actor>
+      <actor>Mouni Roy</actor>
+      <actor>Saurabh Raj Jain</actor>
+      <actor>Sonarika Bhadoria</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7305384956D8BCC1E66AEC4C0CD4587C014DB3A7R.jpg"/>
+    <episode-num system="xmltv_ns">.446.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627143000 +0000" channel="ts953">
+    <title lang="en">Comedy Stars</title>
+    <desc lang="en">Talented comedians from Kerala are handpicked by the judges. The contestants then perform comic skits which deal with everyday life experiences to impress the judges and win the coveted title.</desc>
+    <credits>
+      <actor>Sruthi Menon</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Tini Tom</actor>
+      <actor>Jagadish</actor>
+      <actor>Kalpana Priyadarshini</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465608D48920A2FB4EE3B396845B558FA200EB6EV.jpg"/>
+    <episode-num system="xmltv_ns">1.773.</episode-num>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts953">
+    <title lang="en">Santhwanam</title>
+    <desc lang="en">A renowned astrologer makes predictions based on planetary positions and provides essential tips to help one lead a better life.</desc>
+    <credits>
+      <actor>Nanda Kumar</actor>
+    </credits>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A29D2F2A9B32F914C9994656D751AC42545EFB6FV.jpg"/>
+    <episode-num system="xmltv_ns">.196.</episode-num>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts953">
+    <title lang="en">Santhwanam</title>
+    <desc lang="en">A renowned astrologer makes predictions based on planetary positions and provides essential tips to help one lead a better life.</desc>
+    <credits>
+      <actor>Nanda Kumar</actor>
+    </credits>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A29D2F2A9B32F914C9994656D751AC42545EFB6FV.jpg"/>
+    <episode-num system="xmltv_ns">.197.</episode-num>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627163000 +0000" channel="ts953">
+    <title lang="en">Badai Bungalow</title>
+    <desc lang="en">The host interacts with celebrities from the Malayalam film industry, though the stand-up comedians join in later to entertain the celebrities and audiences alike.</desc>
+    <credits>
+      <actor>Mithun Ramesh</actor>
+      <actor>Ramesh Pishardai</actor>
+      <actor>Mukesh</actor>
+      <actor>Ramesh Pisharody</actor>
+      <actor>Arya Rohit</actor>
+      <actor>Dharmajan Bolgatty</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAADD849234E18E4281C12BC61C693FCED4E6E21P.jpg"/>
+    <episode-num system="xmltv_ns">0.173.</episode-num>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627173000 +0000" channel="ts953">
+    <title lang="en">Comedy Stars</title>
+    <desc lang="en">Talented comedians from Kerala are handpicked by the judges. The contestants then perform comic skits which deal with everyday life experiences to impress the judges and win the coveted title.</desc>
+    <credits>
+      <actor>Sruthi Menon</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Tini Tom</actor>
+      <actor>Jagadish</actor>
+      <actor>Kalpana Priyadarshini</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465608D48920A2FB4EE3B396845B558FA200EB6EV.jpg"/>
+    <episode-num system="xmltv_ns">1.773.</episode-num>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627203000 +0000" channel="ts953">
+    <title lang="en">Movie - Boeing Boeing</title>
+    <desc lang="en">Shyam, a flirt, seeks his friend's help to date several girls at the same time. However, an unexpected turn of events changes their situation and, later, they get caught in their own web of lies.</desc>
+    <credits>
+      <actor>Mohanlal</actor>
+      <actor>Mukesh</actor>
+      <actor>Lizy</actor>
+      <actor>Madhuri</actor>
+      <actor>M G Soman</actor>
+      <actor>Ashwini</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F26602DC76B55EEFA3458C52BB81FE744CF58C7M.jpg"/>
   </programme>
 </tv>

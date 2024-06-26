@@ -3,120 +3,6 @@
   <channel id="ts28">
     <display-name lang="en">Alankar</display-name>
   </channel>
-  <programme start="20240624193000 +0000" stop="20240624233000 +0000" channel="ts28">
-    <title lang="en">Bidesini</title>
-    <desc lang="en">Bidesini</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73840E916C8D6F60F202FA344A077871730CD262X.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts28">
-    <title lang="en">Kichhi Katha Kichhi Geeta</title>
-    <desc lang="en">The host interviews prominent musicians from the state of Odisha as they discuss their journey and contribution to the music industry.</desc>
-    <credits>
-      <actor>Amarendra Mohanty</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B730607C6EC32EED549DC842B1D08038F78AF7108.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts28">
-    <title lang="en">Alankar Hits</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs recorded by renowned musicians and artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03DA933F83D880483539BB433FB2D88C5D621CAES.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625043000 +0000" channel="ts28">
-    <title lang="en">Alo Mora Kandhei</title>
-    <desc lang="en">A professor leads a stressful life until he falls in love with a beautiful police officer.</desc>
-    <credits>
-      <actor>Akash Das Nayak</actor>
-      <actor>Priya Choudhury</actor>
-      <actor>Mihir Das</actor>
-      <actor>Anita Das</actor>
-      <actor>Bina</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C847CBA0E126E3E00BB6D3B787798DF374AD6263.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625082000 +0000" channel="ts28">
-    <title lang="en">Golmaal Love</title>
-    <desc lang="en">A young man concocts a plan to marry a wealthy girl in order to live a comfortable life and finds a perfect suitress. However, his wish to marry into a bigger family causes trouble.</desc>
-    <credits>
-      <actor>Tapi Mishra</actor>
-      <actor>Babushan Mohanty</actor>
-      <actor>Salil Mitra</actor>
-      <actor>Bijay Mohanty</actor>
-      <actor>Jiban Panda</actor>
-      <actor>Tamanna Vyas</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/336CBC734B5DFC2F52938DD012499BC70A8FC2F3U.jpg"/>
-  </programme>
-  <programme start="20240625082000 +0000" stop="20240625083000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625112000 +0000" channel="ts28">
-    <title lang="en">Mu Paradesi Chadhei</title>
-    <desc lang="en">Aditya and Sanjana, a couple in love, experience many ups and downs and phases of love at various stages of their lives.</desc>
-    <credits>
-      <actor>Ardhendu Sundar Sahu</actor>
-      <actor>Anubha Sourya</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D95B0CF9C1C9F8813EC5AE9F38829378075DDD2K.jpg"/>
-  </programme>
-  <programme start="20240625112000 +0000" stop="20240625113000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625142000 +0000" channel="ts28">
-    <title lang="en">Ajab Sanjura Gajab Love</title>
-    <desc lang="en">Sanju, a young man who suffers from obsessive-compulsive disorder, falls in love with Sakhi. All is well in their lives until the day he is forced to take her sick father to the hospital.</desc>
-    <credits>
-      <actor>Babushan</actor>
-      <actor>Archita Sahu</actor>
-      <actor>Mihir Das</actor>
-      <actor>Aparajita Mohanty</actor>
-      <actor>Babushan Mohanty</actor>
-      <actor>Abhijit</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB72C814B7E2362C06439EBDF12834A52543E3F2U.jpg"/>
-  </programme>
-  <programme start="20240625142000 +0000" stop="20240625143000 +0000" channel="ts28">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625193000 +0000" channel="ts28">
-    <title lang="en">Tu Hasuthibu Mu Kandu Thibi</title>
-    <desc lang="en">Tu Hasuthibu Mu Kandu Thibi</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C6A5875F6DF508546C9048AB1258A579CBFC9E3.jpg"/>
-  </programme>
   <programme start="20240625193000 +0000" stop="20240625233000 +0000" channel="ts28">
     <title lang="en">Hata Dhari Chalutha</title>
     <desc lang="en">Sai and Samparna love each other but her family does not want her to marry him as he is an orphan. Sai, on the other hand, wants to feel the warmth of a family.</desc>
@@ -240,5 +126,122 @@
     <desc lang="en">Badadandara Bhikari</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF974073907D1579263952290B089BB5101862C65.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626233000 +0000" channel="ts28">
+    <title lang="en">Rajadhani Jhia Raja Nandini</title>
+    <desc lang="en">Rajadhani Jhia Raja Nandini</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/368735E9C9CF5BE4FE7131C38A6EB69D84F68639M.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627003000 +0000" channel="ts28">
+    <title lang="en">Kichhi Katha Kichhi Geeta</title>
+    <desc lang="en">The host interviews prominent musicians from the state of Odisha as they discuss their journey and contribution to the music industry.</desc>
+    <credits>
+      <actor>Amarendra Mohanty</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B730607C6EC32EED549DC842B1D08038F78AF7108.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts28">
+    <title lang="en">Alankar Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs recorded by renowned musicians and artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03DA933F83D880483539BB433FB2D88C5D621CAES.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627043000 +0000" channel="ts28">
+    <title lang="en">Chumki My Darling</title>
+    <desc lang="en">Bhabani Babu, a disgruntled old man who has always resented his family and hurt their sentiments, gets a second chance at life when he miraculously transforms into a youth.</desc>
+    <credits>
+      <actor>Sambit</actor>
+      <actor>Mahasweta</actor>
+      <actor>Pradyumna Lenka</actor>
+      <actor>Puspa Panda</actor>
+      <actor>Tribhuban Panda</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80360B6E10820EF888ED232127BA1811908616156.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627082000 +0000" channel="ts28">
+    <title lang="en">Hero No.1</title>
+    <desc lang="en">A young man, who is extremely fond of acting, dreams of making it big in the film industry and works hard for it.</desc>
+    <credits>
+      <actor>Mihir Das</actor>
+      <actor>Kuna tripathy</actor>
+      <actor>Asit Pati</actor>
+      <actor>Babushan Mohanty</actor>
+      <actor>Bhoomika Dash</actor>
+      <actor>Pradyumna Lenka</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3118B58C5C6BBC32B1D3A86565AAA9E59072D10FM.jpg"/>
+  </programme>
+  <programme start="20240627082000 +0000" stop="20240627083000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627112000 +0000" channel="ts28">
+    <title lang="en">Ganja Ladhei</title>
+    <desc lang="en">Ganja Ladhei</desc>
+    <credits>
+      <actor>Sambit Acharya</actor>
+      <actor>Sofia Alam</actor>
+      <actor>Sudhakar Basanta</actor>
+      <actor>Braja</actor>
+      <actor>Anjana Das</actor>
+      <actor>Saroj Das</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81B619552BE2A4B1904C92BD09F332541608E1DF9.jpg"/>
+  </programme>
+  <programme start="20240627112000 +0000" stop="20240627113000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627142000 +0000" channel="ts28">
+    <title lang="en">Bande Utkala Janani</title>
+    <desc lang="en">The film revolves around an audacious lady journalist and her courageous approach to expose political scams. Three police officers join her in a mission to uproot corrupt practices.</desc>
+    <credits>
+      <actor>Siddhanta Mahapatra</actor>
+      <actor>Sabyasachi Mishra</actor>
+      <actor>Minaketan</actor>
+      <actor>Smitha Mohanty</actor>
+      <actor>Raicharan Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F143FA022E04373BC682379FB4A0B97A94DFEFB3B.jpg"/>
+  </programme>
+  <programme start="20240627142000 +0000" stop="20240627143000 +0000" channel="ts28">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627193000 +0000" channel="ts28">
+    <title lang="en">Allaha Ra Se Gelha Pua</title>
+    <desc lang="en">Allaha Ra Se Gelha Pua</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E8D4E60CD0E700355A04E513DC304B0514691880.jpg"/>
   </programme>
 </tv>

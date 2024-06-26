@@ -3,131 +3,6 @@
   <channel id="ts163">
     <display-name lang="en">Star Gold 2</display-name>
   </channel>
-  <programme start="20240624195100 +0000" stop="20240624213400 +0000" channel="ts163">
-    <title lang="en">Dulhan Hum Le Jayenge</title>
-    <desc lang="en">Sapna is raised by her three uncles, each one of them with a contrasting pursuit in life. She falls in love with Raja, who tries to impress each of her uncles in a different manner.</desc>
-    <credits>
-      <actor>Salman Khan</actor>
-      <actor>Karisma Kapoor</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Om Puri</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Kader Khan</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/946D538FD83F12C6A340526D7AB83207424747A3H.jpg"/>
-  </programme>
-  <programme start="20240624213400 +0000" stop="20240625001300 +0000" channel="ts163">
-    <title lang="en">Intelligent Khiladi</title>
-    <desc lang="en">Gopi is on the verge of graduating from RAW when he is accused of murdering two RAW officials. In response, a furious Gopi vows to find those responsible and make them pay.</desc>
-    <credits>
-      <actor>Adivi Sesh</actor>
-      <actor>Sobhita Dhulipala</actor>
-      <actor>Madhu Shalini</actor>
-      <actor>Jagapati Babu</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Supriya Yarlagadda</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/783C88E065EDAE41E417D1FB05FAFD1FE943BC3BN.jpg"/>
-  </programme>
-  <programme start="20240625001300 +0000" stop="20240625021000 +0000" channel="ts163">
-    <title lang="en">Shootout At Lokhandwala</title>
-    <desc lang="en">An experienced policeman, Khan, leads a team to eliminate gangsters hiding in a residential locality in Mumbai. However, this results in his own integrity being questioned.</desc>
-    <credits>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Sunil Shetty</actor>
-      <actor>Vivek Oberoi</actor>
-      <actor>Tusshar Kapoor</actor>
-      <actor>Neha Dhupia</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0748FCE1DB05285DAA5CD37525629AAC52C0925DO.jpg"/>
-  </programme>
-  <programme start="20240625021000 +0000" stop="20240625050000 +0000" channel="ts163">
-    <title lang="en">Khuda Haafiz</title>
-    <desc lang="en">Sameer, a young man, leads a content life with Nargis, his wife. However, when she is kidnapped by human traffickers, he must rescue her before it is too late.</desc>
-    <credits>
-      <actor>Vidyut Jammwal</actor>
-      <actor>Shivaleeka Oberoi</actor>
-      <actor>Annu Kapoor</actor>
-      <actor>Shiv Pandit</actor>
-      <actor>Aahana Kumra</actor>
-      <actor>Vipin Sharma</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E914B90255F010D53B271AF1CE47B05F06971187W.jpg"/>
-  </programme>
-  <programme start="20240625045000 +0000" stop="20240625072100 +0000" channel="ts163">
-    <title lang="en">Biwi No.1</title>
-    <desc lang="en">Pooja, a simple housewife, lives with her husband and two children. However, when her husband leaves her for a beautiful model, Rupali, she gets a glamorous makeover to grab his attention.</desc>
-    <credits>
-      <actor>Anil Kapoor</actor>
-      <actor>Salman Khan</actor>
-      <actor>Karisma Kapoor</actor>
-      <actor>Tabu</actor>
-      <actor>Sushmita Sen</actor>
-      <actor>Himani Shivpuri</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8F07A28DB5A92A3F8C0788AE0B1DA1CB52AE39EU.jpg"/>
-  </programme>
-  <programme start="20240625072100 +0000" stop="20240625102700 +0000" channel="ts163">
-    <title lang="en">Mujhse Dosti Karoge!</title>
-    <desc lang="en">Raj falls in love with Tina after their friendship blossoms via emails. However, he is unaware that Tina's best friend, Pooja, is the one writing these mails.</desc>
-    <credits>
-      <actor>Rani Mukerji</actor>
-      <actor>Hrithik Roshan</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Uday Chopra</actor>
-      <actor>Barkha Singh</actor>
-      <actor>Satish Shah</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0ABFD20E085E49CAF3FB813F682F29C5A1B30008W.jpg"/>
-  </programme>
-  <programme start="20240625102700 +0000" stop="20240625132500 +0000" channel="ts163">
-    <title lang="en">Akira</title>
-    <desc lang="en">Akira, a self-reliant woman who moves to Mumbai for college, unwittingly becomes the target of four corrupt police officers and fights to prove her innocence.</desc>
-    <credits>
-      <actor>Sonakshi Sinha</actor>
-      <actor>Konkona Sen Sharma</actor>
-      <actor>Anurag Kashyap</actor>
-      <actor>Raai Laxmi</actor>
-      <actor>Amit Sadh</actor>
-      <actor>Ankita Karan Patel</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/406CBC1C6880DE96EA13E6E09C0A7C458BDA2347E.jpg"/>
-  </programme>
-  <programme start="20240625132500 +0000" stop="20240625160100 +0000" channel="ts163">
-    <title lang="en">Qatil Saya</title>
-    <desc lang="en">A police officer investigates the mystery behind unnatural deaths after taking charge of his new post at a hill station.</desc>
-    <credits>
-      <actor>Sundar C</actor>
-      <actor>Sakshi Choudhary</actor>
-      <actor>Dhansika</actor>
-      <actor>VTV Ganesh</actor>
-      <actor>Vimala Raman</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9F16340C175733B3D6B10BD049213BCC77A9C76G.jpg"/>
-  </programme>
-  <programme start="20240625160100 +0000" stop="20240625190600 +0000" channel="ts163">
-    <title lang="en">Singham Returns</title>
-    <desc lang="en">Bajirao Singham, an honest police officer, encounters Babaji, a god-man with connections to high profile politicians, when he investigates the death of an officer from his team.</desc>
-    <credits>
-      <actor>Ajay Devgn</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Amol Gupte</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Vineet Sharma</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F7C73F74FF8BF9320D397FDA4127A6DE045EA2DL.jpg"/>
-  </programme>
   <programme start="20240625190600 +0000" stop="20240625213000 +0000" channel="ts163">
     <title lang="en">The Return Of Abhimanyu</title>
     <desc lang="en">A military officer borrows money from a bank using fake papers for his sister's marriage. However, when the money goes missing from his account, he begins an investigation that leads him to a hacker.</desc>
@@ -142,7 +17,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DB22B95B98F05A420361A6EEC25299B57AA4B7I.jpg"/>
   </programme>
-  <programme start="20240625213000 +0000" stop="20240625235500 +0000" channel="ts163">
+  <programme start="20240625213000 +0000" stop="20240625233400 +0000" channel="ts163">
     <title lang="en">The Real Hero</title>
     <desc lang="en">After joining a Jamaican college, an aspiring dancer teams up with a local to win a dance competition but a two-time winner causes trouble for her.</desc>
     <credits>
@@ -156,7 +31,13 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63DAFF29F8C27997227BCD79992B96F5F79B4A2CS.jpg"/>
   </programme>
-  <programme start="20240625235500 +0000" stop="20240626030300 +0000" channel="ts163">
+  <programme start="20240625233400 +0000" stop="20240625234900 +0000" channel="ts163">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240625234900 +0000" stop="20240626025700 +0000" channel="ts163">
     <title lang="en">Dhoom 3</title>
     <desc lang="en">Sahir, a circus entertainer, robs a corrupt bank in Chicago in order to avenge his father's death. However, his troubles increase when Inspector Jai and Ali suspect him of the robbery.</desc>
     <credits>
@@ -170,7 +51,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AC439AEA55C408B19BC4F845DB2A328A88415CL.jpg"/>
   </programme>
-  <programme start="20240626030300 +0000" stop="20240626053200 +0000" channel="ts163">
+  <programme start="20240626025700 +0000" stop="20240626052700 +0000" channel="ts163">
     <title lang="en">Once Upon A Time In Mumbaai</title>
     <desc lang="en">Two gangsters, Sultan Mirza, the infamous mobster of Mumbai, and Shoaib Khan, who aims to create an image in the underworld, try their best to rule the city on their own terms.</desc>
     <credits>
@@ -184,7 +65,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69FED8A4CF14A1D82D7BDAC95D85E2DB7A7B3E58B.jpg"/>
   </programme>
-  <programme start="20240626053200 +0000" stop="20240626075900 +0000" channel="ts163">
+  <programme start="20240626052700 +0000" stop="20240626074900 +0000" channel="ts163">
     <title lang="en">Aatma Ka Ghar</title>
     <desc lang="en">A newly-wed couple moves to a new house where they begin to witness some eerie activities. Things take an unexpected turn when a boy informs them that a spirit lives in their house.</desc>
     <credits>
@@ -197,7 +78,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E73E7D2D0C565EC55A342F8B3994D0292C71CD327.jpg"/>
   </programme>
-  <programme start="20240626075900 +0000" stop="20240626100300 +0000" channel="ts163">
+  <programme start="20240626074900 +0000" stop="20240626095500 +0000" channel="ts163">
     <title lang="en">Aatma Ka Ghar 2</title>
     <desc lang="en">Mohini and Harsha move to a different city to make a new beginning. However, an evil spirit from their past follows them to their new town.</desc>
     <credits>
@@ -211,7 +92,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B166A1895A6F9B2AB948238455FD2D627AB2140Y.jpg"/>
   </programme>
-  <programme start="20240626100300 +0000" stop="20240626132500 +0000" channel="ts163">
+  <programme start="20240626095500 +0000" stop="20240626132500 +0000" channel="ts163">
     <title lang="en">Sanju</title>
     <desc lang="en">Sanjay Dutt, an actor from the Bollywood film industry, struggles with the legacy that is handed down to him by his parents, along with his personal dilemmas and vices.</desc>
     <credits>
@@ -225,7 +106,7 @@
     <category lang="en">Biography</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6548D093C6908F1F49CD6DF411945937E10B012M.jpg"/>
   </programme>
-  <programme start="20240626132500 +0000" stop="20240626160800 +0000" channel="ts163">
+  <programme start="20240626132500 +0000" stop="20240626161500 +0000" channel="ts163">
     <title lang="en">Chakra Ka Rakshak</title>
     <desc lang="en">A police officer and soldier team up and decide to end the cybercriminals that pose a threat to the safety of people on the internet.</desc>
     <credits>
@@ -239,7 +120,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC04FED0D772E6685C3FCEA44434835D4F067482J.jpg"/>
   </programme>
-  <programme start="20240626160800 +0000" stop="20240626183000 +0000" channel="ts163">
+  <programme start="20240626161500 +0000" stop="20240626183000 +0000" channel="ts163">
     <title lang="en">MCA Middle Class Abbayi</title>
     <desc lang="en">Nani, a middle-class boy with a photographic memory, tries to protect his sister-in-law, Jyothi, from a dreaded criminal who runs an illegal road transport business.</desc>
     <credits>
@@ -252,5 +133,53 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50EFA7F5ACAD35EE534F15CF02D3FCBD71B663A6Y.jpg"/>
+  </programme>
+  <programme start="20240626191600 +0000" stop="20240626212100 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626212100 +0000" stop="20240627003000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627033000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627213000 +0000" channel="ts163">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
 </tv>

@@ -3,258 +3,6 @@
   <channel id="650">
     <display-name lang="en">Raj News Malayalam</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="650">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650010.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="650">
-    <title lang="en">Capturing Kerala</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650011.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="650">
-    <title lang="en">Time To Talk</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650012.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="650">
-    <title lang="en">LS Junction</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650013.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650014.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="650">
-    <title lang="en">Entertainment News</title>
-    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the entertainment industry.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650015.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650016.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="650">
-    <title lang="en">Relax With Me</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650017.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="650">
-    <title lang="en">BTS</title>
-    <desc lang="en">A comprehensive compilation of some of the greatest hits by the talented all-male K-pop band BTS played in quick succession.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650018.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="650">
-    <title lang="en">LS Junction</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650019.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650020.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625125400 +0530" channel="650">
-    <title lang="en">Time To Talk</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650021.jpg"/>
-  </programme>
-  <programme start="20240625125400 +0530" stop="20240625133000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650022.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="650">
-    <title lang="en">Vidamatte</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650023.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="650">
-    <title lang="en">Real To Reel</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650024.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="650">
-    <title lang="en">Doctors Live</title>
-    <desc lang="en">The host engages in a conversation with a panel of doctors and medical experts on various issues related to health and wellness, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650025.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="650">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650026.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="650">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650027.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="650">
-    <title lang="en">Debate - Sahin</title>
-    <desc lang="en">The host moderates a debate among experts who share their views and opinions on various pressing issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650028.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650029.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="650">
-    <title lang="en">Relax With Me</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650030.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="650">
-    <title lang="en">Time To Talk</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650031.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650032.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650033.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="650">
-    <title lang="en">Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650034.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="650">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650035.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="650">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650036.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="650">
-    <title lang="en">News Square</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650037.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625223000 +0530" channel="650">
-    <title lang="en">Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650038.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="650">
-    <title lang="en">D News</title>
-    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650039.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="650">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650040.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="650">
-    <title lang="en">Gulf News</title>
-    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625650041.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="650">
-    <title lang="en">Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="650">
-    <title lang="en">Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="650">
-    <title lang="en">Gulf News</title>
-    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="650">
-    <title lang="en">Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="650">
-    <title lang="en">Vidamatte</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="650">
-    <title lang="en">News Square</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="650">
-    <title lang="en">LS Junction</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="650">
-    <title lang="en">Relax With Me</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="650">
-    <title lang="en">Debate - Sahin</title>
-    <desc lang="en">The host moderates a debate among experts who share their views and opinions on various pressing issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650008.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="650">
-    <title lang="en">Relax With Me</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650009.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="650">
     <title lang="en">TBA</title>
     <desc lang="en">An entertainment-based programme.</desc>
@@ -440,5 +188,347 @@
     <desc lang="en">An entertainment-based programme.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650040.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="650">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626650041.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="650">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="650">
+    <title lang="en">Vidamatte</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="650">
+    <title lang="en">News Square</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="650">
+    <title lang="en">LS Junction</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="650">
+    <title lang="en">Debate - Sahin</title>
+    <desc lang="en">The host moderates a debate among experts who share their views and opinions on various pressing issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650008.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650009.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650010.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="650">
+    <title lang="en">Capturing Kerala</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650011.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="650">
+    <title lang="en">Vidamatte</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650012.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="650">
+    <title lang="en">BTS</title>
+    <desc lang="en">A comprehensive compilation of some of the greatest hits by the talented all-male K-pop band BTS played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650013.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650014.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="650">
+    <title lang="en">Entertainment News</title>
+    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the entertainment industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650015.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650016.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650017.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="650">
+    <title lang="en">Swararagam</title>
+    <desc lang="en">A melodious compilation of popular songs from various Malayalam movies that have left a lasting impression on audiences.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650018.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="650">
+    <title lang="en">Real To Reel</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650019.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650020.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627125400 +0530" channel="650">
+    <title lang="en">Time To Talk</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650021.jpg"/>
+  </programme>
+  <programme start="20240627125400 +0530" stop="20240627133000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650022.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="650">
+    <title lang="en">Vidamatte</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650023.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="650">
+    <title lang="en">Real To Reel</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650024.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="650">
+    <title lang="en">Doctors Live</title>
+    <desc lang="en">The host engages in a conversation with a panel of doctors and medical experts on various issues related to health and wellness, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650025.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650026.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650027.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="650">
+    <title lang="en">Debate - Sahin</title>
+    <desc lang="en">The host moderates a debate among experts who share their views and opinions on various pressing issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650028.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650029.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650030.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="650">
+    <title lang="en">Time To Talk</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650031.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650032.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650033.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650034.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="650">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650035.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650036.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="650">
+    <title lang="en">News Square</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650037.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627223000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650038.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="650">
+    <title lang="en">D News</title>
+    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650039.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650040.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="650">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627650041.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="650">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="650">
+    <title lang="en">Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to the latest developments and issues that concern the society.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="650">
+    <title lang="en">Time To Talk</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="650">
+    <title lang="en">News Square</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="650">
+    <title lang="en">Swararagam</title>
+    <desc lang="en">A melodious compilation of popular songs from various Malayalam movies that have left a lasting impression on audiences.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="650">
+    <title lang="en">Debate - Sahin</title>
+    <desc lang="en">The host moderates a debate among experts who share their views and opinions on various pressing issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650008.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650009.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="650">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650010.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="650">
+    <title lang="en">Capturing Kerala</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650011.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="650">
+    <title lang="en">LS Junction</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650012.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="650">
+    <title lang="en">Relax With Me</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628650013.jpg"/>
   </programme>
 </tv>

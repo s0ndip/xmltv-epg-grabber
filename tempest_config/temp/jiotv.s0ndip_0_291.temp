@@ -3,302 +3,6 @@
   <channel id="291">
     <display-name lang="en">SET HD</display-name>
   </channel>
-  <programme start="20240625054000 +0530" stop="20240625062000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291005.jpg"/>
-  </programme>
-  <programme start="20240625062000 +0530" stop="20240625070000 +0530" channel="291">
-    <title lang="en">Crime Patrol 2.0</title>
-    <desc lang="en">The host narrates the stories of horrifying real-life crime cases that revolve around harassment, kidnapping and murder and presents the re-enactments.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291006.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="291">
-    <title lang="en">The Kapil Sharma Show - Masti Lagataar</title>
-    <desc lang="en">Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics.</desc>
-    <credits>
-      <actor>Kiku Sharda</actor>
-      <actor>Bharti Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="291">
-    <title lang="en">Jubilee Talkies - Shohrat.Shiddat.Mohabbat</title>
-    <desc lang="en">A young woman passionate about filmography and cinema crosses paths with a celebrated actor who plays a pivotal role in fulfilling her father's dream.</desc>
-    <credits>
-      <actor>Khushi Dubey</actor>
-      <actor>Abhishek Bajaj</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291008.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="291">
-    <title lang="en">Mehndi Wala Ghar</title>
-    <desc lang="en">A joint family starts breaking when the sons of the house leave with their wives to settle outside. However, a ray of hope appears when a girl enters the household.</desc>
-    <credits>
-      <actor>Vibha Chhibber</actor>
-      <actor>Karan Mehra</actor>
-      <actor>Shruti Anand</actor>
-      <actor>Reema Vohra</actor>
-      <actor>Rushad Rana</actor>
-      <actor>Ravi Gosain</actor>
-      <actor>Kanwarjeet Paintal</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291009.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="291">
-    <title lang="en">Shrimad Ramayan</title>
-    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
-    <credits>
-      <director>Kamal Monga</director>
-      <actor>Sujay Reu</actor>
-      <actor>Prachi Bansal</actor>
-      <actor>Basant Bhatt</actor>
-      <actor>Vaidehi Nair</actor>
-      <actor>Nikitin Dheer</actor>
-      <actor>Nirbhay Wadhwa</actor>
-      <actor>Nikhilesh Rathod</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291010.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="291">
-    <title lang="en">Pukaar - Dil Se Dil Tak</title>
-    <desc lang="en">A young girl who gets separated from her family due to unforeseen circumstances and is raised by a con woman, crosses paths with her family because of destiny.</desc>
-    <credits>
-      <director>Prateek Shah</director>
-      <actor>Kimmy Kaur</actor>
-      <actor>Anushka Merchande</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Sumukhi Pendse</actor>
-      <actor>Vimarsh Roshan</actor>
-      <actor>Sayali Salunkhe</actor>
-      <actor>Garima Vikrant Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291011.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625112000 +0530" channel="291">
-    <title lang="en">Best Of The Kapil Sharma Show</title>
-    <desc lang="en">The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities.</desc>
-    <credits>
-      <actor>Kapil Sharma</actor>
-      <actor>Navjot Singh Sidhu</actor>
-      <actor>Sunil Grover</actor>
-      <actor>Ali Asgar</actor>
-      <actor>Kiku Sharda</actor>
-      <actor>Bharti Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291012.jpg"/>
-  </programme>
-  <programme start="20240625112000 +0530" stop="20240625124000 +0530" channel="291">
-    <title lang="en">Madness Machayenge - India Ko Hasayenge</title>
-    <desc lang="en">Talented and aspiring comedians participate in a variety of comedy-associated challenges and present humour-filled gags to win the coveted title.</desc>
-    <credits>
-      <actor>Paritosh Tripathi</actor>
-      <actor>Snehil Dixit Mehra</actor>
-      <actor>Ankita Shrivastav</actor>
-      <actor>Kushal Badrike</actor>
-      <actor>Gaurav Dubey</actor>
-      <actor>Kettan Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291013.jpg"/>
-  </programme>
-  <programme start="20240625124000 +0530" stop="20240625133000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291014.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625142000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291015.jpg"/>
-  </programme>
-  <programme start="20240625142000 +0530" stop="20240625160000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291016.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625165000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291017.jpg"/>
-  </programme>
-  <programme start="20240625165000 +0530" stop="20240625174000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291018.jpg"/>
-  </programme>
-  <programme start="20240625174000 +0530" stop="20240625183000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291019.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="291">
-    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to the society.</desc>
-    <credits>
-      <director>Mukesh Singh</director>
-      <actor>Abeer Soofi</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Vaibhav Mangle</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Tarun Khanna</actor>
-      <actor>Hemant Thatte</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291020.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="291">
-    <title lang="en">Shrimad Ramayan</title>
-    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
-    <credits>
-      <director>Kamal Monga</director>
-      <actor>Sujay Reu</actor>
-      <actor>Prachi Bansal</actor>
-      <actor>Basant Bhatt</actor>
-      <actor>Vaidehi Nair</actor>
-      <actor>Nikitin Dheer</actor>
-      <actor>Nirbhay Wadhwa</actor>
-      <actor>Nikhilesh Rathod</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291021.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="291">
-    <title lang="en">Kavya - Ek Jazbaa, Ek Junoon</title>
-    <desc lang="en">An IAS officer grapples to balance her professional and personal life whilst serving the nation, challenging the stereotypes of the society.</desc>
-    <credits>
-      <actor>Sumbul Touqeer</actor>
-      <actor>Mishkat Varma</actor>
-      <actor>Anuj Sullere</actor>
-      <actor>Parakh Madan</actor>
-      <actor>Varun Kasturia</actor>
-      <actor>Chandresh Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291022.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="291">
-    <title lang="en">Jubilee Talkies - Shohrat.Shiddat.Mohabbat</title>
-    <desc lang="en">A young woman passionate about filmography and cinema crosses paths with a celebrated actor who plays a pivotal role in fulfilling her father's dream.</desc>
-    <credits>
-      <actor>Khushi Dubey</actor>
-      <actor>Abhishek Bajaj</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291023.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="291">
-    <title lang="en">Pukaar - Dil Se Dil Tak</title>
-    <desc lang="en">A young girl who gets separated from her family due to unforeseen circumstances and is raised by a con woman, crosses paths with her family because of destiny.</desc>
-    <credits>
-      <director>Prateek Shah</director>
-      <actor>Kimmy Kaur</actor>
-      <actor>Anushka Merchande</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Sumukhi Pendse</actor>
-      <actor>Vimarsh Roshan</actor>
-      <actor>Sayali Salunkhe</actor>
-      <actor>Garima Vikrant Singh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291024.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="291">
-    <title lang="en">Shrimad Ramayan</title>
-    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
-    <credits>
-      <director>Kamal Monga</director>
-      <actor>Sujay Reu</actor>
-      <actor>Prachi Bansal</actor>
-      <actor>Basant Bhatt</actor>
-      <actor>Vaidehi Nair</actor>
-      <actor>Nikitin Dheer</actor>
-      <actor>Nirbhay Wadhwa</actor>
-      <actor>Nikhilesh Rathod</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291025.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="291">
-    <title lang="en">Mehndi Wala Ghar</title>
-    <desc lang="en">A joint family starts breaking when the sons of the house leave with their wives to settle outside. However, a ray of hope appears when a girl enters the household.</desc>
-    <credits>
-      <actor>Vibha Chhibber</actor>
-      <actor>Karan Mehra</actor>
-      <actor>Shruti Anand</actor>
-      <actor>Reema Vohra</actor>
-      <actor>Rushad Rana</actor>
-      <actor>Ravi Gosain</actor>
-      <actor>Kanwarjeet Paintal</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291026.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625233000 +0530" channel="291">
-    <title lang="en">Superstar Singer</title>
-    <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.</desc>
-    <credits>
-      <director>Sahil Chhabria</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291027.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625291028.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626012000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291001.jpg"/>
-  </programme>
-  <programme start="20240626012000 +0530" stop="20240626025000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291002.jpg"/>
-  </programme>
-  <programme start="20240626025000 +0530" stop="20240626042000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291003.jpg"/>
-  </programme>
-  <programme start="20240626042000 +0530" stop="20240626050000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626054000 +0530" channel="291">
-    <title lang="en">Best Of Crime Patrol</title>
-    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291005.jpg"/>
-  </programme>
   <programme start="20240626054000 +0530" stop="20240626062000 +0530" channel="291">
     <title lang="en">Best Of Crime Patrol</title>
     <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
@@ -413,13 +117,25 @@
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291016.jpg"/>
   </programme>
-  <programme start="20240626142000 +0530" stop="20240626160000 +0530" channel="291">
+  <programme start="20240626142000 +0530" stop="20240626151000 +0530" channel="291">
     <title lang="en">Best Of Crime Patrol</title>
     <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291017.jpg"/>
   </programme>
-  <programme start="20240626160000 +0530" stop="20240626174000 +0530" channel="291">
+  <programme start="20240626151000 +0530" stop="20240626160000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291017.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0530" stop="20240626165000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291018.jpg"/>
+  </programme>
+  <programme start="20240626165000 +0530" stop="20240626174000 +0530" channel="291">
     <title lang="en">Best Of Crime Patrol</title>
     <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
     <category lang="en">TV Show</category>
@@ -546,5 +262,402 @@
     </credits>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291027.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626291028.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627012000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291001.jpg"/>
+  </programme>
+  <programme start="20240627012000 +0530" stop="20240627020000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291002.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627024000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291003.jpg"/>
+  </programme>
+  <programme start="20240627024000 +0530" stop="20240627042000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291004.jpg"/>
+  </programme>
+  <programme start="20240627042000 +0530" stop="20240627050000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291005.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627054000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291006.jpg"/>
+  </programme>
+  <programme start="20240627054000 +0530" stop="20240627062000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291007.jpg"/>
+  </programme>
+  <programme start="20240627062000 +0530" stop="20240627070000 +0530" channel="291">
+    <title lang="en">Crime Patrol 2.0</title>
+    <desc lang="en">The host narrates the stories of horrifying real-life crime cases that revolve around harassment, kidnapping and murder and presents the re-enactments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291008.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="291">
+    <title lang="en">The Kapil Sharma Show - Masti Lagataar</title>
+    <desc lang="en">Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics.</desc>
+    <credits>
+      <actor>Kiku Sharda</actor>
+      <actor>Bharti Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291009.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="291">
+    <title lang="en">Jubilee Talkies - Shohrat.Shiddat.Mohabbat</title>
+    <desc lang="en">A young woman passionate about filmography and cinema crosses paths with a celebrated actor who plays a pivotal role in fulfilling her father's dream.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Abhishek Bajaj</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291010.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="291">
+    <title lang="en">Mehndi Wala Ghar</title>
+    <desc lang="en">A joint family starts breaking when the sons of the house leave with their wives to settle outside. However, a ray of hope appears when a girl enters the household.</desc>
+    <credits>
+      <actor>Vibha Chhibber</actor>
+      <actor>Karan Mehra</actor>
+      <actor>Shruti Anand</actor>
+      <actor>Reema Vohra</actor>
+      <actor>Rushad Rana</actor>
+      <actor>Ravi Gosain</actor>
+      <actor>Kanwarjeet Paintal</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291011.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="291">
+    <title lang="en">Shrimad Ramayan</title>
+    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
+    <credits>
+      <director>Kamal Monga</director>
+      <actor>Sujay Reu</actor>
+      <actor>Prachi Bansal</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Vaidehi Nair</actor>
+      <actor>Nikitin Dheer</actor>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Nikhilesh Rathod</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291012.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="291">
+    <title lang="en">Pukaar - Dil Se Dil Tak</title>
+    <desc lang="en">A young girl who gets separated from her family due to unforeseen circumstances and is raised by a con woman, crosses paths with her family because of destiny.</desc>
+    <credits>
+      <director>Prateek Shah</director>
+      <actor>Kimmy Kaur</actor>
+      <actor>Anushka Merchande</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Sumukhi Pendse</actor>
+      <actor>Vimarsh Roshan</actor>
+      <actor>Sayali Salunkhe</actor>
+      <actor>Garima Vikrant Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291013.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627112000 +0530" channel="291">
+    <title lang="en">Best Of The Kapil Sharma Show</title>
+    <desc lang="en">The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities.</desc>
+    <credits>
+      <actor>Kapil Sharma</actor>
+      <actor>Navjot Singh Sidhu</actor>
+      <actor>Sunil Grover</actor>
+      <actor>Ali Asgar</actor>
+      <actor>Kiku Sharda</actor>
+      <actor>Bharti Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291014.jpg"/>
+  </programme>
+  <programme start="20240627112000 +0530" stop="20240627124000 +0530" channel="291">
+    <title lang="en">Superstar Singer</title>
+    <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.</desc>
+    <credits>
+      <director>Sahil Chhabria</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291015.jpg"/>
+  </programme>
+  <programme start="20240627124000 +0530" stop="20240627133000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291016.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627142000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291017.jpg"/>
+  </programme>
+  <programme start="20240627142000 +0530" stop="20240627151000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291018.jpg"/>
+  </programme>
+  <programme start="20240627151000 +0530" stop="20240627160000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291019.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627165000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291020.jpg"/>
+  </programme>
+  <programme start="20240627165000 +0530" stop="20240627174000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291020.jpg"/>
+  </programme>
+  <programme start="20240627174000 +0530" stop="20240627183000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291021.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="291">
+    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+    <desc lang="en">After witnessing the injustice due to religious and caste discrimination, Sai Baba faces several trials and tribulations on his journey to bring peace and love to the society.</desc>
+    <credits>
+      <director>Mukesh Singh</director>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Tarun Khanna</actor>
+      <actor>Hemant Thatte</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291022.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="291">
+    <title lang="en">Shrimad Ramayan</title>
+    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
+    <credits>
+      <director>Kamal Monga</director>
+      <actor>Sujay Reu</actor>
+      <actor>Prachi Bansal</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Vaidehi Nair</actor>
+      <actor>Nikitin Dheer</actor>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Nikhilesh Rathod</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291023.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="291">
+    <title lang="en">Kavya - Ek Jazbaa, Ek Junoon</title>
+    <desc lang="en">An IAS officer grapples to balance her professional and personal life whilst serving the nation, challenging the stereotypes of the society.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Mishkat Varma</actor>
+      <actor>Anuj Sullere</actor>
+      <actor>Parakh Madan</actor>
+      <actor>Varun Kasturia</actor>
+      <actor>Chandresh Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291024.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="291">
+    <title lang="en">Jubilee Talkies - Shohrat.Shiddat.Mohabbat</title>
+    <desc lang="en">A young woman passionate about filmography and cinema crosses paths with a celebrated actor who plays a pivotal role in fulfilling her father's dream.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Abhishek Bajaj</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291025.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="291">
+    <title lang="en">Pukaar - Dil Se Dil Tak</title>
+    <desc lang="en">A young girl who gets separated from her family due to unforeseen circumstances and is raised by a con woman, crosses paths with her family because of destiny.</desc>
+    <credits>
+      <director>Prateek Shah</director>
+      <actor>Kimmy Kaur</actor>
+      <actor>Anushka Merchande</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Sumukhi Pendse</actor>
+      <actor>Vimarsh Roshan</actor>
+      <actor>Sayali Salunkhe</actor>
+      <actor>Garima Vikrant Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291026.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="291">
+    <title lang="en">Shrimad Ramayan</title>
+    <desc lang="en">Lord Rama who leads an inspiring life, navigates through numerous challenges and ordeals while attempting to rescue his beloved wife from the possession of Ravana, the king of demons.</desc>
+    <credits>
+      <director>Kamal Monga</director>
+      <actor>Sujay Reu</actor>
+      <actor>Prachi Bansal</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Vaidehi Nair</actor>
+      <actor>Nikitin Dheer</actor>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Nikhilesh Rathod</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291027.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="291">
+    <title lang="en">Mehndi Wala Ghar</title>
+    <desc lang="en">A joint family starts breaking when the sons of the house leave with their wives to settle outside. However, a ray of hope appears when a girl enters the household.</desc>
+    <credits>
+      <actor>Vibha Chhibber</actor>
+      <actor>Karan Mehra</actor>
+      <actor>Shruti Anand</actor>
+      <actor>Reema Vohra</actor>
+      <actor>Rushad Rana</actor>
+      <actor>Ravi Gosain</actor>
+      <actor>Kanwarjeet Paintal</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291028.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627233000 +0530" channel="291">
+    <title lang="en">Best Of The Kapil Sharma Show</title>
+    <desc lang="en">The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities.</desc>
+    <credits>
+      <actor>Kapil Sharma</actor>
+      <actor>Navjot Singh Sidhu</actor>
+      <actor>Sunil Grover</actor>
+      <actor>Ali Asgar</actor>
+      <actor>Kiku Sharda</actor>
+      <actor>Bharti Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291029.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627291030.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628012000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291001.jpg"/>
+  </programme>
+  <programme start="20240628012000 +0530" stop="20240628024000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291002.jpg"/>
+  </programme>
+  <programme start="20240628024000 +0530" stop="20240628042000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291003.jpg"/>
+  </programme>
+  <programme start="20240628042000 +0530" stop="20240628050000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628054000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291005.jpg"/>
+  </programme>
+  <programme start="20240628054000 +0530" stop="20240628062000 +0530" channel="291">
+    <title lang="en">Best Of Crime Patrol</title>
+    <desc lang="en">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291006.jpg"/>
+  </programme>
+  <programme start="20240628062000 +0530" stop="20240628070000 +0530" channel="291">
+    <title lang="en">Crime Patrol 2.0</title>
+    <desc lang="en">The host narrates the stories of horrifying real-life crime cases that revolve around harassment, kidnapping and murder and presents the re-enactments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291007.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="291">
+    <title lang="en">The Kapil Sharma Show - Masti Lagataar</title>
+    <desc lang="en">Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics.</desc>
+    <credits>
+      <actor>Kiku Sharda</actor>
+      <actor>Bharti Singh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291008.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="291">
+    <title lang="en">Jubilee Talkies - Shohrat.Shiddat.Mohabbat</title>
+    <desc lang="en">A young woman passionate about filmography and cinema crosses paths with a celebrated actor who plays a pivotal role in fulfilling her father's dream.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Abhishek Bajaj</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291009.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="291">
+    <title lang="en">Mehndi Wala Ghar</title>
+    <desc lang="en">A joint family starts breaking when the sons of the house leave with their wives to settle outside. However, a ray of hope appears when a girl enters the household.</desc>
+    <credits>
+      <actor>Vibha Chhibber</actor>
+      <actor>Karan Mehra</actor>
+      <actor>Shruti Anand</actor>
+      <actor>Reema Vohra</actor>
+      <actor>Rushad Rana</actor>
+      <actor>Ravi Gosain</actor>
+      <actor>Kanwarjeet Paintal</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628291010.jpg"/>
   </programme>
 </tv>

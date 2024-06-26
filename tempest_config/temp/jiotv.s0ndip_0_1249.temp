@@ -3,56 +3,6 @@
   <channel id="1249">
     <display-name lang="en">Kadak Hits</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625090000 +0530" channel="1249">
-    <title lang="en">Kadak Mornings</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249001.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1249">
-    <title lang="en">Trending Now</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249002.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625120000 +0530" channel="1249">
-    <title lang="en">Hit pe Hit</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249003.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="1249">
-    <title lang="en">90's Nostalgia</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249004.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625170000 +0530" channel="1249">
-    <title lang="en">Hit pe Hit</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249005.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625200000 +0530" channel="1249">
-    <title lang="en">Seeti Maar Hits</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249006.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="1249">
-    <title lang="en">Trending Now</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249007.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="1249">
-    <title lang="en">Punjab Te Bollywood</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249008.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240626000000 +0530" channel="1249">
-    <title lang="en">Seeti Maar Hits</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251249009.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626060000 +0530" channel="1249">
-    <title lang="en">Hit pe Hit</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261249000.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="1249">
     <title lang="en">Kadak Mornings</title>
     <category lang="en">Devotional</category>
@@ -92,5 +42,70 @@
     <title lang="en">Punjab Te Bollywood</title>
     <category lang="en">Devotional</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261249008.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240627000000 +0530" channel="1249">
+    <title lang="en">Seeti Maar Hits</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261249009.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627060000 +0530" channel="1249">
+    <title lang="en">Hit pe Hit</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249000.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627090000 +0530" channel="1249">
+    <title lang="en">Kadak Mornings</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249001.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="1249">
+    <title lang="en">Trending Now</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249002.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627120000 +0530" channel="1249">
+    <title lang="en">Hit pe Hit</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249003.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="1249">
+    <title lang="en">90's Nostalgia</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249004.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627170000 +0530" channel="1249">
+    <title lang="en">Hit pe Hit</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249005.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627200000 +0530" channel="1249">
+    <title lang="en">Seeti Maar Hits</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249006.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="1249">
+    <title lang="en">Trending Now</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249007.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="1249">
+    <title lang="en">Punjab Te Bollywood</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249008.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240628000000 +0530" channel="1249">
+    <title lang="en">Seeti Maar Hits</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271249009.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628060000 +0530" channel="1249">
+    <title lang="en">Hit pe Hit</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281249000.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="1249">
+    <title lang="en">Kadak Mornings</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281249001.jpg"/>
   </programme>
 </tv>

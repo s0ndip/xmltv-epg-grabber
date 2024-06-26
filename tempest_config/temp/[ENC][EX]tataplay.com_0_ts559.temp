@@ -3,737 +3,6 @@
   <channel id="ts559">
     <display-name lang="en">SONY SAB</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A4856F2BC2E80B094866C2BA009234F588C26CB1.jpg"/>
-    <episode-num system="xmltv_ns">.1008.</episode-num>
-  </programme>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When the Mahajan business empire faces accusations of black marketing that lead to the closure of their factory, Digvijay, suspecting Yuvika to be the mastermind, goes to confront her.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52710B8EEF25DE144EBF429520FA0785355586E4R.jpg"/>
-    <episode-num system="xmltv_ns">.324.</episode-num>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624195400 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal is perplexed when Inspector Pandey visits his shop and Jethalal offers him refreshments. However, Inspector Pandey declines, stating that he has come there for an inquiry.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93570D9E0CB6828C5B7BEFD0B91812BD88263884J.jpg"/>
-    <episode-num system="xmltv_ns">.4118.</episode-num>
-  </programme>
-  <programme start="20240624195400 +0000" stop="20240624201800 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, seeking answers about his grandmother's assault on an now unconscious Dhruv, questions Mahaveer. Meanwhile, armed with newfound information, Tara sets out to confront the perpetrator.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8CD9C7B801F544CBB4715E3A49741CF75C8204FB.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240624201800 +0000" stop="20240624204200 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BAB51E5BA87DC9C39B8FC48B4E3F08F9BAF0888.jpg"/>
-    <episode-num system="xmltv_ns">.640.</episode-num>
-  </programme>
-  <programme start="20240624204200 +0000" stop="20240624210600 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A4856F2BC2E80B094866C2BA009234F588C26CB1.jpg"/>
-    <episode-num system="xmltv_ns">.1008.</episode-num>
-  </programme>
-  <programme start="20240624210600 +0000" stop="20240624213000 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When the Mahajan business empire faces accusations of black marketing that lead to the closure of their factory, Digvijay, suspecting Yuvika to be the mastermind, goes to confront her.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52710B8EEF25DE144EBF429520FA0785355586E4R.jpg"/>
-    <episode-num system="xmltv_ns">.324.</episode-num>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624215400 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, seeking answers about his grandmother's assault on an now unconscious Dhruv, questions Mahaveer. Meanwhile, armed with newfound information, Tara sets out to confront the perpetrator.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8CD9C7B801F544CBB4715E3A49741CF75C8204FB.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240624215400 +0000" stop="20240624221800 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A4856F2BC2E80B094866C2BA009234F588C26CB1.jpg"/>
-    <episode-num system="xmltv_ns">.1008.</episode-num>
-  </programme>
-  <programme start="20240624221800 +0000" stop="20240624224200 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal is perplexed when Inspector Pandey visits his shop and Jethalal offers him refreshments. However, Inspector Pandey declines, stating that he has come there for an inquiry.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93570D9E0CB6828C5B7BEFD0B91812BD88263884J.jpg"/>
-    <episode-num system="xmltv_ns">.4118.</episode-num>
-  </programme>
-  <programme start="20240624224200 +0000" stop="20240624230600 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, seeking answers about his grandmother's assault on an now unconscious Dhruv, questions Mahaveer. Meanwhile, armed with newfound information, Tara sets out to confront the perpetrator.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8CD9C7B801F544CBB4715E3A49741CF75C8204FB.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240624230600 +0000" stop="20240624233000 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BAB51E5BA87DC9C39B8FC48B4E3F08F9BAF0888.jpg"/>
-    <episode-num system="xmltv_ns">.640.</episode-num>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240624235400 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When the Mahajan business empire faces accusations of black marketing that lead to the closure of their factory, Digvijay, suspecting Yuvika to be the mastermind, goes to confront her.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52710B8EEF25DE144EBF429520FA0785355586E4R.jpg"/>
-    <episode-num system="xmltv_ns">.324.</episode-num>
-  </programme>
-  <programme start="20240624235400 +0000" stop="20240625001800 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A4856F2BC2E80B094866C2BA009234F588C26CB1.jpg"/>
-    <episode-num system="xmltv_ns">.1008.</episode-num>
-  </programme>
-  <programme start="20240625001800 +0000" stop="20240625004200 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, seeking answers about his grandmother's assault on an now unconscious Dhruv, questions Mahaveer. Meanwhile, armed with newfound information, Tara sets out to confront the perpetrator.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8CD9C7B801F544CBB4715E3A49741CF75C8204FB.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240625004200 +0000" stop="20240625010600 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BAB51E5BA87DC9C39B8FC48B4E3F08F9BAF0888.jpg"/>
-    <episode-num system="xmltv_ns">.640.</episode-num>
-  </programme>
-  <programme start="20240625010600 +0000" stop="20240625013000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal is perplexed when Inspector Pandey visits his shop and Jethalal offers him refreshments. However, Inspector Pandey declines, stating that he has come there for an inquiry.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93570D9E0CB6828C5B7BEFD0B91812BD88263884J.jpg"/>
-    <episode-num system="xmltv_ns">.4118.</episode-num>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BAB51E5BA87DC9C39B8FC48B4E3F08F9BAF0888.jpg"/>
-    <episode-num system="xmltv_ns">.640.</episode-num>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When the Mahajan business empire faces accusations of black marketing that lead to the closure of their factory, Digvijay, suspecting Yuvika to be the mastermind, goes to confront her.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52710B8EEF25DE144EBF429520FA0785355586E4R.jpg"/>
-    <episode-num system="xmltv_ns">.324.</episode-num>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, seeking answers about his grandmother's assault on an now unconscious Dhruv, questions Mahaveer. Meanwhile, armed with newfound information, Tara sets out to confront the perpetrator.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8CD9C7B801F544CBB4715E3A49741CF75C8204FB.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A4856F2BC2E80B094866C2BA009234F588C26CB1.jpg"/>
-    <episode-num system="xmltv_ns">.1008.</episode-num>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BAB51E5BA87DC9C39B8FC48B4E3F08F9BAF0888.jpg"/>
-    <episode-num system="xmltv_ns">.640.</episode-num>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts559">
-    <title lang="en">Badal Pe Paon Hain</title>
-    <desc lang="en">When Bani, engrossed in wedding planning, hands her friend a gold jewellery set from her mother-in-law for safekeeping, her friend examines the set and declares it fake.</desc>
-    <credits>
-      <actor>Amandeep Sidhu</actor>
-      <actor>Akash Ahuja</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D47CFC10CB94D18AC9EF0FC5EFDC4D0C23E17AF29.jpg"/>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal is perplexed when Inspector Pandey visits his shop and Jethalal offers him refreshments. However, Inspector Pandey declines, stating that he has come there for an inquiry.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93570D9E0CB6828C5B7BEFD0B91812BD88263884J.jpg"/>
-    <episode-num system="xmltv_ns">.4118.</episode-num>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">When Bhide refuses to let Tapu Sena help in the preparations for Ganesh Chaturthi, Tapu plays a devious prank on him, resulting in Bhide getting scolded by all the residents.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.214.</episode-num>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">While the residents of Gokuldham Society welcome Lord Ganesha into the society, Jethalal finally calls Daya and the other residents from London.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.215.</episode-num>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">As the festivities of Ganesh Chaturthi commence, the ladies of Gokuldham excitedly prepare to participate in a cultural dress competition.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.216.</episode-num>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Taarak invites Actor Randeep Hooda to felicitate the winner of the cultural dress contest. Later, in Jethalal's absence, Daya runs Gada Electronics but ends up creating a blunder.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.217.</episode-num>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Tapu Sena organises a gathering wherein husbands and wives read poems for one another. But Daya feels unwilling to participate knowing Jethalal is in London.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.218.</episode-num>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">On the occasion of Ganesh Chaturthi, the husbands and their wives criticise each other through comedic poems. Then, Daya presents a special poem for Jethalal.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.219.</episode-num>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Daya receives a special surprise from Jethalal who is in London for a business trip. Then, Champaklal ends the event with a special poetry for his late wife.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.220.</episode-num>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Chaos ensues when Tapu notices that the donation box in the Ganpati mandap is open. Later, Shreyas Talpade visits Gokuldham Society to give the residents a grand surprise.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.221.</episode-num>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Taarak and the members of Gokuldham Society inform Shreyas Talpade about the adventures conquered in the year. Later, Shreyas felicitates the society for their beautiful Ganpati decorations.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.222.</episode-num>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">In the absence of Jethalal, Daya reminisces about the precious moments she shared with him. Later, the members of Gokuldham Society prepare for Ganapati Visarjana.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.223.</episode-num>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Daya gets to spend quality time with Jethalal after his surprise return from London. But they get interrupted by Tapu and Champaklal.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.224.</episode-num>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal distributes the gifts he bought for all the members of Gokuldham Society from London. But Popatlal refuses to accept Jethalal's gift.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.225.</episode-num>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal reaches Babita's house to deliver her gift and give a special surprise to Iyer. Then, Jethalal gives Bhide a gift that makes his entire family happy.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.226.</episode-num>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Daya conveys her joy on Mother's Day. Jethalal and Champaklal remember their own mothers.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.872.</episode-num>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Champaklal invites an old friend for dinner. However, Daya has to go shopping with the ladies of the society.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.873.</episode-num>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">The women are shocked on learning that the gift they selected is outrageously expensive. While Madhavi worries about being fired by Bhide, everyone wonders how to pay the huge amount.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.874.</episode-num>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When an explosion rocks Digvijay's warehouse during his visit, his first thought is to suspect Yuvika's involvement, so he reaches out to the jail warden to verify her location.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7785D1095A0C57297C595A6D5E694D951A13316BH.jpg"/>
-    <episode-num system="xmltv_ns">.325.</episode-num>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts559">
-    <title lang="en">Badal Pe Paon Hain</title>
-    <desc lang="en">When Rajat's family, eager for the marriage, sets the wedding date for a week later, Bani worries about arranging the money. Later, she receives a jewelry set from her mother-in-law.</desc>
-    <credits>
-      <actor>Amandeep Sidhu</actor>
-      <actor>Akash Ahuja</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB424037014053584BBC21C50C14457F9BF1CAEBY.jpg"/>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts559">
-    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
-    <desc lang="en">Shaurya, enraged upon learning from Bhabhosa that Mahaveer killed his father, urges Tara to exact revenge by taking Mahaveer's life in retribution for the murder. Repeat - Tue - Fri 3:00 am.</desc>
-    <credits>
-      <actor>Ishaan Dhawan</actor>
-      <actor>Riya Sharma</actor>
-      <actor>Narayani Shastri</actor>
-      <actor>Yash Tonk</actor>
-      <actor>Krishna Bharadwaj</actor>
-      <actor>Vineet Kumar Chaudhary</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2A0C0539A5645DD65963F8D4660D7FD0E8A4797A.jpg"/>
-    <episode-num system="xmltv_ns">.415.</episode-num>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">When everyone receives a visit from Inspector Pandey at their workplace, the men get on a conference call. Later, the police trace Popatlal's location back to Gokuldham Society. Repeat - Mon - Fri 10:30 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/114979E2A5AABB93835AACA4D9DE2A717C5341390.jpg"/>
-    <episode-num system="xmltv_ns">.4119.</episode-num>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts559">
-    <title lang="en">Wagle Ki Duniya</title>
-    <desc lang="en">An eager Atharva arrives at college for his first day with friends. But an unexpected incident there suddenly throws him and his family into a troubling situation. Repeat - Mon - Fri 8:30 am.</desc>
-    <credits>
-      <actor>Sumeet Raghvan</actor>
-      <actor>Pariva Pranati</actor>
-      <actor>Anjan Srivastav</actor>
-      <actor>Bharati Achrekar</actor>
-      <actor>Chinmayee Salvi</actor>
-      <actor>Sheehan Kapahi</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDE5FDE0860468C786EBD1E8496A5111221B47D0P.jpg"/>
-    <episode-num system="xmltv_ns">.1009.</episode-num>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything. Repeat - Mon - Fri 9:00 am.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E74A74288D7F02E2771A8824DACD0C1A13104569D.jpg"/>
-    <episode-num system="xmltv_ns">.641.</episode-num>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts559">
-    <title lang="en">Vanshaj</title>
-    <desc lang="en">When an explosion rocks Digvijay's warehouse during his visit, his first thought is to suspect Yuvika's involvement, so he reaches out to the jail warden to verify her location.</desc>
-    <credits>
-      <actor>Puneet Issar</actor>
-      <actor>Gurdeep Kohli</actor>
-      <actor>Anjali Tatrari</actor>
-      <actor>Kavita Kapoor</actor>
-      <actor>Mahir Pandhi</actor>
-      <actor>Akshay Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7785D1095A0C57297C595A6D5E694D951A13316BH.jpg"/>
-    <episode-num system="xmltv_ns">.325.</episode-num>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts559">
-    <title lang="en">Badal Pe Paon Hain</title>
-    <desc lang="en">When Rajat's family, eager for the marriage, sets the wedding date for a week later, Bani worries about arranging the money. Later, she receives a jewelry set from her mother-in-law.</desc>
-    <credits>
-      <actor>Amandeep Sidhu</actor>
-      <actor>Akash Ahuja</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB424037014053584BBC21C50C14457F9BF1CAEBY.jpg"/>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts559">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">When everyone receives a visit from Inspector Pandey at their workplace, the men get on a conference call. Later, the police trace Popatlal's location back to Gokuldham Society.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/114979E2A5AABB93835AACA4D9DE2A717C5341390.jpg"/>
-    <episode-num system="xmltv_ns">.4119.</episode-num>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts559">
-    <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">Pushpa, exasperated by the incessant threatening calls, challenges her caller to meet in person. Undeterred, the blackmailer warns her again to keep her daughter from confessing anything.</desc>
-    <credits>
-      <actor>Karuna Pandey</actor>
-      <actor>Darshan Gurjar</actor>
-      <actor>Naveen Pandita</actor>
-      <actor>Deshna Dugad</actor>
-      <actor>Garima Parihar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E74A74288D7F02E2771A8824DACD0C1A13104569D.jpg"/>
-    <episode-num system="xmltv_ns">.641.</episode-num>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts559">
     <title lang="en">Wagle Ki Duniya</title>
     <desc lang="en">An eager Atharva arrives at college for his first day with friends. But an unexpected incident there suddenly throws him and his family into a troubling situation.</desc>
@@ -1479,5 +748,751 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
     <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626190000 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1873CED5D652A00579E30F468DB853E662E6B6928.jpg"/>
+    <episode-num system="xmltv_ns">.1010.</episode-num>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4467FB262F187E15F95BE4C94C5CBE5E602838BC5.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626195400 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F688A57DED2E3B0D1226037EC01B6C5FD99AA9E52.jpg"/>
+    <episode-num system="xmltv_ns">.4120.</episode-num>
+  </programme>
+  <programme start="20240626195400 +0000" stop="20240626201800 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E783EBD5591B45B98F60BF71E50F61BDB4E59954X.jpg"/>
+    <episode-num system="xmltv_ns">.416.</episode-num>
+  </programme>
+  <programme start="20240626201800 +0000" stop="20240626204200 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240626204200 +0000" stop="20240626210600 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1873CED5D652A00579E30F468DB853E662E6B6928.jpg"/>
+    <episode-num system="xmltv_ns">.1010.</episode-num>
+  </programme>
+  <programme start="20240626210600 +0000" stop="20240626213000 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4467FB262F187E15F95BE4C94C5CBE5E602838BC5.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626215400 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E783EBD5591B45B98F60BF71E50F61BDB4E59954X.jpg"/>
+    <episode-num system="xmltv_ns">.416.</episode-num>
+  </programme>
+  <programme start="20240626215400 +0000" stop="20240626221800 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1873CED5D652A00579E30F468DB853E662E6B6928.jpg"/>
+    <episode-num system="xmltv_ns">.1010.</episode-num>
+  </programme>
+  <programme start="20240626221800 +0000" stop="20240626224200 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F688A57DED2E3B0D1226037EC01B6C5FD99AA9E52.jpg"/>
+    <episode-num system="xmltv_ns">.4120.</episode-num>
+  </programme>
+  <programme start="20240626224200 +0000" stop="20240626230600 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E783EBD5591B45B98F60BF71E50F61BDB4E59954X.jpg"/>
+    <episode-num system="xmltv_ns">.416.</episode-num>
+  </programme>
+  <programme start="20240626230600 +0000" stop="20240626233000 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240626235400 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4467FB262F187E15F95BE4C94C5CBE5E602838BC5.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240626235400 +0000" stop="20240627001800 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1873CED5D652A00579E30F468DB853E662E6B6928.jpg"/>
+    <episode-num system="xmltv_ns">.1010.</episode-num>
+  </programme>
+  <programme start="20240627001800 +0000" stop="20240627004200 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E783EBD5591B45B98F60BF71E50F61BDB4E59954X.jpg"/>
+    <episode-num system="xmltv_ns">.416.</episode-num>
+  </programme>
+  <programme start="20240627004200 +0000" stop="20240627010600 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240627010600 +0000" stop="20240627013000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F688A57DED2E3B0D1226037EC01B6C5FD99AA9E52.jpg"/>
+    <episode-num system="xmltv_ns">.4120.</episode-num>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4467FB262F187E15F95BE4C94C5CBE5E602838BC5.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E783EBD5591B45B98F60BF71E50F61BDB4E59954X.jpg"/>
+    <episode-num system="xmltv_ns">.416.</episode-num>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1873CED5D652A00579E30F468DB853E662E6B6928.jpg"/>
+    <episode-num system="xmltv_ns">.1010.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4B88923FE44A822481CD6DFD93D68B3CAB567FF9.jpg"/>
+    <episode-num system="xmltv_ns">.642.</episode-num>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts559">
+    <title lang="en">Badal Pe Paon Hain</title>
+    <desc lang="en">The officer tells Bani's family that Bani has been accused of harassing a senior citizen.</desc>
+    <credits>
+      <actor>Amandeep Sidhu</actor>
+      <actor>Akash Ahuja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BD67AF55E456F34D1249390E51F36642203EFE7.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F688A57DED2E3B0D1226037EC01B6C5FD99AA9E52.jpg"/>
+    <episode-num system="xmltv_ns">.4120.</episode-num>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Iyer and the actress are all set to carry out their act and ensure that Babita sees them. She does, along with the rest of the ladies of Gokuldham.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1926.</episode-num>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of Gokuldham meet to discuss their next course of action regarding Iyer and his affair with Sweety. Champaklal in particular is very angry.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1927.</episode-num>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Champaklal harshly scolds Iyer for his alleged affair with Sweety and demands her address so that he can deal with her next. Iyer refuses to divulge her details.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1928.</episode-num>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Iyer finally decides to separate from Babita and Taarak asks Bhide to keep the community hall available for the signing of the papers the next morning.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1929.</episode-num>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Sodhi, Bhide and Popatlal feel sad while thinking about Iyer's impending divorce. Bhide them realises that there is a problem with the C-wing area of Gokuldham Society.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1930.</episode-num>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Iyer and Babita meet the lawyer in the community hall with the divorce papers. However, Iyer suddenly leaves the hall in sadness and grief.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1931.</episode-num>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of Gokuldham search for Babita and Iyer in order to convince them that the decision they made is wrong and too hasty.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1932.</episode-num>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627090000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Iyer and Babita resolve their misunderstandings and return to Gokuldham. Their friends are happy to see them together again and celebrate.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1933.</episode-num>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Popatlal receives a call from Mohammad Azharuddin, former captain of the Indian cricket team. He talks to him about the residents' own tournament, the Gokuldham Premier League.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1934.</episode-num>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Goli's uncle and aunt come to visit Gokuldham Society with their smug son Monty. But as soon as Monty meets Tapu, he challenges the leader of Tapu Sena and angers him.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.173.</episode-num>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627103000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">When Tapu Sena commences their night cricket, Goli's rude cousin joins them and wreaks havoc in the match. Later, Monty's shot invites more trouble for Tapu Sena.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.174.</episode-num>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627110000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Tapu Sena's plans for a night cricket match enrages Bhide. Later, when he quarrels with Jethalal about the knowledge of cricket, Taarak proposes a cricket match between the two.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.175.</episode-num>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627113000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of Gokuldham Society excitedly prepare to participate in their very first cricket match. On the other hand, rival captains Bhide and Jethalal choose their team members.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.176.</episode-num>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Bhide and Jethalal's teams receive flashy names and sponsors for Gokuldham Premier League and the preparations for the big cricket match begin.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.177.</episode-num>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">As Gokuldham Premier League approaches, the showdowns between Bhide and Jethalal's teams begin. Later, they hold a meeting to discuss the rules of the grand match.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.178.</episode-num>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Sunder pays a surprise visit to Gokuldham Society and brings a special gift for Jethalal. But Sunder's grand announcement becomes Jethalal's biggest issue.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.179.</episode-num>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Gokuldham Premier League commences with gusto and the residents assembled in their teams for the coin tossing. But as soon as the match begins, Jethalal gets stressed out about his strategy.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.180.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6990B5266DCFCFD9021CC15FCF8B79A500EAFE6I.jpg"/>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts559">
+    <title lang="en">Badal Pe Paon Hain</title>
+    <desc lang="en">The officer tells Bani's family that Bani has been accused of harassing a senior citizen.</desc>
+    <credits>
+      <actor>Amandeep Sidhu</actor>
+      <actor>Akash Ahuja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD1B347AA3EEA48965330041B766856CAFFFA870B.jpg"/>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts559">
+    <title lang="en">Dhruv Tara - Samay Sadi Se Pare</title>
+    <desc lang="en">Tarapriya gives threads of Rakshabandhan to Mahavir as a gift which fumes Mahavir. Repeat - Tue - Fri 3:00 am.</desc>
+    <credits>
+      <actor>Ishaan Dhawan</actor>
+      <actor>Riya Sharma</actor>
+      <actor>Narayani Shastri</actor>
+      <actor>Yash Tonk</actor>
+      <actor>Krishna Bharadwaj</actor>
+      <actor>Vineet Kumar Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44DB05709386720423B1557350C0DECB970E721D7.jpg"/>
+    <episode-num system="xmltv_ns">.417.</episode-num>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations. Repeat - Mon - Fri 10:30 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDB049EF755AA7A18B94B26045A951B103155D7DN.jpg"/>
+    <episode-num system="xmltv_ns">.4121.</episode-num>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts559">
+    <title lang="en">Wagle Ki Duniya</title>
+    <desc lang="en">Three generations of a middle-class family navigate the ups and downs of life and overcome their simple everyday struggles together. Repeat - Mon - Fri 8:30 am.</desc>
+    <credits>
+      <actor>Sumeet Raghvan</actor>
+      <actor>Pariva Pranati</actor>
+      <actor>Anjan Srivastav</actor>
+      <actor>Bharati Achrekar</actor>
+      <actor>Chinmayee Salvi</actor>
+      <actor>Sheehan Kapahi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BBF8CAED7030562AA497BB359C75699DA3AFD64H.jpg"/>
+    <episode-num system="xmltv_ns">.1011.</episode-num>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body. Repeat - Mon - Fri 9:00 am.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12DB3C39D4858248C4013FFA75B25B31B0B08E3EW.jpg"/>
+    <episode-num system="xmltv_ns">.643.</episode-num>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts559">
+    <title lang="en">Vanshaj</title>
+    <desc lang="en">The jailor moves Yuvika to a different cell and there she feels shocked to find Arjun.</desc>
+    <credits>
+      <actor>Puneet Issar</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Anjali Tatrari</actor>
+      <actor>Kavita Kapoor</actor>
+      <actor>Mahir Pandhi</actor>
+      <actor>Akshay Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6990B5266DCFCFD9021CC15FCF8B79A500EAFE6I.jpg"/>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts559">
+    <title lang="en">Badal Pe Paon Hain</title>
+    <desc lang="en">The officer tells Bani's family that Bani has been accused of harassing a senior citizen.</desc>
+    <credits>
+      <actor>Amandeep Sidhu</actor>
+      <actor>Akash Ahuja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD1B347AA3EEA48965330041B766856CAFFFA870B.jpg"/>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts559">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The residents of a housing society help each other find solutions when they face common, real-life challenges and get involved in sticky situations.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDB049EF755AA7A18B94B26045A951B103155D7DN.jpg"/>
+    <episode-num system="xmltv_ns">.4121.</episode-num>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts559">
+    <title lang="en">Pushpa Impossible</title>
+    <desc lang="en">When Sushila asks Sujata for the proof, Sujata reveals a secret mark on Narhari's body.</desc>
+    <credits>
+      <actor>Karuna Pandey</actor>
+      <actor>Darshan Gurjar</actor>
+      <actor>Naveen Pandita</actor>
+      <actor>Deshna Dugad</actor>
+      <actor>Garima Parihar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12DB3C39D4858248C4013FFA75B25B31B0B08E3EW.jpg"/>
+    <episode-num system="xmltv_ns">.643.</episode-num>
   </programme>
 </tv>

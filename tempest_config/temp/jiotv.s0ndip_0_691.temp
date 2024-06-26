@@ -3,312 +3,6 @@
   <channel id="691">
     <display-name lang="en">Saam Tv</display-name>
   </channel>
-  <programme start="20240625055600 +0530" stop="20240625062600 +0530" channel="691">
-    <title lang="en">36 Jila 36 Reporter</title>
-    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691012.jpg"/>
-  </programme>
-  <programme start="20240625062600 +0530" stop="20240625065200 +0530" channel="691">
-    <title lang="en">Maha Top 50 News</title>
-    <desc lang="en">The host presents the top 50 news updates concerning the political, social, economic and sports fronts from around the state of Maharashtra.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691013.jpg"/>
-  </programme>
-  <programme start="20240625065200 +0530" stop="20240625065600 +0530" channel="691">
-    <title lang="en">Dagdusheth Ganpati Aarati</title>
-    <desc lang="en">Devotees from all over India visit the Dagdusheth Temple in Pune and offer their prayers to Lord Ganesha and seek his blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691014.jpg"/>
-  </programme>
-  <programme start="20240625065600 +0530" stop="20240625072600 +0530" channel="691">
-    <title lang="en">100 Express</title>
-    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691015.jpg"/>
-  </programme>
-  <programme start="20240625072600 +0530" stop="20240625075600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691016.jpg"/>
-  </programme>
-  <programme start="20240625075600 +0530" stop="20240625082600 +0530" channel="691">
-    <title lang="en">100 Express</title>
-    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691017.jpg"/>
-  </programme>
-  <programme start="20240625082600 +0530" stop="20240625085600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691018.jpg"/>
-  </programme>
-  <programme start="20240625085600 +0530" stop="20240625092600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691019.jpg"/>
-  </programme>
-  <programme start="20240625092600 +0530" stop="20240625095600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691020.jpg"/>
-  </programme>
-  <programme start="20240625095600 +0530" stop="20240625102600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691021.jpg"/>
-  </programme>
-  <programme start="20240625102600 +0530" stop="20240625105600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691022.jpg"/>
-  </programme>
-  <programme start="20240625105600 +0530" stop="20240625112600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691023.jpg"/>
-  </programme>
-  <programme start="20240625112600 +0530" stop="20240625115600 +0530" channel="691">
-    <title lang="en">Saam News Fast</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691024.jpg"/>
-  </programme>
-  <programme start="20240625115600 +0530" stop="20240625122600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691025.jpg"/>
-  </programme>
-  <programme start="20240625122600 +0530" stop="20240625125600 +0530" channel="691">
-    <title lang="en">Saam News Fast</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691026.jpg"/>
-  </programme>
-  <programme start="20240625125600 +0530" stop="20240625132600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691027.jpg"/>
-  </programme>
-  <programme start="20240625132600 +0530" stop="20240625135600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691028.jpg"/>
-  </programme>
-  <programme start="20240625135600 +0530" stop="20240625141500 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691029.jpg"/>
-  </programme>
-  <programme start="20240625141500 +0530" stop="20240625142600 +0530" channel="691">
-    <title lang="en">2 Min Ayurved</title>
-    <desc lang="en">A wellness expert gives advice on how to prevent various illnesses and suggests Ayurvedic remedies for health-related issues.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691030.jpg"/>
-  </programme>
-  <programme start="20240625142600 +0530" stop="20240625145600 +0530" channel="691">
-    <title lang="en">MH Calling</title>
-    <desc lang="en">The host invites various experts from different fields who shed light on important matters and provide answers to various queries asked by the callers.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691031.jpg"/>
-  </programme>
-  <programme start="20240625145600 +0530" stop="20240625152600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691032.jpg"/>
-  </programme>
-  <programme start="20240625152600 +0530" stop="20240625155600 +0530" channel="691">
-    <title lang="en">Saam News Fast</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691033.jpg"/>
-  </programme>
-  <programme start="20240625155600 +0530" stop="20240625162600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691034.jpg"/>
-  </programme>
-  <programme start="20240625162600 +0530" stop="20240625165600 +0530" channel="691">
-    <title lang="en">Saam Sanjivani</title>
-    <desc lang="en">A renowned health expert speaks about the cause and effect of various health problems and illnesses and addresses the questions asked by the audience.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691035.jpg"/>
-  </programme>
-  <programme start="20240625165600 +0530" stop="20240625172600 +0530" channel="691">
-    <title lang="en">Saam Newstime</title>
-    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691036.jpg"/>
-  </programme>
-  <programme start="20240625172600 +0530" stop="20240625175600 +0530" channel="691">
-    <title lang="en">Agro 1 Fast</title>
-    <desc lang="en">The host sheds light on the latest updates and top news stories from the field of agriculture whilst providing key inputs that can be of help to farmers.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691037.jpg"/>
-  </programme>
-  <programme start="20240625175600 +0530" stop="20240625182600 +0530" channel="691">
-    <title lang="en">Sarkarnama 360</title>
-    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691038.jpg"/>
-  </programme>
-  <programme start="20240625182600 +0530" stop="20240625185600 +0530" channel="691">
-    <title lang="en">36 Jila 36 Reporter</title>
-    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691039.jpg"/>
-  </programme>
-  <programme start="20240625185600 +0530" stop="20240625192600 +0530" channel="691">
-    <title lang="en">Saamrajya</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691040.jpg"/>
-  </programme>
-  <programme start="20240625192600 +0530" stop="20240625195600 +0530" channel="691">
-    <title lang="en">Top 50 News</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691041.jpg"/>
-  </programme>
-  <programme start="20240625195600 +0530" stop="20240625202600 +0530" channel="691">
-    <title lang="en">Sarkarnama Special</title>
-    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691042.jpg"/>
-  </programme>
-  <programme start="20240625202600 +0530" stop="20240625205600 +0530" channel="691">
-    <title lang="en">Mega Prime Time</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691043.jpg"/>
-  </programme>
-  <programme start="20240625205600 +0530" stop="20240625212600 +0530" channel="691">
-    <title lang="en">Saam Report</title>
-    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691044.jpg"/>
-  </programme>
-  <programme start="20240625212600 +0530" stop="20240625215600 +0530" channel="691">
-    <title lang="en">100 Express</title>
-    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691045.jpg"/>
-  </programme>
-  <programme start="20240625215600 +0530" stop="20240625222600 +0530" channel="691">
-    <title lang="en">Aaj Dinank</title>
-    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691046.jpg"/>
-  </programme>
-  <programme start="20240625222600 +0530" stop="20240625225600 +0530" channel="691">
-    <title lang="en">Maha Top 50</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691047.jpg"/>
-  </programme>
-  <programme start="20240625225600 +0530" stop="20240625232600 +0530" channel="691">
-    <title lang="en">Sarkarnama Special</title>
-    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691048.jpg"/>
-  </programme>
-  <programme start="20240625232600 +0530" stop="20240625235600 +0530" channel="691">
-    <title lang="en">36 Jila 36 Reporter</title>
-    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691049.jpg"/>
-  </programme>
-  <programme start="20240625235600 +0530" stop="20240626000000 +0530" channel="691">
-    <title lang="en">Aaj Dinank</title>
-    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625691050.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626002600 +0530" channel="691">
-    <title lang="en">Aaj Dinank</title>
-    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691000.jpg"/>
-  </programme>
-  <programme start="20240626002600 +0530" stop="20240626005600 +0530" channel="691">
-    <title lang="en">Maha Top 50</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691001.jpg"/>
-  </programme>
-  <programme start="20240626005600 +0530" stop="20240626012600 +0530" channel="691">
-    <title lang="en">Saam Report</title>
-    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691002.jpg"/>
-  </programme>
-  <programme start="20240626012600 +0530" stop="20240626015600 +0530" channel="691">
-    <title lang="en">TOP 50</title>
-    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691003.jpg"/>
-  </programme>
-  <programme start="20240626015600 +0530" stop="20240626022600 +0530" channel="691">
-    <title lang="en">Viral Zal Ji</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691004.jpg"/>
-  </programme>
-  <programme start="20240626022600 +0530" stop="20240626025600 +0530" channel="691">
-    <title lang="en">100 Express</title>
-    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691005.jpg"/>
-  </programme>
-  <programme start="20240626025600 +0530" stop="20240626032600 +0530" channel="691">
-    <title lang="en">Aaj Dinank</title>
-    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691006.jpg"/>
-  </programme>
-  <programme start="20240626032600 +0530" stop="20240626035600 +0530" channel="691">
-    <title lang="en">Viral Fast</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691007.jpg"/>
-  </programme>
-  <programme start="20240626035600 +0530" stop="20240626042600 +0530" channel="691">
-    <title lang="en">Saam Report</title>
-    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691008.jpg"/>
-  </programme>
-  <programme start="20240626042600 +0530" stop="20240626045600 +0530" channel="691">
-    <title lang="en">36 Jila 36 Reporter</title>
-    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691009.jpg"/>
-  </programme>
-  <programme start="20240626045600 +0530" stop="20240626052600 +0530" channel="691">
-    <title lang="en">Viral Zal Ji</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691010.jpg"/>
-  </programme>
-  <programme start="20240626052600 +0530" stop="20240626055600 +0530" channel="691">
-    <title lang="en">TOP 50</title>
-    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691011.jpg"/>
-  </programme>
   <programme start="20240626055600 +0530" stop="20240626062600 +0530" channel="691">
     <title lang="en">36 Jila 36 Reporter</title>
     <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
@@ -536,5 +230,431 @@
     <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691049.jpg"/>
+  </programme>
+  <programme start="20240626235600 +0530" stop="20240627000000 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626691050.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627002600 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691000.jpg"/>
+  </programme>
+  <programme start="20240627002600 +0530" stop="20240627005600 +0530" channel="691">
+    <title lang="en">Maha Top 50</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691001.jpg"/>
+  </programme>
+  <programme start="20240627005600 +0530" stop="20240627012600 +0530" channel="691">
+    <title lang="en">Saam Report</title>
+    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691002.jpg"/>
+  </programme>
+  <programme start="20240627012600 +0530" stop="20240627015600 +0530" channel="691">
+    <title lang="en">TOP 50</title>
+    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691003.jpg"/>
+  </programme>
+  <programme start="20240627015600 +0530" stop="20240627022600 +0530" channel="691">
+    <title lang="en">Viral Zal Ji</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691004.jpg"/>
+  </programme>
+  <programme start="20240627022600 +0530" stop="20240627025600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691005.jpg"/>
+  </programme>
+  <programme start="20240627025600 +0530" stop="20240627032600 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691006.jpg"/>
+  </programme>
+  <programme start="20240627032600 +0530" stop="20240627035600 +0530" channel="691">
+    <title lang="en">Viral Fast</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691007.jpg"/>
+  </programme>
+  <programme start="20240627035600 +0530" stop="20240627042600 +0530" channel="691">
+    <title lang="en">Saam Report</title>
+    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691008.jpg"/>
+  </programme>
+  <programme start="20240627042600 +0530" stop="20240627045600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691009.jpg"/>
+  </programme>
+  <programme start="20240627045600 +0530" stop="20240627052600 +0530" channel="691">
+    <title lang="en">Viral Zal Ji</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691010.jpg"/>
+  </programme>
+  <programme start="20240627052600 +0530" stop="20240627055600 +0530" channel="691">
+    <title lang="en">TOP 50</title>
+    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691011.jpg"/>
+  </programme>
+  <programme start="20240627055600 +0530" stop="20240627062600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691012.jpg"/>
+  </programme>
+  <programme start="20240627062600 +0530" stop="20240627065200 +0530" channel="691">
+    <title lang="en">Maha Top 50 News</title>
+    <desc lang="en">The host presents the top 50 news updates concerning the political, social, economic and sports fronts from around the state of Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691013.jpg"/>
+  </programme>
+  <programme start="20240627065200 +0530" stop="20240627065600 +0530" channel="691">
+    <title lang="en">Dagdusheth Ganpati Aarati</title>
+    <desc lang="en">Devotees from all over India visit the Dagdusheth Temple in Pune and offer their prayers to Lord Ganesha and seek his blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691014.jpg"/>
+  </programme>
+  <programme start="20240627065600 +0530" stop="20240627072600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691015.jpg"/>
+  </programme>
+  <programme start="20240627072600 +0530" stop="20240627075600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691016.jpg"/>
+  </programme>
+  <programme start="20240627075600 +0530" stop="20240627082600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691017.jpg"/>
+  </programme>
+  <programme start="20240627082600 +0530" stop="20240627085600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691018.jpg"/>
+  </programme>
+  <programme start="20240627085600 +0530" stop="20240627092600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691019.jpg"/>
+  </programme>
+  <programme start="20240627092600 +0530" stop="20240627095600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691020.jpg"/>
+  </programme>
+  <programme start="20240627095600 +0530" stop="20240627102600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691021.jpg"/>
+  </programme>
+  <programme start="20240627102600 +0530" stop="20240627105600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691022.jpg"/>
+  </programme>
+  <programme start="20240627105600 +0530" stop="20240627112600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691023.jpg"/>
+  </programme>
+  <programme start="20240627112600 +0530" stop="20240627115600 +0530" channel="691">
+    <title lang="en">Saam News Fast</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691024.jpg"/>
+  </programme>
+  <programme start="20240627115600 +0530" stop="20240627122600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691025.jpg"/>
+  </programme>
+  <programme start="20240627122600 +0530" stop="20240627125600 +0530" channel="691">
+    <title lang="en">Saam News Fast</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691026.jpg"/>
+  </programme>
+  <programme start="20240627125600 +0530" stop="20240627132600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691027.jpg"/>
+  </programme>
+  <programme start="20240627132600 +0530" stop="20240627135600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691028.jpg"/>
+  </programme>
+  <programme start="20240627135600 +0530" stop="20240627141500 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691029.jpg"/>
+  </programme>
+  <programme start="20240627141500 +0530" stop="20240627142600 +0530" channel="691">
+    <title lang="en">2 Min Ayurved</title>
+    <desc lang="en">A wellness expert gives advice on how to prevent various illnesses and suggests Ayurvedic remedies for health-related issues.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691030.jpg"/>
+  </programme>
+  <programme start="20240627142600 +0530" stop="20240627145600 +0530" channel="691">
+    <title lang="en">Amrith Noni</title>
+    <desc lang="en">A health expert sheds light on the benefits of a herbal product and interacts with the callers and suggests remedies for their medical problems.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691031.jpg"/>
+  </programme>
+  <programme start="20240627145600 +0530" stop="20240627152600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691032.jpg"/>
+  </programme>
+  <programme start="20240627152600 +0530" stop="20240627155600 +0530" channel="691">
+    <title lang="en">Saam News Fast</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691033.jpg"/>
+  </programme>
+  <programme start="20240627155600 +0530" stop="20240627162600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691034.jpg"/>
+  </programme>
+  <programme start="20240627162600 +0530" stop="20240627165600 +0530" channel="691">
+    <title lang="en">Saam Sanjivani</title>
+    <desc lang="en">A renowned health expert speaks about the cause and effect of various health problems and illnesses and addresses the questions asked by the audience.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691035.jpg"/>
+  </programme>
+  <programme start="20240627165600 +0530" stop="20240627172600 +0530" channel="691">
+    <title lang="en">Saam Newstime</title>
+    <desc lang="en">The host presents updates on the latest and the most relevant social, political and economic issues from across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691036.jpg"/>
+  </programme>
+  <programme start="20240627172600 +0530" stop="20240627175600 +0530" channel="691">
+    <title lang="en">Agro 1 Fast</title>
+    <desc lang="en">The host sheds light on the latest updates and top news stories from the field of agriculture whilst providing key inputs that can be of help to farmers.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691037.jpg"/>
+  </programme>
+  <programme start="20240627175600 +0530" stop="20240627182600 +0530" channel="691">
+    <title lang="en">Sarkarnama 360</title>
+    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691038.jpg"/>
+  </programme>
+  <programme start="20240627182600 +0530" stop="20240627185600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691039.jpg"/>
+  </programme>
+  <programme start="20240627185600 +0530" stop="20240627192600 +0530" channel="691">
+    <title lang="en">Saamrajya</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691040.jpg"/>
+  </programme>
+  <programme start="20240627192600 +0530" stop="20240627195600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691041.jpg"/>
+  </programme>
+  <programme start="20240627195600 +0530" stop="20240627202600 +0530" channel="691">
+    <title lang="en">Sarkarnama Special</title>
+    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691042.jpg"/>
+  </programme>
+  <programme start="20240627202600 +0530" stop="20240627205600 +0530" channel="691">
+    <title lang="en">Mega Prime Time</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691043.jpg"/>
+  </programme>
+  <programme start="20240627205600 +0530" stop="20240627212600 +0530" channel="691">
+    <title lang="en">Saam Report</title>
+    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691044.jpg"/>
+  </programme>
+  <programme start="20240627212600 +0530" stop="20240627215600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691045.jpg"/>
+  </programme>
+  <programme start="20240627215600 +0530" stop="20240627222600 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691046.jpg"/>
+  </programme>
+  <programme start="20240627222600 +0530" stop="20240627225600 +0530" channel="691">
+    <title lang="en">Maha Top 50</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691047.jpg"/>
+  </programme>
+  <programme start="20240627225600 +0530" stop="20240627232600 +0530" channel="691">
+    <title lang="en">Sarkarnama Special</title>
+    <desc lang="en">The host presents some of the latest political, social, economic, sports and other major updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691048.jpg"/>
+  </programme>
+  <programme start="20240627232600 +0530" stop="20240627235600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691049.jpg"/>
+  </programme>
+  <programme start="20240627235600 +0530" stop="20240628000000 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627691050.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628002600 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691000.jpg"/>
+  </programme>
+  <programme start="20240628002600 +0530" stop="20240628005600 +0530" channel="691">
+    <title lang="en">Maha Top 50</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691001.jpg"/>
+  </programme>
+  <programme start="20240628005600 +0530" stop="20240628012600 +0530" channel="691">
+    <title lang="en">Saam Report</title>
+    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691002.jpg"/>
+  </programme>
+  <programme start="20240628012600 +0530" stop="20240628015600 +0530" channel="691">
+    <title lang="en">TOP 50</title>
+    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691003.jpg"/>
+  </programme>
+  <programme start="20240628015600 +0530" stop="20240628022600 +0530" channel="691">
+    <title lang="en">Viral Zal Ji</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691004.jpg"/>
+  </programme>
+  <programme start="20240628022600 +0530" stop="20240628025600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691005.jpg"/>
+  </programme>
+  <programme start="20240628025600 +0530" stop="20240628032600 +0530" channel="691">
+    <title lang="en">Aaj Dinank</title>
+    <desc lang="en">The host presents the latest updates and news stories pertaining to society, business, economics, sports and culture from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691006.jpg"/>
+  </programme>
+  <programme start="20240628032600 +0530" stop="20240628035600 +0530" channel="691">
+    <title lang="en">Viral Fast</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691007.jpg"/>
+  </programme>
+  <programme start="20240628035600 +0530" stop="20240628042600 +0530" channel="691">
+    <title lang="en">Saam Report</title>
+    <desc lang="en">The host presents an in-depth analysis of some of the top social, economic and political stories from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691008.jpg"/>
+  </programme>
+  <programme start="20240628042600 +0530" stop="20240628045600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691009.jpg"/>
+  </programme>
+  <programme start="20240628045600 +0530" stop="20240628052600 +0530" channel="691">
+    <title lang="en">Viral Zal Ji</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691010.jpg"/>
+  </programme>
+  <programme start="20240628052600 +0530" stop="20240628055600 +0530" channel="691">
+    <title lang="en">TOP 50</title>
+    <desc lang="en">News bulletin featuring the biggest stories of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691011.jpg"/>
+  </programme>
+  <programme start="20240628055600 +0530" stop="20240628062600 +0530" channel="691">
+    <title lang="en">36 Jila 36 Reporter</title>
+    <desc lang="en">The host presents the latest news from the various fields of economy, culture, sports, politics, education, health, business and finance from different districts in Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691012.jpg"/>
+  </programme>
+  <programme start="20240628062600 +0530" stop="20240628065200 +0530" channel="691">
+    <title lang="en">Maha Top 50 News</title>
+    <desc lang="en">The host presents the top 50 news updates concerning the political, social, economic and sports fronts from around the state of Maharashtra.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691013.jpg"/>
+  </programme>
+  <programme start="20240628065200 +0530" stop="20240628065600 +0530" channel="691">
+    <title lang="en">Dagdusheth Ganpati Aarati</title>
+    <desc lang="en">Devotees from all over India visit the Dagdusheth Temple in Pune and offer their prayers to Lord Ganesha and seek his blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691014.jpg"/>
+  </programme>
+  <programme start="20240628065600 +0530" stop="20240628072600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691015.jpg"/>
+  </programme>
+  <programme start="20240628072600 +0530" stop="20240628075600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691016.jpg"/>
+  </programme>
+  <programme start="20240628075600 +0530" stop="20240628082600 +0530" channel="691">
+    <title lang="en">100 Express</title>
+    <desc lang="en">The host presents a round-up of some of the latest and important news stories and updates taking place all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691017.jpg"/>
+  </programme>
+  <programme start="20240628082600 +0530" stop="20240628085600 +0530" channel="691">
+    <title lang="en">Top 50 News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628691018.jpg"/>
   </programme>
 </tv>

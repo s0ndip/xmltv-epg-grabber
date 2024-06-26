@@ -3,147 +3,6 @@
   <channel id="1363">
     <display-name lang="en">Zee Cinemalu HD</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625062200 +0530" channel="1363">
-    <title lang="en">Just Chill</title>
-    <desc lang="en">Entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363002.jpg"/>
-  </programme>
-  <programme start="20240625062200 +0530" stop="20240625063200 +0530" channel="1363">
-    <title lang="en">Filler</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363003.jpg"/>
-  </programme>
-  <programme start="20240625063200 +0530" stop="20240625070200 +0530" channel="1363">
-    <title lang="en">TWR Premdhara</title>
-    <desc lang="en">A religious leader sheds light on various biblical teachings and principles whilst encouraging the devotees to reflect on the same.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363004.jpg"/>
-  </programme>
-  <programme start="20240625070200 +0530" stop="20240625090000 +0530" channel="1363">
-    <title lang="en">Cheekati</title>
-    <desc lang="en">A police officer is tasked with investigating a series of bizarre deaths in a hilly town. However, while he works to solve the case, his family is haunted by unnatural events.</desc>
-    <credits>
-      <director>V Z Durai</director>
-      <actor>Sundar C</actor>
-      <actor>Sakshi Choudhary</actor>
-      <actor>Sai Dhanshika</actor>
-      <actor>Yogi Babu</actor>
-      <actor>Vimala Raman</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363005.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625120000 +0530" channel="1363">
-    <title lang="en">Konchem Ishtam Konchem Kashtam</title>
-    <desc lang="en">Siddhu and Geeta fall in love with each other but her father objects to their alliance because Siddhu's parents are divorced. Then, the lovers strive to reunite Siddhu's parents to set things right.</desc>
-    <credits>
-      <director>Kishore Kumar Pardasani</director>
-      <actor>Siddharth</actor>
-      <actor>Tamanna</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Ramya Krishna</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Nassar</actor>
-      <actor>Venu Madhav</actor>
-      <actor>Hema</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363006.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625150000 +0530" channel="1363">
-    <title lang="en">Babu Bangaram</title>
-    <desc lang="en">Krishna, a police officer, helps a woman named Sailaja as a pretext for finding and catching her father Sastry, who is on the run from the law. However, he soon finds himself falling in love with her.</desc>
-    <credits>
-      <director>Maruthi Dasari</director>
-      <actor>Venkatesh Daggubati</actor>
-      <actor>Nayanthara</actor>
-      <actor>Sampath Raj</actor>
-      <actor>Murali Sharma</actor>
-      <actor>Jayaprakash</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363007.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625180000 +0530" channel="1363">
-    <title lang="en">Dangal</title>
-    <desc lang="en">Mahavir is forced to leave his wrestling career for conventional work. However, when he sees his daughters' potential, he trains them to become the best wrestlers and bring home a gold medal.</desc>
-    <credits>
-      <director>Nitesh Tiwari</director>
-      <actor>Aamir Khan</actor>
-      <actor>Sakshi Tanwar</actor>
-      <actor>Fatima Sana Shaikh</actor>
-      <actor>Sanya Malhotra</actor>
-      <actor>Aparshakti Khurana</actor>
-      <actor>Ananya Sharma</actor>
-      <actor>Lakshita Goyal</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363008.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625210400 +0530" channel="1363">
-    <title lang="en">Dhammu</title>
-    <desc lang="en">Rama Chandra, an orphan, gets involved in a feud between two royal families while trying to woo Sathya, his lady love. He soon realises that the lives of his fellow villagers depend on his choices.</desc>
-    <credits>
-      <director>Boyapati Srinu</director>
-      <actor>Jr NTR</actor>
-      <actor>Trisha Krishnan</actor>
-      <actor>Karthika Nair</actor>
-      <actor>Nassar</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363009.jpg"/>
-  </programme>
-  <programme start="20240625210400 +0530" stop="20240626000000 +0530" channel="1363">
-    <title lang="en">Mr. Majnu</title>
-    <desc lang="en">A charming flirt who has never been in a serious relationship with anyone finds himself in unfamiliar territory when he finally falls in love with a woman.</desc>
-    <credits>
-      <director>Venky Atluri</director>
-      <actor>Akhil Akkineni</actor>
-      <actor>Nidhhi Agerwal</actor>
-      <actor>Izabelle Leite</actor>
-      <actor>Kailash Reddy</actor>
-      <actor>Naga Babu</actor>
-      <actor>Subbaraju</actor>
-      <actor>Rao Ramesh</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251363010.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="1363">
-    <title lang="en">Babu Bangaram</title>
-    <desc lang="en">Krishna, a police officer, helps a woman named Sailaja as a pretext for finding and catching her father Sastry, who is on the run from the law. However, he soon finds himself falling in love with her.</desc>
-    <credits>
-      <director>Maruthi Dasari</director>
-      <actor>Venkatesh Daggubati</actor>
-      <actor>Nayanthara</actor>
-      <actor>Sampath Raj</actor>
-      <actor>Murali Sharma</actor>
-      <actor>Jayaprakash</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261363000.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626060000 +0530" channel="1363">
-    <title lang="en">Dangal</title>
-    <desc lang="en">Mahavir is forced to leave his wrestling career for conventional work. However, when he sees his daughters' potential, he trains them to become the best wrestlers and bring home a gold medal.</desc>
-    <credits>
-      <director>Nitesh Tiwari</director>
-      <actor>Aamir Khan</actor>
-      <actor>Sakshi Tanwar</actor>
-      <actor>Fatima Sana Shaikh</actor>
-      <actor>Sanya Malhotra</actor>
-      <actor>Aparshakti Khurana</actor>
-      <actor>Ananya Sharma</actor>
-      <actor>Lakshita Goyal</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261363001.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="1363">
     <title lang="en">Just Chill</title>
     <desc lang="en">Entertainment-based programme.</desc>
@@ -220,5 +79,205 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261363008.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="1363">
+    <title lang="en">Mukunda</title>
+    <desc lang="en">Mukunda and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat endeavours to exterminate Arjun, Mukunda protects him with all his might.</desc>
+    <credits>
+      <director>Srikanth Addala</director>
+      <actor>Varun Tej</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Nassar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261363009.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627030000 +0530" channel="1363">
+    <title lang="en">Brothers</title>
+    <desc lang="en">Conjoined twins Akhilan and Vimalan assist their father in their thriving family business. However, issues arise when a spy joins their company to steal their trade secrets.</desc>
+    <credits>
+      <director>K V Anand</director>
+      <actor>Suriya</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Sachin Khedekar</actor>
+      <actor>Tara</actor>
+      <actor>Irina Maleva</actor>
+      <actor>Julia Bliss</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363000.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627060000 +0530" channel="1363">
+    <title lang="en">Bendu Apparao R.M.P</title>
+    <desc lang="en">Dr Bendu uses any means possible to swindle money from his unsuspecting patients. A dying man leaves him with a huge amount to return to his family, but Bendu ends up using it for other means.</desc>
+    <credits>
+      <director>E V V Satyanarayana</director>
+      <actor>Allari Naresh</actor>
+      <actor>Krishna Bhagavaan</actor>
+      <actor>Kamna Jetmalani</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Ahuti Prasad</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363001.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="1363">
+    <title lang="en">Just Chill</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363002.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="1363">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363003.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627090000 +0530" channel="1363">
+    <title lang="en">Chanti</title>
+    <desc lang="en">Nandini falls in love with Chanti, an innocent young man, and marries him without her family's knowledge. Problems arise when her family finds out about her marriage.</desc>
+    <credits>
+      <director>Ravi Raja Pinisetty</director>
+      <actor>Venkatesh</actor>
+      <actor>Meena</actor>
+      <actor>Nassar</actor>
+      <actor>Sujatha</actor>
+      <actor>Manjula Vijayakumar</actor>
+      <actor>Brahmanandam</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363004.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="1363">
+    <title lang="en">Bommarillu</title>
+    <desc lang="en">Siddhu's overprotective father decides to get him married to a rich girl. His life, however, takes an interesting turn when he meets and falls in love with Hasini.</desc>
+    <credits>
+      <director>Bhaskar</director>
+      <actor>Siddarth</actor>
+      <actor>Genelia D'souza</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Jayasudha</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363005.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627150000 +0530" channel="1363">
+    <title lang="en">Duvvada Jagannadham</title>
+    <desc lang="en">Duvvada Jagannatham Sastry, an honest man, goes to great lengths to help other people. A police officer notices this quality of his and asks him to moonlight as a crime fighter.</desc>
+    <credits>
+      <director>Harish Shankar</director>
+      <actor>Allu Arjun</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Chandra Mohan</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Subbaraju</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363006.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627180000 +0530" channel="1363">
+    <title lang="en">Kathanayakudu</title>
+    <desc lang="en">Ashok and Balu are childhood friends. As adults, Ashok becomes a movie star and Balu becomes a barber in a village. However, when the villagers get to know this, Balu faces many problems.</desc>
+    <credits>
+      <director>P Vasu</director>
+      <actor>Jagapati Babu</actor>
+      <actor>Meena</actor>
+      <actor>Rajinikanth</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Dharmavarapu Subramanyam</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363007.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627210000 +0530" channel="1363">
+    <title lang="en">Munna</title>
+    <desc lang="en">Munna seeks revenge for the brutal murder of his mother and desires to kill Kakha, a mafia kingpin who is responsible for it.</desc>
+    <credits>
+      <director>Vamsi Paidipally</director>
+      <actor>Prabhas</actor>
+      <actor>Ileana D Cruz</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Kota Srinivasa Rao</actor>
+      <actor>Rahul Dev</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363008.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="1363">
+    <title lang="en">Mirapakaay</title>
+    <desc lang="en">Inspector Rishi is on a mission to get information on Kittu, a gangster. He goes undercover as a professor in the college where Kittu's daughter studies to gather information from her.</desc>
+    <credits>
+      <director>Harish Shankar</director>
+      <actor>Ravi Teja</actor>
+      <actor>Richa Gangopadhyay</actor>
+      <actor>Deeksha Seth</actor>
+      <actor>Nagababu</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271363009.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="1363">
+    <title lang="en">Duvvada Jagannadham</title>
+    <desc lang="en">Duvvada Jagannatham Sastry, an honest man, goes to great lengths to help other people. A police officer notices this quality of his and asks him to moonlight as a crime fighter.</desc>
+    <credits>
+      <director>Harish Shankar</director>
+      <actor>Allu Arjun</actor>
+      <actor>Pooja Hegde</actor>
+      <actor>Chandra Mohan</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Subbaraju</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281363000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="1363">
+    <title lang="en">Kathanayakudu</title>
+    <desc lang="en">Ashok and Balu are childhood friends. As adults, Ashok becomes a movie star and Balu becomes a barber in a village. However, when the villagers get to know this, Balu faces many problems.</desc>
+    <credits>
+      <director>P Vasu</director>
+      <actor>Jagapati Babu</actor>
+      <actor>Meena</actor>
+      <actor>Rajinikanth</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Dharmavarapu Subramanyam</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281363001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="1363">
+    <title lang="en">Just Chill</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281363002.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="1363">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281363003.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628090000 +0530" channel="1363">
+    <title lang="en">Mohini</title>
+    <desc lang="en">Vaishnavi and Sandeep, a couple in love, are engaged to be married. However, things spiral out of control when Vaishnavi gets possessed by a lookalike who is thirsty for vengeance.</desc>
+    <credits>
+      <director>Ramana Madhesh</director>
+      <actor>Trisha</actor>
+      <actor>Jackky Bhagnani</actor>
+      <actor>Mukesh Tiwari</actor>
+      <actor>Yogi Babu</actor>
+      <actor>Poornima Bhagyaraj</actor>
+      <actor>Rama</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281363004.jpg"/>
   </programme>
 </tv>

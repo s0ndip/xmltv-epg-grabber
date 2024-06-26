@@ -3,294 +3,6 @@
   <channel id="2007">
     <display-name lang="en">BS9 News</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007011.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007012.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007013.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="2007">
-    <title lang="en">Rashifal / Health</title>
-    <desc lang="en">An expert astrologer provides future predictions for the zodiac signs; the host presents updates and developments from the health sector.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007014.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007015.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="2007">
-    <title lang="en">Health / Manoranjan</title>
-    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007016.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007017.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007018.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007019.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007020.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="2007">
-    <title lang="en">News Story Live</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007021.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007022.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007023.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007024.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007025.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="2007">
-    <title lang="en">Bulletin Live</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007026.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007027.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="2007">
-    <title lang="en">News Story Live</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007028.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="2007">
-    <title lang="en">Health / Manoranjan</title>
-    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007029.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007030.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007031.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="2007">
-    <title lang="en">Viral World</title>
-    <desc lang="en">The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007032.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="2007">
-    <title lang="en">News Story Live</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007033.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007034.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007035.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007036.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007037.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007038.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007039.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="2007">
-    <title lang="en">News Story Live</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007040.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007041.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007042.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007043.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007044.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007045.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007046.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252007047.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="2007">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="2007">
-    <title lang="en">News Story</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="2007">
-    <title lang="en">Health / Manoranjan</title>
-    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="2007">
-    <title lang="en">Top-9</title>
-    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="2007">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="2007">
-    <title lang="en">Viral World</title>
-    <desc lang="en">The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007008.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="2007">
-    <title lang="en">News Story</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007009.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="2007">
-    <title lang="en">33 Jila</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007010.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="2007">
     <title lang="en">Bulletin</title>
     <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
@@ -506,5 +218,407 @@
     <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007046.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262007047.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="2007">
+    <title lang="en">News Story</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="2007">
+    <title lang="en">Health / Manoranjan</title>
+    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="2007">
+    <title lang="en">Viral World</title>
+    <desc lang="en">The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007008.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="2007">
+    <title lang="en">News Story</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007009.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007010.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007011.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007012.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007013.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="2007">
+    <title lang="en">Rashifal / Health</title>
+    <desc lang="en">An expert astrologer provides future predictions for the zodiac signs; the host presents updates and developments from the health sector.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007014.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007015.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="2007">
+    <title lang="en">Health / Manoranjan</title>
+    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007016.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007017.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007018.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007019.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007020.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="2007">
+    <title lang="en">News Story Live</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007021.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007022.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007023.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007024.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007025.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="2007">
+    <title lang="en">Bulletin Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007026.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007027.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="2007">
+    <title lang="en">News Story Live</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007028.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="2007">
+    <title lang="en">Health / Manoranjan</title>
+    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007029.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007030.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007031.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="2007">
+    <title lang="en">Viral World</title>
+    <desc lang="en">The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007032.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="2007">
+    <title lang="en">News Story Live</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007033.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007034.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007035.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007036.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007037.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007038.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007039.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="2007">
+    <title lang="en">News Story Live</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to various social, political and economic issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007040.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007041.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007042.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007043.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007044.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007045.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007046.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272007047.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="2007">
+    <title lang="en">News Story</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="2007">
+    <title lang="en">Health / Manoranjan</title>
+    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="2007">
+    <title lang="en">Viral World</title>
+    <desc lang="en">The host provides a detailed analysis and the context of several viral videos making rounds on the internet from all over the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007008.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="2007">
+    <title lang="en">News Story</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007009.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="2007">
+    <title lang="en">33 Jila</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007010.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="2007">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007011.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007012.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007013.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="2007">
+    <title lang="en">Rashifal / Health</title>
+    <desc lang="en">An expert astrologer provides future predictions for the zodiac signs; the host presents updates and developments from the health sector.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007014.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628080000 +0530" channel="2007">
+    <title lang="en">Top-9</title>
+    <desc lang="en">The host collates and presents the top nine news stories, current affairs and socio-political updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007015.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="2007">
+    <title lang="en">Health / Manoranjan</title>
+    <desc lang="en">The host presents the latest health-related updates; a reporter highlights various entertainment-based stories and developments.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007016.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="2007">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282007017.jpg"/>
   </programme>
 </tv>

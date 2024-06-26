@@ -3,132 +3,6 @@
   <channel id="1246">
     <display-name lang="en">Headlines Tripura</display-name>
   </channel>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="1246">
-    <title lang="en">News Good Morning</title>
-    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in the country and around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246004.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="1246">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246005.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1246">
-    <title lang="en">News 9</title>
-    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation and abroad.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246006.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="1246">
-    <title lang="en">News 9</title>
-    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation and abroad.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246007.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="1246">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246008.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="1246">
-    <title lang="en">News 12</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246009.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="1246">
-    <title lang="en">Doctor Call</title>
-    <desc lang="en">Talk show.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246010.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="1246">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246011.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="1246">
-    <title lang="en">Talk Show</title>
-    <desc lang="en">The host invites a panel of guests to discuss the important political, economic and social news stories of the day from all over the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246012.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="1246">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246013.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="1246">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246014.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="1246">
-    <title lang="en">Repit</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246015.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="1246">
-    <title lang="en">Prime Time</title>
-    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246016.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="1246">
-    <title lang="en">Live News</title>
-    <desc lang="en">The host gives an insight into the latest socio-economic and political news stories and major developments of the day, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246017.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="1246">
-    <title lang="en">Live Talk Show</title>
-    <desc lang="en">Chat show.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246018.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="1246">
-    <title lang="en">Kokborok</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246019.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="1246">
-    <title lang="en">Last Updead</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251246020.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="1246">
-    <title lang="en">Record News</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="1246">
-    <title lang="en">Record News</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626025500 +0530" channel="1246">
-    <title lang="en">Record News</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246002.jpg"/>
-  </programme>
-  <programme start="20240626025500 +0530" stop="20240626070000 +0530" channel="1246">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246003.jpg"/>
-  </programme>
   <programme start="20240626070000 +0530" stop="20240626080000 +0530" channel="1246">
     <title lang="en">News Good Morning</title>
     <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in the country and around the world.</desc>
@@ -224,5 +98,173 @@
     <desc lang="en">Special report.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246019.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="1246">
+    <title lang="en">Last Updead</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261246020.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627025500 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246002.jpg"/>
+  </programme>
+  <programme start="20240627025500 +0530" stop="20240627070000 +0530" channel="1246">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246003.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="1246">
+    <title lang="en">News Good Morning</title>
+    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in the country and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246004.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246005.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="1246">
+    <title lang="en">News 9</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation and abroad.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246006.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="1246">
+    <title lang="en">News 9</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation and abroad.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246007.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246008.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="1246">
+    <title lang="en">News 12</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246009.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="1246">
+    <title lang="en">Doctor Call</title>
+    <desc lang="en">Talk show.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246010.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246011.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627160000 +0530" channel="1246">
+    <title lang="en">Talk Show</title>
+    <desc lang="en">The host invites a panel of guests to discuss the important political, economic and social news stories of the day from all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246012.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627170000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246013.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246014.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="1246">
+    <title lang="en">Repit</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246015.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="1246">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">The host presents the latest updates on crucial events happening in India and abroad pertaining to different fields like sports, politics and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246016.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="1246">
+    <title lang="en">Live News</title>
+    <desc lang="en">The host gives an insight into the latest socio-economic and political news stories and major developments of the day, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246017.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="1246">
+    <title lang="en">Live Talk Show</title>
+    <desc lang="en">Chat show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246018.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="1246">
+    <title lang="en">Kokborok</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246019.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="1246">
+    <title lang="en">Last Updead</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271246020.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628025500 +0530" channel="1246">
+    <title lang="en">Record News</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246002.jpg"/>
+  </programme>
+  <programme start="20240628025500 +0530" stop="20240628070000 +0530" channel="1246">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246003.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="1246">
+    <title lang="en">News Good Morning</title>
+    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in the country and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246004.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="1246">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281246005.jpg"/>
   </programme>
 </tv>

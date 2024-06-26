@@ -3,153 +3,6 @@
   <channel id="ts1181">
     <display-name lang="en">Zee Picchar HD</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624203000 +0000" channel="ts1181">
-    <title lang="en">Comedy Khiladigalu Championship</title>
-    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
-    <credits>
-      <actor>Master Anand</actor>
-      <actor>Rakshita</actor>
-      <actor>Jaggesh</actor>
-      <actor>Yograj Bhat</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.261.</episode-num>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624223000 +0000" channel="ts1181">
-    <title lang="en">Comedy Khiladigalu Championship</title>
-    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
-    <credits>
-      <actor>Master Anand</actor>
-      <actor>Rakshita</actor>
-      <actor>Jaggesh</actor>
-      <actor>Yograj Bhat</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.268.</episode-num>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240625000000 +0000" channel="ts1181">
-    <title lang="en">Dance Karnataka Dance 2021</title>
-    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
-    <credits>
-      <actor>Anushree</actor>
-      <actor>Rakshita</actor>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Arjun Janya</actor>
-    </credits>
-    <category lang="en">Dance Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.255.</episode-num>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625013000 +0000" channel="ts1181">
-    <title lang="en">Dance Karnataka Dance 2021</title>
-    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
-    <credits>
-      <actor>Anushree</actor>
-      <actor>Rakshita</actor>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Arjun Janya</actor>
-    </credits>
-    <category lang="en">Dance Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.262.</episode-num>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts1181">
-    <title lang="en">Picchar Morning Hits</title>
-    <desc lang="en">A comprehensive compilation of melodious and peppy regional songs.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2F1E4C7F256EB67D2E79878AC07BCD66687E22CD.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts1181">
-    <title lang="en">Picchar Story</title>
-    <desc lang="en">Picchar Story</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169499AD10962DCDE3B645E3E7EF2378A4E7A9770.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts1181">
-    <title lang="en">Ka Pae Ranasingam</title>
-    <desc lang="en">A poor woman fights the corrupt Indian bureaucracy to bring her dead husband's body home.</desc>
-    <credits>
-      <actor>Vijay Sethupathi</actor>
-      <actor>Aishwarya Rajesh</actor>
-      <actor>Rangaraj Pandey</actor>
-      <actor>Munishkanth</actor>
-      <actor>Vela Ramamoorthy</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E30255F35F6AE226B7E6960C46480230D035E82DX.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625092000 +0000" channel="ts1181">
-    <title lang="en">Shravani Subramanya</title>
-    <desc lang="en">Subramanya helps Shravani to escape from the clutches of her boyfriend who is a thug.</desc>
-    <credits>
-      <actor>Ganesh</actor>
-      <actor>Amulaya</actor>
-      <actor>Ananth Nag</actor>
-      <actor>Tara</actor>
-      <actor>Avinash</actor>
-      <actor>Yashas</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A61F4A14B3D2DDB94176EC0399B9DEFBDB6A301F9.jpg"/>
-  </programme>
-  <programme start="20240625092000 +0000" stop="20240625093000 +0000" channel="ts1181">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler E68.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625115500 +0000" channel="ts1181">
-    <title lang="en">Gandugali Rama</title>
-    <desc lang="en">Gandugali Rama</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46F709FEA35448E143F6E4533A035CB886983D72M.jpg"/>
-  </programme>
-  <programme start="20240625115500 +0000" stop="20240625123000 +0000" channel="ts1181">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler E68.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625151500 +0000" channel="ts1181">
-    <title lang="en">Drishya 2</title>
-    <desc lang="en">New clues in a murder case send Rajendra and his family on an erratic hustle to escape.</desc>
-    <credits>
-      <actor>Ravichandran</actor>
-      <actor>Navya Nair</actor>
-      <actor>Aarohi Narayan</actor>
-      <actor>Unnathi</actor>
-      <actor>Prabhu</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2A3806111BB76177B99D569822300BCBD6BE2EFQ.jpg"/>
-  </programme>
-  <programme start="20240625151500 +0000" stop="20240625153000 +0000" channel="ts1181">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler E68.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625175000 +0000" channel="ts1181">
-    <title lang="en">100</title>
-    <desc lang="en">A young policeman's life takes an unusual turn after he begins working in a control room.</desc>
-    <credits>
-      <actor>Atharvaa</actor>
-      <actor>Hansika Motwani</actor>
-      <actor>Radha Ravi</actor>
-      <actor>Raaj Aiyyappa</actor>
-      <actor>Yogi Babu</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B0225DF0AC97C3BA57CC3A57020933C8235E4096.jpg"/>
-  </programme>
-  <programme start="20240625175000 +0000" stop="20240625183000 +0000" channel="ts1181">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler E68.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625203000 +0000" channel="ts1181">
     <title lang="en">Comedy Khiladigalu Championship</title>
     <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
@@ -278,5 +131,135 @@
     </credits>
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BD8CFF2A534307C77B4375C2AACEDC1E09E36AEA.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626203000 +0000" channel="ts1181">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.263.</episode-num>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626223000 +0000" channel="ts1181">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.270.</episode-num>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240627000000 +0000" channel="ts1181">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.257.</episode-num>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627013000 +0000" channel="ts1181">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.264.</episode-num>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627023000 +0000" channel="ts1181">
+    <title lang="en">Picchar Morning Hits</title>
+    <desc lang="en">A comprehensive compilation of melodious and peppy regional songs.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2F1E4C7F256EB67D2E79878AC07BCD66687E22CD.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts1181">
+    <title lang="en">Picchar Story</title>
+    <desc lang="en">Picchar Story</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169499AD10962DCDE3B645E3E7EF2378A4E7A9770.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts1181">
+    <title lang="en">Kismat</title>
+    <desc lang="en">Vijay's life changes as he elopes with his girlfriend, with a loan shark hot on his heels.</desc>
+    <credits>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Sonu Gowda</actor>
+      <actor>Naveen Krishna</actor>
+      <actor>Chikkanna</actor>
+      <actor>Girish Shivanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/216DC185E2FBDDC18AA28D36D30CE179E18B75937.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts1181">
+    <title lang="en">Gundana Maduve</title>
+    <desc lang="en">A man decides to fight against all odds to unite with his lover.</desc>
+    <credits>
+      <actor>Jaggesh</actor>
+      <actor>Ragini</actor>
+      <actor>Vinaya Prasad</actor>
+      <actor>Tara</actor>
+      <actor>M Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1552F3C3357559DAF120558053BEB6D35733B2266.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts1181">
+    <title lang="en">O Premavee</title>
+    <desc lang="en">Prema and Raja fall in love but their union is opposed by her father.</desc>
+    <credits>
+      <actor>Ravichandran</actor>
+      <actor>Rambha</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Srihari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D535FB593A089430FC29D5BB3731FE3A3301B8AF.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts1181">
+    <title lang="en">Kasthuri Mahal</title>
+    <desc lang="en">Upon discovering a mysterious book, an inquisitive archaeologist lands in trouble.</desc>
+    <credits>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Skanda Ashok</actor>
+      <actor>Shruti Prakash</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Kaashima Rafi</actor>
+      <actor>Kempegowda</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50AE815E471B9F3F3D427B22B7ABAAF426C30A46I.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627183000 +0000" channel="ts1181">
+    <title lang="en">F3: Fun and Frustration</title>
+    <desc lang="en">Venky and Varun plan to get rich wives, but they fall into the trap of their own making.</desc>
+    <credits>
+      <actor>Venkatesh</actor>
+      <actor>Varun Tej</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Rajendra Prasad</actor>
+      <actor>Murali Sharma</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9B08B2C2778B94E648A97CC89CCDD5C89208CF9X.jpg"/>
   </programme>
 </tv>

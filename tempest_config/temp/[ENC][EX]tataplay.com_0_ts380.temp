@@ -3,115 +3,6 @@
   <channel id="ts380">
     <display-name lang="en">KTV HD</display-name>
   </channel>
-  <programme start="20240624200000 +0000" stop="20240624223000 +0000" channel="ts380">
-    <title lang="en">Pengal</title>
-    <desc lang="en">Pengal</desc>
-    <credits>
-      <actor>Jai Akash</actor>
-      <actor>Divya Sri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68AA6D6638B8DCB65C95501859DEE185FEC17B48M.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="ts380">
-    <title lang="en">Pesadha Kannum Pesume</title>
-    <desc lang="en">Vikram, a habitual prankster, decides to play a prank on his lover, Swetha, by telling her he is already married. However, his plan backfires on him when Swetha's marriage gets fixed with another man.</desc>
-    <credits>
-      <actor>Kunal</actor>
-      <actor>Monal</actor>
-      <actor>Mamta</actor>
-      <actor>Ramji</actor>
-      <actor>Karunas</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF41B653D514D83A627CEB26941E97AD04B33E1B5.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts380">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F646E0A7C5179B57AF3E5710AE6D346AC252E7CI.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625043000 +0000" channel="ts380">
-    <title lang="en">Idhu Oru Thodarkathai</title>
-    <desc lang="en">Radha decides to leave her home permanently after learning that she has a life-threatening illness. She later falls in love with Ravi and agrees to marry him but on one condition.</desc>
-    <credits>
-      <actor>Mohan</actor>
-      <actor>Amala Akkineni</actor>
-      <actor>Rekha</actor>
-      <actor>Gowndamani</actor>
-      <actor>Senthil</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B46BC193A018DBE5C53263A2BA6B34FE235D8B2K.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625073000 +0000" channel="ts380">
-    <title lang="en">Kannodu Kanbathellam</title>
-    <desc lang="en">Seetharam is in love with Kalyani and wants to propose to her. However, when two lovers, Akhila and Akash, play a prank on Seetharam that results in him losing Kalyani, he takes revenge on them.</desc>
-    <credits>
-      <actor>Arjun</actor>
-      <actor>Sonali Bendre</actor>
-      <actor>Suchindra</actor>
-      <actor>Ruchita</actor>
-      <actor>Manivannan</actor>
-      <actor>Crazy Mohan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D758C50CC4BAC76FBE20DF18CF42EED06E997A89I.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts380">
-    <title lang="en">Vidukathai</title>
-    <desc lang="en">Anandhi is raised by her father who is a fearless man. Neelakandan, a 40-year-old bachelor who is a tenant, becomes the only comforting factor when her father dies.</desc>
-    <credits>
-      <actor>Prakash Raj</actor>
-      <actor>Neena</actor>
-      <actor>Manivannan</actor>
-      <actor>Janagaraj</actor>
-      <actor>Vijayan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A7A3436E540244F50A520E55F87D788C3B246AE2.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts380">
-    <title lang="en">1977: The History Re-Written</title>
-    <desc lang="en">A brave man sets out on a mission to solve the mystery behind the death of his father and prove his innocence when he learns that he was falsely accused of a crime.</desc>
-    <credits>
-      <actor>Sarath Kumar</actor>
-      <actor>Farzana</actor>
-      <actor>Namitha</actor>
-      <actor>Vivek</actor>
-      <actor>Radha Ravi</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C95CAFD6ECA4B8BD2F6B8A3D780B2FC79F31A575.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625170000 +0000" channel="ts380">
-    <title lang="en">Marutha</title>
-    <desc lang="en">Unable to return her brother's monetary favour, Meenakshi's husband ends his life. When her brother's wife expects her to repay the money, Meenakshi sees it as a chance to reclaim her lost honour.</desc>
-    <credits>
-      <actor>GRS</actor>
-      <actor>Lovelyn Chandrasekhar</actor>
-      <actor>Viji Chandrasekhar</actor>
-      <actor>Radhika Sarathkumar</actor>
-      <actor>Saravanan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24B4312E7F39E4E669617D10B9382DC01342848DP.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625200000 +0000" channel="ts380">
-    <title lang="en">Chinnavar</title>
-    <desc lang="en">Muthu and Veerasamy are best friends and fishermen, and Veerasamy's sister Meena loves Muthu. When a rich man asks Veerasamy's permission to marry Meena, she claims to have already married Muthu.</desc>
-    <credits>
-      <actor>Prabhu Ganesan</actor>
-      <actor>Chandrasekar</actor>
-      <actor>Kasthuri</actor>
-      <actor>Chithra</actor>
-      <actor>Radha Ravi</actor>
-      <actor>Kovai Sarala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/231CA881BAEFA15F230D8DC3D0D402404C8EB008H.jpg"/>
-  </programme>
   <programme start="20240625200000 +0000" stop="20240625223000 +0000" channel="ts380">
     <title lang="en">Nee Naan Nila</title>
     <desc lang="en">Raja and Nila love each other, but their relationship is short-lived when Raja dies in an accident. Now a ghost, Raja takes it upon himself to help his rival, Vinoth, woo a heartbroken Nila.</desc>
@@ -226,5 +117,122 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DCC7DE5B744779BE058367C272DA5B06F43B09FO.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626223000 +0000" channel="ts380">
+    <title lang="en">Piragu</title>
+    <desc lang="en">Sathya, who comes to Chennai to be a film director, ends up being targeted by two rival gangs, whose leaders have enough reason to finish him. He must gather his courage and fight his enemies.</desc>
+    <credits>
+      <actor>Hamsavardhan</actor>
+      <actor>Keerthi Chawla</actor>
+      <actor>Sunitha Verma</actor>
+      <actor>Vadivelu</actor>
+      <actor>Dhandapani</actor>
+      <actor>Sabitha Anand</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B9C9FA3FDC186AE606E098D523DF36CC0CB5452F.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240627003000 +0000" channel="ts380">
+    <title lang="en">Pirappu</title>
+    <desc lang="en">Padma falls in love with Kannan, who is in love with Meera. However, things take a turn when Padma learns of this and tries to commit suicide.</desc>
+    <credits>
+      <actor>Prabha</actor>
+      <actor>Karthika Mathew</actor>
+      <actor>Priya Mohan</actor>
+      <actor>Mahadevan</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>Vijaya Krishnaraj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C41C8F79639A68369165AA6CD94EB4FA43854373.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts380">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F646E0A7C5179B57AF3E5710AE6D346AC252E7CI.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627043000 +0000" channel="ts380">
+    <title lang="en">Namma Annachi</title>
+    <desc lang="en">Annachi uses unscrupulous ways to help the villagers overcome their problems, while his son is stickler for rules and believes in abiding by the law. Contrasting views lead to a clash between the two.</desc>
+    <credits>
+      <actor>R Sarathkumar</actor>
+      <actor>Radhika Sarathkumar</actor>
+      <actor>Heera Rajagopal</actor>
+      <actor>Radha Ravi</actor>
+      <actor>Meena</actor>
+      <actor>Vivek</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/661F23EA2C1C18DC5B66B5DCE909C98BDF66474D0.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627073000 +0000" channel="ts380">
+    <title lang="en">Gokulam</title>
+    <desc lang="en">Chellappa, who owns a photo studio, falls in love with Mary, who has recently come to stay in his locality. His dreams shatter when she reveals secrets about her past.</desc>
+    <credits>
+      <actor>Jayaram</actor>
+      <actor>Bhanupriya</actor>
+      <actor>Arjun Sarja</actor>
+      <actor>Kalyan Kumar</actor>
+      <actor>Vadivelu</actor>
+      <actor>Chinni Jayanth</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BB204B7076C4EFE0615DB16FB437293AE29230CR.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627103000 +0000" channel="ts380">
+    <title lang="en">Mugavari</title>
+    <desc lang="en">Sridhar, an aspiring music director, has been struggling to get a foothold in the music industry for many years. He falls in love but is willing to put his relationship on a backburner for success.</desc>
+    <credits>
+      <actor>Ajith Kumar</actor>
+      <actor>Jyothika</actor>
+      <actor>Raghuvaran</actor>
+      <actor>K Vishwanath</actor>
+      <actor>Vivek</actor>
+      <actor>Manivannan</actor>
+    </credits>
+    <category lang="en">Musical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F336A800D663F34373CD30F5F159BDC6F1B4915CZ.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627133000 +0000" channel="ts380">
+    <title lang="en">Manasukkul Mathappu</title>
+    <desc lang="en">A man is shattered and loses his sanity after the woman he loves dies. In the mental asylum, his doctor falls in love with him but her father is against their union.</desc>
+    <credits>
+      <actor>Prabhu</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>Lissy</actor>
+      <actor>Sarath Babu</actor>
+      <actor>Senthamarai</actor>
+      <actor>Janagaraj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CD24EB19FC3FED07C3DF84FD04218FA028AD92BY.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627163000 +0000" channel="ts380">
+    <title lang="en">Kabali</title>
+    <desc lang="en">When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.</desc>
+    <credits>
+      <actor>Rajinikanth</actor>
+      <actor>Radhika Apte</actor>
+      <actor>Sai Dhanshika</actor>
+      <actor>Winston Chao</actor>
+      <actor>Kishore</actor>
+      <actor>Dinesh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF19E8448D3FF010A3DA6523110BAA195671CCA3H.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627193000 +0000" channel="ts380">
+    <title lang="en">Thulluvadho Ilamai</title>
+    <desc lang="en">Six friends run away to escape from the niggling issues at their homes. Although the group receives support from an older friend, they face many problems and earn the wrath of their parents.</desc>
+    <credits>
+      <actor>Dhanush</actor>
+      <actor>Sherin</actor>
+      <actor>Abhinay</actor>
+      <actor>Ramesh</actor>
+      <actor>Shilpa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/839E3E8A62F01EAD34D3556DA3466012588863E01.jpg"/>
   </programme>
 </tv>

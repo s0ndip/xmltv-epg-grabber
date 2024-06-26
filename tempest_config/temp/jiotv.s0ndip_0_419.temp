@@ -3,213 +3,6 @@
   <channel id="419">
     <display-name lang="en">Jaya TV HD</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="419">
-    <title lang="en">Kandha Sashti Kavasam</title>
-    <desc lang="en">Devotees offer special prayers to the Hindu deity Murugan and seek his blessings for a healthy and prosperous life.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419004.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="419">
-    <title lang="en">Arul Neram</title>
-    <desc lang="en">Devout priests in various temples conduct sacred rituals and prayers to praise and worship various deities in the Hindu faith.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419005.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625090000 +0530" channel="419">
-    <title lang="en">Kaalai Malar</title>
-    <desc lang="en">The host interviews various prominent personalities from different fields and discusses in detail their works and future plans.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419006.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="419">
-    <title lang="en">Thenkinnam</title>
-    <desc lang="en">The host presents a comprehensive compilation of old Tamil film songs composed and performed by various talented artists and singers.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419007.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="419">
-    <title lang="en">Brahma</title>
-    <desc lang="en">A sketch artist who loses his beloved wife in a tragic flight accident, helps the police track a dangerous criminal, the miscreant vows to seek revenge on him.</desc>
-    <credits>
-      <director>K Subhash</director>
-      <actor>Sathyaraj</actor>
-      <actor>Khushbu</actor>
-      <actor>Bhanupriya</actor>
-      <actor>Goundamani</actor>
-      <actor>Vijayakumar</actor>
-      <actor>Pradeep Shakthi</actor>
-      <actor>C K Saraswathi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419008.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="419">
-    <title lang="en">Suvaiyo Suvai</title>
-    <desc lang="en">Renowned Indian chefs demonstrate their culinary skills by preparing dishes of various cuisines and sharing useful recipes and tips.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419009.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625170000 +0530" channel="419">
-    <title lang="en">Bharathan</title>
-    <desc lang="en">Bharath is framed for the murder of his elder brother by Gangadharan, a powerful businessman. In jail, he befriends three convicts who help him escape and take revenge against Gangadharan.</desc>
-    <credits>
-      <director>Sabapathy Dekshinamurthy</director>
-      <actor>Vijayakanth</actor>
-      <actor>Bhanupriya</actor>
-      <actor>S P Balasubrahmanyam</actor>
-      <actor>Anandaraj</actor>
-      <actor>Napoleon</actor>
-      <actor>Sumitra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419010.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="419">
-    <title lang="en">Arusuvai Neram</title>
-    <desc lang="en">A prominent chef demonstrates his culinary skills by preparing a variety of delicious vegetarian recipes and provides tips and suggestions.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419011.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="419">
-    <title lang="en">Gamma Gamma Malai</title>
-    <desc lang="en">A seasoned chef displays his culinary skills by conjuring up mouth-watering dishes and demonstrating the cooking method step-by-step.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419012.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="419">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419013.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="419">
-    <title lang="en">Veettukku Veedu Looty</title>
-    <desc lang="en">The residents of the Karunakaran colony go through various hilarious and thought-provoking situations in their daily middle-class lives.</desc>
-    <credits>
-      <actor>Uma Padmanabhan</actor>
-      <actor>Vivek Shankar</actor>
-      <actor>Nakshathra Nagesh</actor>
-      <actor>Ravi Raghavendra</actor>
-      <actor>Kalpana</actor>
-      <actor>Saranya Ponvannan</actor>
-      <actor>Rajhesh Vaidhya</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419014.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="419">
-    <title lang="en">Agni Pravesam</title>
-    <desc lang="en">Chandra and her three sisters face a tough married life and challenge the chauvinistic behaviour of their in-laws that suppresses their worth.</desc>
-    <credits>
-      <director>Revathi Krishana</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419015.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="419">
-    <title lang="en">Kai Raasi Kudumbam</title>
-    <desc lang="en">Sivayanam and Meenakshi, a married couple who live with their joint family in Kanchipuram, face various trials and tribulations.</desc>
-    <credits>
-      <director>V Thiruselvam</director>
-      <actor>Subathira</actor>
-      <actor>Shiva</actor>
-      <actor>Vithiya</actor>
-      <actor>Bhagyalakshmi Prabhu</actor>
-      <actor>Sri Lekha</actor>
-      <actor>Suresh</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419016.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="419">
-    <title lang="en">Savithiri</title>
-    <desc lang="en">A show that is dramatic in nature.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419017.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="419">
-    <title lang="en">Vaidegi</title>
-    <desc lang="en">Drama series.</desc>
-    <credits>
-      <director>Mega V Saikumar</director>
-      <actor>Abbas</actor>
-      <actor>Nalini</actor>
-      <actor>Srikant</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419018.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="419">
-    <title lang="en">Roja</title>
-    <desc lang="en">While studying in college, Mahesh finds himself falling in love with Roja and her stepsister, Anjali. However, the girls have their own motives.</desc>
-    <credits>
-      <director>Balaji</director>
-      <actor>Ranjitha</actor>
-      <actor>Keerthana</actor>
-      <actor>Sarakesh</actor>
-      <actor>Rajasekar</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419019.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240626000000 +0530" channel="419">
-    <title lang="en">Bharathan</title>
-    <desc lang="en">Bharath is framed for the murder of his elder brother by Gangadharan, a powerful businessman. In jail, he befriends three convicts who help him escape and take revenge against Gangadharan.</desc>
-    <credits>
-      <director>Sabapathy Dekshinamurthy</director>
-      <actor>Vijayakanth</actor>
-      <actor>Bhanupriya</actor>
-      <actor>S P Balasubrahmanyam</actor>
-      <actor>Anandaraj</actor>
-      <actor>Napoleon</actor>
-      <actor>Sumitra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625419020.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="419">
-    <title lang="en">Bharathan</title>
-    <desc lang="en">Bharath is framed for the murder of his elder brother by Gangadharan, a powerful businessman. In jail, he befriends three convicts who help him escape and take revenge against Gangadharan.</desc>
-    <credits>
-      <director>Sabapathy Dekshinamurthy</director>
-      <actor>Vijayakanth</actor>
-      <actor>Bhanupriya</actor>
-      <actor>S P Balasubrahmanyam</actor>
-      <actor>Anandaraj</actor>
-      <actor>Napoleon</actor>
-      <actor>Sumitra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="419">
-    <title lang="en">Hit List</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs written and performed by eminent musicians for recent movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626050000 +0530" channel="419">
-    <title lang="en">Brahma</title>
-    <desc lang="en">A sketch artist who loses his beloved wife in a tragic flight accident, helps the police track a dangerous criminal, the miscreant vows to seek revenge on him.</desc>
-    <credits>
-      <director>K Subhash</director>
-      <actor>Sathyaraj</actor>
-      <actor>Khushbu</actor>
-      <actor>Bhanupriya</actor>
-      <actor>Goundamani</actor>
-      <actor>Vijayakumar</actor>
-      <actor>Pradeep Shakthi</actor>
-      <actor>C K Saraswathi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419002.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="419">
-    <title lang="en">Suprabatham</title>
-    <desc lang="en">Religious leaders along with devotees recite morning prayers, conduct rituals and sing devotional songs in praise of various Hindu deities.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419003.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="419">
     <title lang="en">Kandha Sashti Kavasam</title>
     <desc lang="en">Devotees offer special prayers to the Hindu deity Murugan and seek his blessings for a healthy and prosperous life.</desc>
@@ -355,5 +148,271 @@
     </credits>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419019.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240627000000 +0530" channel="419">
+    <title lang="en">Dhavani Kannavukal</title>
+    <desc lang="en">Subramaniam is unable to get his five sisters married due to his poverty. He goes to town to find a job and an unexpected incident changes his entire life.</desc>
+    <credits>
+      <director>Krishnasaamy Bhagyaraj</director>
+      <actor>Krishnasaamy Bhagyaraj</actor>
+      <actor>Radhika Sarathkumar</actor>
+      <actor>Sivaji Ganesan</actor>
+      <actor>Ilavarasi</actor>
+      <actor>Uma Bharani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626419020.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="419">
+    <title lang="en">Dhavani Kannavukal</title>
+    <desc lang="en">Subramaniam is unable to get his five sisters married due to his poverty. He goes to town to find a job and an unexpected incident changes his entire life.</desc>
+    <credits>
+      <director>Krishnasaamy Bhagyaraj</director>
+      <actor>Krishnasaamy Bhagyaraj</actor>
+      <actor>Radhika Sarathkumar</actor>
+      <actor>Sivaji Ganesan</actor>
+      <actor>Ilavarasi</actor>
+      <actor>Uma Bharani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="419">
+    <title lang="en">Hit List</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs written and performed by eminent musicians for recent movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627050000 +0530" channel="419">
+    <title lang="en">Ponnana Neram</title>
+    <desc lang="en">A young college girl, who enjoys playing pranks on others, gets into trouble with a group of terrorists. A brave police officer comes to her rescue and sets on a mission to wipe out the gang.</desc>
+    <credits>
+      <director>Raviraj</director>
+      <actor>Ramarajan</actor>
+      <actor>Prathyusha</actor>
+      <actor>Mansoor Ali Khan</actor>
+      <actor>Alex</actor>
+      <actor>Gandhimathi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419002.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="419">
+    <title lang="en">Suprabatham</title>
+    <desc lang="en">Religious leaders along with devotees recite morning prayers, conduct rituals and sing devotional songs in praise of various Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419003.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="419">
+    <title lang="en">Kandha Sashti Kavasam</title>
+    <desc lang="en">Devotees offer special prayers to the Hindu deity Murugan and seek his blessings for a healthy and prosperous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419004.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="419">
+    <title lang="en">Arul Neram</title>
+    <desc lang="en">Devout priests in various temples conduct sacred rituals and prayers to praise and worship various deities in the Hindu faith.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419005.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627090000 +0530" channel="419">
+    <title lang="en">Kaalai Malar</title>
+    <desc lang="en">The host interviews various prominent personalities from different fields and discusses in detail their works and future plans.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419006.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="419">
+    <title lang="en">Thenkinnam</title>
+    <desc lang="en">The host presents a comprehensive compilation of old Tamil film songs composed and performed by various talented artists and singers.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419007.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627130000 +0530" channel="419">
+    <title lang="en">Mani Kuyil</title>
+    <desc lang="en">Muthuvelu becomes a popular singer when Kaveri video records him singing a song and sends it to a TV channel. Kaveri and Muthuvelu fall in love and her father Ramasamy agrees to get them married.</desc>
+    <credits>
+      <director>Raja Varman</director>
+      <actor>Murali</actor>
+      <actor>Saradha</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419008.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="419">
+    <title lang="en">Enna Samayalo</title>
+    <desc lang="en">A renowned chef demonstrates the recipes for a wide range of traditional preparations and also shares several culinary tips and tricks.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419009.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627170000 +0530" channel="419">
+    <title lang="en">Kumbakarai Thangaiah</title>
+    <desc lang="en">Mangamma, who is in love with Thangaiya, is distraught while he faces a tough predicament owing to a disagreement in their village.</desc>
+    <credits>
+      <director>Gangai Amaran</director>
+      <actor>Prabhu</actor>
+      <actor>Kanaka</actor>
+      <actor>Pandiyan</actor>
+      <actor>M. N. Nambiar</actor>
+      <actor>Senthamarai</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419010.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="419">
+    <title lang="en">Kaimanam</title>
+    <desc lang="en">A renowned chef demonstrates the recipes for a range of traditional preparations and further shares easy culinary tips and tricks.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419011.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="419">
+    <title lang="en">Gamma Gamma Malai</title>
+    <desc lang="en">A seasoned chef displays his culinary skills by conjuring up mouth-watering dishes and demonstrating the cooking method step-by-step.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419012.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="419">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419013.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="419">
+    <title lang="en">Veettukku Veedu Looty</title>
+    <desc lang="en">The residents of the Karunakaran colony go through various hilarious and thought-provoking situations in their daily middle-class lives.</desc>
+    <credits>
+      <actor>Uma Padmanabhan</actor>
+      <actor>Vivek Shankar</actor>
+      <actor>Nakshathra Nagesh</actor>
+      <actor>Ravi Raghavendra</actor>
+      <actor>Kalpana</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>Rajhesh Vaidhya</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419014.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="419">
+    <title lang="en">Agni Pravesam</title>
+    <desc lang="en">Chandra and her three sisters face a tough married life and challenge the chauvinistic behaviour of their in-laws that suppresses their worth.</desc>
+    <credits>
+      <director>Revathi Krishana</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419015.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="419">
+    <title lang="en">Kai Raasi Kudumbam</title>
+    <desc lang="en">Sivayanam and Meenakshi, a married couple who live with their joint family in Kanchipuram, face various trials and tribulations.</desc>
+    <credits>
+      <director>V Thiruselvam</director>
+      <actor>Subathira</actor>
+      <actor>Shiva</actor>
+      <actor>Vithiya</actor>
+      <actor>Bhagyalakshmi Prabhu</actor>
+      <actor>Sri Lekha</actor>
+      <actor>Suresh</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419016.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="419">
+    <title lang="en">Savithiri</title>
+    <desc lang="en">A show that is dramatic in nature.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419017.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="419">
+    <title lang="en">Vaidegi</title>
+    <desc lang="en">Drama series.</desc>
+    <credits>
+      <director>Mega V Saikumar</director>
+      <actor>Abbas</actor>
+      <actor>Nalini</actor>
+      <actor>Srikant</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419018.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="419">
+    <title lang="en">Roja</title>
+    <desc lang="en">While studying in college, Mahesh finds himself falling in love with Roja and her stepsister, Anjali. However, the girls have their own motives.</desc>
+    <credits>
+      <director>Balaji</director>
+      <actor>Ranjitha</actor>
+      <actor>Keerthana</actor>
+      <actor>Sarakesh</actor>
+      <actor>Rajasekar</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419019.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240628000000 +0530" channel="419">
+    <title lang="en">Kumbakarai Thangaiah</title>
+    <desc lang="en">Mangamma, who is in love with Thangaiya, is distraught while he faces a tough predicament owing to a disagreement in their village.</desc>
+    <credits>
+      <director>Gangai Amaran</director>
+      <actor>Prabhu</actor>
+      <actor>Kanaka</actor>
+      <actor>Pandiyan</actor>
+      <actor>M. N. Nambiar</actor>
+      <actor>Senthamarai</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627419020.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="419">
+    <title lang="en">Kumbakarai Thangaiah</title>
+    <desc lang="en">Mangamma, who is in love with Thangaiya, is distraught while he faces a tough predicament owing to a disagreement in their village.</desc>
+    <credits>
+      <director>Gangai Amaran</director>
+      <actor>Prabhu</actor>
+      <actor>Kanaka</actor>
+      <actor>Pandiyan</actor>
+      <actor>M. N. Nambiar</actor>
+      <actor>Senthamarai</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="419">
+    <title lang="en">Hit List</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs written and performed by eminent musicians for recent movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628050000 +0530" channel="419">
+    <title lang="en">Mani Kuyil</title>
+    <desc lang="en">Muthuvelu becomes a popular singer when Kaveri video records him singing a song and sends it to a TV channel. Kaveri and Muthuvelu fall in love and her father Ramasamy agrees to get them married.</desc>
+    <credits>
+      <director>Raja Varman</director>
+      <actor>Murali</actor>
+      <actor>Saradha</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419002.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="419">
+    <title lang="en">Suprabatham</title>
+    <desc lang="en">Religious leaders along with devotees recite morning prayers, conduct rituals and sing devotional songs in praise of various Hindu deities.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419003.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="419">
+    <title lang="en">Kandha Sashti Kavasam</title>
+    <desc lang="en">Devotees offer special prayers to the Hindu deity Murugan and seek his blessings for a healthy and prosperous life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419004.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="419">
+    <title lang="en">Arul Neram</title>
+    <desc lang="en">Devout priests in various temples conduct sacred rituals and prayers to praise and worship various deities in the Hindu faith.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419005.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628090000 +0530" channel="419">
+    <title lang="en">Kaalai Malar</title>
+    <desc lang="en">The host interviews various prominent personalities from different fields and discusses in detail their works and future plans.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628419006.jpg"/>
   </programme>
 </tv>

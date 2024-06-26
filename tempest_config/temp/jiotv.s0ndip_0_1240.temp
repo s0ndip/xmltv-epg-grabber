@@ -3,150 +3,6 @@
   <channel id="1240">
     <display-name lang="en">TEST10 HD</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240006.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240009.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240010.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240011.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240012.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240013.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240014.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240015.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240016.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240017.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240018.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240019.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240020.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240021.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240022.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251240023.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240003.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="1240">
-    <title lang="en">TEST10 HD</title>
-    <desc lang="en">TEST10 HD</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240005.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="1240">
     <title lang="en">TEST10 HD</title>
     <desc lang="en">TEST10 HD</desc>
@@ -248,5 +104,209 @@
     <desc lang="en">TEST10 HD</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240022.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261240023.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240003.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240004.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240005.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240006.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240007.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240008.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240009.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240010.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240011.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240012.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240013.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240014.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627160000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240015.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627170000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240016.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240017.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240018.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240019.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240020.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240021.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240022.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271240023.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240003.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240005.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240006.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240007.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="1240">
+    <title lang="en">TEST10 HD</title>
+    <desc lang="en">TEST10 HD</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281240008.jpg"/>
   </programme>
 </tv>

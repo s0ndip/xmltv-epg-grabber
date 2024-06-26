@@ -3,54 +3,6 @@
   <channel id="809">
     <display-name lang="en">Maha Movies</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625090000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809002.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625120000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809003.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625150000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809004.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625180000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809005.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625210000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809006.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240626000000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625809007.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626809000.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626060000 +0530" channel="809">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626809001.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="809">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
@@ -80,5 +32,77 @@
     <desc lang="en">Movie.</desc>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626809006.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626809007.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627030000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809000.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627060000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809001.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627090000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809002.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809003.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627150000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809004.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627180000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809005.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627210000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809006.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627809007.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628809000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628809001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="809">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628809002.jpg"/>
   </programme>
 </tv>

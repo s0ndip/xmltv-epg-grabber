@@ -3,228 +3,6 @@
   <channel id="1954">
     <display-name lang="en">News Tamil 24x7</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625062000 +0530" channel="1954">
-    <title lang="en">Seithikathir Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954001.jpg"/>
-  </programme>
-  <programme start="20240625062000 +0530" stop="20240625070000 +0530" channel="1954">
-    <title lang="en">Seithikathir</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954002.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625072000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954003.jpg"/>
-  </programme>
-  <programme start="20240625072000 +0530" stop="20240625080000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954004.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625082000 +0530" channel="1954">
-    <title lang="en">Muthal Pathippu Thaliappu Seithikal</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954005.jpg"/>
-  </programme>
-  <programme start="20240625082000 +0530" stop="20240625090000 +0530" channel="1954">
-    <title lang="en">Muthal Pathippu</title>
-    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954006.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625092000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954007.jpg"/>
-  </programme>
-  <programme start="20240625092000 +0530" stop="20240625100000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954008.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625102000 +0530" channel="1954">
-    <title lang="en">Kaalai Thalaippu Seithikal</title>
-    <desc lang="en">The host collates and presents the most important news updates, current affairs and developments that matter to the people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954009.jpg"/>
-  </programme>
-  <programme start="20240625102000 +0530" stop="20240625110000 +0530" channel="1954">
-    <title lang="en">Kaalai Seithikal</title>
-    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954010.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625112000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954011.jpg"/>
-  </programme>
-  <programme start="20240625112000 +0530" stop="20240625120000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954012.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625122000 +0530" channel="1954">
-    <title lang="en">Nanpagal Thalaippu Seithikal</title>
-    <desc lang="en">The host presents the top headlines of the day pertaining to social issues, politics, the economy, sports, entertainment and more.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954013.jpg"/>
-  </programme>
-  <programme start="20240625122000 +0530" stop="20240625130000 +0530" channel="1954">
-    <title lang="en">Kaalai Seithikal</title>
-    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954014.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625132000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954015.jpg"/>
-  </programme>
-  <programme start="20240625132000 +0530" stop="20240625140000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954016.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625142000 +0530" channel="1954">
-    <title lang="en">Mathiyam Puthithu</title>
-    <desc lang="en">The most recent news, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954017.jpg"/>
-  </programme>
-  <programme start="20240625142000 +0530" stop="20240625150000 +0530" channel="1954">
-    <title lang="en">Kaalai Seithikal</title>
-    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954018.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625152000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954019.jpg"/>
-  </programme>
-  <programme start="20240625152000 +0530" stop="20240625160000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954020.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625162000 +0530" channel="1954">
-    <title lang="en">Pirpagal Thalaippu Seithikal</title>
-    <desc lang="en">The host presents the top headlines of the day pertaining to social issues, politics, the economy, sports, entertainment and more.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954021.jpg"/>
-  </programme>
-  <programme start="20240625162000 +0530" stop="20240625170000 +0530" channel="1954">
-    <title lang="en">Pirpagal Seithikal</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954022.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625172000 +0530" channel="1954">
-    <title lang="en">Superfast Thaliappu Seithikal</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954023.jpg"/>
-  </programme>
-  <programme start="20240625172000 +0530" stop="20240625180000 +0530" channel="1954">
-    <title lang="en">Superfast News</title>
-    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954024.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625182000 +0530" channel="1954">
-    <title lang="en">Maalai Thalaippu Seithikal</title>
-    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954025.jpg"/>
-  </programme>
-  <programme start="20240625182000 +0530" stop="20240625190000 +0530" channel="1954">
-    <title lang="en">Maalai Seithikal</title>
-    <desc lang="en">The host presents the news updates, stories and latest developments related to social, cultural, economic and political topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954026.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625192000 +0530" channel="1954">
-    <title lang="en">Maalai Thalaippu Seithikal</title>
-    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954027.jpg"/>
-  </programme>
-  <programme start="20240625192000 +0530" stop="20240625200000 +0530" channel="1954">
-    <title lang="en">Maalai Seithikal</title>
-    <desc lang="en">The host presents the news updates, stories and latest developments related to social, cultural, economic and political topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954028.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625202000 +0530" channel="1954">
-    <title lang="en">Prime Time - Super Fast HL</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954029.jpg"/>
-  </programme>
-  <programme start="20240625202000 +0530" stop="20240625210000 +0530" channel="1954">
-    <title lang="en">Prime Time Superfast News</title>
-    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954030.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625212000 +0530" channel="1954">
-    <title lang="en">Naalil Nadanthavai Thalaippu Seithikal</title>
-    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, economics, sports and current affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954031.jpg"/>
-  </programme>
-  <programme start="20240625212000 +0530" stop="20240625220000 +0530" channel="1954">
-    <title lang="en">Naalil Nadanthavai</title>
-    <desc lang="en">The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954032.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625222000 +0530" channel="1954">
-    <title lang="en">Iravu Thalaippu Seithigal</title>
-    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954033.jpg"/>
-  </programme>
-  <programme start="20240625222000 +0530" stop="20240625230000 +0530" channel="1954">
-    <title lang="en">Iravu Seithigal</title>
-    <desc lang="en">The host collates and presents some of the recent political, economic and social news and updates from across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954034.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625232000 +0530" channel="1954">
-    <title lang="en">Naalil Nadanthavai Thalaippu Seithikal</title>
-    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, economics, sports and current affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954035.jpg"/>
-  </programme>
-  <programme start="20240625232000 +0530" stop="20240626000000 +0530" channel="1954">
-    <title lang="en">Naalil Nadanthavai</title>
-    <desc lang="en">The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251954036.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626060000 +0530" channel="1954">
-    <title lang="en">TBA</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261954000.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626062000 +0530" channel="1954">
     <title lang="en">Seithikathir Thaliappu Seithikal</title>
     <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
@@ -434,5 +212,275 @@
     <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, economics, sports and current affairs.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261954035.jpg"/>
+  </programme>
+  <programme start="20240626232000 +0530" stop="20240627000000 +0530" channel="1954">
+    <title lang="en">Naalil Nadanthavai</title>
+    <desc lang="en">The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261954036.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627060000 +0530" channel="1954">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954000.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627062000 +0530" channel="1954">
+    <title lang="en">Seithikathir Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954001.jpg"/>
+  </programme>
+  <programme start="20240627062000 +0530" stop="20240627070000 +0530" channel="1954">
+    <title lang="en">Seithikathir</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954002.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627072000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954003.jpg"/>
+  </programme>
+  <programme start="20240627072000 +0530" stop="20240627080000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954004.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627082000 +0530" channel="1954">
+    <title lang="en">Muthal Pathippu Thaliappu Seithikal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954005.jpg"/>
+  </programme>
+  <programme start="20240627082000 +0530" stop="20240627090000 +0530" channel="1954">
+    <title lang="en">Muthal Pathippu</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954006.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627092000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954007.jpg"/>
+  </programme>
+  <programme start="20240627092000 +0530" stop="20240627100000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954008.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627102000 +0530" channel="1954">
+    <title lang="en">Kaalai Thalaippu Seithikal</title>
+    <desc lang="en">The host collates and presents the most important news updates, current affairs and developments that matter to the people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954009.jpg"/>
+  </programme>
+  <programme start="20240627102000 +0530" stop="20240627110000 +0530" channel="1954">
+    <title lang="en">Kaalai Seithikal</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954010.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627112000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954011.jpg"/>
+  </programme>
+  <programme start="20240627112000 +0530" stop="20240627120000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954012.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627122000 +0530" channel="1954">
+    <title lang="en">Nanpagal Thalaippu Seithikal</title>
+    <desc lang="en">The host presents the top headlines of the day pertaining to social issues, politics, the economy, sports, entertainment and more.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954013.jpg"/>
+  </programme>
+  <programme start="20240627122000 +0530" stop="20240627130000 +0530" channel="1954">
+    <title lang="en">Kaalai Seithikal</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954014.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627132000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954015.jpg"/>
+  </programme>
+  <programme start="20240627132000 +0530" stop="20240627140000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954016.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627142000 +0530" channel="1954">
+    <title lang="en">Mathiyam Puthithu</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954017.jpg"/>
+  </programme>
+  <programme start="20240627142000 +0530" stop="20240627150000 +0530" channel="1954">
+    <title lang="en">Kaalai Seithikal</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954018.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627152000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954019.jpg"/>
+  </programme>
+  <programme start="20240627152000 +0530" stop="20240627160000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954020.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627162000 +0530" channel="1954">
+    <title lang="en">Pirpagal Thalaippu Seithikal</title>
+    <desc lang="en">The host presents the top headlines of the day pertaining to social issues, politics, the economy, sports, entertainment and more.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954021.jpg"/>
+  </programme>
+  <programme start="20240627162000 +0530" stop="20240627170000 +0530" channel="1954">
+    <title lang="en">Pirpagal Seithikal</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954022.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627172000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954023.jpg"/>
+  </programme>
+  <programme start="20240627172000 +0530" stop="20240627180000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954024.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627182000 +0530" channel="1954">
+    <title lang="en">Maalai Thalaippu Seithikal</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954025.jpg"/>
+  </programme>
+  <programme start="20240627182000 +0530" stop="20240627190000 +0530" channel="1954">
+    <title lang="en">Maalai Seithikal</title>
+    <desc lang="en">The host presents the news updates, stories and latest developments related to social, cultural, economic and political topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954026.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627192000 +0530" channel="1954">
+    <title lang="en">Maalai Thalaippu Seithikal</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954027.jpg"/>
+  </programme>
+  <programme start="20240627192000 +0530" stop="20240627200000 +0530" channel="1954">
+    <title lang="en">Maalai Seithikal</title>
+    <desc lang="en">The host presents the news updates, stories and latest developments related to social, cultural, economic and political topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954028.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627202000 +0530" channel="1954">
+    <title lang="en">Prime Time - Super Fast HL</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954029.jpg"/>
+  </programme>
+  <programme start="20240627202000 +0530" stop="20240627210000 +0530" channel="1954">
+    <title lang="en">Prime Time Superfast News</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954030.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627212000 +0530" channel="1954">
+    <title lang="en">Naalil Nadanthavai Thalaippu Seithikal</title>
+    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, economics, sports and current affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954031.jpg"/>
+  </programme>
+  <programme start="20240627212000 +0530" stop="20240627220000 +0530" channel="1954">
+    <title lang="en">Naalil Nadanthavai</title>
+    <desc lang="en">The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954032.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627222000 +0530" channel="1954">
+    <title lang="en">Iravu Thalaippu Seithigal</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, economics, sports and current affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954033.jpg"/>
+  </programme>
+  <programme start="20240627222000 +0530" stop="20240627230000 +0530" channel="1954">
+    <title lang="en">Iravu Seithigal</title>
+    <desc lang="en">The host collates and presents some of the recent political, economic and social news and updates from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954034.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627232000 +0530" channel="1954">
+    <title lang="en">Naalil Nadanthavai Thalaippu Seithikal</title>
+    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, economics, sports and current affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954035.jpg"/>
+  </programme>
+  <programme start="20240627232000 +0530" stop="20240628000000 +0530" channel="1954">
+    <title lang="en">Naalil Nadanthavai</title>
+    <desc lang="en">The host delivers the latest national news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271954036.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628060000 +0530" channel="1954">
+    <title lang="en">TBA</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954000.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628062000 +0530" channel="1954">
+    <title lang="en">Seithikathir Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954001.jpg"/>
+  </programme>
+  <programme start="20240628062000 +0530" stop="20240628070000 +0530" channel="1954">
+    <title lang="en">Seithikathir</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954002.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628072000 +0530" channel="1954">
+    <title lang="en">Superfast Thaliappu Seithikal</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954003.jpg"/>
+  </programme>
+  <programme start="20240628072000 +0530" stop="20240628080000 +0530" channel="1954">
+    <title lang="en">Superfast News</title>
+    <desc lang="en">The host presents a quick round-up of all the major stories and the latest happenings from around the world and the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954004.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628082000 +0530" channel="1954">
+    <title lang="en">Muthal Pathippu Thaliappu Seithikal</title>
+    <desc lang="en">The most recent news, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954005.jpg"/>
+  </programme>
+  <programme start="20240628082000 +0530" stop="20240628090000 +0530" channel="1954">
+    <title lang="en">Muthal Pathippu</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281954006.jpg"/>
   </programme>
 </tv>

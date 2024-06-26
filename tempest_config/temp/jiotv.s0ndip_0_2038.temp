@@ -3,51 +3,6 @@
   <channel id="2038">
     <display-name lang="en">Dhamaal</display-name>
   </channel>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="2038">
-    <title lang="en">Jabariya Hits</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038001.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="2038">
-    <title lang="en">Love Ho Gail</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038002.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625130000 +0530" channel="2038">
-    <title lang="en">Lagai Le Thumka</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038003.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625170000 +0530" channel="2038">
-    <title lang="en">Lallantaap</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038004.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="2038">
-    <title lang="en">Love Ho Gail</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038005.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625200000 +0530" channel="2038">
-    <title lang="en">Lallantaap</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038006.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="2038">
-    <title lang="en">Jabariya Hits</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038007.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240626000000 +0530" channel="2038">
-    <title lang="en">Lagai Le Thumka</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252038008.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626090000 +0530" channel="2038">
-    <title lang="en">Lallantaap</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262038000.jpg"/>
-  </programme>
   <programme start="20240626090000 +0530" stop="20240626100000 +0530" channel="2038">
     <title lang="en">Jabariya Hits</title>
     <category lang="en">Devotional</category>
@@ -82,5 +37,60 @@
     <title lang="en">Jabariya Hits</title>
     <category lang="en">Devotional</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262038007.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="2038">
+    <title lang="en">Lagai Le Thumka</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262038008.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627090000 +0530" channel="2038">
+    <title lang="en">Lallantaap</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038000.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="2038">
+    <title lang="en">Jabariya Hits</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038001.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="2038">
+    <title lang="en">Love Ho Gail</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038002.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627130000 +0530" channel="2038">
+    <title lang="en">Lagai Le Thumka</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038003.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627170000 +0530" channel="2038">
+    <title lang="en">Lallantaap</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038004.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="2038">
+    <title lang="en">Love Ho Gail</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038005.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627200000 +0530" channel="2038">
+    <title lang="en">Lallantaap</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038006.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="2038">
+    <title lang="en">Jabariya Hits</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038007.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="2038">
+    <title lang="en">Lagai Le Thumka</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272038008.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628090000 +0530" channel="2038">
+    <title lang="en">Lallantaap</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282038000.jpg"/>
   </programme>
 </tv>

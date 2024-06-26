@@ -3,192 +3,6 @@
   <channel id="ts254">
     <display-name lang="en">Zee Bangla Cinema</display-name>
   </channel>
-  <programme start="20240624200100 +0000" stop="20240624220000 +0000" channel="ts254">
-    <title lang="en">Banglar Bagh</title>
-    <desc lang="en">Raj falls in love with Shreya and tries to win her love unaware of the fact that it is she who has funded his college education.</desc>
-    <credits>
-      <actor>Jr NTR</actor>
-      <actor>Sonali Joshi</actor>
-      <actor>Brahmanandam</actor>
-      <actor>AVS</actor>
-      <actor>M S Narayana</actor>
-      <actor>Junior NTR</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8325341342B34C62F03D68750D1C76E34C3F2A21V.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624233000 +0000" channel="ts254">
-    <title lang="en">Kit</title>
-    <desc lang="en">Kit</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B41158081372D9890DCA8EC5559C3ECDF08055F5N.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts254">
-    <title lang="en">Patanjali Yog</title>
-    <desc lang="en">Yog Rishi Swami Ramdev: A yoga guru teaches people various positions that will help people lead a healthy and disease-free lifestyle.</desc>
-    <credits>
-      <actor>Baba Ramdev</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BB40534C216629762E8D7F874DD39426ACC03A05.jpg"/>
-    <episode-num system="xmltv_ns">.703.</episode-num>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts254">
-    <title lang="en">Sokaler Sure</title>
-    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <credits>
-      <actor>Aditi Munsi</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
-    <episode-num system="xmltv_ns">.327.</episode-num>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts254">
-    <title lang="en">Sokaler Sure</title>
-    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <credits>
-      <actor>Aditi Munsi</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
-    <episode-num system="xmltv_ns">.328.</episode-num>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts254">
-    <title lang="en">Song Connection 2024</title>
-    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B95BDB8469E2ABA61F9F302A6D98FF72B3FEB94F4.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts254">
-    <title lang="en">Abhoya Dham</title>
-    <desc lang="en">Ishwar Katha: A religious leader delivers a discourse based on the lives of famous saints and encourages devotees to lead a spiritually-balanced life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D86FBECE2F0DBD0BE8C3142E063857951C9A53F2L.jpg"/>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts254">
-    <title lang="en">Sokaler Sure</title>
-    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <credits>
-      <actor>Aditi Munsi</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
-    <episode-num system="xmltv_ns">.199.</episode-num>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts254">
-    <title lang="en">Sokaler Sure</title>
-    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <credits>
-      <actor>Aditi Munsi</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
-    <episode-num system="xmltv_ns">.340.</episode-num>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625050000 +0000" channel="ts254">
-    <title lang="en">Shri Krishnaleela</title>
-    <desc lang="en">Lord Krishna, a once naughty little child, embarks on several adventures to fight and eradicate evil forces and become a protector of the world.</desc>
-    <credits>
-      <actor>Nirnay Samadhiya</actor>
-      <actor>Sudeep Sahir</actor>
-      <actor>Amardeep Garg</actor>
-      <actor>Mahi Soni</actor>
-      <actor>Manish Wadhwa</actor>
-      <actor>Gulki Joshi</actor>
-    </credits>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/942DA7057DD050BAEB86FBB8A8E8D8C704F66E3EW.jpg"/>
-    <episode-num system="xmltv_ns">.17.</episode-num>
-  </programme>
-  <programme start="20240625045900 +0000" stop="20240625053000 +0000" channel="ts254">
-    <title lang="en">Song Connection 2024</title>
-    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B95BDB8469E2ABA61F9F302A6D98FF72B3FEB94F4.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts254">
-    <title lang="en">Bhootu</title>
-    <desc lang="en">The ghost of a seven-year-old child becomes friends with a bird named Pihu and attempts to help every person she comes across.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C57EC6657E6E0AC9F11044A62D9B974B8D244F6K.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625093000 +0000" channel="ts254">
-    <title lang="en">100% Love</title>
-    <desc lang="en">Balu and Mahalakshmi fall for each other but go their separate ways due to ego clashes. Years later, when their grandmother falls ill, they are forced to confront each other.</desc>
-    <credits>
-      <actor>Naga Chaitanya</actor>
-      <actor>Tamanna Bhatia</actor>
-      <actor>Tara Alisha</actor>
-      <actor>Nandu</actor>
-      <actor>Naresh</actor>
-      <actor>K R Vijaya</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAA8F7BD7B9536BF86A6D780B02C0A05495D3BCD.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625120500 +0000" channel="ts254">
-    <title lang="en">Sundar Bou</title>
-    <desc lang="en">Sabitri, who is married to Nanda, is exploited daily by her mother-in-law. Seeing this, her uncle decides to help her overcome her problems.</desc>
-    <credits>
-      <actor>Ranjit Mallick</actor>
-      <actor>Tapas Paul</actor>
-      <actor>Debashree Roy</actor>
-      <actor>Lily Chakravorty</actor>
-      <actor>Dilip Ray</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/366E1EA4653ECBF62F4F3AE997AB5705C02807832.jpg"/>
-  </programme>
-  <programme start="20240625120500 +0000" stop="20240625151800 +0000" channel="ts254">
-    <title lang="en">Lakshyabhed</title>
-    <desc lang="en">Joy's uncle feeds him poison, which destroys his nervous system. Tired of his constant scheming, he and his brother Rupak decide to expose his uncle and his wife who supports him.</desc>
-    <credits>
-      <actor>Joy Mukherjee</actor>
-      <actor>Swastika Mukherjee</actor>
-      <actor>Rachana Banerjee</actor>
-      <actor>Tapas Paul</actor>
-      <actor>Sabyasachi Chakraborty</actor>
-      <actor>Locket Chatterjee</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CA7CFC9820AADFB28081F122D05CD781D45943AW.jpg"/>
-  </programme>
-  <programme start="20240625151800 +0000" stop="20240625173400 +0000" channel="ts254">
-    <title lang="en">Swayamsiddha</title>
-    <desc lang="en">Swayamsiddha is in for a rude shock when she gets to know that her husband has intellectual disabilities. When she learns that her brother-in-law is responsible for this, she decides to confront him.</desc>
-    <credits>
-      <actor>Mithu Mukherjee</actor>
-      <actor>Ranjit Mullick</actor>
-      <actor>Utpal Datt</actor>
-      <actor>Gita Dey</actor>
-      <actor>Chinmoy Roy</actor>
-      <actor>Maya Banerjee</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B50E3A763B2BF3CD95F59522082AF3B7352DF3856.jpg"/>
-  </programme>
-  <programme start="20240625173400 +0000" stop="20240625180400 +0000" channel="ts254">
-    <title lang="en">Tang Mat Karo</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular and hilarious scenes from prominent Bengali movies is played sequentially.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75143EAC00EAB42FD30799042221C7546212F4F7U.jpg"/>
-    <episode-num system="xmltv_ns">.18.</episode-num>
-  </programme>
-  <programme start="20240625180400 +0000" stop="20240625194900 +0000" channel="ts254">
-    <title lang="en">Har Mana Har</title>
-    <desc lang="en">Vikram, a single father, decides to remarry for the sake of his daughter and has to choose between Bulbuli, who is very close to his daughter, and Mira, who runs an NGO.</desc>
-    <credits>
-      <actor>Payel Sarkar</actor>
-      <actor>Soham Chakraborty</actor>
-      <actor>Ayoshi Talukdar</actor>
-      <actor>Sylvia Dey</actor>
-      <actor>Sudipta Chakraborty</actor>
-      <actor>Prantik Banerjee</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B750DB978D1CB775FB17E20E9B584335421A6E55.jpg"/>
-  </programme>
   <programme start="20240625194900 +0000" stop="20240625220000 +0000" channel="ts254">
     <title lang="en">Katha Dilam</title>
     <desc lang="en">A local thug destroys the life of the district collector and kills his best friend. The collector seeks revenge against the thug who ruined his happiness.</desc>
@@ -378,5 +192,186 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6132FFCCBE8AF1D438E0E4B6AD92ED3357ED2789F.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626223000 +0000" channel="ts254">
+    <title lang="en">Ashique Deewana</title>
+    <desc lang="en">Dilip, a troubled young man who leads a difficult life, finds solace in true love and goes out of his way to ensure that his lover is always protected.</desc>
+    <credits>
+      <actor>Shakti Baral</actor>
+      <actor>Barsha</actor>
+      <actor>Samresh</actor>
+      <actor>Choudhury Jayaprakash Das</actor>
+      <actor>Mihir Das</actor>
+      <actor>Minaketan Das</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E84B0CA096ADE22C01BCD44283C6D2AC9E01DC36.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626233000 +0000" channel="ts254">
+    <title lang="en">Pagli Didi</title>
+    <desc lang="en">Pagli Didi</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3EDDCCBF6D7455F22DBD3CA8A473B9FA2AC21973M.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627003000 +0000" channel="ts254">
+    <title lang="en">Patanjali Yog</title>
+    <desc lang="en">Yog Rishi Swami Ramdev: A yoga guru teaches people various positions that will help people lead a healthy and disease-free lifestyle.</desc>
+    <credits>
+      <actor>Baba Ramdev</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BB40534C216629762E8D7F874DD39426ACC03A05.jpg"/>
+    <episode-num system="xmltv_ns">.1318.</episode-num>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts254">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <credits>
+      <actor>Aditi Munsi</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
+    <episode-num system="xmltv_ns">.330.</episode-num>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts254">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <credits>
+      <actor>Aditi Munsi</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
+    <episode-num system="xmltv_ns">.331.</episode-num>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts254">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B95BDB8469E2ABA61F9F302A6D98FF72B3FEB94F4.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts254">
+    <title lang="en">Abhoya Dham</title>
+    <desc lang="en">Ishwar Katha: A religious leader delivers a discourse based on the lives of famous saints and encourages devotees to lead a spiritually-balanced life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D86FBECE2F0DBD0BE8C3142E063857951C9A53F2L.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts254">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <credits>
+      <actor>Aditi Munsi</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
+    <episode-num system="xmltv_ns">.201.</episode-num>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts254">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <credits>
+      <actor>Aditi Munsi</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A012D6CBDD18FEF2E1BCCF0525C98F2159424C2FA.jpg"/>
+    <episode-num system="xmltv_ns">.342.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627050000 +0000" channel="ts254">
+    <title lang="en">Shri Krishnaleela</title>
+    <desc lang="en">Lord Krishna, a once naughty little child, embarks on several adventures to fight and eradicate evil forces and become a protector of the world.</desc>
+    <credits>
+      <actor>Nirnay Samadhiya</actor>
+      <actor>Sudeep Sahir</actor>
+      <actor>Amardeep Garg</actor>
+      <actor>Mahi Soni</actor>
+      <actor>Manish Wadhwa</actor>
+      <actor>Gulki Joshi</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/942DA7057DD050BAEB86FBB8A8E8D8C704F66E3EW.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts254">
+    <title lang="en">Song Connection 2024</title>
+    <desc lang="en">A compilation of popular songs from acclaimed movies, along with insights into their production and the artists involved, is presented to enthrall the audience in 2024.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B95BDB8469E2ABA61F9F302A6D98FF72B3FEB94F4.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627063000 +0000" channel="ts254">
+    <title lang="en">Bhootu</title>
+    <desc lang="en">The ghost of a seven-year-old child becomes friends with a bird named Pihu and attempts to help every person she comes across.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C57EC6657E6E0AC9F11044A62D9B974B8D244F6K.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627090000 +0000" channel="ts254">
+    <title lang="en">Thai Curry</title>
+    <desc lang="en">Three best friends head to Thailand to have some fun. However, they soon find themselves in trouble after they get involved with the criminal mafia.</desc>
+    <credits>
+      <actor>Soham Chakraborty</actor>
+      <actor>Hiran Chatterjee</actor>
+      <actor>Rudranil Ghosh</actor>
+      <actor>Saswata Chatterjee</actor>
+      <actor>Pallavi Chatterjee</actor>
+      <actor>Apratim Chatterjee</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AA92FFCC2156975AC8EFB43447C883722E6A074E.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627113000 +0000" channel="ts254">
+    <title lang="en">Maya Mamata</title>
+    <desc lang="en">Mamata, the daughter of a rich industrialist, Avinash, is raised by Maya as her own child. However, her marriage with Anil instigates a series of tragic events in her life.</desc>
+    <credits>
+      <actor>Ranjit Mullick</actor>
+      <actor>Tapas Paul</actor>
+      <actor>Chumki Chowdhury</actor>
+      <actor>Anup Kumar</actor>
+      <actor>Rabi Ghosh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1512DD9938D60B8093B74A36A6080D979C9689CC4.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627143000 +0000" channel="ts254">
+    <title lang="en">Sangharsha</title>
+    <desc lang="en">A village is ruled by two powerful personalities. One of them is a politician and the other one is a doctor.</desc>
+    <credits>
+      <actor>Ranjit</actor>
+      <actor>Anup Kumar</actor>
+      <actor>Tapas Paul</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A9F632614E4B85B62B802D5F06D8895FD7ED2EC7.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627173000 +0000" channel="ts254">
+    <title lang="en">Tobu Bhalobasi</title>
+    <desc lang="en">While driving on a rainy day, Raj accidently kills a person. Following the incident, Raj visits the victim's family to inform about his sad demise, but ends up falling in love with his pregnant wife.</desc>
+    <credits>
+      <actor>Prosenjit</actor>
+      <actor>Ranjit Mallick</actor>
+      <actor>Swastika Mukherjee</actor>
+      <actor>Dipankar Dey</actor>
+      <actor>Lily Chakravorty</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/288A866D1A53386D678B81CEA4A6EAA0B64326E00.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts254">
+    <title lang="en">Tang Mat Karo</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and hilarious scenes from prominent Bengali movies is played sequentially.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75143EAC00EAB42FD30799042221C7546212F4F7U.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627200000 +0000" channel="ts254">
+    <title lang="en">Jatugriha</title>
+    <desc lang="en">Madhuri cannot bear a child and her husband Shatadal is fond of children. They decide to part ways but years later when they meet in a station they realize their fondness for each other hasn't died.</desc>
+    <credits>
+      <actor>Arundhati Debi</actor>
+      <actor>Uttam Kumar</actor>
+      <actor>Anil Chatterjee</actor>
+      <actor>Kajal Gupta</actor>
+      <actor>Bikash Ray</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA7D98A4B3F1CE4775F79C841BAB5F90A8C8477FY.jpg"/>
   </programme>
 </tv>

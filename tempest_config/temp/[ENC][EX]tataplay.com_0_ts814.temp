@@ -3,116 +3,6 @@
   <channel id="ts814">
     <display-name lang="en">Zee Biskope</display-name>
   </channel>
-  <programme start="20240624185600 +0000" stop="20240624205100 +0000" channel="ts814">
-    <title lang="en">Kamariya Kare Lapalap</title>
-    <desc lang="en">A comprehensive compilation of popular songs composed by renowned artists.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF84B3F71DC461847200A20B73D92164AB394D12J.jpg"/>
-  </programme>
-  <programme start="20240624205100 +0000" stop="20240624223000 +0000" channel="ts814">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="ts814">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625023000 +0000" channel="ts814">
-    <title lang="en">Sher Pe Sawaar Maiya Hamaar</title>
-    <desc lang="en">Sher Pe Sawaar Maiya Hamaar</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/20D913EDAA3F1A3274F6F1A637570E62A5A25A12R.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts814">
-    <title lang="en">Lahariya Loota Ae Raja</title>
-    <desc lang="en">Lahariya Loota Ae Raja</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D48839128A2A876FBB0A61C1668203CF59AA330U.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625061400 +0000" channel="ts814">
-    <title lang="en">Preet Ka Saaya</title>
-    <desc lang="en">A married woman realises that she is unable to conceive a child because of a curse.</desc>
-    <credits>
-      <actor>Mani Bhattacharya</actor>
-      <actor>Lado Madheshiya</actor>
-      <actor>Manisha Yadav</actor>
-      <actor>Vipin Singh</actor>
-      <actor>Nisha Tiwari</actor>
-      <actor>Sunil Dutt Pandey</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/08FFDDA129271E653B712B058C1FDC2A442329D6N.jpg"/>
-  </programme>
-  <programme start="20240625063200 +0000" stop="20240625093000 +0000" channel="ts814">
-    <title lang="en">Sajan Chale Sasural</title>
-    <desc lang="en">Saajan marries Rani who helped him becoming a singer but he wants her to leave her career.</desc>
-    <credits>
-      <actor>Khesari Lal Yadav</actor>
-      <actor>Smriti Sinha</actor>
-      <actor>Kiran Yadav</actor>
-      <actor>Tejbahadur Yadav</actor>
-      <actor>Santosh Srivastav</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6C9A5D4FB62311D6F1DDBC52BCA36DE418B37FBN.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts814">
-    <title lang="en">Suami Herbal</title>
-    <desc lang="en">Rup Nikhar: The host showcases the features of Ayurvedic medicines that can be purchased online.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43590A5CB1A332F813CF0B616CEB40F900A86055A.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts814">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">The host highlights the features of a variety of products for purchase.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CAD50C9385F9E03C211FAD6B9CBCB2E08D03D4AR.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625134500 +0000" channel="ts814">
-    <title lang="en">Challenge</title>
-    <desc lang="en">A man unwillingly gets entangled in a corrupt politician's deadly game for power.</desc>
-    <credits>
-      <actor>Pawan Singh</actor>
-      <actor>Madhu Sharma</actor>
-      <actor>Samir Aftab</actor>
-      <actor>Raj Premi</actor>
-      <actor>Shivika Diwan</actor>
-      <actor>Ehsaan Khan</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/244FAC33930A69A1007AF6BD047E0867C8D61D17U.jpg"/>
-  </programme>
-  <programme start="20240625134500 +0000" stop="20240625180600 +0000" channel="ts814">
-    <title lang="en">Raja Babu</title>
-    <desc lang="en">After Raja falls in love with Madhu, things turn when she discovers his true self.</desc>
-    <credits>
-      <actor>Govinda</actor>
-      <actor>Karisma Kapoor</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Kader Khan</actor>
-      <actor>Aruna Irani</actor>
-      <actor>Prem Chopra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E17AD5239FC165ED9B4F0E5E310A30D148CDAFEO.jpg"/>
-  </programme>
-  <programme start="20240625180600 +0000" stop="20240625190000 +0000" channel="ts814">
-    <title lang="en">Ganga Sama Gaili Saagar Mein</title>
-    <desc lang="en">A snake's rebirth as a human turns into a curse as he cannot marry the woman he loves.</desc>
-    <credits>
-      <actor>Manan Tiwari</actor>
-      <actor>Kalpana Shah</actor>
-      <actor>Nisha Singh</actor>
-      <actor>Ali Khan</actor>
-      <actor>Zafar Khan</actor>
-    </credits>
-    <category lang="en">Fantasy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B46E4F445D1245D43DCC55777BD45B0AEB71AE0N.jpg"/>
-  </programme>
   <programme start="20240625190000 +0000" stop="20240625195500 +0000" channel="ts814">
     <title lang="en">Kamariya Kare Lapalap</title>
     <desc lang="en">A comprehensive compilation of popular songs composed by renowned artists.</desc>
@@ -180,6 +70,60 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
   <programme start="20240626160200 +0000" stop="20240626191000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626191000 +0000" stop="20240626193000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626213000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627003000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627033000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts814">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627190000 +0000" channel="ts814">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

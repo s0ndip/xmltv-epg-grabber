@@ -3,306 +3,6 @@
   <channel id="718">
     <display-name lang="en">Kanak News</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="718">
-    <title lang="en">Desh Bidesh</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718011.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="718">
-    <title lang="en">Suprabhat Odisha</title>
-    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in and around Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718012.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="718">
-    <title lang="en">Divya Chetana</title>
-    <desc lang="en">The host interacts with a religious scholar who talks about important aspects of life, Hinduism and spirituality in a simple manner.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718013.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="718">
-    <title lang="en">Sakalara Taja Khabar</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718014.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="718">
-    <title lang="en">Rasiphala</title>
-    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718015.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="718">
-    <title lang="en">Khabar Ebe Ebe</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to socio-economic and political issues affecting the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718016.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718017.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="718">
-    <title lang="en">Bada Khabar</title>
-    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718018.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="718">
-    <title lang="en">Action News</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718019.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="718">
-    <title lang="en">Bada Khabar</title>
-    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718020.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="718">
-    <title lang="en">Bhuri Bhojan</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718021.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="718">
-    <title lang="en">Bartamanar Bada Khabar</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718022.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="718">
-    <title lang="en">Madhyana Khabar</title>
-    <desc lang="en">The host sheds light on the latest socio-political updates, recent events, developments and happenings making headlines around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718023.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="718">
-    <title lang="en">News Express</title>
-    <desc lang="en">The hosts present the latest news updates and major stories pertaining to politics, sports, social issues, business and finance from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718024.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="718">
-    <title lang="en">Odisha Dwiprahara</title>
-    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718025.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="718">
-    <title lang="en">Loka Nakali Katha Asali</title>
-    <desc lang="en">Through various sketches and hilarious conversations, characters present the latest issues from all over the world in a satirical manner.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718026.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="718">
-    <title lang="en">Odisha Dwiprahara</title>
-    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718027.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="718">
-    <title lang="en">News Express</title>
-    <desc lang="en">The hosts present the latest news updates and major stories pertaining to politics, sports, social issues, business and finance from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718028.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="718">
-    <title lang="en">Odisha Dwiprahara</title>
-    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718029.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625154500 +0530" channel="718">
-    <title lang="en">Afp</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718030.jpg"/>
-  </programme>
-  <programme start="20240625154500 +0530" stop="20240625160000 +0530" channel="718">
-    <title lang="en">Afp</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718031.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="718">
-    <title lang="en">Khabar Dunia</title>
-    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718032.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625164500 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718033.jpg"/>
-  </programme>
-  <programme start="20240625164500 +0530" stop="20240625170000 +0530" channel="718">
-    <title lang="en">Olta Palta</title>
-    <desc lang="en">The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718034.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="718">
-    <title lang="en">Reporter Live</title>
-    <desc lang="en">The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the site, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718035.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="718">
-    <title lang="en">Ama Odisha</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718036.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="718">
-    <title lang="en">30 Min 60 Khabar</title>
-    <desc lang="en">The host shares the compilation of 60 brief news updates and developments within 30 minutes based on the social, political, sports and economic issues from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718037.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="718">
-    <title lang="en">Damdar Ladhei</title>
-    <desc lang="en">The host collates and presents important updates and developments pertaining to the elections and shares information about the candidates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718038.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="718">
-    <title lang="en">Khabar Odisha</title>
-    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718039.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="718">
-    <title lang="en">Desh Bidesh</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718040.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="718">
-    <title lang="en">News Point @ 8</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718041.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718042.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="718">
-    <title lang="en">Saradin</title>
-    <desc lang="en">The host discusses the latest news and recent updates on socio-economic developments and political affairs around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718043.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="718">
-    <title lang="en">PCR</title>
-    <desc lang="en">A program that reports the crime related incidents in the society and also alerts the viewers to be vigilant against any threats from anti-social elements.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718044.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625221500 +0530" channel="718">
-    <title lang="en">Khabar Odisha</title>
-    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718045.jpg"/>
-  </programme>
-  <programme start="20240625221500 +0530" stop="20240625223000 +0530" channel="718">
-    <title lang="en">Khabar Odisha</title>
-    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718046.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="718">
-    <title lang="en">Desh Bidesh</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718047.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="718">
-    <title lang="en">Khabar Odisha</title>
-    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718048.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625718049.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="718">
-    <title lang="en">Rasiphala</title>
-    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="718">
-    <title lang="en">News Point @ 8 PM</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="718">
-    <title lang="en">Damdar Khabar</title>
-    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="718">
-    <title lang="en">Bazar Hal Chal</title>
-    <desc lang="en">Share market experts analyse and discuss the most recent developments in the market and offer their valuable opinions one could consider before investing.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="718">
-    <title lang="en">Desh Bidesh</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="718">
-    <title lang="en">News Point @ 8 PM</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="718">
-    <title lang="en">Damdar Khabar</title>
-    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718008.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="718">
-    <title lang="en">Mu Bi Dekhe Swapna</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718009.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="718">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718010.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="718">
     <title lang="en">Desh Bidesh</title>
     <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
@@ -530,5 +230,419 @@
     <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718048.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="718">
+    <title lang="en">Light Camera Action</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626718049.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="718">
+    <title lang="en">Rasiphala</title>
+    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="718">
+    <title lang="en">News Point @ 8 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="718">
+    <title lang="en">Damdar Khabar</title>
+    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="718">
+    <title lang="en">Olta Palta</title>
+    <desc lang="en">The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="718">
+    <title lang="en">News Point @ 8 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="718">
+    <title lang="en">Damdar Khabar</title>
+    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718008.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="718">
+    <title lang="en">Olta Palta</title>
+    <desc lang="en">The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718009.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718010.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718011.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="718">
+    <title lang="en">Suprabhat Odisha</title>
+    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in and around Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718012.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="718">
+    <title lang="en">Divya Chetana</title>
+    <desc lang="en">The host interacts with a religious scholar who talks about important aspects of life, Hinduism and spirituality in a simple manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718013.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="718">
+    <title lang="en">Sakalara Taja Khabar</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718014.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="718">
+    <title lang="en">Rasiphala</title>
+    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718015.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="718">
+    <title lang="en">Khabar Ebe Ebe</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to socio-economic and political issues affecting the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718016.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="718">
+    <title lang="en">Loka Nakali Katha Asali</title>
+    <desc lang="en">Through various sketches and hilarious conversations, characters present the latest issues from all over the world in a satirical manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718017.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="718">
+    <title lang="en">Bada Khabar</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718018.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="718">
+    <title lang="en">Olta Palta</title>
+    <desc lang="en">The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718019.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="718">
+    <title lang="en">Bada Khabar</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718020.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="718">
+    <title lang="en">PCR</title>
+    <desc lang="en">A program that reports the crime related incidents in the society and also alerts the viewers to be vigilant against any threats from anti-social elements.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718021.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="718">
+    <title lang="en">Bartamanar Bada Khabar</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718022.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="718">
+    <title lang="en">Madhyana Khabar</title>
+    <desc lang="en">The host sheds light on the latest socio-political updates, recent events, developments and happenings making headlines around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718023.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="718">
+    <title lang="en">News Express</title>
+    <desc lang="en">The hosts present the latest news updates and major stories pertaining to politics, sports, social issues, business and finance from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718024.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="718">
+    <title lang="en">Odisha Dwiprahara</title>
+    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718025.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="718">
+    <title lang="en">Olta Palta</title>
+    <desc lang="en">The host presents the latest updates, major developments and leading stories from the world of politics in a satirical manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718026.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="718">
+    <title lang="en">Odisha Dwiprahara</title>
+    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718027.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="718">
+    <title lang="en">News Express</title>
+    <desc lang="en">The hosts present the latest news updates and major stories pertaining to politics, sports, social issues, business and finance from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718028.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="718">
+    <title lang="en">Odisha Dwiprahara</title>
+    <desc lang="en">The reporter presents a detailed insight into the latest news updates and developments from different regions of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718029.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627154500 +0530" channel="718">
+    <title lang="en">Afp</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718030.jpg"/>
+  </programme>
+  <programme start="20240627154500 +0530" stop="20240627160000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718031.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="718">
+    <title lang="en">Khabar Dunia</title>
+    <desc lang="en">The host presents the latest news, updates and developments pertaining to the political, social, economic and sports fronts from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718032.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627164500 +0530" channel="718">
+    <title lang="en">Light Camera Action</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718033.jpg"/>
+  </programme>
+  <programme start="20240627164500 +0530" stop="20240627170000 +0530" channel="718">
+    <title lang="en">Light Camera Action</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718034.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="718">
+    <title lang="en">Reporter Live</title>
+    <desc lang="en">The host sheds light on some of the most recent incidents, along with the day's top stories and events, directly from the site, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718035.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="718">
+    <title lang="en">Ama Odisha</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718036.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="718">
+    <title lang="en">30 Min 60 Khabar</title>
+    <desc lang="en">The host shares the compilation of 60 brief news updates and developments within 30 minutes based on the social, political, sports and economic issues from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718037.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="718">
+    <title lang="en">Damdar Khabar</title>
+    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718038.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="718">
+    <title lang="en">Khabar Odisha</title>
+    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718039.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718040.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="718">
+    <title lang="en">News Point @ 8</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718041.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718042.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="718">
+    <title lang="en">Saradin</title>
+    <desc lang="en">The host discusses the latest news and recent updates on socio-economic developments and political affairs around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718043.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="718">
+    <title lang="en">PCR</title>
+    <desc lang="en">A program that reports the crime related incidents in the society and also alerts the viewers to be vigilant against any threats from anti-social elements.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718044.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627221500 +0530" channel="718">
+    <title lang="en">Khabar Odisha</title>
+    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718045.jpg"/>
+  </programme>
+  <programme start="20240627221500 +0530" stop="20240627223000 +0530" channel="718">
+    <title lang="en">Khabar Odisha</title>
+    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718046.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718047.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="718">
+    <title lang="en">Khabar Odisha</title>
+    <desc lang="en">Take a look at the most recent news updates from the state of Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718048.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627718049.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="718">
+    <title lang="en">Rasiphala</title>
+    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="718">
+    <title lang="en">News Point @ 8 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="718">
+    <title lang="en">Damdar Khabar</title>
+    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="718">
+    <title lang="en">PCR</title>
+    <desc lang="en">A program that reports the crime related incidents in the society and also alerts the viewers to be vigilant against any threats from anti-social elements.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="718">
+    <title lang="en">News Point @ 8 PM</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="718">
+    <title lang="en">Damdar Khabar</title>
+    <desc lang="en">The host talks about a certain issue that has been in the news, from anywhere in India, and presents an in-depth report on the aftermath of the event.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718008.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="718">
+    <title lang="en">Action News</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718009.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="718">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718010.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="718">
+    <title lang="en">Desh Bidesh</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718011.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="718">
+    <title lang="en">Suprabhat Odisha</title>
+    <desc lang="en">The host presents the latest political and socio-economic news, updates and developments taking place in and around Odisha.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718012.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="718">
+    <title lang="en">Divya Chetana</title>
+    <desc lang="en">The host interacts with a religious scholar who talks about important aspects of life, Hinduism and spirituality in a simple manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718013.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="718">
+    <title lang="en">Sakalara Taja Khabar</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718014.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628080000 +0530" channel="718">
+    <title lang="en">Rasiphala</title>
+    <desc lang="en">A renowned astrologer studies the movement and relative position of celestial objects and predicts the future for the twelve zodiac signs.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718015.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="718">
+    <title lang="en">Khabar Ebe Ebe</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to socio-economic and political issues affecting the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718016.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="718">
+    <title lang="en">Khabar Ebe Ebe</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to socio-economic and political issues affecting the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628718017.jpg"/>
   </programme>
 </tv>

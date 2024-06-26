@@ -3,264 +3,6 @@
   <channel id="ts1027">
     <display-name lang="en">Swatantra TV</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts1027">
-    <title lang="en">Dabidi Dibide</title>
-    <desc lang="en">Dabidi Dibide</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A11ACBE7AA83285F889F7ADA133D26B46304B46Z.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1027">
-    <title lang="en">Idandi Sangathi</title>
-    <desc lang="en">Idandi Sangathi</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C806ED721E34655437EFBAB48C745B1D5BAD9F904.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts1027">
-    <title lang="en">English Bulletin</title>
-    <desc lang="en">English Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts1027">
-    <title lang="en">Big Talk</title>
-    <desc lang="en">Big Talk</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts1027">
-    <title lang="en">Dabidi Dibide</title>
-    <desc lang="en">Dabidi Dibide</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A11ACBE7AA83285F889F7ADA133D26B46304B46Z.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1027">
-    <title lang="en">Cinemass</title>
-    <desc lang="en">Cinemass</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts1027">
-    <title lang="en">Big Talk</title>
-    <desc lang="en">Big Talk</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts1027">
-    <title lang="en">Big Talk</title>
-    <desc lang="en">Big Talk</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1027">
-    <title lang="en">English Bulletin</title>
-    <desc lang="en">English Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts1027">
-    <title lang="en">Jilla Diary</title>
-    <desc lang="en">Jilla Diary</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/424194EE9E6133D18AF5BD3B51BC20C59F2930655.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1027">
-    <title lang="en">MLA Jathakam</title>
-    <desc lang="en">MLA Jathakam</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6E0C61B6E3448F4C406FBC2CE8D44FFFBECDB1FT.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts1027">
-    <title lang="en">Idandi Sangathi</title>
-    <desc lang="en">Idandi Sangathi</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C806ED721E34655437EFBAB48C745B1D5BAD9F904.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1027">
-    <title lang="en">Swatantra Focus</title>
-    <desc lang="en">Swatantra Focus</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/125874D5BEE5B6A497F5641753D946DE93323070P.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts1027">
-    <title lang="en">Samanya Shastram</title>
-    <desc lang="en">Samanya Shastram</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64E841233C8B89F3ABFD64C294470AFEBBD04395S.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1027">
-    <title lang="en">Midday Debate</title>
-    <desc lang="en">Midday Debate</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2B9609616A57971C6D1708C4A179B8CF6274692E.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts1027">
-    <title lang="en">Midday Debate</title>
-    <desc lang="en">Midday Debate</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2B9609616A57971C6D1708C4A179B8CF6274692E.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts1027">
-    <title lang="en">Jilla Diary</title>
-    <desc lang="en">Jilla Diary</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/424194EE9E6133D18AF5BD3B51BC20C59F2930655.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts1027">
-    <title lang="en">MLA Jathakam</title>
-    <desc lang="en">MLA Jathakam</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6E0C61B6E3448F4C406FBC2CE8D44FFFBECDB1FT.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts1027">
-    <title lang="en">Big Talk</title>
-    <desc lang="en">Big Talk</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts1027">
-    <title lang="en">Big Talk</title>
-    <desc lang="en">Big Talk</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts1027">
-    <title lang="en">Telangana Dangal</title>
-    <desc lang="en">Telangana Dangal</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE63DE816A21EF75A4CFE1707BCAA8264ADD2736A.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1027">
-    <title lang="en">Swatantra Focus</title>
-    <desc lang="en">Swatantra Focus</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/125874D5BEE5B6A497F5641753D946DE93323070P.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts1027">
-    <title lang="en">English Bulletin</title>
-    <desc lang="en">English Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts1027">
-    <title lang="en">Bulletin</title>
-    <desc lang="en">Bulletin</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1027">
-    <title lang="en">Cinemass</title>
-    <desc lang="en">Cinemass</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts1027">
     <title lang="en">Bulletin</title>
     <desc lang="en">Bulletin</desc>
@@ -536,5 +278,287 @@
     <desc lang="en">Paate Mantram</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D3FEBE82FFCF8BB212173E8BF5449420C5336B9CA.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626190000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts1027">
+    <title lang="en">Parahushar</title>
+    <desc lang="en">Parahushar</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55851DEAAAF2395FE3B6A4DB2F3EFCBB6DA5608D9.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts1027">
+    <title lang="en">Idandi Sangathi</title>
+    <desc lang="en">Idandi Sangathi</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C806ED721E34655437EFBAB48C745B1D5BAD9F904.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626210000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0000" stop="20240626213000 +0000" channel="ts1027">
+    <title lang="en">English Bulletin</title>
+    <desc lang="en">English Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626223000 +0000" channel="ts1027">
+    <title lang="en">Big Talk</title>
+    <desc lang="en">Big Talk</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240626233000 +0000" channel="ts1027">
+    <title lang="en">Dabidi Dibide</title>
+    <desc lang="en">Dabidi Dibide</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A11ACBE7AA83285F889F7ADA133D26B46304B46Z.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts1027">
+    <title lang="en">Cinemass</title>
+    <desc lang="en">Cinemass</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts1027">
+    <title lang="en">Big Talk</title>
+    <desc lang="en">Big Talk</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts1027">
+    <title lang="en">Big Talk</title>
+    <desc lang="en">Big Talk</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts1027">
+    <title lang="en">English Bulletin</title>
+    <desc lang="en">English Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts1027">
+    <title lang="en">MLA Jathakam</title>
+    <desc lang="en">MLA Jathakam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6E0C61B6E3448F4C406FBC2CE8D44FFFBECDB1FT.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts1027">
+    <title lang="en">Dabidi Dibide</title>
+    <desc lang="en">Dabidi Dibide</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A11ACBE7AA83285F889F7ADA133D26B46304B46Z.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts1027">
+    <title lang="en">Parahushar</title>
+    <desc lang="en">Parahushar</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55851DEAAAF2395FE3B6A4DB2F3EFCBB6DA5608D9.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts1027">
+    <title lang="en">Swatantra Focus</title>
+    <desc lang="en">Swatantra Focus</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/125874D5BEE5B6A497F5641753D946DE93323070P.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts1027">
+    <title lang="en">TSO / Tribal Oil</title>
+    <desc lang="en">TSO / Tribal Oil</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438E80680AA9542C698041583826BBB01C920C17X.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts1027">
+    <title lang="en">TSO / Tribal Oil</title>
+    <desc lang="en">TSO / Tribal Oil</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/438E80680AA9542C698041583826BBB01C920C17X.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627090000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts1027">
+    <title lang="en">Cinemass</title>
+    <desc lang="en">Cinemass</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627103000 +0000" channel="ts1027">
+    <title lang="en">Cinemass</title>
+    <desc lang="en">Cinemass</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627110000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627113000 +0000" channel="ts1027">
+    <title lang="en">Sri Sowbhagya Marriage Bureau</title>
+    <desc lang="en">Sri Sowbhagya Marriage Bureau</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/268E2E89D5F86AB3F029E634A03E859A86E17A8D2.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts1027">
+    <title lang="en">Idandi Sangathi</title>
+    <desc lang="en">Idandi Sangathi</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C806ED721E34655437EFBAB48C745B1D5BAD9F904.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts1027">
+    <title lang="en">Jilla Diary</title>
+    <desc lang="en">Jilla Diary</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/424194EE9E6133D18AF5BD3B51BC20C59F2930655.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts1027">
+    <title lang="en">MLA Jathakam</title>
+    <desc lang="en">MLA Jathakam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6E0C61B6E3448F4C406FBC2CE8D44FFFBECDB1FT.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts1027">
+    <title lang="en">Big Talk</title>
+    <desc lang="en">Big Talk</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6513D70675E26065EDE27D27D6CCE7B5EB1578922.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts1027">
+    <title lang="en">Big Talk Continues</title>
+    <desc lang="en">Big Talk Continues</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/784FF1E9E6A0EDF2E19EE45D0DD5CF28385525E5C.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts1027">
+    <title lang="en">Parahushar</title>
+    <desc lang="en">Parahushar</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55851DEAAAF2395FE3B6A4DB2F3EFCBB6DA5608D9.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts1027">
+    <title lang="en">Swatantra Focus</title>
+    <desc lang="en">Swatantra Focus</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/125874D5BEE5B6A497F5641753D946DE93323070P.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts1027">
+    <title lang="en">English Bulletin</title>
+    <desc lang="en">English Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89363728156B7B4D34FE31A952D090C9EAF0E8F0Q.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts1027">
+    <title lang="en">Bulletin</title>
+    <desc lang="en">Bulletin</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6CA16620900E2D4C4614B9149AFD44210A6C8ACO.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts1027">
+    <title lang="en">Cinemass</title>
+    <desc lang="en">Cinemass</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2CBC671E9615C16D17D46FFCE8C498E8497A8FBS.jpg"/>
   </programme>
 </tv>

@@ -3,51 +3,6 @@
   <channel id="1248">
     <display-name lang="en">Bol Hadippa</display-name>
   </channel>
-  <programme start="20240625070000 +0530" stop="20240625090000 +0530" channel="1248">
-    <title lang="en">Tashan</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248001.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="1248">
-    <title lang="en">Hot Punjabi Beats</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248002.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625120000 +0530" channel="1248">
-    <title lang="en">Dil Diya Gallan</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248003.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625160000 +0530" channel="1248">
-    <title lang="en">Swag Punjabi</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248004.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625180000 +0530" channel="1248">
-    <title lang="en">Dil Diya Gallan</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248005.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625200000 +0530" channel="1248">
-    <title lang="en">Tashan</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248006.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="1248">
-    <title lang="en">Hot Punjabi Beats</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248007.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240626000000 +0530" channel="1248">
-    <title lang="en">Bhangra Beats</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251248008.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626070000 +0530" channel="1248">
-    <title lang="en">Punjabi Tadka</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261248000.jpg"/>
-  </programme>
   <programme start="20240626070000 +0530" stop="20240626090000 +0530" channel="1248">
     <title lang="en">Tashan</title>
     <category lang="en">Devotional</category>
@@ -82,5 +37,65 @@
     <title lang="en">Hot Punjabi Beats</title>
     <category lang="en">Devotional</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261248007.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="1248">
+    <title lang="en">Bhangra Beats</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261248008.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627070000 +0530" channel="1248">
+    <title lang="en">Punjabi Tadka</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248000.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627090000 +0530" channel="1248">
+    <title lang="en">Tashan</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248001.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="1248">
+    <title lang="en">Hot Punjabi Beats</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248002.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627120000 +0530" channel="1248">
+    <title lang="en">Dil Diya Gallan</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248003.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627160000 +0530" channel="1248">
+    <title lang="en">Swag Punjabi</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248004.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627180000 +0530" channel="1248">
+    <title lang="en">Dil Diya Gallan</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248005.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627200000 +0530" channel="1248">
+    <title lang="en">Tashan</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248006.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="1248">
+    <title lang="en">Hot Punjabi Beats</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248007.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="1248">
+    <title lang="en">Bhangra Beats</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271248008.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628070000 +0530" channel="1248">
+    <title lang="en">Punjabi Tadka</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281248000.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628090000 +0530" channel="1248">
+    <title lang="en">Tashan</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281248001.jpg"/>
   </programme>
 </tv>

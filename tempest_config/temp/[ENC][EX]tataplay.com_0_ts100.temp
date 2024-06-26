@@ -3,128 +3,6 @@
   <channel id="ts100">
     <display-name lang="en">Zee Action</display-name>
   </channel>
-  <programme start="20240624192400 +0000" stop="20240624225900 +0000" channel="ts100">
-    <title lang="en">Army</title>
-    <desc lang="en">Arjun, a military officer, is killed by Naagraj, a gangster, during an undercover mission. Devastated by this tragedy, Arjun's pregnant wife Geeta decides to get revenge against Naagraj.</desc>
-    <credits>
-      <actor>Sridevi</actor>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Danny Denzongpa</actor>
-      <actor>Sudesh Berry</actor>
-      <actor>Mohnish Behl</actor>
-      <actor>Ronit Roy</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D7604F2039FEC9097F23B711A4D97F5570991A75.jpg"/>
-  </programme>
-  <programme start="20240624225900 +0000" stop="20240625010300 +0000" channel="ts100">
-    <title lang="en">Jaanam</title>
-    <desc lang="en">Dhanraj, an unscrupulous builder, has an eye on the village populated by fishermen. However, complications arise when his daughter, Anjali, falls in love with Amar who stays in the same village.</desc>
-    <credits>
-      <actor>Rahul Roy</actor>
-      <actor>Pooja Bhatt</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Ashutosh Gowariker</actor>
-      <actor>Sulabha Arya</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/000F21485879EAB56D617B6AF7759D02FC2456C5D.jpg"/>
-  </programme>
-  <programme start="20240625010300 +0000" stop="20240625032200 +0000" channel="ts100">
-    <title lang="en">Vanguard</title>
-    <desc lang="en">Qin, an accountant living in the UK, is targeted by the leader of a terrorist organisation. His only hope for survival is Vanguard, an elite security company.</desc>
-    <credits>
-      <actor>Jackie Chan</actor>
-      <actor>Yang Yang</actor>
-      <actor>Ai Lun</actor>
-      <actor>Miya Muqi</actor>
-      <actor>Zhu Zhengting</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C5039E4E7A3905686F806B6B116E082C462656CY.jpg"/>
-  </programme>
-  <programme start="20240625032200 +0000" stop="20240625054500 +0000" channel="ts100">
-    <title lang="en">Aakasha Ganga 2</title>
-    <desc lang="en">When a woman accepts the challenge of exposing an ashram, which claims to help its followers communicate with the dead, she gets haunted by an evil spirit that once tormented her family.</desc>
-    <credits>
-      <actor>Mayoori</actor>
-      <actor>Veena P Nair</actor>
-      <actor>Ramya Krishna</actor>
-      <actor>Sreenath Bhasi</actor>
-      <actor>Vishnu Vinay</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59FE71C366A94E2252DB50212220DA95F38FFB87P.jpg"/>
-  </programme>
-  <programme start="20240625054600 +0000" stop="20240625081100 +0000" channel="ts100">
-    <title lang="en">Saugandh</title>
-    <desc lang="en">Ganga and her son, Shiva, try to avenge their family against an evil landlord, Sarang. Shiva befriends Sarang's daughter, Chand, who hates him at first but gradually falls in love with him.</desc>
-    <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Shantipriya</actor>
-      <actor>Raakhee Gulzar</actor>
-      <actor>Mukesh Khanna</actor>
-      <actor>Mayur</actor>
-      <actor>Amita Nangia</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/252E5E761FAB47F45F42EB8E90CEDDF50E177ACDG.jpg"/>
-  </programme>
-  <programme start="20240625081100 +0000" stop="20240625104500 +0000" channel="ts100">
-    <title lang="en">Chennai Vs China</title>
-    <desc lang="en">Bodhidharma, a martial arts expert, is worshipped in China after his death. Years later, Dong Lee comes to India to wage a biological war and Aravind, a descent of Bodhidharma, tries to stop him.</desc>
-    <credits>
-      <actor>Suriya</actor>
-      <actor>Shruti K Haasan</actor>
-      <actor>Johnny Tri Nguyen</actor>
-      <actor>Guinness Pakru</actor>
-      <actor>Dhanya Balakrishna</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F5E534269D8CB9BF6519BC9F10070948CE8B677K.jpg"/>
-  </programme>
-  <programme start="20240625104500 +0000" stop="20240625135900 +0000" channel="ts100">
-    <title lang="en">Dacait</title>
-    <desc lang="en">A young man is severely beaten up and left to die while his family is killed by Thakur's men. However, some dacoits rescue him and take him to their hideout.</desc>
-    <credits>
-      <actor>Sunny Deol</actor>
-      <actor>Meenakshi Sheshadri</actor>
-      <actor>Urmila Matondkar</actor>
-      <actor>Raakhee Gulzar</actor>
-      <actor>Suresh Oberoi</actor>
-      <actor>Raza Murad</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EC971441CBF6E54ADAB446C613C270E7870033CJ.jpg"/>
-  </programme>
-  <programme start="20240625135900 +0000" stop="20240625163200 +0000" channel="ts100">
-    <title lang="en">Krishna</title>
-    <desc lang="en">Krishna, an aspiring pilot, is imprisoned for seven years for a crime he did not commit. After serving his sentence, he goes on a secret mission to get his revenge with the help of a minister.</desc>
-    <credits>
-      <actor>Sunil Shetty</actor>
-      <actor>Karisma Kapoor</actor>
-      <actor>Om Puri</actor>
-      <actor>Shakti Kapoor</actor>
-      <actor>Mohan Joshi</actor>
-      <actor>Tinnu Anand</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D909FD27DE04E307C65A4176BF77E1D63254275R.jpg"/>
-  </programme>
-  <programme start="20240625163200 +0000" stop="20240625193300 +0000" channel="ts100">
-    <title lang="en">Gaddaar</title>
-    <desc lang="en">Best friends Sunny and Vijay see their relationship suffer when they both fall in love with the same girl. As a result, Sunny tries to use Vijay as a pawn in his devious schemes.</desc>
-    <credits>
-      <actor>Sunil Shetty</actor>
-      <actor>Sonali Bendre</actor>
-      <actor>Harish Kumar</actor>
-      <actor>Kiran Kumar</actor>
-      <actor>Mohan Joshi</actor>
-      <actor>Alok Nath</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0782671CB5B705338F4FA947A03FF8CC5436DEF8.jpg"/>
-  </programme>
   <programme start="20240625193300 +0000" stop="20240625230600 +0000" channel="ts100">
     <title lang="en">Jaanbaaz Dil</title>
     <desc lang="en">Chandu sells tickets for a living and believes that he is in love with a girl he has never met while Sandhya's father tells her that the moon will guide her to her love.</desc>
@@ -247,5 +125,125 @@
     </credits>
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37140FA469C27A4EBCA7BDD59D0CA68C03420196R.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626225700 +0000" channel="ts100">
+    <title lang="en">Meri Hukumat</title>
+    <desc lang="en">Simhachalam, an upright police commissioner, sets out on a mission to eliminate crime. Soon, Dora Swamy Raju, a factionist leader, tries to wreak havoc in Simhachalam's life.</desc>
+    <credits>
+      <actor>Srihari</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Meena</actor>
+      <actor>Sunil</actor>
+      <actor>Raja Ravindra</actor>
+      <actor>Kota Srinivasa Rao</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E07A5787F4E757CEF1D546E552349C1EDE2CCDEDI.jpg"/>
+  </programme>
+  <programme start="20240626225700 +0000" stop="20240627004700 +0000" channel="ts100">
+    <title lang="en">Dhokha</title>
+    <desc lang="en">Police Inspector Zaid is shocked when he learns that Sara, his late wife, is suspected to be a suicide bomber. However, he sets out to learn Sara's side of the story and gets justice for her.</desc>
+    <credits>
+      <actor>Muzammil Ibrahim</actor>
+      <actor>Tulip Joshi</actor>
+      <actor>Abhay Sacchar</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Aushima Sawhney</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00A86748A985D79E1C7868432C97568B37330776M.jpg"/>
+  </programme>
+  <programme start="20240627004700 +0000" stop="20240627032100 +0000" channel="ts100">
+    <title lang="en">Khel Power Ka</title>
+    <desc lang="en">Amudhavel, a simpleton, gets embroiled in the murder of Thamba, a local gangster. The police think that he is the culprit as he had a conflict with him in the past.</desc>
+    <credits>
+      <actor>Vishal</actor>
+      <actor>Catherine Tresa</actor>
+      <actor>Karunas</actor>
+      <actor>Imman Annachi</actor>
+      <actor>Mime Gopi</actor>
+      <actor>Madhusudan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9102C0F591FA68D2506274EEEC15E60F19D69393U.jpg"/>
+  </programme>
+  <programme start="20240627032100 +0000" stop="20240627054200 +0000" channel="ts100">
+    <title lang="en">Nagin Ka Inteqam</title>
+    <desc lang="en">A woman and her gang forcibly try to obtain the 'nagmani' from two cobras and end up killing one while the other escapes. The second cobra then uses a young girl to avenge the death of her partner.</desc>
+    <credits>
+      <actor>Mumaith Khan</actor>
+      <actor>Nalini</actor>
+      <actor>Suhasini</actor>
+      <actor>Vinod</actor>
+      <actor>Rajeev Kanakala</actor>
+      <actor>M S Narayana</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80918C0C566D1682ACD6EBECD3533407E82F8AEBN.jpg"/>
+  </programme>
+  <programme start="20240627054200 +0000" stop="20240627082900 +0000" channel="ts100">
+    <title lang="en">Jaal: The Trap</title>
+    <desc lang="en">Ajay is forced to kidnap Anita, the home minister's daughter, to free his girlfriend Neha from the clutches of terrorists. While doing so, he uncovers a shocking revelation.</desc>
+    <credits>
+      <actor>Sunny Deol</actor>
+      <actor>Tabu</actor>
+      <actor>Reema Sen</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF4792022683D7976D182A2158BB23069551478CX.jpg"/>
+  </programme>
+  <programme start="20240627082900 +0000" stop="20240627104500 +0000" channel="ts100">
+    <title lang="en">Inspector Bajrangi</title>
+    <desc lang="en">Bajrangi's high ambitions influence Arjun to find his passion. However, the course of time sees Arjun work to make himself an esteemed lawman whilst Bajrangi walks the path of an outlaw.</desc>
+    <credits>
+      <actor>Prawin Reddy</actor>
+      <actor>Bandi Saroj Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/266DAF62E7A3751F13E0E235505D510503F0A9DB0.jpg"/>
+  </programme>
+  <programme start="20240627104500 +0000" stop="20240627140000 +0000" channel="ts100">
+    <title lang="en">Phool Aur Kaante</title>
+    <desc lang="en">Ajay, the son of criminal leader Nageshwar, leads a peaceful family life. However, when the rivals kidnap Ajay's son, Nageshwar forces him to join the life of crime to rescue his child.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Madhoo Shah</actor>
+      <actor>Raza Murad</actor>
+      <actor>Satyen Kappu</actor>
+      <actor>Anjana Mumtaz</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CAB36DCE3CFF0BB1A240C409CD981E5B73A0BD71.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627165400 +0000" channel="ts100">
+    <title lang="en">Indra - The Tiger</title>
+    <desc lang="en">A man embarks on a quest to make peace between two families fighting over the water problem in their district. In a bid to solve this crisis, he agrees to marry a girl from the rival family.</desc>
+    <credits>
+      <actor>Chiranjeevi</actor>
+      <actor>Aarthi Agarwal</actor>
+      <actor>Sonali Bendre</actor>
+      <actor>Sivaji</actor>
+      <actor>Ilavarasi</actor>
+      <actor>Mukesh Rishi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/885511BDEC28B5B6C250BAAC28845AFC326608A2I.jpg"/>
+  </programme>
+  <programme start="20240627165400 +0000" stop="20240627203000 +0000" channel="ts100">
+    <title lang="en">Sher E Jigar</title>
+    <desc lang="en">Indira, an election commissioner, fights hard to thwart corrupt politicians and their dubious activities so that the state elections can be peacefully held in Karnataka.</desc>
+    <credits>
+      <actor>Malashri</actor>
+      <actor>Pradeep Rawat</actor>
+      <actor>Dev Gill</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Sharath Lohitashwa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/933DC8136C3CD3A954E9116549BEF1580DFB8BC2A.jpg"/>
   </programme>
 </tv>

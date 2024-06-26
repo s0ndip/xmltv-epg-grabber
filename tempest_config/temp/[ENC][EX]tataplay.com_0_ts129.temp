@@ -3,286 +3,6 @@
   <channel id="ts129">
     <display-name lang="en">Aakaash Aath</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts129">
-    <title lang="en">Adalat O Ekti Mei</title>
-    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15AD835EEC0C723E5EAE017341AA2538506865B1A.jpg"/>
-  </programme>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts129">
-    <title lang="en">Swayamsidha</title>
-    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
-    <credits>
-      <actor>Asmi Das</actor>
-      <actor>Biswabasu Biswas</actor>
-      <actor>Kaushik Das</actor>
-      <actor>Pinky Banerjee</actor>
-      <actor>Debnath Chattopadhyay</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/591B7D9CADD4C452BEC39AF420C17D602A757820D.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts129">
-    <title lang="en">Jaar Jetha Ghar</title>
-    <desc lang="en">Jaar Jetha Ghar</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5307E372EFF09FA2BCADE22DAA89E2120A50F2A5A.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts129">
-    <title lang="en">Jai Ma Bipottarini</title>
-    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AF030CD2ACEA66366BFCE2873DD88B322D15F8FH.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts129">
-    <title lang="en">Akashe Superstar</title>
-    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
-    <credits>
-      <actor>Siddharth Shankar Roy</actor>
-      <actor>Anindya</actor>
-      <actor>Devjyoti Mishra</actor>
-      <actor>Sutapa Bhattacharya</actor>
-    </credits>
-    <category lang="en">Music Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts129">
-    <title lang="en">Police Files</title>
-    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts129">
-    <title lang="en">Radhuni</title>
-    <desc lang="en">People from different walks of life prepare various delicacies and provide easy-to-cook, healthy and tasty recipes while sharing their life experiences.</desc>
-    <credits>
-      <actor>Rini</actor>
-      <actor>Nahid Osman</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5E77FBFFDA806B6F3642EDC3607B1A73238ADC65.jpg"/>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts129">
-    <title lang="en">Adalat O Ekti Mei</title>
-    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15AD835EEC0C723E5EAE017341AA2538506865B1A.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts129">
-    <title lang="en">Jaar Jetha Ghar</title>
-    <desc lang="en">Jaar Jetha Ghar</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5307E372EFF09FA2BCADE22DAA89E2120A50F2A5A.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts129">
-    <title lang="en">Swayamsidha</title>
-    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
-    <credits>
-      <actor>Asmi Das</actor>
-      <actor>Biswabasu Biswas</actor>
-      <actor>Kaushik Das</actor>
-      <actor>Pinky Banerjee</actor>
-      <actor>Debnath Chattopadhyay</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/591B7D9CADD4C452BEC39AF420C17D602A757820D.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts129">
-    <title lang="en">Jai Ma Santoshi</title>
-    <desc lang="en">Considered to be the manifestation of Goddess Durga, Santoshi Maa is the goddess of joy and is believed to be the daughter of Lord Ganesha.</desc>
-    <credits>
-      <actor>Sobhona Biswas</actor>
-      <actor>Jayprakash Pal</actor>
-      <actor>Gargi Acharya</actor>
-      <actor>Sourabh Dutta</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9B9B21A7FD230D47DCCBD3CF91CE2A5447D8968.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts129">
-    <title lang="en">Jai Ma Bipottarini</title>
-    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AF030CD2ACEA66366BFCE2873DD88B322D15F8FH.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625040000 +0000" channel="ts129">
-    <title lang="en">Good Morning Akash Live</title>
-    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD7832499C6F0DC41DE1DB5026F3F448F9DF6701J.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625050000 +0000" channel="ts129">
-    <title lang="en">Kurukshetra</title>
-    <desc lang="en">Soma informs her family about her intention to marry Kaushik. Rupa sets her charms on Subir. Will Subir visit Preeti as her condition has deteriorated?</desc>
-    <credits>
-      <actor>Aparajita Adhya</actor>
-      <actor>Chandrayee Ghosh</actor>
-      <actor>Devika Mitra</actor>
-      <actor>Romen Roy Choudhury</actor>
-      <actor>Sakuntala Barua</actor>
-      <actor>Sudip Mukherjee</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/961DE3202A0EEC9B7CC9B15313C21D32CABD7F38R.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts129">
-    <title lang="en">Jai Ma Bipottarini</title>
-    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AF030CD2ACEA66366BFCE2873DD88B322D15F8FH.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts129">
-    <title lang="en">Swayamsidha</title>
-    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
-    <credits>
-      <actor>Asmi Das</actor>
-      <actor>Biswabasu Biswas</actor>
-      <actor>Kaushik Das</actor>
-      <actor>Pinky Banerjee</actor>
-      <actor>Debnath Chattopadhyay</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/591B7D9CADD4C452BEC39AF420C17D602A757820D.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts129">
-    <title lang="en">Jaar Jetha Ghar</title>
-    <desc lang="en">Jaar Jetha Ghar</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5307E372EFF09FA2BCADE22DAA89E2120A50F2A5A.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts129">
-    <title lang="en">Adalat O Ekti Mei</title>
-    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15AD835EEC0C723E5EAE017341AA2538506865B1A.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625080000 +0000" channel="ts129">
-    <title lang="en">Police Files</title>
-    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts129">
-    <title lang="en">Radhuni</title>
-    <desc lang="en">People from different walks of life prepare various delicacies and provide easy-to-cook, healthy and tasty recipes while sharing their life experiences.</desc>
-    <credits>
-      <actor>Rini</actor>
-      <actor>Nahid Osman</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5E77FBFFDA806B6F3642EDC3607B1A73238ADC65.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts129">
-    <title lang="en">Akashe Superstar</title>
-    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
-    <credits>
-      <actor>Siddharth Shankar Roy</actor>
-      <actor>Anindya</actor>
-      <actor>Devjyoti Mishra</actor>
-      <actor>Sutapa Bhattacharya</actor>
-    </credits>
-    <category lang="en">Music Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625093500 +0000" channel="ts129">
-    <title lang="en">Aakash Barta Live</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
-  </programme>
-  <programme start="20240625093500 +0000" stop="20240625120000 +0000" channel="ts129">
-    <title lang="en">Movie - Amar Badhua</title>
-    <desc lang="en">Jilik and Rajeev, a couple in love, are determined to overcome all the challenges and family obstacles that come their way to be together.</desc>
-    <credits>
-      <actor>Abhishek Chatterjee</actor>
-      <actor>Debashree Roy</actor>
-      <actor>Subhendu Chatterjee</actor>
-      <actor>Sabitri Chatterjee</actor>
-      <actor>Chinmoy Roy</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5961B3E3627F45CCD332BCA6505D293C8E049D1R.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts129">
-    <title lang="en">Eka Noy Ekannoborti</title>
-    <desc lang="en">Raised in a nuclear household, a girl yearns for joint family life. However, when her dream comes true after marriage, some members reject her.</desc>
-    <credits>
-      <actor>Pritha Chanda</actor>
-      <actor>Arya Chandra</actor>
-      <actor>Dulal Lahiri</actor>
-      <actor>Shakuntala Barua</actor>
-      <actor>Dolon Roy</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2177D396407B24143CB09E767A3F168976297DC7H.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts129">
-    <title lang="en">Aakash Barta Live</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts129">
-    <title lang="en">Jai Ma Bipottarini</title>
-    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/399E4C4FDBC95CB78BD56117958B986202E9E773E.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts129">
-    <title lang="en">Swayamsidha</title>
-    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
-    <credits>
-      <actor>Asmi Das</actor>
-      <actor>Biswabasu Biswas</actor>
-      <actor>Kaushik Das</actor>
-      <actor>Pinky Banerjee</actor>
-      <actor>Debnath Chattopadhyay</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/580D077D3905B5DF8D679B5E615E93032AC85EBAV.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts129">
-    <title lang="en">Jaar Jetha Ghar</title>
-    <desc lang="en">Jaar Jetha Ghar</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83811DCAB3F3F43C6CF5FA08C087760A8F7045D9G.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts129">
-    <title lang="en">Adalat O Ekti Mei</title>
-    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F49FD9B3E9ED639BFE289D7597912050C427FCBD.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625160000 +0000" channel="ts129">
-    <title lang="en">Police Files</title>
-    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625170000 +0000" channel="ts129">
-    <title lang="en">Akashe Superstar</title>
-    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
-    <credits>
-      <actor>Siddharth Shankar Roy</actor>
-      <actor>Anindya</actor>
-      <actor>Devjyoti Mishra</actor>
-      <actor>Sutapa Bhattacharya</actor>
-    </credits>
-    <category lang="en">Music Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts129">
-    <title lang="en">Aakash Barta Live</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts129">
-    <title lang="en">Police Files</title>
-    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts129">
     <title lang="en">Adalat O Ekti Mei</title>
     <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
@@ -559,6 +279,287 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts129">
+    <title lang="en">Police Files</title>
+    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626190000 +0000" channel="ts129">
+    <title lang="en">Adalat O Ekti Mei</title>
+    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF0358BAE89B3E30219F91F150255E5FC9AF8341H.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts129">
+    <title lang="en">Swayamsidha</title>
+    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
+    <credits>
+      <actor>Asmi Das</actor>
+      <actor>Biswabasu Biswas</actor>
+      <actor>Kaushik Das</actor>
+      <actor>Pinky Banerjee</actor>
+      <actor>Debnath Chattopadhyay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/938949B163BA974D9B8BD3B82FD127C98FE65E489.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts129">
+    <title lang="en">Jaar Jetha Ghar</title>
+    <desc lang="en">Jaar Jetha Ghar</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5DA92FB51324E83DD46FC76D652AF74C70885B6D.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts129">
+    <title lang="en">Jai Ma Bipottarini</title>
+    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/463B84AD808058EE74C72248DD3ACCA10FC39045V.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626213000 +0000" channel="ts129">
+    <title lang="en">Akashe Superstar</title>
+    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
+    <credits>
+      <actor>Siddharth Shankar Roy</actor>
+      <actor>Anindya</actor>
+      <actor>Devjyoti Mishra</actor>
+      <actor>Sutapa Bhattacharya</actor>
+    </credits>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626223000 +0000" channel="ts129">
+    <title lang="en">Police Files</title>
+    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts129">
+    <title lang="en">Radhuni</title>
+    <desc lang="en">People from different walks of life prepare various delicacies and provide easy-to-cook, healthy and tasty recipes while sharing their life experiences.</desc>
+    <credits>
+      <actor>Rini</actor>
+      <actor>Nahid Osman</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5E77FBFFDA806B6F3642EDC3607B1A73238ADC65.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240626233000 +0000" channel="ts129">
+    <title lang="en">Adalat O Ekti Mei</title>
+    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF0358BAE89B3E30219F91F150255E5FC9AF8341H.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts129">
+    <title lang="en">Jaar Jetha Ghar</title>
+    <desc lang="en">Jaar Jetha Ghar</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5DA92FB51324E83DD46FC76D652AF74C70885B6D.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts129">
+    <title lang="en">Swayamsidha</title>
+    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
+    <credits>
+      <actor>Asmi Das</actor>
+      <actor>Biswabasu Biswas</actor>
+      <actor>Kaushik Das</actor>
+      <actor>Pinky Banerjee</actor>
+      <actor>Debnath Chattopadhyay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/938949B163BA974D9B8BD3B82FD127C98FE65E489.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts129">
+    <title lang="en">Jai Ma Santoshi</title>
+    <desc lang="en">Considered to be the manifestation of Goddess Durga, Santoshi Maa is the goddess of joy and is believed to be the daughter of Lord Ganesha.</desc>
+    <credits>
+      <actor>Sobhona Biswas</actor>
+      <actor>Jayprakash Pal</actor>
+      <actor>Gargi Acharya</actor>
+      <actor>Sourabh Dutta</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36FA120C1600F4F96938624BE1EAD6010A41160E1.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts129">
+    <title lang="en">Jai Ma Bipottarini</title>
+    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/463B84AD808058EE74C72248DD3ACCA10FC39045V.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627040000 +0000" channel="ts129">
+    <title lang="en">Good Morning Akash Live</title>
+    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD7832499C6F0DC41DE1DB5026F3F448F9DF6701J.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627050000 +0000" channel="ts129">
+    <title lang="en">Kurukshetra</title>
+    <desc lang="en">Soma informs her family about her intention to marry Kaushik. Rupa sets her charms on Subir. Will Subir visit Preeti as her condition has deteriorated?</desc>
+    <credits>
+      <actor>Aparajita Adhya</actor>
+      <actor>Chandrayee Ghosh</actor>
+      <actor>Devika Mitra</actor>
+      <actor>Romen Roy Choudhury</actor>
+      <actor>Sakuntala Barua</actor>
+      <actor>Sudip Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/190A593BFF5675F4CBE7E0D69582AC74CDF5B5D2T.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts129">
+    <title lang="en">Jai Ma Bipottarini</title>
+    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/463B84AD808058EE74C72248DD3ACCA10FC39045V.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts129">
+    <title lang="en">Swayamsidha</title>
+    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
+    <credits>
+      <actor>Asmi Das</actor>
+      <actor>Biswabasu Biswas</actor>
+      <actor>Kaushik Das</actor>
+      <actor>Pinky Banerjee</actor>
+      <actor>Debnath Chattopadhyay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/938949B163BA974D9B8BD3B82FD127C98FE65E489.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts129">
+    <title lang="en">Jaar Jetha Ghar</title>
+    <desc lang="en">Jaar Jetha Ghar</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5DA92FB51324E83DD46FC76D652AF74C70885B6D.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts129">
+    <title lang="en">Adalat O Ekti Mei</title>
+    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF0358BAE89B3E30219F91F150255E5FC9AF8341H.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627080000 +0000" channel="ts129">
+    <title lang="en">Police Files</title>
+    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts129">
+    <title lang="en">Radhuni</title>
+    <desc lang="en">People from different walks of life prepare various delicacies and provide easy-to-cook, healthy and tasty recipes while sharing their life experiences.</desc>
+    <credits>
+      <actor>Rini</actor>
+      <actor>Nahid Osman</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5E77FBFFDA806B6F3642EDC3607B1A73238ADC65.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627093000 +0000" channel="ts129">
+    <title lang="en">Akashe Superstar</title>
+    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
+    <credits>
+      <actor>Siddharth Shankar Roy</actor>
+      <actor>Anindya</actor>
+      <actor>Devjyoti Mishra</actor>
+      <actor>Sutapa Bhattacharya</actor>
+    </credits>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627093500 +0000" channel="ts129">
+    <title lang="en">Aakash Barta Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
+  </programme>
+  <programme start="20240627093500 +0000" stop="20240627120000 +0000" channel="ts129">
+    <title lang="en">Movie - Ruposi Dohai Tomar</title>
+    <desc lang="en">A man tries to get his sister's child killed to acquire the wealth of his ancestors and takes the help of his assistant. Five years later, his wife and sister get pregnant at the same time.</desc>
+    <credits>
+      <actor>Chiranjit</actor>
+      <actor>Lokesh</actor>
+      <actor>Satabdi Roy</actor>
+      <actor>Rupa Ganguly</actor>
+      <actor>Dipankar Dey</actor>
+      <actor>Sabyasachi Chakraborty</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA558555DE6C50ACADB3CF909EC4D2D8150BD5ED1.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts129">
+    <title lang="en">Eka Noy Ekannoborti</title>
+    <desc lang="en">Raised in a nuclear household, a girl yearns for joint family life. However, when her dream comes true after marriage, some members reject her.</desc>
+    <credits>
+      <actor>Pritha Chanda</actor>
+      <actor>Arya Chandra</actor>
+      <actor>Dulal Lahiri</actor>
+      <actor>Shakuntala Barua</actor>
+      <actor>Dolon Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C872C7EF5861FE089A011563456852F5CB7F1B25N.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts129">
+    <title lang="en">Aakash Barta Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts129">
+    <title lang="en">Jai Ma Bipottarini</title>
+    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a life of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7153150E802E6CFF238B77B4F5B1F3646FF6A396Z.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts129">
+    <title lang="en">Swayamsidha</title>
+    <desc lang="en">Expelled from her village for protesting injustice, Chandi grows up following her grandfather's ideals. She returns after her grandfather's death and word of her bravery spreads around.</desc>
+    <credits>
+      <actor>Asmi Das</actor>
+      <actor>Biswabasu Biswas</actor>
+      <actor>Kaushik Das</actor>
+      <actor>Pinky Banerjee</actor>
+      <actor>Debnath Chattopadhyay</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E7195035D468434D35B129113F7EF3CE2FD9AC66.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts129">
+    <title lang="en">Jaar Jetha Ghar</title>
+    <desc lang="en">Jaar Jetha Ghar</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C2289DB0A466B1B4D173AE221A8EB30BA22A4DA.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts129">
+    <title lang="en">Adalat O Ekti Mei</title>
+    <desc lang="en">A young woman who hails from a tribal community becomes a lawyer and faces several challenges in her life during her fight for justice.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF0358BAE89B3E30219F91F150255E5FC9AF8341H.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627160000 +0000" channel="ts129">
+    <title lang="en">Police Files</title>
+    <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635BD21EF91307317C464777BB37D21049F7DB87T.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627170000 +0000" channel="ts129">
+    <title lang="en">Akashe Superstar</title>
+    <desc lang="en">Talented singers showcase their skills by delivering enthralling performances in front of esteemed judges to win the prestigious title.</desc>
+    <credits>
+      <actor>Siddharth Shankar Roy</actor>
+      <actor>Anindya</actor>
+      <actor>Devjyoti Mishra</actor>
+      <actor>Sutapa Bhattacharya</actor>
+    </credits>
+    <category lang="en">Music Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90A0D375C27C73C7A0B3BAE42CB39270856634B6W.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts129">
+    <title lang="en">Aakash Barta Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D8C08CEFF824C3A7E24F7D79663BD7378CDC704.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627183000 +0000" channel="ts129">
     <title lang="en">Police Files</title>
     <desc lang="en">The host narrates several dramatised real-life crime cases revolving around harassment, kidnapping and murder while also presenting re-enactments.</desc>
     <category lang="en">Crime</category>

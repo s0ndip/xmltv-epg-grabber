@@ -3,93 +3,6 @@
   <channel id="1633">
     <display-name lang="en">Public Movies</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625073000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633002.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="1633">
-    <title lang="en">Pooja Phala Live</title>
-    <desc lang="en">In a live telecast, a Hindu religious leader provides astrology-based solutions and explains the rituals to reduce the intensity of one's 'dosha'.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633003.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625105900 +0530" channel="1633">
-    <title lang="en">Ramanna Shamanna</title>
-    <desc lang="en">Movie starring Ambareesh, V Ravichandran, Madhavi and directed by B Subba Rao.</desc>
-    <credits>
-      <director>B Subba Rao</director>
-      <actor>Ambareesh</actor>
-      <actor>V Ravichandran</actor>
-      <actor>Madhavi</actor>
-      <actor>Geetha</actor>
-      <actor>Devaraj</actor>
-      <actor>Leelavathi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633004.jpg"/>
-  </programme>
-  <programme start="20240625105900 +0530" stop="20240625114500 +0530" channel="1633">
-    <title lang="en">New Songs</title>
-    <desc lang="en">A special collection of popular and entertaining songs recorded by prolific artists and musicians for recent blockbuster movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633005.jpg"/>
-  </programme>
-  <programme start="20240625114500 +0530" stop="20240625120000 +0530" channel="1633">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633006.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625124500 +0530" channel="1633">
-    <title lang="en">New Songs</title>
-    <desc lang="en">A special collection of popular and entertaining songs recorded by prolific artists and musicians for recent blockbuster movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633007.jpg"/>
-  </programme>
-  <programme start="20240625124500 +0530" stop="20240625130000 +0530" channel="1633">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633008.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625150000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633009.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625180000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633010.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625210000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633011.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240626000000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251633012.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261633000.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626060000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261633001.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="1633">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
@@ -119,5 +32,77 @@
     <desc lang="en">Movie.</desc>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261633006.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261633007.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627030000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633000.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627060000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633001.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627090000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633002.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633003.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627150000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633004.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627180000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633005.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627210000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633006.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271633007.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281633000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281633001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281633002.jpg"/>
   </programme>
 </tv>

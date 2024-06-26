@@ -3,119 +3,6 @@
   <channel id="ts80">
     <display-name lang="en">SONY MAX HD</display-name>
   </channel>
-  <programme start="20240624195100 +0000" stop="20240624215600 +0000" channel="ts80">
-    <title lang="en">Sarbjit</title>
-    <desc lang="en">Sarbjit accidentally crosses the Indo-Pak border due to his drunken state and gets arrested by the Pakistan army. His sister, Dalbir, fights to get justice for her brother and prove his innocence.</desc>
-    <credits>
-      <actor>Aishwarya Rai Bachchan</actor>
-      <actor>Randeep Hooda</actor>
-      <actor>Richa Chadha</actor>
-      <actor>Darshan Kumar</actor>
-      <actor>Shiwani Saini</actor>
-      <actor>Ankita Shrivastav</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5A6102EF3C2E9C16F8CE15C9DE12C08AE96D41D9.jpg"/>
-  </programme>
-  <programme start="20240624215600 +0000" stop="20240624221500 +0000" channel="ts80">
-    <title lang="en">Extraaa Storiez</title>
-    <desc lang="en">The host presents various snippets of information and behind the scenes from the sets of 'K.G.F: Chapter 2', a 2022 Kannada film.</desc>
-    <category lang="en">Show Biz</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CDAEAE388A0EE8C82F35FC00D6F3949A54C9EBD6.jpg"/>
-  </programme>
-  <programme start="20240624221500 +0000" stop="20240625003000 +0000" channel="ts80">
-    <title lang="en">Extraaa Storiez</title>
-    <desc lang="en">The host presents various snippets of information and behind the scenes from the sets of 'K.G.F: Chapter 2', a 2022 Kannada film.</desc>
-    <category lang="en">Show Biz</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CDAEAE388A0EE8C82F35FC00D6F3949A54C9EBD6.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625033000 +0000" channel="ts80">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240625031600 +0000" stop="20240625051800 +0000" channel="ts80">
-    <title lang="en">Laddu Babu</title>
-    <desc lang="en">A young, handsome man becomes extremely obese after a mosquito, laden with an unusual virus, bites him. Soon, he sets out on a pursuit of a girl who will love and accept him for who he is.</desc>
-    <credits>
-      <actor>Allari Naresh</actor>
-      <actor>Bhumika Chawla</actor>
-      <actor>Poorna</actor>
-      <actor>Master Atulith</actor>
-      <actor>Kota Srinivas Rao</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13E92ADCB9F38CAE6F387492005BA39843A70E0A7.jpg"/>
-  </programme>
-  <programme start="20240625051800 +0000" stop="20240625075100 +0000" channel="ts80">
-    <title lang="en">M.C.K: Macharla Chunaav Kshetra</title>
-    <desc lang="en">A police officer is appointed as a district collector in Andhra Pradesh. Soon, he challenges a nefarious politician to end his corrupt activities.</desc>
-    <credits>
-      <actor>Nithiin</actor>
-      <actor>Krithi Shetty</actor>
-      <actor>Catherine Tresa</actor>
-      <actor>Samuthirakani</actor>
-      <actor>Rajendra Prasad</actor>
-      <actor>Vennela Kishore</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49E9CEB896F5088BCD1BC390ADA29958890CCB740.jpg"/>
-  </programme>
-  <programme start="20240625075100 +0000" stop="20240625101300 +0000" channel="ts80">
-    <title lang="en">Nela Ticket</title>
-    <desc lang="en">Nela Ticket</desc>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/344573C0936F7E19FA03CC7DBFD1E121E971A3DFC.jpg"/>
-  </programme>
-  <programme start="20240625101300 +0000" stop="20240625120900 +0000" channel="ts80">
-    <title lang="en">Aadya</title>
-    <desc lang="en">Living alone in a big city, an old lady has laid her cherished dreams and interests to rest. However, the arrival of her granddaughter for a few days reignites her will to pursue her lost passions.</desc>
-    <category lang="en">Short Film</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6540D6825F0AE2E4854DC867F4694B4E41A0F62U.jpg"/>
-  </programme>
-  <programme start="20240625120900 +0000" stop="20240625142500 +0000" channel="ts80">
-    <title lang="en">Not Out</title>
-    <desc lang="en">A farmer's daughter dreams of becoming an international cricketer and winning the Cricket World Cup. She faces various challenges as she pursues her dream with the support of her father.</desc>
-    <credits>
-      <actor>Sathyaraj</actor>
-      <actor>Aishwarya Rajesh</actor>
-      <actor>Sivakarthikeyan</actor>
-      <actor>Darshan</actor>
-      <actor>Rama</actor>
-      <actor>Ilavarasu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E17A0E1CB94E471B639419410BD533EED1A33989.jpg"/>
-  </programme>
-  <programme start="20240625142500 +0000" stop="20240625165400 +0000" channel="ts80">
-    <title lang="en">Main Hoon Lucky - The Racer</title>
-    <desc lang="en">Two brothers, who are poles apart in nature, become enemies of a gangster who aspires to become a politician. The latter succeeds in his plans, but the brothers decide to end his reign at all costs.</desc>
-    <credits>
-      <actor>Allu Arjun</actor>
-      <actor>Shruti Haasan</actor>
-      <actor>Shaam</actor>
-      <actor>Bramhanandam</actor>
-      <actor>Ravi Kishan</actor>
-      <actor>Prakash Raj</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/818F2C84BF285C9C912DA76EE619BD4CA3DF5F7AO.jpg"/>
-  </programme>
-  <programme start="20240625165400 +0000" stop="20240625190700 +0000" channel="ts80">
-    <title lang="en">Ek Tsunami Jwalamukhi</title>
-    <desc lang="en">A CBI officer gains consciousness after being in coma for eight months and finds everyone referring to him as Godse. He discovers that it is a trap set up by a CM who may have murdered his forerunner.</desc>
-    <credits>
-      <actor>Nandamuri Balakrishna</actor>
-      <actor>Trisha</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Kota Srinivasa Rao</actor>
-      <actor>Chandra Mohan</actor>
-      <actor>Pradeep Rawat</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B95472393C2E51B5C661E9DE1999A34DF8A43490L.jpg"/>
-  </programme>
   <programme start="20240625190700 +0000" stop="20240625213000 +0000" channel="ts80">
     <title lang="en">Chandni Bar</title>
     <desc lang="en">Mumtaz is forced to move to Mumbai when her parents are killed in a communal riot. Soon, she takes up the job of a dancer in a bar and marries a criminal to safeguard her future.</desc>
@@ -200,6 +87,48 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
   <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627003000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627033000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts80">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627213000 +0000" channel="ts80">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

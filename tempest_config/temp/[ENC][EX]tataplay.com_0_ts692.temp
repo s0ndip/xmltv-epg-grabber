@@ -3,170 +3,6 @@
   <channel id="ts692">
     <display-name lang="en">Colors Gujarati Cinema</display-name>
   </channel>
-  <programme start="20240624203000 +0000" stop="20240624233000 +0000" channel="ts692">
-    <title lang="en">Moksha</title>
-    <desc lang="en">After marrying, a young man plays various familial roles with new responsibilities and the end of all these phases of life is death which symbolises salvation.</desc>
-    <credits>
-      <actor>Jay Mehta</actor>
-      <actor>Paritosh Goswami</actor>
-      <actor>Bhavini Dhani</actor>
-      <actor>Prathamesh Mehta</actor>
-      <actor>Sharmila Raj</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C1E7722499886A90D0BCB32A49D1930D4AE79F5H.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625020000 +0000" channel="ts692">
-    <title lang="en">Naseebdaar</title>
-    <desc lang="en">The family of a brave and honest police officer, consisting of his wife, Rama, and two sons, Shyam and Chintu, is torn apart due to a dreaded dacoit, Ranjeet Singh.</desc>
-    <credits>
-      <actor>Asrani</actor>
-      <actor>Rita Bhaduri</actor>
-      <actor>Ragini</actor>
-      <actor>Padama Rani</actor>
-      <actor>Arvind Rathod</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0622A4BEC42E6EEEEEA97575C7F4AA6087E411A12.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625050000 +0000" channel="ts692">
-    <title lang="en">Kalyug Ni Sita</title>
-    <desc lang="en">Inspector Rajesh and the love of his life, Sita, get married to each other. However, their lives are turned upside down when Ravi tries to falsely incriminate Sita of committing an affair.</desc>
-    <credits>
-      <actor>Arvind Trivedi</actor>
-      <actor>Moolraj Rajda</actor>
-      <actor>Devyani Thakkar</actor>
-      <actor>Mukesh Rawal</actor>
-      <actor>Neha Sharma</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2F19D27E97A03389662B82E71DF786FBC8F32354.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts692">
-    <title lang="en">Deshi Beats</title>
-    <desc lang="en">A comprehensive compilation of lively and entertaining songs performed by talented artists to begin the day on a bright note is played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9CEA72917FECDBA7B850E49B7D2C3099D13189A.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts692">
-    <title lang="en">Bhadar Tara Vehata Paani</title>
-    <desc lang="en">Ratan's father promises her hand in marriage to another man. However, she is affectionate towards Ram and thinks of him as her husband.</desc>
-    <credits>
-      <actor>Upendra Trivedi</actor>
-      <actor>Nalin Dave</actor>
-      <actor>Ramesh Mehta</actor>
-      <actor>Shrikant Soni</actor>
-      <actor>Arvind Rathod</actor>
-      <actor>Snehlata</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FB8863F53256E7EBBFC1ED24D3DAB41E4E6998EC.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625113000 +0000" channel="ts692">
-    <title lang="en">Maa Umiya Tari Maher</title>
-    <desc lang="en">Niraj and Raju are doting brothers who revere their brother Suraj and his wife, Sushila. However, things change when two new women enter their lives.</desc>
-    <credits>
-      <actor>Amrut Thakur</actor>
-      <actor>Dipak Kumar</actor>
-      <actor>Khushbu Patel</actor>
-      <actor>Neeta Dhruv</actor>
-      <actor>Suraj Patel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C602246B644E29B16E08BD7C5F67A8D49C38BCDD.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts692">
-    <title lang="en">Deshi Beats</title>
-    <desc lang="en">A comprehensive compilation of lively and entertaining songs performed by talented artists to begin the day on a bright note is played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9CEA72917FECDBA7B850E49B7D2C3099D13189A.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts692">
-    <title lang="en">Suri Lavvse Sapna Ni Savar</title>
-    <desc lang="en">Suri's relationship with his father and elder brother turns sour after her mother's death. She further struggles when her father disapproves her right to education.</desc>
-    <credits>
-      <actor>Mahi Joshi</actor>
-      <actor>Janak Thakker</actor>
-      <actor>Purvi Bhatt</actor>
-      <actor>Jayaka Yagnik</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B762F39B780A96D6552CA53AD8EA68E4F987B800.jpg"/>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts692">
-    <title lang="en">Suri Lavvse Sapna Ni Savar</title>
-    <desc lang="en">Suri's relationship with his father and elder brother turns sour after her mother's death. She further struggles when her father disapproves her right to education.</desc>
-    <credits>
-      <actor>Mahi Joshi</actor>
-      <actor>Janak Thakker</actor>
-      <actor>Purvi Bhatt</actor>
-      <actor>Jayaka Yagnik</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B762F39B780A96D6552CA53AD8EA68E4F987B800.jpg"/>
-    <episode-num system="xmltv_ns">.415.</episode-num>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts692">
-    <title lang="en">Laxmi Sadaiv Mangalam</title>
-    <desc lang="en">Laxmi, a young woman, is forced into marrying Shodhan. However, her life gets complicated when she finds herself involved in a love triangle.</desc>
-    <credits>
-      <actor>Vishal Solanki</actor>
-      <actor>Poonam Parekh</actor>
-      <actor>Deepak Gheewala</actor>
-      <actor>Kalyani Thakkar</actor>
-      <actor>Sonia Shah</actor>
-      <actor>Sangeeta Joshi</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8884A62D19438D0215CED541CF7160722BC7D70F3.jpg"/>
-    <episode-num system="xmltv_ns">.524.</episode-num>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts692">
-    <title lang="en">Laxmi Sadaiv Mangalam</title>
-    <desc lang="en">Laxmi, a young woman, is forced into marrying Shodhan. However, her life gets complicated when she finds herself involved in a love triangle.</desc>
-    <credits>
-      <actor>Vishal Solanki</actor>
-      <actor>Poonam Parekh</actor>
-      <actor>Deepak Gheewala</actor>
-      <actor>Kalyani Thakkar</actor>
-      <actor>Sonia Shah</actor>
-      <actor>Sangeeta Joshi</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8884A62D19438D0215CED541CF7160722BC7D70F3.jpg"/>
-    <episode-num system="xmltv_ns">.525.</episode-num>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts692">
-    <title lang="en">Sur Sandhya</title>
-    <desc lang="en">Various talented classical singers and musicians perform melodious Gujarati and Sugam songs on the stage to enthral the audience.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2656CAD0C82299FF35CF6A0105F5431E4364BE32A.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625173000 +0000" channel="ts692">
-    <title lang="en">Char Dishayen Maa Chaherma</title>
-    <desc lang="en">Char Dishayen Maa Chaherma</desc>
-    <credits>
-      <actor>Pranjal Bhatt</actor>
-      <actor>Arvind Joshi</actor>
-      <actor>Hitu Kanodia</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32D153A721C078AA953C80FA0CAA751512957B130.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625203000 +0000" channel="ts692">
-    <title lang="en">Sorath No Savaj</title>
-    <desc lang="en">Queen Fulkunwar desires to make Amarsingh her own, but he declines her lustful offers since he loves Sonal. The vengeful queen puts him in prison while Sonal is hunted by a rapist.</desc>
-    <credits>
-      <actor>Jayshree T.</actor>
-      <actor>Arvind Trivedi</actor>
-      <actor>Sarla Yevlekar</actor>
-      <actor>Firoz Irani</actor>
-      <actor>Naresh Kanodia</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/541C2EE554AD8CF906CEE2F260D6905A55FE39CAZ.jpg"/>
-  </programme>
   <programme start="20240625203000 +0000" stop="20240625233000 +0000" channel="ts692">
     <title lang="en">Band Baaja Babuchak</title>
     <desc lang="en">A group of four friends dream about earning a huge amount of money in a short time and decide to woo Simran, the daughter of a multi-millionaire NRI.</desc>
@@ -332,5 +168,161 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEA5D29B535A78F1CBD3D2A8A73C229EF9E0DC192.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626233000 +0000" channel="ts692">
+    <title lang="en">Dikri Sidhavo Sasariye</title>
+    <desc lang="en">Dikri Sidhavo Sasariye</desc>
+    <credits>
+      <actor>Rajshri</actor>
+      <actor>Kamal</actor>
+      <actor>Arvind Rathod</actor>
+      <actor>Jayesh Mukati</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6707C3C2171120F4BC727ABD1A3C239C10A5C8BE.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627020000 +0000" channel="ts692">
+    <title lang="en">Aai Khodal Na Ghere Ghere Thapa</title>
+    <desc lang="en">Ratan is forced to prove his innocence when his wife Kanha gets killed and her family falsely incriminates him as the perpetrator.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14D72CF01712AE7EC379FA61978201CC8A24DBEE0.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627050000 +0000" channel="ts692">
+    <title lang="en">Prithviraj Sanyukta</title>
+    <desc lang="en">King Prithviraj Chauhan kidnaps his rival's daughter, Samyukta, on the day of her 'swayamvara' with her consent. Later, the rivalry between Prithviraj and his wife's father escalates, causing trouble.</desc>
+    <credits>
+      <actor>Snehlata</actor>
+      <actor>Arvind Trivedi</actor>
+      <actor>Ranjit Raj</actor>
+      <actor>Firoz Irani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D631128BA2262CF3DDC70C5500EC95B8C8F6EFBG.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts692">
+    <title lang="en">Deshi Beats</title>
+    <desc lang="en">A comprehensive compilation of lively and entertaining songs performed by talented artists to begin the day on a bright note is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9CEA72917FECDBA7B850E49B7D2C3099D13189A.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627083000 +0000" channel="ts692">
+    <title lang="en">Sabar Tara Vehta Pani</title>
+    <desc lang="en">Suraj grows up as Sangram's slave after the latter kills his father. But problems arise when Sangram's daughter, Tejal, falls in love with Suraj.</desc>
+    <credits>
+      <actor>Moonmoon Sen</actor>
+      <actor>Arvind Rathore</actor>
+      <actor>Shrikant Soni</actor>
+      <actor>Sanjay</actor>
+      <actor>Nirav Mehta</actor>
+      <actor>Narayan Rajgor</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63658974D4FD42C1B427F339218FCEF3D4C84FDBH.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627113000 +0000" channel="ts692">
+    <title lang="en">Manigar Maniyaro</title>
+    <desc lang="en">When a punishment by Thakur Ajeetsingh causes Bheemsingh and his wife Narmada's baby to die, the servant swaps his deceased infant's body with Ajeetsingh's newly born child.</desc>
+    <credits>
+      <actor>Ranjit Raj</actor>
+      <actor>Shripada</actor>
+      <actor>Padma Rani</actor>
+      <actor>Mahesh Desai</actor>
+      <actor>Nalin Dave</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C34FA36CF4787D49F89C2E73B182E92E0C73590EX.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts692">
+    <title lang="en">Deshi Beats</title>
+    <desc lang="en">A comprehensive compilation of lively and entertaining songs performed by talented artists to begin the day on a bright note is played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9CEA72917FECDBA7B850E49B7D2C3099D13189A.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts692">
+    <title lang="en">Suri Lavvse Sapna Ni Savar</title>
+    <desc lang="en">Suri's relationship with his father and elder brother turns sour after her mother's death. She further struggles when her father disapproves her right to education.</desc>
+    <credits>
+      <actor>Mahi Joshi</actor>
+      <actor>Janak Thakker</actor>
+      <actor>Purvi Bhatt</actor>
+      <actor>Jayaka Yagnik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B762F39B780A96D6552CA53AD8EA68E4F987B800.jpg"/>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts692">
+    <title lang="en">Suri Lavvse Sapna Ni Savar</title>
+    <desc lang="en">Suri's relationship with his father and elder brother turns sour after her mother's death. She further struggles when her father disapproves her right to education.</desc>
+    <credits>
+      <actor>Mahi Joshi</actor>
+      <actor>Janak Thakker</actor>
+      <actor>Purvi Bhatt</actor>
+      <actor>Jayaka Yagnik</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B762F39B780A96D6552CA53AD8EA68E4F987B800.jpg"/>
+    <episode-num system="xmltv_ns">.419.</episode-num>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts692">
+    <title lang="en">Laxmi Sadaiv Mangalam</title>
+    <desc lang="en">Laxmi, a young woman, is forced into marrying Shodhan. However, her life gets complicated when she finds herself involved in a love triangle.</desc>
+    <credits>
+      <actor>Vishal Solanki</actor>
+      <actor>Poonam Parekh</actor>
+      <actor>Deepak Gheewala</actor>
+      <actor>Kalyani Thakkar</actor>
+      <actor>Sonia Shah</actor>
+      <actor>Sangeeta Joshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8884A62D19438D0215CED541CF7160722BC7D70F3.jpg"/>
+    <episode-num system="xmltv_ns">.528.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts692">
+    <title lang="en">Laxmi Sadaiv Mangalam</title>
+    <desc lang="en">Laxmi, a young woman, is forced into marrying Shodhan. However, her life gets complicated when she finds herself involved in a love triangle.</desc>
+    <credits>
+      <actor>Vishal Solanki</actor>
+      <actor>Poonam Parekh</actor>
+      <actor>Deepak Gheewala</actor>
+      <actor>Kalyani Thakkar</actor>
+      <actor>Sonia Shah</actor>
+      <actor>Sangeeta Joshi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8884A62D19438D0215CED541CF7160722BC7D70F3.jpg"/>
+    <episode-num system="xmltv_ns">.529.</episode-num>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts692">
+    <title lang="en">Sur Sandhya</title>
+    <desc lang="en">Various talented classical singers and musicians perform melodious Gujarati and Sugam songs on the stage to enthral the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2656CAD0C82299FF35CF6A0105F5431E4364BE32A.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627173000 +0000" channel="ts692">
+    <title lang="en">Sheni Vijanand</title>
+    <desc lang="en">A man helps his friend during a crisis. Their children's friendship blossoms into a romantic relationship when they grow up, which complicates matters for the two friends.</desc>
+    <credits>
+      <actor>Snehlata</actor>
+      <actor>Arvind Rathod</actor>
+      <actor>Roma Madek</actor>
+      <actor>Maniraj Barot</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5E37AF6A978109E3BCAC59A0D668230575F3FD9O.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627203000 +0000" channel="ts692">
+    <title lang="en">Maa Meladi</title>
+    <desc lang="en">Chandrasen's mother commands him to honour his father's promise when he expresses his desire to marry Rupamati. However, Chandrasen's failure could cause his brother Uday to take over the throne.</desc>
+    <credits>
+      <actor>Anjana</actor>
+      <actor>Ranjeet Raj</actor>
+      <actor>Devyani Thakar</actor>
+      <actor>Mahendra Zaveri</actor>
+      <actor>Harish Hingoo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB8BE09F1DD7346C3D4BD7B548B68DF896D36072T.jpg"/>
   </programme>
 </tv>

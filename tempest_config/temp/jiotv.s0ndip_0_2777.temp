@@ -3,150 +3,6 @@
   <channel id="2777">
     <display-name lang="en">Asian News</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777006.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777009.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777010.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777011.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777012.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777013.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777014.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777015.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777016.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777017.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777018.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777019.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777020.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777021.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777022.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252777023.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777003.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="2777">
-    <title lang="en">Asian News</title>
-    <desc lang="en">Asian News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777005.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="2777">
     <title lang="en">Asian News</title>
     <desc lang="en">Asian News</desc>
@@ -248,5 +104,209 @@
     <desc lang="en">Asian News</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777022.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262777023.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777003.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777004.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777005.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777006.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777007.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777008.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777009.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777010.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777011.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777012.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777013.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777014.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627160000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777015.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627170000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777016.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777017.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777018.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777019.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777020.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777021.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777022.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272777023.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777003.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777005.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777006.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777007.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="2777">
+    <title lang="en">Asian News</title>
+    <desc lang="en">Asian News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282777008.jpg"/>
   </programme>
 </tv>

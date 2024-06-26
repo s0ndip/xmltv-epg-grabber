@@ -3,228 +3,6 @@
   <channel id="ts1209">
     <display-name lang="en">Ekamra snews</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts1209">
-    <title lang="en">Sangeet Samrat</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28CA590B29A3783AD5273F493354BBBC17114F5FD.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts1209">
-    <title lang="en">Tere Bina</title>
-    <desc lang="en">A comprehensive compilation of popular Odia songs composed by well-known artists is played back to back for the music aficionados.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA606CFE89314E77648B13A4DE0D349979B6AA7BP.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts1209">
-    <title lang="en">Yeh Vadaa Raha</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36B48AE6F56F0026A2590C6E83075037BF5920B5K.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts1209">
-    <title lang="en">Ahe Jagannath</title>
-    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C2655434B38658308D39FD2DAAF28DCF355EEA2.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts1209">
-    <title lang="en">Chitrahaar</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
-    <credits>
-      <actor>Tarana</actor>
-    </credits>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2799CEB4175DFF1E75102C647FB48B892A8834D53.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts1209">
-    <title lang="en">Chitrageet</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular movie songs composed by talented artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/788227DCDDB0113CE345A5E3E391216D355274F8W.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts1209">
-    <title lang="en">Sangeet Samrat</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28CA590B29A3783AD5273F493354BBBC17114F5FD.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts1209">
-    <title lang="en">Tere Bina</title>
-    <desc lang="en">A comprehensive compilation of popular Odia songs composed by well-known artists is played back to back for the music aficionados.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA606CFE89314E77648B13A4DE0D349979B6AA7BP.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts1209">
-    <title lang="en">Yeh Vadaa Raha</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36B48AE6F56F0026A2590C6E83075037BF5920B5K.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts1209">
-    <title lang="en">Ahe Jagannath</title>
-    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C2655434B38658308D39FD2DAAF28DCF355EEA2.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts1209">
-    <title lang="en">Chitrahaar</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
-    <credits>
-      <actor>Tarana</actor>
-    </credits>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2799CEB4175DFF1E75102C647FB48B892A8834D53.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts1209">
-    <title lang="en">Chitrageet</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular movie songs composed by talented artists is played back-to-back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/788227DCDDB0113CE345A5E3E391216D355274F8W.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1209">
-    <title lang="en">Ekamra Sambad</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts1209">
     <title lang="en">Sangeet Samrat</title>
     <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
@@ -442,6 +220,228 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
   </programme>
   <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626193000 +0000" channel="ts1209">
+    <title lang="en">Sangeet Samrat</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28CA590B29A3783AD5273F493354BBBC17114F5FD.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626213000 +0000" channel="ts1209">
+    <title lang="en">Tere Bina</title>
+    <desc lang="en">A comprehensive compilation of popular Odia songs composed by well-known artists is played back to back for the music aficionados.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA606CFE89314E77648B13A4DE0D349979B6AA7BP.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626220000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626223000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626233000 +0000" channel="ts1209">
+    <title lang="en">Yeh Vadaa Raha</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36B48AE6F56F0026A2590C6E83075037BF5920B5K.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts1209">
+    <title lang="en">Ahe Jagannath</title>
+    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C2655434B38658308D39FD2DAAF28DCF355EEA2.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts1209">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2799CEB4175DFF1E75102C647FB48B892A8834D53.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627053000 +0000" channel="ts1209">
+    <title lang="en">Chitrageet</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular movie songs composed by talented artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/788227DCDDB0113CE345A5E3E391216D355274F8W.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts1209">
+    <title lang="en">Sangeet Samrat</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28CA590B29A3783AD5273F493354BBBC17114F5FD.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627093000 +0000" channel="ts1209">
+    <title lang="en">Tere Bina</title>
+    <desc lang="en">A comprehensive compilation of popular Odia songs composed by well-known artists is played back to back for the music aficionados.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA606CFE89314E77648B13A4DE0D349979B6AA7BP.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627103000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627113000 +0000" channel="ts1209">
+    <title lang="en">Yeh Vadaa Raha</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from various genres by renowned artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36B48AE6F56F0026A2590C6E83075037BF5920B5K.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627133000 +0000" channel="ts1209">
+    <title lang="en">Ahe Jagannath</title>
+    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C2655434B38658308D39FD2DAAF28DCF355EEA2.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627153000 +0000" channel="ts1209">
+    <title lang="en">Chitrahaar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular and melodious songs from a variety of movies sung by talented artists.</desc>
+    <credits>
+      <actor>Tarana</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2799CEB4175DFF1E75102C647FB48B892A8834D53.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627173000 +0000" channel="ts1209">
+    <title lang="en">Chitrageet</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular movie songs composed by talented artists is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/788227DCDDB0113CE345A5E3E391216D355274F8W.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts1209">
+    <title lang="en">Ekamra Sambad</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCE1AA540A19D61C0FA1952E4C0F270A36F741CBB.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts1209">
     <title lang="en">Ekamra Sambad</title>
     <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields that impact people around the country.</desc>
     <category lang="en">News</category>

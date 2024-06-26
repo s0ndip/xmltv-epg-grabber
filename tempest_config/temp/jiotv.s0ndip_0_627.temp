@@ -3,276 +3,6 @@
   <channel id="627">
     <display-name lang="en">News 18 Assam</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627011.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627012.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="627">
-    <title lang="en">News18 Mon Jay</title>
-    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627013.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625075000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627014.jpg"/>
-  </programme>
-  <programme start="20240625075000 +0530" stop="20240625083000 +0530" channel="627">
-    <title lang="en">Good Morning 18</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments that impact people living in different parts of Assam.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627015.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627016.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="627">
-    <title lang="en">Live Hour</title>
-    <desc lang="en">The host sheds light on the latest political and socio-economic stories and developments from different parts of the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627017.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627018.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627019.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627020.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="627">
-    <title lang="en">10.30 PM Show</title>
-    <desc lang="en">The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627021.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="627">
-    <title lang="en">Duporor Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627022.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="627">
-    <title lang="en">Duporor Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627023.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="627">
-    <title lang="en">Gaon Sohor Zilar Khobor</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627024.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="627">
-    <title lang="en">Aparadhnama</title>
-    <desc lang="en">The host discusses some of the most heinous cases of crime in the country and the investigation conducted by the police to solve them.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627025.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627026.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="627">
-    <title lang="en">Gaon Sohor Zilar Khobor</title>
-    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627027.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627028.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627029.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="627">
-    <title lang="en">Biyolir Khabar</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627030.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625165000 +0530" channel="627">
-    <title lang="en">Biyolir Khabar</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627031.jpg"/>
-  </programme>
-  <programme start="20240625165000 +0530" stop="20240625173000 +0530" channel="627">
-    <title lang="en">Khabar Mahanagarar</title>
-    <desc lang="en">The presenter presents the latest news stories on current events and sheds light on socio-economic and political developments from across the nation.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627032.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625175700 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627033.jpg"/>
-  </programme>
-  <programme start="20240625175700 +0530" stop="20240625183000 +0530" channel="627">
-    <title lang="en">News18 Assam Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627034.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625185700 +0530" channel="627">
-    <title lang="en">News18 Assam Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627035.jpg"/>
-  </programme>
-  <programme start="20240625185700 +0530" stop="20240625192500 +0530" channel="627">
-    <title lang="en">Dintur Shironam</title>
-    <desc lang="en">Special Report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627036.jpg"/>
-  </programme>
-  <programme start="20240625192500 +0530" stop="20240625195000 +0530" channel="627">
-    <title lang="en">Dintur Shironam</title>
-    <desc lang="en">Special Report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627037.jpg"/>
-  </programme>
-  <programme start="20240625195000 +0530" stop="20240625203000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627038.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627039.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627040.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627041.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627042.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="627">
-    <title lang="en">10.30 PM Show / Mon Jay</title>
-    <desc lang="en">The presenter sheds light on the latest news stories and developments pertaining to various political and socio-economic issues around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627043.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="627">
-    <title lang="en">Noixo Sambad</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625627044.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="627">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="627">
-    <title lang="en">Druta Sangbad</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="627">
-    <title lang="en">News18 Assam Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="627">
-    <title lang="en">News18 Assam Sanbad</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="627">
-    <title lang="en">News18 Mon Jay</title>
-    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627008.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="627">
-    <title lang="en">Super Prime 18</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627009.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="627">
-    <title lang="en">Noixo Sambad</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627010.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="627">
     <title lang="en">Prime Debate</title>
     <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
@@ -470,5 +200,383 @@
     <desc lang="en">The presenter sheds light on the latest news stories and developments pertaining to various political and socio-economic issues around the country.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627043.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="627">
+    <title lang="en">Noixo Sambad</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626627044.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="627">
+    <title lang="en">News18 Mon Jay</title>
+    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627008.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627009.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="627">
+    <title lang="en">Noixo Sambad</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627010.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627011.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627012.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="627">
+    <title lang="en">News18 Mon Jay</title>
+    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627013.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627075000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627014.jpg"/>
+  </programme>
+  <programme start="20240627075000 +0530" stop="20240627083000 +0530" channel="627">
+    <title lang="en">Good Morning 18</title>
+    <desc lang="en">The host presents the latest news stories, important events and major developments that impact people living in different parts of Assam.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627015.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627016.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="627">
+    <title lang="en">Live Hour</title>
+    <desc lang="en">The host sheds light on the latest political and socio-economic stories and developments from different parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627017.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627018.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627019.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627020.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="627">
+    <title lang="en">10.30 PM Show</title>
+    <desc lang="en">The host presents the latest news stories and developments pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627021.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="627">
+    <title lang="en">Duporor Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627022.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="627">
+    <title lang="en">Duporor Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627023.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="627">
+    <title lang="en">Gaon Sohor Zilar Khobor</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627024.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="627">
+    <title lang="en">Aparadhnama</title>
+    <desc lang="en">The host discusses some of the most heinous cases of crime in the country and the investigation conducted by the police to solve them.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627025.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627026.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="627">
+    <title lang="en">Gaon Sohor Zilar Khobor</title>
+    <desc lang="en">The host presents the latest political and socio-economic stories and numerous updates from different parts of the state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627027.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627028.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627029.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="627">
+    <title lang="en">Biyolir Khabar</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627030.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627165000 +0530" channel="627">
+    <title lang="en">Biyolir Khabar</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627031.jpg"/>
+  </programme>
+  <programme start="20240627165000 +0530" stop="20240627173000 +0530" channel="627">
+    <title lang="en">Khabar Mahanagarar</title>
+    <desc lang="en">The presenter presents the latest news stories on current events and sheds light on socio-economic and political developments from across the nation.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627032.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627175700 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627033.jpg"/>
+  </programme>
+  <programme start="20240627175700 +0530" stop="20240627183000 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627034.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627185700 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627035.jpg"/>
+  </programme>
+  <programme start="20240627185700 +0530" stop="20240627192500 +0530" channel="627">
+    <title lang="en">Dintur Shironam</title>
+    <desc lang="en">Special Report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627036.jpg"/>
+  </programme>
+  <programme start="20240627192500 +0530" stop="20240627195000 +0530" channel="627">
+    <title lang="en">Dintur Shironam</title>
+    <desc lang="en">Special Report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627037.jpg"/>
+  </programme>
+  <programme start="20240627195000 +0530" stop="20240627203000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627038.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627039.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627040.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627041.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627042.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="627">
+    <title lang="en">10.30 PM Show / Mon Jay</title>
+    <desc lang="en">The presenter sheds light on the latest news stories and developments pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627043.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="627">
+    <title lang="en">Noixo Sambad</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627627044.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="627">
+    <title lang="en">News18 Assam Sanbad</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="627">
+    <title lang="en">News18 Mon Jay</title>
+    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="627">
+    <title lang="en">The Prime Show</title>
+    <desc lang="en">The host presents all the latest news stories, updates and developments pertaining to the current affairs of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627008.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="627">
+    <title lang="en">Super Prime 18</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to various socio-political and economic topics affecting the lives of the common people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627009.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="627">
+    <title lang="en">Noixo Sambad</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627010.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627011.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="627">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host moderates a debate among a panel of experts from various fields on the latest political and social issues concerning the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627012.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="627">
+    <title lang="en">News18 Mon Jay</title>
+    <desc lang="en">The host sheds light on the efforts that went into the making of some of the most popular song videos featuring popular artists from the music industry.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627013.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628075000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627014.jpg"/>
+  </programme>
+  <programme start="20240628075000 +0530" stop="20240628083000 +0530" channel="627">
+    <title lang="en">Good Morning 18</title>
+    <desc lang="en">The host presents the latest news stories, important events and major developments that impact people living in different parts of Assam.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627015.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="627">
+    <title lang="en">Druta Sangbad</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628627016.jpg"/>
   </programme>
 </tv>

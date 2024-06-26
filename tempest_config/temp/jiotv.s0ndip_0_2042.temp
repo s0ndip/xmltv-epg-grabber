@@ -3,24 +3,39 @@
   <channel id="2042">
     <display-name lang="en">Nazraana</display-name>
   </channel>
-  <programme start="20240625070000 +0530" stop="20240625180000 +0530" channel="2042">
-    <title lang="en">Mehfil</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252042001.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240626000000 +0530" channel="2042">
-    <title lang="en">Shaam - e - Ghazal</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252042002.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626070000 +0530" channel="2042">
-    <title lang="en">Shab - e - Ghazal</title>
-    <category lang="en">Devotional</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262042000.jpg"/>
-  </programme>
   <programme start="20240626070000 +0530" stop="20240626180000 +0530" channel="2042">
     <title lang="en">Mehfil</title>
     <category lang="en">Devotional</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262042001.jpg"/>
+  </programme>
+  <programme start="20240626180000 +0530" stop="20240627000000 +0530" channel="2042">
+    <title lang="en">Shaam - e - Ghazal</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262042002.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627070000 +0530" channel="2042">
+    <title lang="en">Shab - e - Ghazal</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272042000.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627180000 +0530" channel="2042">
+    <title lang="en">Mehfil</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272042001.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240628000000 +0530" channel="2042">
+    <title lang="en">Shaam - e - Ghazal</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272042002.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628070000 +0530" channel="2042">
+    <title lang="en">Shab - e - Ghazal</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282042000.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628180000 +0530" channel="2042">
+    <title lang="en">Mehfil</title>
+    <category lang="en">Devotional</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282042001.jpg"/>
   </programme>
 </tv>

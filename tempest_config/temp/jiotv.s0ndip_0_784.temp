@@ -3,210 +3,6 @@
   <channel id="784">
     <display-name lang="en">CVR News</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="784">
-    <title lang="en">Om Pravachanam</title>
-    <desc lang="en">A show focussing on religion or spirituality.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784002.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="784">
-    <title lang="en">First Bulletin</title>
-    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784003.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="784">
-    <title lang="en">Raite Raju</title>
-    <desc lang="en">The host collates and presents information on the latest news, updates and developments in agriculture and the rural sector of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784004.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="784">
-    <title lang="en">News Room At 7 AM</title>
-    <desc lang="en">The host presents the latest and some of the most important social, political and economic news updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784005.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="784">
-    <title lang="en">Special Drive</title>
-    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784006.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="784">
-    <title lang="en">8 AM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784007.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="784">
-    <title lang="en">Special Drive</title>
-    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="784">
-    <title lang="en">9 AM News</title>
-    <desc lang="en">The host sheds light on the latest news, updates and developments ranging across diverse issues prevailing across the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784009.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="784">
-    <title lang="en">Big Story</title>
-    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784010.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="784">
-    <title lang="en">10 AM News</title>
-    <desc lang="en">The anchor presents the latest news updates from the world of politics, economics, entertainment and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784011.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="784">
-    <title lang="en">News Drive</title>
-    <desc lang="en">The host discusses the most significant news stories and developments related to the outbreak of the coronavirus disease while shedding light on its precautionary methods.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784012.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="784">
-    <title lang="en">11 AM News</title>
-    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784013.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="784">
-    <title lang="en">Special Drive</title>
-    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784014.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625121500 +0530" channel="784">
-    <title lang="en">12 Noon News</title>
-    <desc lang="en">The host presents the latest national and international political and socio-economic news and updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784015.jpg"/>
-  </programme>
-  <programme start="20240625121500 +0530" stop="20240625130000 +0530" channel="784">
-    <title lang="en">Special Drive</title>
-    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784016.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="784">
-    <title lang="en">Mid Day Highlights</title>
-    <desc lang="en">The host presents a detailed analysis of the latest news updates and developments taking place in and around the region.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784017.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="784">
-    <title lang="en">2 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784018.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="784">
-    <title lang="en">3 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784019.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="784">
-    <title lang="en">4 PM News</title>
-    <desc lang="en">The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784020.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625171500 +0530" channel="784">
-    <title lang="en">5 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784021.jpg"/>
-  </programme>
-  <programme start="20240625171500 +0530" stop="20240625180000 +0530" channel="784">
-    <title lang="en">Public Drive</title>
-    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784022.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625181500 +0530" channel="784">
-    <title lang="en">6 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784023.jpg"/>
-  </programme>
-  <programme start="20240625181500 +0530" stop="20240625190000 +0530" channel="784">
-    <title lang="en">Public Drive</title>
-    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784024.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625191500 +0530" channel="784">
-    <title lang="en">Speed News</title>
-    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784025.jpg"/>
-  </programme>
-  <programme start="20240625191500 +0530" stop="20240625200000 +0530" channel="784">
-    <title lang="en">Public Drive</title>
-    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784026.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625201500 +0530" channel="784">
-    <title lang="en">8 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784027.jpg"/>
-  </programme>
-  <programme start="20240625201500 +0530" stop="20240625210000 +0530" channel="784">
-    <title lang="en">Public Drive</title>
-    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784028.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="784">
-    <title lang="en">Prime Time At 9</title>
-    <desc lang="en">A news bulletin, which updates the viewers with the latest regional and national news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784029.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="784">
-    <title lang="en">Big Story</title>
-    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784030.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625221500 +0530" channel="784">
-    <title lang="en">10 PM News</title>
-    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784031.jpg"/>
-  </programme>
-  <programme start="20240625221500 +0530" stop="20240625230000 +0530" channel="784">
-    <title lang="en">Public Drive</title>
-    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784032.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="784">
-    <title lang="en">11 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625784033.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626050000 +0530" channel="784">
-    <title lang="en">11 PM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626784000.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="784">
-    <title lang="en">5 AM News</title>
-    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626784001.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="784">
     <title lang="en">Om Pravachanam</title>
     <desc lang="en">A show focussing on religion or spirituality.</desc>
@@ -416,5 +212,269 @@
     <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626784036.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="784">
+    <title lang="en">11 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626784037.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627050000 +0530" channel="784">
+    <title lang="en">11 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784000.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="784">
+    <title lang="en">5 AM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784001.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="784">
+    <title lang="en">Om Pravachanam</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784002.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="784">
+    <title lang="en">First Bulletin</title>
+    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784003.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="784">
+    <title lang="en">Raite Raju</title>
+    <desc lang="en">The host collates and presents information on the latest news, updates and developments in agriculture and the rural sector of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784004.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="784">
+    <title lang="en">News Room At 7 AM</title>
+    <desc lang="en">The host presents the latest and some of the most important social, political and economic news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784005.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784006.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="784">
+    <title lang="en">8 AM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784007.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784008.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="784">
+    <title lang="en">9 AM News</title>
+    <desc lang="en">The host sheds light on the latest news, updates and developments ranging across diverse issues prevailing across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784009.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="784">
+    <title lang="en">Big Story</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784010.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="784">
+    <title lang="en">10 AM News</title>
+    <desc lang="en">The anchor presents the latest news updates from the world of politics, economics, entertainment and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784011.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="784">
+    <title lang="en">News Drive</title>
+    <desc lang="en">The host discusses the most significant news stories and developments related to the outbreak of the coronavirus disease while shedding light on its precautionary methods.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784012.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="784">
+    <title lang="en">11 AM News</title>
+    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784013.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784014.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627121500 +0530" channel="784">
+    <title lang="en">12 Noon News</title>
+    <desc lang="en">The host presents the latest national and international political and socio-economic news and updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784015.jpg"/>
+  </programme>
+  <programme start="20240627121500 +0530" stop="20240627130000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784016.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="784">
+    <title lang="en">Mid Day Highlights</title>
+    <desc lang="en">The host presents a detailed analysis of the latest news updates and developments taking place in and around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784017.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="784">
+    <title lang="en">2 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784018.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627160000 +0530" channel="784">
+    <title lang="en">3 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784019.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627170000 +0530" channel="784">
+    <title lang="en">4 PM News</title>
+    <desc lang="en">The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784020.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627171500 +0530" channel="784">
+    <title lang="en">5 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784021.jpg"/>
+  </programme>
+  <programme start="20240627171500 +0530" stop="20240627180000 +0530" channel="784">
+    <title lang="en">Public Drive</title>
+    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784022.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627181500 +0530" channel="784">
+    <title lang="en">6 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784023.jpg"/>
+  </programme>
+  <programme start="20240627181500 +0530" stop="20240627190000 +0530" channel="784">
+    <title lang="en">Public Drive</title>
+    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784024.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627191500 +0530" channel="784">
+    <title lang="en">Speed News</title>
+    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784025.jpg"/>
+  </programme>
+  <programme start="20240627191500 +0530" stop="20240627200000 +0530" channel="784">
+    <title lang="en">Public Drive</title>
+    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784026.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627201500 +0530" channel="784">
+    <title lang="en">8 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784027.jpg"/>
+  </programme>
+  <programme start="20240627201500 +0530" stop="20240627210000 +0530" channel="784">
+    <title lang="en">Public Drive</title>
+    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784028.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="784">
+    <title lang="en">Prime Time At 9</title>
+    <desc lang="en">A news bulletin, which updates the viewers with the latest regional and national news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784029.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="784">
+    <title lang="en">Big Story</title>
+    <desc lang="en">The host sheds light on the latest socio-economic and political news, updates and developments which are making headlines from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784030.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627221500 +0530" channel="784">
+    <title lang="en">10 PM News</title>
+    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784031.jpg"/>
+  </programme>
+  <programme start="20240627221500 +0530" stop="20240627230000 +0530" channel="784">
+    <title lang="en">Public Drive</title>
+    <desc lang="en">The host presents a detailed report on an issue or an event and interviews the related people to know their opinion and facts about it.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784032.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="784">
+    <title lang="en">11 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627784033.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628050000 +0530" channel="784">
+    <title lang="en">11 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784000.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="784">
+    <title lang="en">5 AM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784001.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="784">
+    <title lang="en">Om Pravachanam</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784002.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="784">
+    <title lang="en">First Bulletin</title>
+    <desc lang="en">The host presents the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784003.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="784">
+    <title lang="en">Raite Raju</title>
+    <desc lang="en">The host collates and presents information on the latest news, updates and developments in agriculture and the rural sector of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784004.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="784">
+    <title lang="en">News Room At 7 AM</title>
+    <desc lang="en">The host presents the latest and some of the most important social, political and economic news updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784005.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628080000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784006.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="784">
+    <title lang="en">8 AM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784007.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="784">
+    <title lang="en">Special Drive</title>
+    <desc lang="en">The hosts present a report on pressing social issues. They also interact with locals and officers to learn more about the problem and explore possible solutions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628784008.jpg"/>
   </programme>
 </tv>

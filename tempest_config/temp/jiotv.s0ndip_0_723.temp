@@ -3,212 +3,6 @@
   <channel id="723">
     <display-name lang="en">Amrita TV</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="723">
-    <title lang="en">Sandhyadeepam</title>
-    <desc lang="en">Take a look at evening prayers being performed by priests in prominent temples in Kerala, and learn about their significance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723010.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="723">
-    <title lang="en">Funs Upon A Time</title>
-    <desc lang="en">Talented stand-up comedians from different places come together to showcase their skills and entertain with hilarious acts in Malayalam.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723011.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="723">
-    <title lang="en">Good Morning Keralam</title>
-    <desc lang="en">The host presents the latest headlines of the day. The host also discusses various issues of concern with experts and guests.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723012.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="723">
-    <title lang="en">Good Health</title>
-    <desc lang="en">Experts answer the queries of the viewers on various health-related problems and ailments over the phone while sharing information on diseases and its symptoms.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723013.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="723">
-    <title lang="en">Mazhayethum Mumbe</title>
-    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
-    <credits>
-      <actor>Sreedhanya</actor>
-      <actor>Rohit Ved</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723014.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625120000 +0530" channel="723">
-    <title lang="en">Karunyam</title>
-    <desc lang="en">Gopi faces many challenges to run his middle-class family as he is the sole breadwinner. But problems worsen when he loses his job.</desc>
-    <credits>
-      <director>Ambazhathil Karunakaran Lohithadas</director>
-      <actor>Jayaram</actor>
-      <actor>Murali</actor>
-      <actor>Divya Unni</actor>
-      <actor>Janardhanan</actor>
-      <actor>Nedumudi Venu</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723015.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="723">
-    <title lang="en">News @ Noon</title>
-    <desc lang="en">The host gives an insight into the latest political, socio-economic and sports updates and developments from all over the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723016.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625153000 +0530" channel="723">
-    <title lang="en">Gokulam</title>
-    <desc lang="en">Chellappa, who owns a photo studio, falls in love with Mary, who has recently come to stay in his locality. His dreams shatter when she reveals secrets about her past.</desc>
-    <credits>
-      <director>Vikraman</director>
-      <actor>Jayaram</actor>
-      <actor>Bhanupriya</actor>
-      <actor>Arjun Sarja</actor>
-      <actor>Kalyan Kumar</actor>
-      <actor>Vadivelu</actor>
-      <actor>Chinni Jayanth</actor>
-      <actor>Jaishankar</actor>
-      <actor>Major Sundarajan</actor>
-      <actor>Raja Ravindra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723017.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="723">
-    <title lang="en">Super Family</title>
-    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723018.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625183000 +0530" channel="723">
-    <title lang="en">Arike</title>
-    <desc lang="en">Anuradha plays cupid and brings Shantanu and Kalpana together but a freak accident distances Kalpana and him. Shantanu then realizes that Anuradha is the one who truly loves him.</desc>
-    <credits>
-      <director>Shyamaprasad</director>
-      <actor>Dileep</actor>
-      <actor>Mamta Mohandas</actor>
-      <actor>Samvrutha Sunil</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723019.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="723">
-    <title lang="en">Sandhya Deepam</title>
-    <desc lang="en">Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723020.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="723">
-    <title lang="en">Sathyam Shivam Sundaram</title>
-    <desc lang="en">A group of Shiva's devotees faces difficult situations but are always able to overcome them with his grace and blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723021.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="723">
-    <title lang="en">Meera</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723022.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="723">
-    <title lang="en">Mazhayethum Mumbe</title>
-    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
-    <credits>
-      <actor>Sreedhanya</actor>
-      <actor>Rohit Ved</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723023.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="723">
-    <title lang="en">Super Family</title>
-    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723024.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="723">
-    <title lang="en">Comedy Masters</title>
-    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723025.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="723">
-    <title lang="en">Top 10 At Ten</title>
-    <desc lang="en">The host presents a summary of ten of the most important news updates and developments from the nation and around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723026.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="723">
-    <title lang="en">Comedy Masters</title>
-    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625723027.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="723">
-    <title lang="en">Gulf News</title>
-    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="723">
-    <title lang="en">Super Family</title>
-    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="723">
-    <title lang="en">Mazhayethum Mumbe</title>
-    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
-    <credits>
-      <actor>Sreedhanya</actor>
-      <actor>Rohit Ved</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="723">
-    <title lang="en">Meera</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="723">
-    <title lang="en">Sathyam Shivam Sundaram</title>
-    <desc lang="en">A group of Shiva's devotees faces difficult situations but are always able to overcome them with his grace and blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="723">
-    <title lang="en">Good Health</title>
-    <desc lang="en">Experts answer the queries of the viewers on various health-related problems and ailments over the phone while sharing information on diseases and its symptoms.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="723">
-    <title lang="en">Super Family</title>
-    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626043000 +0530" channel="723">
-    <title lang="en">Comedy Masters</title>
-    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723007.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="723">
-    <title lang="en">Ente Varta</title>
-    <desc lang="en">Citizen reporters bring to light the various social, political and economic issues faced by the common people and appeal to the authorities to take action for resolving them.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723008.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="723">
-    <title lang="en">Pradakshinam</title>
-    <desc lang="en">The filmmaker delves into the mysteries of obscure Indian cultures, traditions, places and artefacts. He also focusses on the age-old aesthetic themes associated with temples architecture.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723009.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="723">
     <title lang="en">Sandhyadeepam</title>
     <desc lang="en">Take a look at evening prayers being performed by priests in prominent temples in Kerala, and learn about their significance.</desc>
@@ -359,5 +153,320 @@
     <desc lang="en">The host presents a summary of ten of the most important news updates and developments from the nation and around the world.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723026.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626723027.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="723">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="723">
+    <title lang="en">Super Family</title>
+    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="723">
+    <title lang="en">Mazhayethum Mumbe</title>
+    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
+    <credits>
+      <actor>Sreedhanya</actor>
+      <actor>Rohit Ved</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="723">
+    <title lang="en">Meera</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="723">
+    <title lang="en">Sathyam Shivam Sundaram</title>
+    <desc lang="en">A group of Shiva's devotees faces difficult situations but are always able to overcome them with his grace and blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="723">
+    <title lang="en">Clap Board</title>
+    <desc lang="en">The host presents the latest updates from the world of movies and entertainment and covers significant events related to world cinema.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="723">
+    <title lang="en">Super Family</title>
+    <desc lang="en">Talented families showcase their skills and compete against each other in a series of challenges to emerge victorious in a prestigious event.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627043000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723007.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="723">
+    <title lang="en">Byline</title>
+    <desc lang="en">The host presents the latest news and developments from the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723008.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="723">
+    <title lang="en">Pradakshinam</title>
+    <desc lang="en">The filmmaker delves into the mysteries of obscure Indian cultures, traditions, places and artefacts. He also focusses on the age-old aesthetic themes associated with temples architecture.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723009.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="723">
+    <title lang="en">Sandhyadeepam</title>
+    <desc lang="en">Take a look at evening prayers being performed by priests in prominent temples in Kerala, and learn about their significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723010.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723011.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="723">
+    <title lang="en">Good Morning Keralam</title>
+    <desc lang="en">The host presents the latest headlines of the day. The host also discusses various issues of concern with experts and guests.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723012.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="723">
+    <title lang="en">Clap Board</title>
+    <desc lang="en">The host presents the latest updates from the world of movies and entertainment and covers significant events related to world cinema.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723013.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="723">
+    <title lang="en">Mazhayethum Mumbe</title>
+    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
+    <credits>
+      <actor>Sreedhanya</actor>
+      <actor>Rohit Ved</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723014.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="723">
+    <title lang="en">Achante Ponnumakkal</title>
+    <desc lang="en">A 'Kathakali' master in a village, begets two mentally challenged children, who have crossed their teens. The story paces on the issues the family undergoes in due course of time.</desc>
+    <credits>
+      <director>Akhilesh Guruvilas</director>
+      <actor>Murali</actor>
+      <actor>Karthika</actor>
+      <actor>Sai Kumar</actor>
+      <actor>Sudeesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723015.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="723">
+    <title lang="en">News @ Noon</title>
+    <desc lang="en">The host gives an insight into the latest political, socio-economic and sports updates and developments from all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723016.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627153000 +0530" channel="723">
+    <title lang="en">Subrahmanyapuram</title>
+    <desc lang="en">Karthik, an atheist, visits the Lord Subrahmanya Swamy Temple located in a village named Subramanyapuram. A series of suicides makes him investigate the mystery behind it.</desc>
+    <credits>
+      <director>Santhossh Jagarlapudi</director>
+      <actor>Sumanth</actor>
+      <actor>Eesha Rebba</actor>
+      <actor>Vajja Venkata Giridhar</actor>
+      <actor>Harshini</actor>
+      <actor>Sai Kumar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723017.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="723">
+    <title lang="en">Annie's Kitchen</title>
+    <desc lang="en">Popular actress Annie prepares variety of traditional dishes of Kerala, and some of the celebrities join her alongside to share the joy of cooking.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723018.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627183000 +0530" channel="723">
+    <title lang="en">Kadhaveedu</title>
+    <desc lang="en">Delves into varied facets of marriages and marital life. Examines issues like differences in thinking between husbands and wives and the need to make compromises to make marriages work effectively.</desc>
+    <credits>
+      <director>Sohanlal</director>
+      <actor>Kunchacko Boban</actor>
+      <actor>Biju Menon</actor>
+      <actor>Manoj K Jayan</actor>
+      <actor>Lal</actor>
+      <actor>Rituparna Sengupta</actor>
+      <actor>Bhama</actor>
+      <actor>Mallika</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723019.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="723">
+    <title lang="en">Sandhya Deepam</title>
+    <desc lang="en">Religious leaders and scholars deliver a discourse on various aspects of Kerala's rich cultural heritage and spiritual observances.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723020.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="723">
+    <title lang="en">Sathyam Shivam Sundaram</title>
+    <desc lang="en">A group of Shiva's devotees faces difficult situations but are always able to overcome them with his grace and blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723021.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="723">
+    <title lang="en">Meera</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723022.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="723">
+    <title lang="en">Mazhayethum Mumbe</title>
+    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
+    <credits>
+      <actor>Sreedhanya</actor>
+      <actor>Rohit Ved</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723023.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="723">
+    <title lang="en">Annie's Kitchen</title>
+    <desc lang="en">Popular actress Annie prepares variety of traditional dishes of Kerala, and some of the celebrities join her alongside to share the joy of cooking.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723024.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723025.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="723">
+    <title lang="en">Top 10 At Ten</title>
+    <desc lang="en">The host presents a summary of ten of the most important news updates and developments from the nation and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723026.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="723">
+    <title lang="en">Good Health</title>
+    <desc lang="en">Experts answer the queries of the viewers on various health-related problems and ailments over the phone while sharing information on diseases and its symptoms.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723027.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="723">
+    <title lang="en">Annie's Kitchen</title>
+    <desc lang="en">Popular actress Annie prepares variety of traditional dishes of Kerala, and some of the celebrities join her alongside to share the joy of cooking.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627723028.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="723">
+    <title lang="en">Gulf News</title>
+    <desc lang="en">The host presents a round-up of the latest social, political and economic news updates and developments from the Middle East.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="723">
+    <title lang="en">Padam Nedam Panam Nedam</title>
+    <desc lang="en">Talented singers compete against one another to impress judges with their singing skills and emerge victorious with the grand prize.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="723">
+    <title lang="en">Mazhayethum Mumbe</title>
+    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
+    <credits>
+      <actor>Sreedhanya</actor>
+      <actor>Rohit Ved</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="723">
+    <title lang="en">Meera</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="723">
+    <title lang="en">Sathyam Shivam Sundaram</title>
+    <desc lang="en">A group of Shiva's devotees faces difficult situations but are always able to overcome them with his grace and blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="723">
+    <title lang="en">Amritamrutham</title>
+    <desc lang="en">A spiritual leader offers a religious discourse to devotees to apprise them of divine teachings and guide them in leading exemplary lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="723">
+    <title lang="en">Annie's Kitchen</title>
+    <desc lang="en">Popular actress Annie prepares variety of traditional dishes of Kerala, and some of the celebrities join her alongside to share the joy of cooking.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628043000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723007.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="723">
+    <title lang="en">Vakku Maruvakku</title>
+    <desc lang="en">The host interviews prominent politicians from different political parties in Kerala about their ideologies and the current situation in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723008.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="723">
+    <title lang="en">Pradakshinam</title>
+    <desc lang="en">The filmmaker delves into the mysteries of obscure Indian cultures, traditions, places and artefacts. He also focusses on the age-old aesthetic themes associated with temples architecture.</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723009.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="723">
+    <title lang="en">Sandhyadeepam</title>
+    <desc lang="en">Take a look at evening prayers being performed by priests in prominent temples in Kerala, and learn about their significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723010.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="723">
+    <title lang="en">Comedy Masters</title>
+    <desc lang="en">Talented comedians perform humorous acts and satirical skits to entertain the audience and leave them rolling with laughter.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723011.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="723">
+    <title lang="en">Good Morning Keralam</title>
+    <desc lang="en">The host presents the latest headlines of the day. The host also discusses various issues of concern with experts and guests.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723012.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="723">
+    <title lang="en">Vakku Maruvakku</title>
+    <desc lang="en">The host interviews prominent politicians from different political parties in Kerala about their ideologies and the current situation in the country.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723013.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="723">
+    <title lang="en">Mazhayethum Mumbe</title>
+    <desc lang="en">A strong and loving mother takes care of her children and faces various trials and tribulations in life that come her way.</desc>
+    <credits>
+      <actor>Sreedhanya</actor>
+      <actor>Rohit Ved</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628723014.jpg"/>
   </programme>
 </tv>

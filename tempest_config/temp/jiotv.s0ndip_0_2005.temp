@@ -3,150 +3,6 @@
   <channel id="2005">
     <display-name lang="en">IN 24 News</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005006.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005009.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005010.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005011.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005012.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005013.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005014.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625160000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005015.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625170000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005016.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005017.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005018.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005019.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005020.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005021.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005022.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252005023.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005003.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="2005">
-    <title lang="en">IN 24 News</title>
-    <desc lang="en">IN 24 News</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005005.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="2005">
     <title lang="en">IN 24 News</title>
     <desc lang="en">IN 24 News</desc>
@@ -248,5 +104,209 @@
     <desc lang="en">IN 24 News</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005022.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262005023.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005003.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005004.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005005.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005006.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005007.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005008.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005009.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005010.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005011.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005012.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005013.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005014.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627160000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005015.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627170000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005016.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005017.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005018.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005019.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005020.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005021.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005022.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272005023.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005003.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005005.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005006.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005007.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="2005">
+    <title lang="en">IN 24 News</title>
+    <desc lang="en">IN 24 News</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282005008.jpg"/>
   </programme>
 </tv>

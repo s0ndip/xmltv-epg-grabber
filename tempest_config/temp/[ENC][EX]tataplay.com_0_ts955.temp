@@ -3,557 +3,6 @@
   <channel id="ts955">
     <display-name lang="en">Sun Marathi</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts955">
-    <title lang="en">Sawali Hoin Sukhachi</title>
-    <desc lang="en">E284- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
-    <credits>
-      <actor>Seema Kulkarni</actor>
-      <actor>Aarambhi</actor>
-      <actor>Ronak Shinde</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
-    <episode-num system="xmltv_ns">.283.</episode-num>
-  </programme>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts955">
-    <title lang="en">Navi Janmen Mi</title>
-    <desc lang="en">E208- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
-    <credits>
-      <actor>Shilpa Thakre</actor>
-      <actor>Maniraj Pawar</actor>
-      <actor>Sakshi Gandhi</actor>
-      <actor>Vipul Kale</actor>
-      <actor>Akshay S Patil</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
-    <episode-num system="xmltv_ns">.207.</episode-num>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E434- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.433.</episode-num>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts955">
-    <title lang="en">Sundari</title>
-    <desc lang="en">E876- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
-    <credits>
-      <actor>Swati Limaye</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
-    <episode-num system="xmltv_ns">.875.</episode-num>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts955">
-    <title lang="en">Constable Manju</title>
-    <desc lang="en">E88- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
-    <credits>
-      <actor>Monica Rathi</actor>
-      <actor>Vaibhav Kadam</actor>
-      <actor>Rahul Magdum</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
-    <episode-num system="xmltv_ns">.87.</episode-num>
-  </programme>
-  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E46- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E148- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.147.</episode-num>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts955">
-    <title lang="en">Tujhi Majhi Jamali Jodi</title>
-    <desc lang="en">E178- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
-    <credits>
-      <actor>Asmita Deshmukh</actor>
-      <actor>Sanchit Chaudhari</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
-    <episode-num system="xmltv_ns">.177.</episode-num>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts955">
-    <title lang="en">Sawali Hoin Sukhachi</title>
-    <desc lang="en">E284- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
-    <credits>
-      <actor>Seema Kulkarni</actor>
-      <actor>Aarambhi</actor>
-      <actor>Ronak Shinde</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
-    <episode-num system="xmltv_ns">.283.</episode-num>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E434- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.433.</episode-num>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts955">
-    <title lang="en">Sundari</title>
-    <desc lang="en">E876- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
-    <credits>
-      <actor>Swati Limaye</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
-    <episode-num system="xmltv_ns">.875.</episode-num>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E148- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.147.</episode-num>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts955">
-    <title lang="en">TWR Upasana</title>
-    <desc lang="en">E327- A religious leader provides a detailed discourse on various teachings from the Holy Bible.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E73AA92CD7C6AAF3871B8A9B64688F5CA205D4E23.jpg"/>
-    <episode-num system="xmltv_ns">.326.</episode-num>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts955">
-    <title lang="en">RJR Hospital</title>
-    <desc lang="en">E01- Doctors of a wellness center suggest remedies for various chronic diseases.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0FCC8DCDA96013037FCC2D74F95785EA5F86CAF19.jpg"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts955">
-    <title lang="en">Sawali Hoin Sukhachi</title>
-    <desc lang="en">E284- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
-    <credits>
-      <actor>Seema Kulkarni</actor>
-      <actor>Aarambhi</actor>
-      <actor>Ronak Shinde</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
-    <episode-num system="xmltv_ns">.283.</episode-num>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts955">
-    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
-    <desc lang="en">E36- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
-    <episode-num system="xmltv_ns">.35.</episode-num>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts955">
-    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
-    <desc lang="en">E37- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E46- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E434- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.433.</episode-num>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts955">
-    <title lang="en">Constable Manju</title>
-    <desc lang="en">E88- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
-    <credits>
-      <actor>Monica Rathi</actor>
-      <actor>Vaibhav Kadam</actor>
-      <actor>Rahul Magdum</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
-    <episode-num system="xmltv_ns">.87.</episode-num>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E148- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.147.</episode-num>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts955">
-    <title lang="en">Sundari</title>
-    <desc lang="en">E876- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
-    <credits>
-      <actor>Swati Limaye</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
-    <episode-num system="xmltv_ns">.875.</episode-num>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E46- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts955">
-    <title lang="en">Navi Janmen Mi</title>
-    <desc lang="en">E208- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
-    <credits>
-      <actor>Shilpa Thakre</actor>
-      <actor>Maniraj Pawar</actor>
-      <actor>Sakshi Gandhi</actor>
-      <actor>Vipul Kale</actor>
-      <actor>Akshay S Patil</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
-    <episode-num system="xmltv_ns">.207.</episode-num>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E434- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.433.</episode-num>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts955">
-    <title lang="en">Constable Manju</title>
-    <desc lang="en">E88- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
-    <credits>
-      <actor>Monica Rathi</actor>
-      <actor>Vaibhav Kadam</actor>
-      <actor>Rahul Magdum</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
-    <episode-num system="xmltv_ns">.87.</episode-num>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E148- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.147.</episode-num>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E46- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts955">
-    <title lang="en">Tujhi Majhi Jamali Jodi</title>
-    <desc lang="en">E178- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
-    <credits>
-      <actor>Asmita Deshmukh</actor>
-      <actor>Sanchit Chaudhari</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
-    <episode-num system="xmltv_ns">.177.</episode-num>
-  </programme>
-  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts955">
-    <title lang="en">Sawali Hoin Sukhachi</title>
-    <desc lang="en">E284- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
-    <credits>
-      <actor>Seema Kulkarni</actor>
-      <actor>Aarambhi</actor>
-      <actor>Ronak Shinde</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
-    <episode-num system="xmltv_ns">.283.</episode-num>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E434- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.433.</episode-num>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E148- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.147.</episode-num>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E46- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts955">
-    <title lang="en">Navi Janmen Mi</title>
-    <desc lang="en">E208- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
-    <credits>
-      <actor>Shilpa Thakre</actor>
-      <actor>Maniraj Pawar</actor>
-      <actor>Sakshi Gandhi</actor>
-      <actor>Vipul Kale</actor>
-      <actor>Akshay S Patil</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
-    <episode-num system="xmltv_ns">.207.</episode-num>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts955">
-    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
-    <desc lang="en">E86- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
-    <episode-num system="xmltv_ns">.85.</episode-num>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts955">
-    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
-    <desc lang="en">E87- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
-    <episode-num system="xmltv_ns">.86.</episode-num>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts955">
-    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
-    <desc lang="en">E88- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
-    <episode-num system="xmltv_ns">.87.</episode-num>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts955">
-    <title lang="en">Nandini</title>
-    <desc lang="en">E86- A wealthy and influential family feels the effects of a snake's deadly curse.</desc>
-    <credits>
-      <actor>Nithya Ram</actor>
-      <actor>Khushbu Sundar</actor>
-      <actor>Malavika Wales</actor>
-      <actor>Rahul Ravi</actor>
-      <actor>Adhithri Guruvayurappan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D683BB7B48D0E8137C0BFF354FEE04CD6B680EFS.jpg"/>
-    <episode-num system="xmltv_ns">.85.</episode-num>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts955">
-    <title lang="en">Mulagi Pasant Aahe</title>
-    <desc lang="en">E149- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
-    <credits>
-      <actor>Harshada Khanvilkar</actor>
-      <actor>Kalyani Tibhe</actor>
-      <actor>Sangram Samel</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
-    <episode-num system="xmltv_ns">.148.</episode-num>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts955">
-    <title lang="en">Navi Janmen Mi</title>
-    <desc lang="en">E209- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
-    <credits>
-      <actor>Shilpa Thakre</actor>
-      <actor>Maniraj Pawar</actor>
-      <actor>Sakshi Gandhi</actor>
-      <actor>Vipul Kale</actor>
-      <actor>Akshay S Patil</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
-    <episode-num system="xmltv_ns">.208.</episode-num>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts955">
-    <title lang="en">Constable Manju</title>
-    <desc lang="en">E89- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
-    <credits>
-      <actor>Monica Rathi</actor>
-      <actor>Vaibhav Kadam</actor>
-      <actor>Rahul Magdum</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
-    <episode-num system="xmltv_ns">.88.</episode-num>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E47- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts955">
-    <title lang="en">Sawali Hoin Sukhachi</title>
-    <desc lang="en">E285- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
-    <credits>
-      <actor>Seema Kulkarni</actor>
-      <actor>Aarambhi</actor>
-      <actor>Ronak Shinde</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
-    <episode-num system="xmltv_ns">.284.</episode-num>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts955">
-    <title lang="en">Premas Rang Yave</title>
-    <desc lang="en">E435- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
-    <credits>
-      <actor>Amita Kulkarni</actor>
-      <actor>Sarika Nawathe</actor>
-      <actor>Abhijeet Chavan</actor>
-      <actor>Gauri Kulkarni</actor>
-      <actor>Latika Sawant</actor>
-      <actor>Leena Athavaledatar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
-    <episode-num system="xmltv_ns">.434.</episode-num>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts955">
-    <title lang="en">Sundari</title>
-    <desc lang="en">E877- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
-    <credits>
-      <actor>Swati Limaye</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
-    <episode-num system="xmltv_ns">.876.</episode-num>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts955">
-    <title lang="en">Tujhi Majhi Jamali Jodi</title>
-    <desc lang="en">E179- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
-    <credits>
-      <actor>Asmita Deshmukh</actor>
-      <actor>Sanchit Chaudhari</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
-    <episode-num system="xmltv_ns">.178.</episode-num>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts955">
-    <title lang="en">Aadishakti</title>
-    <desc lang="en">E47- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
-    <credits>
-      <actor>Pallavi Patil</actor>
-      <actor>Suyash Tilak</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts955">
-    <title lang="en">Constable Manju</title>
-    <desc lang="en">E89- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
-    <credits>
-      <actor>Monica Rathi</actor>
-      <actor>Vaibhav Kadam</actor>
-      <actor>Rahul Magdum</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
-    <episode-num system="xmltv_ns">.88.</episode-num>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts955">
     <title lang="en">Sawali Hoin Sukhachi</title>
     <desc lang="en">E285- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
@@ -1083,5 +532,549 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
     <episode-num system="xmltv_ns">.89.</episode-num>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626190000 +0000" channel="ts955">
+    <title lang="en">Sawali Hoin Sukhachi</title>
+    <desc lang="en">E286- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
+    <credits>
+      <actor>Seema Kulkarni</actor>
+      <actor>Aarambhi</actor>
+      <actor>Ronak Shinde</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
+    <episode-num system="xmltv_ns">.285.</episode-num>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts955">
+    <title lang="en">Navi Janmen Mi</title>
+    <desc lang="en">E210- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
+    <credits>
+      <actor>Shilpa Thakre</actor>
+      <actor>Maniraj Pawar</actor>
+      <actor>Sakshi Gandhi</actor>
+      <actor>Vipul Kale</actor>
+      <actor>Akshay S Patil</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
+    <episode-num system="xmltv_ns">.209.</episode-num>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E436- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.435.</episode-num>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts955">
+    <title lang="en">Sundari</title>
+    <desc lang="en">E878- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
+    <credits>
+      <actor>Swati Limaye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626210000 +0000" channel="ts955">
+    <title lang="en">Constable Manju</title>
+    <desc lang="en">E90- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
+    <credits>
+      <actor>Monica Rathi</actor>
+      <actor>Vaibhav Kadam</actor>
+      <actor>Rahul Magdum</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
+    <episode-num system="xmltv_ns">.89.</episode-num>
+  </programme>
+  <programme start="20240626210000 +0000" stop="20240626213000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E48- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626220000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E150- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.149.</episode-num>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626223000 +0000" channel="ts955">
+    <title lang="en">Tujhi Majhi Jamali Jodi</title>
+    <desc lang="en">E180- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
+    <credits>
+      <actor>Asmita Deshmukh</actor>
+      <actor>Sanchit Chaudhari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
+    <episode-num system="xmltv_ns">.179.</episode-num>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts955">
+    <title lang="en">Sawali Hoin Sukhachi</title>
+    <desc lang="en">E286- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
+    <credits>
+      <actor>Seema Kulkarni</actor>
+      <actor>Aarambhi</actor>
+      <actor>Ronak Shinde</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
+    <episode-num system="xmltv_ns">.285.</episode-num>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240626233000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E436- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.435.</episode-num>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts955">
+    <title lang="en">Sundari</title>
+    <desc lang="en">E878- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
+    <credits>
+      <actor>Swati Limaye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E150- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.149.</episode-num>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts955">
+    <title lang="en">TWR Upasana</title>
+    <desc lang="en">E329- A religious leader provides a detailed discourse on various teachings from the Holy Bible.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E73AA92CD7C6AAF3871B8A9B64688F5CA205D4E23.jpg"/>
+    <episode-num system="xmltv_ns">.328.</episode-num>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts955">
+    <title lang="en">RJR Hospital</title>
+    <desc lang="en">E03- Doctors of a wellness center suggest remedies for various chronic diseases.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0FCC8DCDA96013037FCC2D74F95785EA5F86CAF19.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts955">
+    <title lang="en">Sawali Hoin Sukhachi</title>
+    <desc lang="en">E286- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
+    <credits>
+      <actor>Seema Kulkarni</actor>
+      <actor>Aarambhi</actor>
+      <actor>Ronak Shinde</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
+    <episode-num system="xmltv_ns">.285.</episode-num>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E39- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E40- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E48- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E436- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.435.</episode-num>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts955">
+    <title lang="en">Constable Manju</title>
+    <desc lang="en">E90- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
+    <credits>
+      <actor>Monica Rathi</actor>
+      <actor>Vaibhav Kadam</actor>
+      <actor>Rahul Magdum</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
+    <episode-num system="xmltv_ns">.89.</episode-num>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E150- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.149.</episode-num>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts955">
+    <title lang="en">Sundari</title>
+    <desc lang="en">E878- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
+    <credits>
+      <actor>Swati Limaye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E48- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts955">
+    <title lang="en">Navi Janmen Mi</title>
+    <desc lang="en">E210- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
+    <credits>
+      <actor>Shilpa Thakre</actor>
+      <actor>Maniraj Pawar</actor>
+      <actor>Sakshi Gandhi</actor>
+      <actor>Vipul Kale</actor>
+      <actor>Akshay S Patil</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
+    <episode-num system="xmltv_ns">.209.</episode-num>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E436- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.435.</episode-num>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts955">
+    <title lang="en">Constable Manju</title>
+    <desc lang="en">E90- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
+    <credits>
+      <actor>Monica Rathi</actor>
+      <actor>Vaibhav Kadam</actor>
+      <actor>Rahul Magdum</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
+    <episode-num system="xmltv_ns">.89.</episode-num>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E150- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.149.</episode-num>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E48- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627090000 +0000" channel="ts955">
+    <title lang="en">Tujhi Majhi Jamali Jodi</title>
+    <desc lang="en">E180- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
+    <credits>
+      <actor>Asmita Deshmukh</actor>
+      <actor>Sanchit Chaudhari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
+    <episode-num system="xmltv_ns">.179.</episode-num>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts955">
+    <title lang="en">Sawali Hoin Sukhachi</title>
+    <desc lang="en">E286- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
+    <credits>
+      <actor>Seema Kulkarni</actor>
+      <actor>Aarambhi</actor>
+      <actor>Ronak Shinde</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
+    <episode-num system="xmltv_ns">.285.</episode-num>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E436- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.435.</episode-num>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627103000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E150- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.149.</episode-num>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627110000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E48- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627113000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E92- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.91.</episode-num>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E93- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.92.</episode-num>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E94- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.93.</episode-num>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts955">
+    <title lang="en">Kshetrapal Shree Dev Vetoba</title>
+    <desc lang="en">E95- Shri Dev Vetoba protects his devotees from evil forces through miraculous presence.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AADE809A154278354DEA43CC5F973BE8B7B57F3BH.jpg"/>
+    <episode-num system="xmltv_ns">.94.</episode-num>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts955">
+    <title lang="en">Nandini</title>
+    <desc lang="en">E88- A wealthy and influential family feels the effects of a snake's deadly curse.</desc>
+    <credits>
+      <actor>Nithya Ram</actor>
+      <actor>Khushbu Sundar</actor>
+      <actor>Malavika Wales</actor>
+      <actor>Rahul Ravi</actor>
+      <actor>Adhithri Guruvayurappan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D683BB7B48D0E8137C0BFF354FEE04CD6B680EFS.jpg"/>
+    <episode-num system="xmltv_ns">.87.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts955">
+    <title lang="en">Mulagi Pasant Aahe</title>
+    <desc lang="en">E151- Aaradhya vows to exact revenge on her mother-in-law for all her crimes against her sister.</desc>
+    <credits>
+      <actor>Harshada Khanvilkar</actor>
+      <actor>Kalyani Tibhe</actor>
+      <actor>Sangram Samel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E05F6652C3BAAE00F8647794A745D48AB5E4DD7G.jpg"/>
+    <episode-num system="xmltv_ns">.150.</episode-num>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts955">
+    <title lang="en">Navi Janmen Mi</title>
+    <desc lang="en">E211- Swanandi, a cheerful girl who loves her family strives to help everyone around her.</desc>
+    <credits>
+      <actor>Shilpa Thakre</actor>
+      <actor>Maniraj Pawar</actor>
+      <actor>Sakshi Gandhi</actor>
+      <actor>Vipul Kale</actor>
+      <actor>Akshay S Patil</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B01DDDE6A9FA9ED5C1F000FE79AE819918F44885B.jpg"/>
+    <episode-num system="xmltv_ns">.210.</episode-num>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts955">
+    <title lang="en">Constable Manju</title>
+    <desc lang="en">E91- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
+    <credits>
+      <actor>Monica Rathi</actor>
+      <actor>Vaibhav Kadam</actor>
+      <actor>Rahul Magdum</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
+    <episode-num system="xmltv_ns">.90.</episode-num>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E49- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts955">
+    <title lang="en">Sawali Hoin Sukhachi</title>
+    <desc lang="en">E287- A polite lady gets constantly mistreated by a family which affects her self-confidence.</desc>
+    <credits>
+      <actor>Seema Kulkarni</actor>
+      <actor>Aarambhi</actor>
+      <actor>Ronak Shinde</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C80990C00A790790BE4B31AF914DDCDB7BBC92C0.jpg"/>
+    <episode-num system="xmltv_ns">.286.</episode-num>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts955">
+    <title lang="en">Premas Rang Yave</title>
+    <desc lang="en">E437- Akshara who is adored by everyone crosses path with Sundar, who hails from a rich family.</desc>
+    <credits>
+      <actor>Amita Kulkarni</actor>
+      <actor>Sarika Nawathe</actor>
+      <actor>Abhijeet Chavan</actor>
+      <actor>Gauri Kulkarni</actor>
+      <actor>Latika Sawant</actor>
+      <actor>Leena Athavaledatar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EF5F7BE8C0B15DEE9217126FD86A289E75E4C562.jpg"/>
+    <episode-num system="xmltv_ns">.436.</episode-num>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts955">
+    <title lang="en">Sundari</title>
+    <desc lang="en">E879- When society judges a woman based on her complexion, she must find a way to fight back.</desc>
+    <credits>
+      <actor>Swati Limaye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2BD355388DB8B23FEBEEB9F99545BF78C0A8707Y.jpg"/>
+    <episode-num system="xmltv_ns">.878.</episode-num>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts955">
+    <title lang="en">Tujhi Majhi Jamali Jodi</title>
+    <desc lang="en">E181- A rich man falls for a middle-class woman but societal differences challenge their love.</desc>
+    <credits>
+      <actor>Asmita Deshmukh</actor>
+      <actor>Sanchit Chaudhari</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/736518614290E7AB509D0C1D21C4D71DAA10E0FDU.jpg"/>
+    <episode-num system="xmltv_ns">.180.</episode-num>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts955">
+    <title lang="en">Aadishakti</title>
+    <desc lang="en">E49- Aaditi, the daughter of parents with contrasting characters, grows up to be a brave girl.</desc>
+    <credits>
+      <actor>Pallavi Patil</actor>
+      <actor>Suyash Tilak</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22390E256F0661C82F960CE92D16A01F1DDFEE599.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts955">
+    <title lang="en">Constable Manju</title>
+    <desc lang="en">E91- An altruistic village girl appointed as a constable encounters a benevolent criminal.</desc>
+    <credits>
+      <actor>Monica Rathi</actor>
+      <actor>Vaibhav Kadam</actor>
+      <actor>Rahul Magdum</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/113CF3E7807478592270EB66EACCFF5681884E7DR.jpg"/>
+    <episode-num system="xmltv_ns">.90.</episode-num>
   </programme>
 </tv>

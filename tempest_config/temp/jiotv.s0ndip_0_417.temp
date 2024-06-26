@@ -3,128 +3,6 @@
   <channel id="417">
     <display-name lang="en">J Movies</display-name>
   </channel>
-  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="417">
-    <title lang="en">Captain Prabhakaran</title>
-    <desc lang="en">When Prabhakaran, an officer of the Indian Forest Service, is sent to Sathyamangalam to arrest a notorious criminal named Veerabhadran, he decides to avenge his friend's murder.</desc>
-    <credits>
-      <director>R K Selvamani</director>
-      <actor>Vijayakanth</actor>
-      <actor>Sarath Kumar</actor>
-      <actor>M N Nambiar</actor>
-      <actor>Rupini</actor>
-      <actor>Ramya Krishnan</actor>
-      <actor>Mansoor Ali Khan</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417003.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="417">
-    <title lang="en">Annai Oru Aalayam</title>
-    <desc lang="en">A young man makes a living by trapping and selling wild animals, much to his mother's disapproval. However, a personal tragedy leads him to turn over a new leaf.</desc>
-    <credits>
-      <director>R Thyagaraajan</director>
-      <actor>Rajinikanth</actor>
-      <actor>Sripriya</actor>
-      <actor>Anjali Devi</actor>
-      <actor>Mohan Babu</actor>
-      <actor>Major Sundarrajan</actor>
-      <actor>S A Ashokan</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417004.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="417">
-    <title lang="en">Neram Nalla Irukku</title>
-    <desc lang="en">Ramarajan, a doctor by profession, falls in love with a woman named Jyothi. She reciprocates his feelings but is held back by her evil uncle, who tries to create a rift in their relationship.</desc>
-    <credits>
-      <director>Manoj Kumar</director>
-      <actor>Ramarajan</actor>
-      <actor>Nirosha</actor>
-      <actor>Pandiarajan</actor>
-      <actor>Mohan</actor>
-      <actor>Janagaraj</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417005.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625190000 +0530" channel="417">
-    <title lang="en">Naga Bandham</title>
-    <desc lang="en">Lakshmi, an ardent devotee of a snake Goddess, gets married to Krishnan, an honest man. However, her marriage runs into trouble due to her mother-in-law, and the snake Goddess comes to her aid.</desc>
-    <credits>
-      <director>Mani</director>
-      <actor>Vinaya Prasad</actor>
-      <actor>Master Jithin</actor>
-      <actor>Dubbing Janaki</actor>
-      <actor>Sree Lalitha</actor>
-      <actor>Shobha Raghavendra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417006.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625223000 +0530" channel="417">
-    <title lang="en">Janakiraman</title>
-    <desc lang="en">Two brothers who are sworn to bachelorhood are tricked into agreeing to marry their uncle's daughters but confusion arises when four brides turn up dressed alike at the venue.</desc>
-    <credits>
-      <director>Sundar C.</director>
-      <actor>Sarathkumar</actor>
-      <actor>Nagma</actor>
-      <actor>Rambha</actor>
-      <actor>Ponnambalam</actor>
-      <actor>R. Sundarrajan</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417007.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240626000000 +0530" channel="417">
-    <title lang="en">Roshakkari</title>
-    <desc lang="en">Raghu gets married to Sita against her rich father's wish while inheriting all the wealth owned by his father-in-law. This destroys the relationship between him and his family.</desc>
-    <credits>
-      <director>Madurai Thirumaran</director>
-      <actor>Muthuraman</actor>
-      <actor>K.R.Vijaya</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625417008.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626013000 +0530" channel="417">
-    <title lang="en">Roshakkari</title>
-    <desc lang="en">Raghu gets married to Sita against her rich father's wish while inheriting all the wealth owned by his father-in-law. This destroys the relationship between him and his family.</desc>
-    <credits>
-      <director>Madurai Thirumaran</director>
-      <actor>Muthuraman</actor>
-      <actor>K.R.Vijaya</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626417000.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626040000 +0530" channel="417">
-    <title lang="en">Oru Kai Osai</title>
-    <desc lang="en">A man loses his voice after his mother's shocking death. Later, he falls in love with a doctor, who comes to practise in his village and helps everyone.</desc>
-    <credits>
-      <director>K. Bhagyaraj</director>
-      <actor>K. Bhagyaraj</actor>
-      <actor>Ashwini</actor>
-      <actor>K K Soundar</actor>
-      <actor>Kovai Senthil</actor>
-      <actor>Kallapetti Singaram</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626417001.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626070000 +0530" channel="417">
-    <title lang="en">Naga Bandham</title>
-    <desc lang="en">Lakshmi, an ardent devotee of a snake Goddess, gets married to Krishnan, an honest man. However, her marriage runs into trouble due to her mother-in-law, and the snake Goddess comes to her aid.</desc>
-    <credits>
-      <director>Mani</director>
-      <actor>Vinaya Prasad</actor>
-      <actor>Master Jithin</actor>
-      <actor>Dubbing Janaki</actor>
-      <actor>Sree Lalitha</actor>
-      <actor>Shobha Raghavendra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626417002.jpg"/>
-  </programme>
   <programme start="20240626070000 +0530" stop="20240626100000 +0530" channel="417">
     <title lang="en">Janakiraman</title>
     <desc lang="en">Two brothers who are sworn to bachelorhood are tricked into agreeing to marry their uncle's daughters but confusion arises when four brides turn up dressed alike at the venue.</desc>
@@ -197,5 +75,220 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626417007.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240627000000 +0530" channel="417">
+    <title lang="en">Thiku Theriyadha Kattil</title>
+    <desc lang="en">A couple undertake a trip to a temple through a dense forest, wherein their car breaks down and their daughter goes missing. While looking for her, they encounter various experiences.</desc>
+    <credits>
+      <director>N C Chakravarthy</director>
+      <actor>Jayalalitha</actor>
+      <actor>Muthuraman</actor>
+      <actor>Nagesh</actor>
+      <actor>V K Ramasamy</actor>
+      <actor>Baby Sumathi</actor>
+      <actor>Lakshmi</actor>
+      <actor>Vennira Aadai Murthy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626417008.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627013000 +0530" channel="417">
+    <title lang="en">Thiku Theriyadha Kattil</title>
+    <desc lang="en">A couple undertake a trip to a temple through a dense forest, wherein their car breaks down and their daughter goes missing. While looking for her, they encounter various experiences.</desc>
+    <credits>
+      <director>N C Chakravarthy</director>
+      <actor>Jayalalitha</actor>
+      <actor>Muthuraman</actor>
+      <actor>Nagesh</actor>
+      <actor>V K Ramasamy</actor>
+      <actor>Baby Sumathi</actor>
+      <actor>Lakshmi</actor>
+      <actor>Vennira Aadai Murthy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417000.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627040000 +0530" channel="417">
+    <title lang="en">Neram Nalla Irukku</title>
+    <desc lang="en">Ramarajan, a doctor by profession, falls in love with a woman named Jyothi. She reciprocates his feelings but is held back by her evil uncle, who tries to create a rift in their relationship.</desc>
+    <credits>
+      <director>Manoj Kumar</director>
+      <actor>Ramarajan</actor>
+      <actor>Nirosha</actor>
+      <actor>Pandiarajan</actor>
+      <actor>Mohan</actor>
+      <actor>Janagaraj</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417001.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627070000 +0530" channel="417">
+    <title lang="en">Oru Thaai Makkal</title>
+    <desc lang="en">A rich man adopts one of the twin sons of his maid after his own child dies. Fate brings the brothers face to face when they both fall in love with the same woman.</desc>
+    <credits>
+      <director>P Neelakandan</director>
+      <actor>M. G. Ramachandran</actor>
+      <actor>J Jayalalitha</actor>
+      <actor>R. Muthuraman</actor>
+      <actor>M.N. Nambiar</actor>
+      <actor>S A Ashokan</actor>
+      <actor>V K Ramasamy</actor>
+      <actor>Cho Ramasawamy</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417002.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627100000 +0530" channel="417">
+    <title lang="en">Oru Kaidhiyin Diary</title>
+    <desc lang="en">Though David is loyal to Suryaprakash, a politician, he rapes and kills David's wife and sends him to jail. David comes back from jail, after serving life imprisonment, to exact his revenge.</desc>
+    <credits>
+      <director>Bharathi Rajaa</director>
+      <actor>Kamal Haasan</actor>
+      <actor>Revathy</actor>
+      <actor>Radha</actor>
+      <actor>Janagaraj</actor>
+      <actor>Malaysia Vasudevan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417003.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627130000 +0530" channel="417">
+    <title lang="en">Kallukkul Eeram</title>
+    <desc lang="en">A film crew comes to shoot in a village. Two girls fall in love with the director and hero of the film. However, a series of events follow that changes their lives forever.</desc>
+    <credits>
+      <director>P S Nivas</director>
+      <actor>P Bharathiraja</actor>
+      <actor>Betha Sudhakar</actor>
+      <actor>Aruna</actor>
+      <actor>Vijayashanti</actor>
+      <actor>Vennira Aadai Nirmala</actor>
+      <actor>Goundamani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417004.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627160000 +0530" channel="417">
+    <title lang="en">Meenava Nanban</title>
+    <desc lang="en">Kumaran, a daring and adventurous man, comes to help the fishermen, who were being exploited by Nagaraj, a greedy man.</desc>
+    <credits>
+      <director>C V Sridhar</director>
+      <actor>MGR</actor>
+      <actor>Latha</actor>
+      <actor>M N Nambiyar</actor>
+      <actor>Vennira Aadai Murthy</actor>
+      <actor>Sachu</actor>
+      <actor>V K Ramasamy</actor>
+      <actor>P S Veerappa</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417005.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627190000 +0530" channel="417">
+    <title lang="en">Kasthuri Maan</title>
+    <desc lang="en">Arun, a district collector, promises to marry Uma, who helped him clear his IAS exams. However, the situation turns grave when Uma lands in jail, unaware of what the future has in store for her.</desc>
+    <credits>
+      <director>A K Lohithadas</director>
+      <actor>Prasanna</actor>
+      <actor>Meera Jasmine</actor>
+      <actor>Shammi Thilakan</actor>
+      <actor>Sarath Babu</actor>
+      <actor>Geetha Ravishankar</actor>
+      <actor>Bharathi Kannan</actor>
+      <actor>V M C Haneefa</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417006.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627223000 +0530" channel="417">
+    <title lang="en">Chinna</title>
+    <desc lang="en">Chinna, a gangster, changes his way of life after he falls in love with Gayatri. However, he ends up in jail after he kills a gang leader in order to save Gayatri.</desc>
+    <credits>
+      <director>Sundar C</director>
+      <actor>Arjun</actor>
+      <actor>Sneha</actor>
+      <actor>Vijayakumar</actor>
+      <actor>Vikramadithya</actor>
+      <actor>Livingston</actor>
+      <actor>Mansoor Ali Khan</actor>
+      <actor>Ponnambalam</actor>
+      <actor>Vinu Chakravarthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417007.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240628000000 +0530" channel="417">
+    <title lang="en">Raja Rajeshwari</title>
+    <desc lang="en">Movie starring R Muthuraman, Sujatha, Srikanth, Aparna and directed by Umaprasad Maitra.</desc>
+    <credits>
+      <director>N Sambandam</director>
+      <actor>Muthuraman</actor>
+      <actor>Sujatha</actor>
+      <actor>Srikanth</actor>
+      <actor>Aparna</actor>
+      <actor>Surulirajan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627417008.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628013000 +0530" channel="417">
+    <title lang="en">Raja Rajeshwari</title>
+    <desc lang="en">Movie starring R Muthuraman, Sujatha, Srikanth, Aparna and directed by Umaprasad Maitra.</desc>
+    <credits>
+      <director>N Sambandam</director>
+      <actor>Muthuraman</actor>
+      <actor>Sujatha</actor>
+      <actor>Srikanth</actor>
+      <actor>Aparna</actor>
+      <actor>Surulirajan</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628417000.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628040000 +0530" channel="417">
+    <title lang="en">Moondravadhu Kann</title>
+    <desc lang="en">Priya, a rich girl, tries to elope with her lover, Sundar, and fails. Later, her parents lock her up in her bedroom where she witnesses her neighbour murdering his wife.</desc>
+    <credits>
+      <director>Manivannan</director>
+      <actor>Sarath Kumar</actor>
+      <actor>Nizhalgal Ravi</actor>
+      <actor>Monisha</actor>
+      <actor>Srividya</actor>
+      <actor>Raja</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628417001.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628070000 +0530" channel="417">
+    <title lang="en">Kasthuri Maan</title>
+    <desc lang="en">Arun, a district collector, promises to marry Uma, who helped him clear his IAS exams. However, the situation turns grave when Uma lands in jail, unaware of what the future has in store for her.</desc>
+    <credits>
+      <director>A K Lohithadas</director>
+      <actor>Prasanna</actor>
+      <actor>Meera Jasmine</actor>
+      <actor>Shammi Thilakan</actor>
+      <actor>Sarath Babu</actor>
+      <actor>Geetha Ravishankar</actor>
+      <actor>Bharathi Kannan</actor>
+      <actor>V M C Haneefa</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628417002.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628100000 +0530" channel="417">
+    <title lang="en">Chinna</title>
+    <desc lang="en">Chinna, a gangster, changes his way of life after he falls in love with Gayatri. However, he ends up in jail after he kills a gang leader in order to save Gayatri.</desc>
+    <credits>
+      <director>Sundar C</director>
+      <actor>Arjun</actor>
+      <actor>Sneha</actor>
+      <actor>Vijayakumar</actor>
+      <actor>Vikramadithya</actor>
+      <actor>Livingston</actor>
+      <actor>Mansoor Ali Khan</actor>
+      <actor>Ponnambalam</actor>
+      <actor>Vinu Chakravarthi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628417003.jpg"/>
   </programme>
 </tv>

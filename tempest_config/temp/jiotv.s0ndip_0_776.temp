@@ -3,294 +3,6 @@
   <channel id="776">
     <display-name lang="en">Bhakti TV</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="776">
-    <title lang="en">Sri Durga Suprabatham</title>
-    <desc lang="en">A comprehensive compilation of devotional songs sung by various artists in praise of Goddess Durga is played in succession.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776011.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="776">
-    <title lang="en">Sri Lalitha Sahasranama Sthotram</title>
-    <desc lang="en">The recitation of 'Lalitha Sahasranamam', a Hindu hymn of praise, in which Goddess Lalitha, another form of Goddess Parvati, is referred to by one thousand names of Goddess Lalitha.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776012.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="776">
-    <title lang="en">Hanuman Chalisa</title>
-    <desc lang="en">Devotees gather and recite the Hanuman Chalisa, which is a set of devotional hymns in praise of Lord Hanuman, the son of wind-god Vayu.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776013.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="776">
-    <title lang="en">Somnath Prabatha Harathi Live</title>
-    <desc lang="en">Priests perform a religious ceremony at the Somnath Temple, the Shrine Eternal, an important pilgrimage site located in Gujarat, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776014.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="776">
-    <title lang="en">Sthotra Maalika</title>
-    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776015.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="776">
-    <title lang="en">Pratyaksha Darsanam</title>
-    <desc lang="en">Religious leaders conduct the daily rituals and chant verses from holy text while devotees offer prayers to the temple deity at Andhra Pradesh.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776016.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="776">
-    <title lang="en">Punyakshetram</title>
-    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776017.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776018.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="776">
-    <title lang="en">Maruthi Anu Graham Live</title>
-    <desc lang="en">A renowned astrologer predicts the future of the people based on their horoscopes and offers solutions to tackle the effects of planetary transitions on their birth charts, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776019.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="776">
-    <title lang="en">Rudrakshalu Sandehalu Live</title>
-    <desc lang="en">An expert recommends 'rudrakshas' to the callers, in order to help them solve their issues and bring positive change in their lives, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776020.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="776">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776021.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="776">
-    <title lang="en">Dharma Sandehalu</title>
-    <desc lang="en">The host invites eminent Vedic scholars and has a detailed discussion with them regarding various aspects of religion and the philosophical significance of Hindu rituals.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776022.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="776">
-    <title lang="en">Naga Siddhi - Live</title>
-    <desc lang="en">A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a life of faith, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776023.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="776">
-    <title lang="en">Shirdi Sai Madhyana Harthi Live</title>
-    <desc lang="en">Religious leaders and devotees come together to sing devotional hymns and chant verses from sacred scriptures in praise of the Almighty, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776024.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776025.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776026.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="776">
-    <title lang="en">Samavedam Pravachanam</title>
-    <desc lang="en">A religious leader delivers discourses on the Sama Veda, one of the ancient Hindu scriptures, to a gathering of devotees in order to inspire them to follow the principles in their lives.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776027.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="776">
-    <title lang="en">Chaganti Pravachanam</title>
-    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776028.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776029.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="776">
-    <title lang="en">Bhakthi Visheshalu</title>
-    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776030.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="776">
-    <title lang="en">Rjr Hospitals</title>
-    <desc lang="en">A show focussing on aspects of one's health and wellbeing.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776031.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="776">
-    <title lang="en">Ananda Siddi Live</title>
-    <desc lang="en">An experienced religious leader speaks at length on various tantras, which are important texts in Hinduism, and their impact on one's life, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776032.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="776">
-    <title lang="en">Punyakshetram</title>
-    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776033.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="776">
-    <title lang="en">Sri Subramanya Sahasra Sthotram</title>
-    <desc lang="en">Religious leaders and devotees come together to chant devotional verses and to offer their prayers in praise of the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776034.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="776">
-    <title lang="en">Hanuman Chalisa</title>
-    <desc lang="en">Devotees gather and recite the Hanuman Chalisa, which is a set of devotional hymns in praise of Lord Hanuman, the son of wind-god Vayu.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776035.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="776">
-    <title lang="en">Sri Lalitha Sahasranama Sthotram</title>
-    <desc lang="en">The recitation of 'Lalitha Sahasranamam', a Hindu hymn of praise, in which Goddess Lalitha, another form of Goddess Parvati, is referred to by one thousand names of Goddess Lalitha.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776036.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="776">
-    <title lang="en">Sri Anjaneya Sahasra Nama Sthotram</title>
-    <desc lang="en">A rendering of a hymn constituting one thousand exalted names of Lord Hanuman is telecast in order to invoke the spirit of strength and devotion.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776037.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="776">
-    <title lang="en">Somnath Sandhya Harathi - Live</title>
-    <desc lang="en">Numerous devotees gather to perform a religious ritual at the Somnath temple situated in Gujarat and seek the blessings of a popular deity, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776038.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776039.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776040.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="776">
-    <title lang="en">Chaganti Pravachanam</title>
-    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776041.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776042.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776043.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="776">
-    <title lang="en">Bhakthi Visheshalu</title>
-    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776044.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="776">
-    <title lang="en">Ujjain Shej Harathi Live</title>
-    <desc lang="en">Spiritual leaders and devotees participate in sacred rituals while reciting holy hymns to seek blessings from an Indian saint, live.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776045.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="776">
-    <title lang="en">Nivedhana</title>
-    <desc lang="en">A comprehensive compilation of popular melodious devotional songs sung by renowned classic singers in praise of different gods and goddesses.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776046.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="776">
-    <title lang="en">Sthotra Maalika</title>
-    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625776047.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="776">
-    <title lang="en">Punyakshetram</title>
-    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="776">
-    <title lang="en">Bhakti TV Special</title>
-    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="776">
-    <title lang="en">Dharma Sandehalu</title>
-    <desc lang="en">The host invites eminent Vedic scholars and has a detailed discussion with them regarding various aspects of religion and the philosophical significance of Hindu rituals.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="776">
-    <title lang="en">Bhakthi Visheshalu</title>
-    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="776">
-    <title lang="en">Sthotra Maalika</title>
-    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="776">
-    <title lang="en">Punyakshetram</title>
-    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="776">
-    <title lang="en">Chaganti Pravachanam</title>
-    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="776">
-    <title lang="en">Samavedam Pravhanam</title>
-    <desc lang="en">A religious leader delivers discourses on the Sama Veda, one of the ancient Hindu scriptures and encourages followers to reflect on the same.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776008.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="776">
-    <title lang="en">Sthotra Maalika</title>
-    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776009.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="776">
-    <title lang="en">Archana</title>
-    <desc lang="en">Viewers are offered a spiritual start to their day with an update on the planetary movements, their impact, and the significance of various religious rituals and chanting of hymns.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776010.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="776">
     <title lang="en">Narayana Sthotram / Surya Stuti</title>
     <desc lang="en">This program features the rendering of Sri Narayana Stotram, a Sanskrit hymn written by the great ancient saint, Shankaracharya.</desc>
@@ -506,5 +218,413 @@
     <desc lang="en">A comprehensive compilation of popular melodious devotional songs sung by renowned classic singers in praise of different gods and goddesses.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776046.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626776047.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="776">
+    <title lang="en">Dharma Sandehalu</title>
+    <desc lang="en">The host invites eminent Vedic scholars and has a detailed discussion with them regarding various aspects of religion and the philosophical significance of Hindu rituals.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="776">
+    <title lang="en">Bhakthi Visheshalu</title>
+    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="776">
+    <title lang="en">Chaganti Pravachanam</title>
+    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="776">
+    <title lang="en">Samavedam Pravhanam</title>
+    <desc lang="en">A religious leader delivers discourses on the Sama Veda, one of the ancient Hindu scriptures and encourages followers to reflect on the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776008.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776009.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="776">
+    <title lang="en">Archana</title>
+    <desc lang="en">Viewers are offered a spiritual start to their day with an update on the planetary movements, their impact, and the significance of various religious rituals and chanting of hymns.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776010.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="776">
+    <title lang="en">Narayana Sthotram / Surya Stuti</title>
+    <desc lang="en">This program features the rendering of Sri Narayana Stotram, a Sanskrit hymn written by the great ancient saint, Shankaracharya.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776011.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="776">
+    <title lang="en">Sadguru Sthotram</title>
+    <desc lang="en">A comprehensive compilation of various devotional songs in praise of Sri Sai Baba of Shirdi sung by priests and devotees.</desc>
+    <credits>
+      <director>P S Narayana</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776012.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="776">
+    <title lang="en">Sai Chalisa</title>
+    <desc lang="en">A religious leader chants the Sai Chalisa, a devotional hymn in praise of Sai Baba, to make the devotees feel connected with the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776013.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="776">
+    <title lang="en">Somnath Prabatha Harathi Live</title>
+    <desc lang="en">Priests perform a religious ceremony at the Somnath Temple, the Shrine Eternal, an important pilgrimage site located in Gujarat, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776014.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776015.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="776">
+    <title lang="en">Pratyaksha Darsanam</title>
+    <desc lang="en">Religious leaders conduct the daily rituals and chant verses from holy text while devotees offer prayers to the temple deity at Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776016.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776017.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776018.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="776">
+    <title lang="en">Swargaseema Developers</title>
+    <desc lang="en">A real estate developer offers a preview of their plots and upcoming projects available for sale in and around the city.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776019.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="776">
+    <title lang="en">Sai Vaasthu - Live</title>
+    <desc lang="en">In a live telecast, renowned Vastu Shastra experts resolve the queries of viewers on how to plan the layout of their house telephonically.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776020.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="776">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776021.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="776">
+    <title lang="en">Dharma Sandehalu</title>
+    <desc lang="en">The host invites eminent Vedic scholars and has a detailed discussion with them regarding various aspects of religion and the philosophical significance of Hindu rituals.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776022.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="776">
+    <title lang="en">Naga Siddhi - Live</title>
+    <desc lang="en">A religious leader provides a detailed discourse on various spiritual teachings to devotees and encourages them to lead a life of faith, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776023.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="776">
+    <title lang="en">Shirdi Sai Madhyana Harthi Live</title>
+    <desc lang="en">Religious leaders and devotees come together to sing devotional hymns and chant verses from sacred scriptures in praise of the Almighty, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776024.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776025.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776026.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="776">
+    <title lang="en">Samavedam Pravachanam</title>
+    <desc lang="en">A religious leader delivers discourses on the Sama Veda, one of the ancient Hindu scriptures, to a gathering of devotees in order to inspire them to follow the principles in their lives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776027.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="776">
+    <title lang="en">Chaganti Pravachanam</title>
+    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776028.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776029.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="776">
+    <title lang="en">Bhakthi Visheshalu</title>
+    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776030.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="776">
+    <title lang="en">Rjr Hospitals</title>
+    <desc lang="en">A show focussing on aspects of one's health and wellbeing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776031.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="776">
+    <title lang="en">Ananda Siddi Live</title>
+    <desc lang="en">An experienced religious leader speaks at length on various tantras, which are important texts in Hinduism, and their impact on one's life, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776032.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776033.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="776">
+    <title lang="en">Sri Kanaka Dhara Sthotram</title>
+    <desc lang="en">Devotees and priests recite the 'Kanakadhara Stotram' composed by Adi Shankaracharya in praise of Goddess Lakshmi, which is believed to bring prosperity to those who sing it.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776034.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="776">
+    <title lang="en">Sai Chalisa</title>
+    <desc lang="en">A religious leader chants the Sai Chalisa, a devotional hymn in praise of Sai Baba, to make the devotees feel connected with the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776035.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="776">
+    <title lang="en">Sadguru Sthotram</title>
+    <desc lang="en">A comprehensive compilation of various devotional songs in praise of Sri Sai Baba of Shirdi sung by priests and devotees.</desc>
+    <credits>
+      <director>P S Narayana</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776036.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="776">
+    <title lang="en">Sri Dattatreya Sahasranama Sthotram</title>
+    <desc lang="en">A religious leader shares his wisdom and delivers a detailed discourse on various spiritual teachings to his devoted followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776037.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="776">
+    <title lang="en">Somnath Sandhya Harathi - Live</title>
+    <desc lang="en">Numerous devotees gather to perform a religious ritual at the Somnath temple situated in Gujarat and seek the blessings of a popular deity, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776038.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776039.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776040.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="776">
+    <title lang="en">Chaganti Pravachanam</title>
+    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776041.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776042.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776043.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="776">
+    <title lang="en">Bhakthi Visheshalu</title>
+    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776044.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="776">
+    <title lang="en">Ujjain Shej Harathi Live</title>
+    <desc lang="en">Spiritual leaders and devotees participate in sacred rituals while reciting holy hymns to seek blessings from an Indian saint, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776045.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="776">
+    <title lang="en">Nivedhana</title>
+    <desc lang="en">A comprehensive compilation of popular melodious devotional songs sung by renowned classic singers in praise of different gods and goddesses.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776046.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627776047.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="776">
+    <title lang="en">Bhakti TV Special</title>
+    <desc lang="en">A special devotional program featuring veteran philosophers reciting texts from the Vedas praising the Hindu Gods.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="776">
+    <title lang="en">Dharma Sandehalu</title>
+    <desc lang="en">The host invites eminent Vedic scholars and has a detailed discussion with them regarding various aspects of religion and the philosophical significance of Hindu rituals.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="776">
+    <title lang="en">Bhakthi Visheshalu</title>
+    <desc lang="en">The host shares the current updates related to festivals and other spiritual activities in the temples across Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="776">
+    <title lang="en">Chaganti Pravachanam</title>
+    <desc lang="en">Chaganti Koteswara Rao, a Hindu spiritual leader and speaker, delivers a discourse on religious texts and devotion and worship to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="776">
+    <title lang="en">Samavedam Pravhanam</title>
+    <desc lang="en">A religious leader delivers discourses on the Sama Veda, one of the ancient Hindu scriptures and encourages followers to reflect on the same.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776008.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776009.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="776">
+    <title lang="en">Archana</title>
+    <desc lang="en">Viewers are offered a spiritual start to their day with an update on the planetary movements, their impact, and the significance of various religious rituals and chanting of hymns.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776010.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="776">
+    <title lang="en">Sri Mahalakshmi Suprabatham</title>
+    <desc lang="en">Religious leaders and devotees sing a compilation of devotional songs and chant sacred hymns to seek the blessings of Goddess Lakshmi.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776011.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="776">
+    <title lang="en">Sri Lakshmi Sahasranama Sthotram</title>
+    <desc lang="en">The recitation of a hymn called 'Lakshmi Sahasranama Stotra', which contains one thousand and eight names by which Goddess Mahalakshmi is hailed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776012.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="776">
+    <title lang="en">Sri Kanaka Dhara Sthotram</title>
+    <desc lang="en">Devotees and priests recite the 'Kanakadhara Stotram' composed by Adi Shankaracharya in praise of Goddess Lakshmi, which is believed to bring prosperity to those who sing it.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776013.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="776">
+    <title lang="en">Somnath Prabatha Harathi Live</title>
+    <desc lang="en">Priests perform a religious ceremony at the Somnath Temple, the Shrine Eternal, an important pilgrimage site located in Gujarat, live.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776014.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628080000 +0530" channel="776">
+    <title lang="en">Sthotra Maalika</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and religious hymns, dedicated to various gods and goddesses, is played back-to-back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776015.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="776">
+    <title lang="en">Pratyaksha Darsanam</title>
+    <desc lang="en">Religious leaders conduct the daily rituals and chant verses from holy text while devotees offer prayers to the temple deity at Andhra Pradesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776016.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="776">
+    <title lang="en">Punyakshetram</title>
+    <desc lang="en">The host travels across the country to explore some of the most renowned temples and highlights their historical significance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628776017.jpg"/>
   </programme>
 </tv>

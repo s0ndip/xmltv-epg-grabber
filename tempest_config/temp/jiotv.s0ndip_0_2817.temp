@@ -3,192 +3,6 @@
   <channel id="2817">
     <display-name lang="en">Boogle Bangla</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625080000 +0530" channel="2817">
-    <title lang="en">Songkirton</title>
-    <desc lang="en">Several religious leaders and devotees come together to sing various devotional songs and hymns in praise of the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625080500 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817008.jpg"/>
-  </programme>
-  <programme start="20240625080500 +0530" stop="20240625093000 +0530" channel="2817">
-    <title lang="en">Out Now</title>
-    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817009.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625103000 +0530" channel="2817">
-    <title lang="en">Tolly Express</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817010.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625104500 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817011.jpg"/>
-  </programme>
-  <programme start="20240625104500 +0530" stop="20240625120000 +0530" channel="2817">
-    <title lang="en">Tolly Express</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817012.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625124000 +0530" channel="2817">
-    <title lang="en">Non Stop Hits</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817013.jpg"/>
-  </programme>
-  <programme start="20240625124000 +0530" stop="20240625124500 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817014.jpg"/>
-  </programme>
-  <programme start="20240625124500 +0530" stop="20240625130000 +0530" channel="2817">
-    <title lang="en">Gorom Mosla</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817015.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625135500 +0530" channel="2817">
-    <title lang="en">Out Now</title>
-    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817016.jpg"/>
-  </programme>
-  <programme start="20240625135500 +0530" stop="20240625140000 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817017.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625160000 +0530" channel="2817">
-    <title lang="en">Tolly Express</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817018.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625175500 +0530" channel="2817">
-    <title lang="en">Non Stop Hits</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817019.jpg"/>
-  </programme>
-  <programme start="20240625175500 +0530" stop="20240625180000 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817020.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625181500 +0530" channel="2817">
-    <title lang="en">Gorom Mosla</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817021.jpg"/>
-  </programme>
-  <programme start="20240625181500 +0530" stop="20240625190000 +0530" channel="2817">
-    <title lang="en">Out Now</title>
-    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817022.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2817">
-    <title lang="en">Non Stop Hits</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817023.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625202500 +0530" channel="2817">
-    <title lang="en">Photogolpo</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817024.jpg"/>
-  </programme>
-  <programme start="20240625202500 +0530" stop="20240625203000 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817025.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625213000 +0530" channel="2817">
-    <title lang="en">Tolly Express</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817026.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625215500 +0530" channel="2817">
-    <title lang="en">Tolly Talks</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817027.jpg"/>
-  </programme>
-  <programme start="20240625215500 +0530" stop="20240625220000 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817028.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="2817">
-    <title lang="en">Gorom Mosla</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817029.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240626000000 +0530" channel="2817">
-    <title lang="en">Chaya Chobi</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252817030.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="2817">
-    <title lang="en">Chaya Chobi</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626023000 +0530" channel="2817">
-    <title lang="en">Non Stop Hits</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817001.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="2817">
-    <title lang="en">Tolly Talks</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626030500 +0530" channel="2817">
-    <title lang="en">Final Cut</title>
-    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817003.jpg"/>
-  </programme>
-  <programme start="20240626030500 +0530" stop="20240626040000 +0530" channel="2817">
-    <title lang="en">Out Now</title>
-    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817004.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="2817">
-    <title lang="en">Gorom Mosla</title>
-    <desc lang="en">Magazine programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817005.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="2817">
-    <title lang="en">Tolly Express</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817006.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626080000 +0530" channel="2817">
     <title lang="en">Songkirton</title>
     <desc lang="en">Several religious leaders and devotees come together to sing various devotional songs and hymns in praise of the Almighty.</desc>
@@ -326,5 +140,257 @@
     <desc lang="en">Magazine programme.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817029.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0530" stop="20240627000000 +0530" channel="2817">
+    <title lang="en">Chaya Chobi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262817030.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="2817">
+    <title lang="en">Chaya Chobi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627023000 +0530" channel="2817">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817001.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="2817">
+    <title lang="en">Tolly Talks</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627030500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817003.jpg"/>
+  </programme>
+  <programme start="20240627030500 +0530" stop="20240627040000 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817004.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="2817">
+    <title lang="en">Gorom Mosla</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817005.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817006.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627080000 +0530" channel="2817">
+    <title lang="en">Songkirton</title>
+    <desc lang="en">Several religious leaders and devotees come together to sing various devotional songs and hymns in praise of the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817007.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627080500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817008.jpg"/>
+  </programme>
+  <programme start="20240627080500 +0530" stop="20240627093000 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817009.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627103000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817010.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627104500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817011.jpg"/>
+  </programme>
+  <programme start="20240627104500 +0530" stop="20240627120000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817012.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627124000 +0530" channel="2817">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817013.jpg"/>
+  </programme>
+  <programme start="20240627124000 +0530" stop="20240627124500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817014.jpg"/>
+  </programme>
+  <programme start="20240627124500 +0530" stop="20240627130000 +0530" channel="2817">
+    <title lang="en">Gorom Mosla</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817015.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627135500 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817016.jpg"/>
+  </programme>
+  <programme start="20240627135500 +0530" stop="20240627140000 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817017.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627160000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817018.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627175500 +0530" channel="2817">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817019.jpg"/>
+  </programme>
+  <programme start="20240627175500 +0530" stop="20240627180000 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817020.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627181500 +0530" channel="2817">
+    <title lang="en">Gorom Mosla</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817021.jpg"/>
+  </programme>
+  <programme start="20240627181500 +0530" stop="20240627190000 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817022.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="2817">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817023.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627202500 +0530" channel="2817">
+    <title lang="en">Photogolpo</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817024.jpg"/>
+  </programme>
+  <programme start="20240627202500 +0530" stop="20240627203000 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817025.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627213000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817026.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627215500 +0530" channel="2817">
+    <title lang="en">Tolly Talks</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817027.jpg"/>
+  </programme>
+  <programme start="20240627215500 +0530" stop="20240627220000 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817028.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="2817">
+    <title lang="en">Gorom Mosla</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817029.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240628000000 +0530" channel="2817">
+    <title lang="en">Chaya Chobi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272817030.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="2817">
+    <title lang="en">Chaya Chobi</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628023000 +0530" channel="2817">
+    <title lang="en">Non Stop Hits</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular Bollywood songs performed by renowned artists played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817001.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="2817">
+    <title lang="en">Tolly Talks</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628030500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817003.jpg"/>
+  </programme>
+  <programme start="20240628030500 +0530" stop="20240628040000 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817004.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="2817">
+    <title lang="en">Gorom Mosla</title>
+    <desc lang="en">Magazine programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817005.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="2817">
+    <title lang="en">Tolly Express</title>
+    <desc lang="en">The host provides detailed insights into the latest news stories and significant updates from the Bengali entertainment industry.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817006.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628080000 +0530" channel="2817">
+    <title lang="en">Songkirton</title>
+    <desc lang="en">Several religious leaders and devotees come together to sing various devotional songs and hymns in praise of the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817007.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628080500 +0530" channel="2817">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817008.jpg"/>
+  </programme>
+  <programme start="20240628080500 +0530" stop="20240628093000 +0530" channel="2817">
+    <title lang="en">Out Now</title>
+    <desc lang="en">A comprehensive composition of some of the most popular songs by talented music artists belonging to different labels played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282817009.jpg"/>
   </programme>
 </tv>

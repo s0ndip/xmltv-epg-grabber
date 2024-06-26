@@ -3,246 +3,6 @@
   <channel id="511">
     <display-name lang="en">Mh One News</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511006.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511007.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="511">
-    <title lang="en">Daati Maharaj</title>
-    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511008.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625083000 +0530" channel="511">
-    <title lang="en">News Bulletin Live</title>
-    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511009.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511010.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511011.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511012.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="511">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511013.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511014.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="511">
-    <title lang="en">News Live @ 11 AM</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511015.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511016.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="511">
-    <title lang="en">News Live @ 12 PM</title>
-    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511017.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511018.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="511">
-    <title lang="en">News @ 1 PM</title>
-    <desc lang="en">The presenter provides updates and developments on the latest social, economic and political news and events across the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511019.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511020.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="511">
-    <title lang="en">News Live @ 2 PM</title>
-    <desc lang="en">The host presents the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511021.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511022.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="511">
-    <title lang="en">News Live @ 3 PM</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511023.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511024.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="511">
-    <title lang="en">News @ 4 PM</title>
-    <desc lang="en">The host presents the latest news stories and developments surrounding various socio-economic and political issues around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511025.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511026.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="511">
-    <title lang="en">News Live @ 5 PM</title>
-    <desc lang="en">The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511027.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511028.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="511">
-    <title lang="en">Debate @ 6 PM</title>
-    <desc lang="en">The presenter hosts a panel of experts to discuss the latest news stories and developments surrounding various issues around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511029.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="511">
-    <title lang="en">Debate @ 6 PM</title>
-    <desc lang="en">The presenter hosts a panel of experts to discuss the latest news stories and developments surrounding various issues around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511030.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511031.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511032.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="511">
-    <title lang="en">Big Debate @ 8 PM</title>
-    <desc lang="en">The host invites renowned dignitaries to debate on current affairs transpiring across the nation and share relevant updates on their progress and impacts.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511033.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="511">
-    <title lang="en">Big Debate @ 8 PM</title>
-    <desc lang="en">The host invites renowned dignitaries to debate on current affairs transpiring across the nation and share relevant updates on their progress and impacts.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511034.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511035.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511036.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511037.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511038.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="511">
-    <title lang="en">Daati Maharaj</title>
-    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625511039.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511003.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="511">
-    <title lang="en">Danadan</title>
-    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="511">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511005.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="511">
     <title lang="en">Danadan</title>
     <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
@@ -440,5 +200,317 @@
     <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511038.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="511">
+    <title lang="en">Daati Maharaj</title>
+    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626511039.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511003.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511004.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511005.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511006.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511007.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="511">
+    <title lang="en">Daati Maharaj</title>
+    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511008.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627083000 +0530" channel="511">
+    <title lang="en">News Bulletin Live</title>
+    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511009.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511010.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511011.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511012.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="511">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511013.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511014.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="511">
+    <title lang="en">News Live @ 11 AM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511015.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511016.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="511">
+    <title lang="en">News Live @ 12 PM</title>
+    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511017.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511018.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="511">
+    <title lang="en">News @ 1 PM</title>
+    <desc lang="en">The presenter provides updates and developments on the latest social, economic and political news and events across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511019.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511020.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="511">
+    <title lang="en">News Live @ 2 PM</title>
+    <desc lang="en">The host presents the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511021.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511022.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="511">
+    <title lang="en">News Live @ 3 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511023.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511024.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="511">
+    <title lang="en">News @ 4 PM</title>
+    <desc lang="en">The host presents the latest news stories and developments surrounding various socio-economic and political issues around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511025.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511026.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="511">
+    <title lang="en">News Live @ 5 PM</title>
+    <desc lang="en">The host presents the latest news stories and developments surrounding various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511027.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511028.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="511">
+    <title lang="en">Debate @ 6 PM</title>
+    <desc lang="en">The presenter hosts a panel of experts to discuss the latest news stories and developments surrounding various issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511029.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="511">
+    <title lang="en">Debate @ 6 PM</title>
+    <desc lang="en">The presenter hosts a panel of experts to discuss the latest news stories and developments surrounding various issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511030.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511031.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511032.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="511">
+    <title lang="en">Big Debate @ 8 PM</title>
+    <desc lang="en">The host invites renowned dignitaries to debate on current affairs transpiring across the nation and share relevant updates on their progress and impacts.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511033.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="511">
+    <title lang="en">Big Debate @ 8 PM</title>
+    <desc lang="en">The host invites renowned dignitaries to debate on current affairs transpiring across the nation and share relevant updates on their progress and impacts.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511034.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511035.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511036.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511037.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511038.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="511">
+    <title lang="en">Daati Maharaj</title>
+    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627511039.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511003.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511005.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511006.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="511">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511007.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="511">
+    <title lang="en">Daati Maharaj</title>
+    <desc lang="en">Mahamandleshwar Daati Maharaj, a religious leader, provides a detailed discourse on various spiritual teachings to devoted followers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511008.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628083000 +0530" channel="511">
+    <title lang="en">News Bulletin Live</title>
+    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511009.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="511">
+    <title lang="en">Danadan</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest and most important political, socio-economic and sports news updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628511010.jpg"/>
   </programme>
 </tv>

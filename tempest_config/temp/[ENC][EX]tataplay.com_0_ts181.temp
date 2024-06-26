@@ -3,131 +3,143 @@
   <channel id="ts181">
     <display-name lang="en">Bhojpuri Cinema</display-name>
   </channel>
-  <programme start="20240624192300 +0000" stop="20240624223100 +0000" channel="ts181">
+  <programme start="20240625183000 +0000" stop="20240625203200 +0000" channel="ts181">
+    <title lang="en">Bhojpuriya Jhankaar</title>
+    <desc lang="en">A comprehensive compilation of top trending movie songs in Bhojpuri language are played back-to-back in order to entertain the viewers.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/27590BF40CC555153D4E459AE9171C236CC8FDD22.jpg"/>
+  </programme>
+  <programme start="20240625203200 +0000" stop="20240625223000 +0000" channel="ts181">
     <title lang="en">Bhojpuri Jhankar</title>
     <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4FF8066B38B51E9A8BFAE037048D75F79BD953P.jpg"/>
   </programme>
-  <programme start="20240624223100 +0000" stop="20240625023000 +0000" channel="ts181">
+  <programme start="20240625223000 +0000" stop="20240626023000 +0000" channel="ts181">
     <title lang="en">Ghare Ayili Sato Bahiniyan</title>
     <desc lang="en">Ghare Ayili Sato Bahiniyan</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/27BD4249C37C7AA627DBC03ADC0063A877EC3FBC5.jpg"/>
   </programme>
-  <programme start="20240625023000 +0000" stop="20240625043100 +0000" channel="ts181">
+  <programme start="20240626023000 +0000" stop="20240626043400 +0000" channel="ts181">
     <title lang="en">Bhojpuri Jhankar</title>
     <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4FF8066B38B51E9A8BFAE037048D75F79BD953P.jpg"/>
   </programme>
-  <programme start="20240625043100 +0000" stop="20240625073600 +0000" channel="ts181">
-    <title lang="en">Vivah 3</title>
-    <desc lang="en">Raja falls in love with a woman, but she rejects his proposal after learning that he is uneducated. When Raja's father gets him engaged to another woman, Raja's ex-lover gets disheartened.</desc>
+  <programme start="20240626043400 +0000" stop="20240626072000 +0000" channel="ts181">
+    <title lang="en">Service Wali Bahuriya</title>
+    <desc lang="en">Anand's mother demands a dowry from his future wife, Kajal, a teacher. However, her perspective changes when she learns that Kajal sends her earnings to support her own parents.</desc>
     <credits>
-      <actor>Pradeep Pandey</actor>
-      <actor>Amrapali Dubey</actor>
-      <actor>Sanyukta Rai</actor>
-      <actor>Sanjay Pandey</actor>
-      <actor>Awadhesh Mishra</actor>
-      <actor>Rohit Singh Matru</actor>
+      <actor>Kajal Raghavani</actor>
+      <actor>Aditya Ojha</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D531879AEBE679E6275ADC94DF808F6FB2C571314.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E400BD25FF6AC341E97658542B8517B3E527B082W.jpg"/>
   </programme>
-  <programme start="20240625073600 +0000" stop="20240625102100 +0000" channel="ts181">
-    <title lang="en">Saas Athani Bahu Rupaiya</title>
-    <desc lang="en">Circumstances make Poorvi and Gaurav's mother lock horns with each other. Post marriage, they get possessive about taking care of Gaurav and face a tough time staying under one roof.</desc>
+  <programme start="20240626072000 +0000" stop="20240626073000 +0000" channel="ts181">
+    <title lang="en">Bhojpuri Jhankar</title>
+    <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4FF8066B38B51E9A8BFAE037048D75F79BD953P.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626102800 +0000" channel="ts181">
+    <title lang="en">Vardaan Banal Abhishap Ba Mayee</title>
+    <desc lang="en">Santoshi gains recognition for her beautiful singing voice. However, a famous singer becomes envious of Santoshi and conspires to eliminate her.</desc>
     <credits>
-      <actor>Vikrant Singh</actor>
+      <actor>Anshuman Singh</actor>
+      <actor>Shubhi Sharma</actor>
       <actor>Richa Dixit</actor>
-      <actor>J Neelam</actor>
-      <actor>Anita Rawat</actor>
-      <actor>Prakash Jais</actor>
       <actor>Santosh Shrivastav</actor>
+      <actor>Anita Rawat</actor>
+      <actor>Soniya Mishra</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EE37A55587201B6F29C04A88AB1A869F3E41A1BO.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01F1D7A8554FCACC396F3ACDC65EDD3C6D96EC10A.jpg"/>
   </programme>
-  <programme start="20240625102100 +0000" stop="20240625112600 +0000" channel="ts181">
+  <programme start="20240626102800 +0000" stop="20240626113100 +0000" channel="ts181">
     <title lang="en">Naach Re Patarki</title>
     <desc lang="en">A comprehensive compilation of melodious regional songs performed by talented singers and musicians is played in quick succession.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A55BAC052C200EA21C10D7726AB96DC6222D6B32H.jpg"/>
   </programme>
-  <programme start="20240625112600 +0000" stop="20240625142800 +0000" channel="ts181">
-    <title lang="en">Doli Saja Ke Rakhna</title>
-    <desc lang="en">The film revolves around the emotional relationship between father and son. However, for the sake of love, the latter breaks all the shackles of society.</desc>
+  <programme start="20240626113100 +0000" stop="20240626141000 +0000" channel="ts181">
+    <title lang="en">Saas Numbari Bahu Das Numbari</title>
+    <desc lang="en">A newly married bride, unversed in domestic responsibilities, endures relentless torment from her mother-in-law. However, when the atrocities become intolerable, she retaliates assertively.</desc>
     <credits>
-      <actor>Khesari Lal Yadav</actor>
-      <actor>Amrapali Dubey</actor>
-      <actor>Raksha Gupta</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AFA4E6FF3D0650514D4EA833C33B348C4286C72D.jpg"/>
-  </programme>
-  <programme start="20240625142800 +0000" stop="20240625175700 +0000" channel="ts181">
-    <title lang="en">Vivah</title>
-    <desc lang="en">Anand thinks that he is getting married to the love of his life, but he is tricked into marrying another woman. Unable to accept this injustice, he disowns his newly-wed wife.</desc>
-    <credits>
-      <actor>Pradeep Pandey Chintu</actor>
-      <actor>Sanchita Banerjee</actor>
-      <actor>Priti Biswas</actor>
-      <actor>Aakanksha Awasthi</actor>
-      <actor>Awdhesh Mishra</actor>
+      <actor>Kajal Raghwani</actor>
+      <actor>Ritesh Upadhyay</actor>
+      <actor>Kiran Yadav</actor>
+      <actor>Manoj Tiger</actor>
+      <actor>Rinku Bharti</actor>
+      <actor>Sweety Singh Rajput</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C17F4CCA817D48BC4E55FA89C5BA7654338F914K.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2BF36D67E8DC03DBDD1B8A3198D852EE0CD654CT.jpg"/>
   </programme>
-  <programme start="20240625175700 +0000" stop="20240625183000 +0000" channel="ts181">
+  <programme start="20240626141000 +0000" stop="20240626143100 +0000" channel="ts181">
     <title lang="en">Bhojpuri Jhankar</title>
     <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4FF8066B38B51E9A8BFAE037048D75F79BD953P.jpg"/>
   </programme>
-  <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts181">
+  <programme start="20240626143100 +0000" stop="20240626172700 +0000" channel="ts181">
+    <title lang="en">Yashoda Ka Nandlala</title>
+    <desc lang="en">A woman struggling to conceive gets slandered by her mother-in-law. However, the situation takes a drastic turn when she gets a chance to adopt an infant.</desc>
+    <credits>
+      <actor>Gaurav Jha</actor>
+      <actor>Kajal Raghwani</actor>
+      <actor>Raksha Gupta</actor>
+      <actor>Lalit Upadhyay</actor>
+      <actor>J Neelam</actor>
+      <actor>Sonia Mishra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CDD6DD8ED055BEBC28B601918D049F0D37A3025X.jpg"/>
+  </programme>
+  <programme start="20240626172700 +0000" stop="20240626183000 +0000" channel="ts181">
+    <title lang="en">Bhojpuri Jhankar</title>
+    <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4FF8066B38B51E9A8BFAE037048D75F79BD953P.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627003000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240625213000 +0000" stop="20240626003000 +0000" channel="ts181">
+  <programme start="20240627003000 +0000" stop="20240627033000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts181">
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts181">
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts181">
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts181">
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts181">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts181">
+  <programme start="20240627153000 +0000" stop="20240627213000 +0000" channel="ts181">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

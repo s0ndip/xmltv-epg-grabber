@@ -3,173 +3,6 @@
   <channel id="ts940">
     <display-name lang="en">SIRIKANNADA Alltime</display-name>
   </channel>
-  <programme start="20240624190000 +0000" stop="20240625003000 +0000" channel="ts940">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts940">
-    <title lang="en">N S Watch</title>
-    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts940">
-    <title lang="en">N S Watch</title>
-    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts940">
-    <title lang="en">N S Watch</title>
-    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts940">
-    <title lang="en">Karungali</title>
-    <desc lang="en">The host sheds light on the spiritual benefits of wearing ebony wood prayer beads and explains its natural therapeutic properties.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BE14CAB11325D4D5C6A73D6E7AD4E0E2B570037T.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts940">
-    <title lang="en">Karungali</title>
-    <desc lang="en">The host sheds light on the spiritual benefits of wearing ebony wood prayer beads and explains its natural therapeutic properties.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BE14CAB11325D4D5C6A73D6E7AD4E0E2B570037T.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts940">
-    <title lang="en">Jeevanamrutha</title>
-    <desc lang="en">E1606- Astrologer Dr Lakshmi Srinivas Guruji offers solutions for commonly expressed concerns through his expertise in mudra, mantra, tantra and yantra.</desc>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F11CB6561554C5E4159C0665FF9F7C638EB050B4Z.jpg"/>
-    <episode-num system="xmltv_ns">.1605.</episode-num>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts940">
-    <title lang="en">Revathi Weds Arjun</title>
-    <desc lang="en">E37-</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts940">
-    <title lang="en">Putmalli MBBS</title>
-    <desc lang="en">E37- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts940">
-    <title lang="en">Maya Bazar</title>
-    <desc lang="en">E37-</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts940">
-    <title lang="en">Nigooda Rahasya</title>
-    <desc lang="en">E75- The host explores various ancient temples and famous places in the country and reveals incredible and lesser-known facts about them.</desc>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B37F644F3AFA36A187D9116AFE62D5774D2C3839M.jpg"/>
-    <episode-num system="xmltv_ns">.74.</episode-num>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts940">
-    <title lang="en">Hasya Darbar</title>
-    <desc lang="en">S04 E29- People take turns to tell jokes, recount hilarious anecdotes and perform humorous skits as they participate in a thought-provoking debate.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/181CD5B9C4DE9EE11B4B3D6F109DE665B5C1043FS.jpg"/>
-    <episode-num system="xmltv_ns">3.28.</episode-num>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts940">
-    <title lang="en">Karna</title>
-    <desc lang="en">E37-</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E66C00434C407445CACBA110E294034FBB319B97P.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts940">
-    <title lang="en">Naarigondu Seere Live</title>
-    <desc lang="en">S02 E25- The host highlights the features of different saris and invites viewers to guess the prices with a chance to win the saris, live.</desc>
-    <category lang="en">Game Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CE0127B3992AB4243DE901C03CE4E2AA813C4F8H.jpg"/>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts940">
-    <title lang="en">Nammane Gruhalakshmi</title>
-    <desc lang="en">E32-</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3148A0ACCDAD8A9F6FEFF30552651409957ED27AL.jpg"/>
-    <episode-num system="xmltv_ns">.31.</episode-num>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625125700 +0000" channel="ts940">
-    <title lang="en">Movie - Kalagnana</title>
-    <desc lang="en">Movie - Kalagnana</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D1F71919D4C902E5F878F8625FC94799827253DDT.jpg"/>
-  </programme>
-  <programme start="20240625125700 +0000" stop="20240625132700 +0000" channel="ts940">
-    <title lang="en">Maya Bazar</title>
-    <desc lang="en">E38-</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625132700 +0000" stop="20240625135700 +0000" channel="ts940">
-    <title lang="en">Putmalli MBBS</title>
-    <desc lang="en">E38- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625135700 +0000" stop="20240625143000 +0000" channel="ts940">
-    <title lang="en">Revathi Weds Arjun</title>
-    <desc lang="en">E38-</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts940">
-    <title lang="en">Karna</title>
-    <desc lang="en">E38-</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E66C00434C407445CACBA110E294034FBB319B97P.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts940">
-    <title lang="en">Hasya Darbar</title>
-    <desc lang="en">S04 E30- People take turns to tell jokes, recount hilarious anecdotes and perform humorous skits as they participate in a thought-provoking debate.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/181CD5B9C4DE9EE11B4B3D6F109DE665B5C1043FS.jpg"/>
-    <episode-num system="xmltv_ns">3.29.</episode-num>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts940">
-    <title lang="en">Maya Bazar</title>
-    <desc lang="en">E38-</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts940">
-    <title lang="en">Putmalli MBBS</title>
-    <desc lang="en">E38- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts940">
-    <title lang="en">Revathi Weds Arjun</title>
-    <desc lang="en">E38-</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625190000 +0000" channel="ts940">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
   <programme start="20240625190000 +0000" stop="20240626003000 +0000" channel="ts940">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
@@ -340,6 +173,173 @@
     <episode-num system="xmltv_ns">.38.</episode-num>
   </programme>
   <programme start="20240626180000 +0000" stop="20240626190000 +0000" channel="ts940">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240627003000 +0000" channel="ts940">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts940">
+    <title lang="en">N S Watch</title>
+    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts940">
+    <title lang="en">N S Watch</title>
+    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts940">
+    <title lang="en">N S Watch</title>
+    <desc lang="en">The host showcases the features and price of a watch made by a consumer brand, which can be purchased from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5AA8403FB087BBDB9635FB90B6A39C1411E22A3W.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts940">
+    <title lang="en">Karungali</title>
+    <desc lang="en">The host sheds light on the spiritual benefits of wearing ebony wood prayer beads and explains its natural therapeutic properties.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BE14CAB11325D4D5C6A73D6E7AD4E0E2B570037T.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts940">
+    <title lang="en">Karungali</title>
+    <desc lang="en">The host sheds light on the spiritual benefits of wearing ebony wood prayer beads and explains its natural therapeutic properties.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BE14CAB11325D4D5C6A73D6E7AD4E0E2B570037T.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts940">
+    <title lang="en">Jeevanamrutha</title>
+    <desc lang="en">E1608- Astrologer Dr Lakshmi Srinivas Guruji offers solutions for commonly expressed concerns through his expertise in mudra, mantra, tantra and yantra.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F11CB6561554C5E4159C0665FF9F7C638EB050B4Z.jpg"/>
+    <episode-num system="xmltv_ns">.1607.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts940">
+    <title lang="en">Revathi Weds Arjun</title>
+    <desc lang="en">E39-</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts940">
+    <title lang="en">Putmalli MBBS</title>
+    <desc lang="en">E39- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts940">
+    <title lang="en">Maya Bazar</title>
+    <desc lang="en">E39-</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts940">
+    <title lang="en">Nigooda Rahasya</title>
+    <desc lang="en">E77- The host explores various ancient temples and famous places in the country and reveals incredible and lesser-known facts about them.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B37F644F3AFA36A187D9116AFE62D5774D2C3839M.jpg"/>
+    <episode-num system="xmltv_ns">.76.</episode-num>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627063000 +0000" channel="ts940">
+    <title lang="en">Hasya Darbar</title>
+    <desc lang="en">S04 E31- People take turns to tell jokes, recount hilarious anecdotes and perform humorous skits as they participate in a thought-provoking debate.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/181CD5B9C4DE9EE11B4B3D6F109DE665B5C1043FS.jpg"/>
+    <episode-num system="xmltv_ns">3.30.</episode-num>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts940">
+    <title lang="en">Karna</title>
+    <desc lang="en">E39-</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E66C00434C407445CACBA110E294034FBB319B97P.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627083000 +0000" channel="ts940">
+    <title lang="en">Naarigondu Seere Live</title>
+    <desc lang="en">S02 E27- The host highlights the features of different saris and invites viewers to guess the prices with a chance to win the saris, live.</desc>
+    <category lang="en">Game Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CE0127B3992AB4243DE901C03CE4E2AA813C4F8H.jpg"/>
+    <episode-num system="xmltv_ns">1.26.</episode-num>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627093000 +0000" channel="ts940">
+    <title lang="en">Nammane Gruhalakshmi</title>
+    <desc lang="en">E34-</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3148A0ACCDAD8A9F6FEFF30552651409957ED27AL.jpg"/>
+    <episode-num system="xmltv_ns">.33.</episode-num>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627125700 +0000" channel="ts940">
+    <title lang="en">Movie - Tamas</title>
+    <desc lang="en">Movie - Tamas</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/948F6F771F6830334F47887E10BC1D31F1B562A56.jpg"/>
+  </programme>
+  <programme start="20240627125700 +0000" stop="20240627132700 +0000" channel="ts940">
+    <title lang="en">Maya Bazar</title>
+    <desc lang="en">E40-</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627132700 +0000" stop="20240627135700 +0000" channel="ts940">
+    <title lang="en">Putmalli MBBS</title>
+    <desc lang="en">E40- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627135700 +0000" stop="20240627143000 +0000" channel="ts940">
+    <title lang="en">Revathi Weds Arjun</title>
+    <desc lang="en">E40-</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627153000 +0000" channel="ts940">
+    <title lang="en">Karna</title>
+    <desc lang="en">E40-</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E66C00434C407445CACBA110E294034FBB319B97P.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627163000 +0000" channel="ts940">
+    <title lang="en">Hasya Darbar</title>
+    <desc lang="en">S04 E66- People take turns to tell jokes, recount hilarious anecdotes and perform humorous skits as they participate in a thought-provoking debate.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/181CD5B9C4DE9EE11B4B3D6F109DE665B5C1043FS.jpg"/>
+    <episode-num system="xmltv_ns">3.65.</episode-num>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts940">
+    <title lang="en">Maya Bazar</title>
+    <desc lang="en">E40-</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C4B88946A55A48DF0A834BB52D53F2D75C3A759Q.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts940">
+    <title lang="en">Putmalli MBBS</title>
+    <desc lang="en">E40- A bright, cheerful girl struggles against the obstacles that life throws her way in order to realise her aspirations of becoming a doctor.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/286676009324150F78C4F5343CA4380347FD57C4X.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts940">
+    <title lang="en">Revathi Weds Arjun</title>
+    <desc lang="en">E40-</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90F263BA36E25BCD20AE24A5A7738849A1D716207.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627190000 +0000" channel="ts940">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

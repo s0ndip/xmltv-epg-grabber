@@ -3,308 +3,6 @@
   <channel id="ts76">
     <display-name lang="en">Udaya TV</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624233000 +0000" channel="ts76">
-    <title lang="en">Udaya Music</title>
-    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts76">
-    <title lang="en">Udaya Music</title>
-    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts76">
-    <title lang="en">Udaya Music</title>
-    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts76">
-    <title lang="en">Udaya Music</title>
-    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625020000 +0000" channel="ts76">
-    <title lang="en">Arunodaya</title>
-    <desc lang="en">A comprehensive compilation of melodious devotional songs from popular movies featuring talented artists is played in quick succession.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6719A51F3C072421F33D8BB7C2172296055E0C62Z.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625030000 +0000" channel="ts76">
-    <title lang="en">Madhura Munjane</title>
-    <desc lang="en">Madhura Munjane E102.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5947022D2B199917FAAA9DA29493AEE96CC9407BK.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts76">
-    <title lang="en">Comedy Time</title>
-    <desc lang="en">A comprehensive compilation of some of the best comedy and most hilarious scenes from Malayalam movies that leave audiences in splits.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC37E16C17BE1BD1D91C2ADA6E18A52B0C9FD2EO.jpg"/>
-    <episode-num system="xmltv_ns">.871.</episode-num>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625063000 +0000" channel="ts76">
-    <title lang="en">Movie - Annavru</title>
-    <desc lang="en">A young man from the slums becomes friends with a local don. The two must stand together against a newly-appointed collector who threatens their rule over the town.</desc>
-    <credits>
-      <actor>Ambareesh</actor>
-      <actor>Darshan</actor>
-      <actor>Kanika</actor>
-      <actor>Suhasini</actor>
-      <actor>Sumitra</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CED01F2B7E017FF224281AC49098DAAF8C4867F34.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts76">
-    <title lang="en">Shambhavi</title>
-    <desc lang="en">A young girl possesses the quality of transforming into a Goddess during the time of crisis in order to confront the evil and protect the victims.</desc>
-    <credits>
-      <actor>Rachana T B</actor>
-      <actor>Aishwarya Sindhogi</actor>
-      <actor>Harish T V</actor>
-      <actor>Vinay Gowda</actor>
-      <actor>Ambujakshi</actor>
-      <actor>Dali Rajesh</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99B0C97906C88F29162F4B99854C0F7C6A50D5D3V.jpg"/>
-    <episode-num system="xmltv_ns">.245.</episode-num>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts76">
-    <title lang="en">Shrimad Ramayana</title>
-    <desc lang="en">Rama, the prince of Ayodhya, goes into exile to keep his father's promise. Later, he wages war against Ravana, who abducts Sita, his wife.</desc>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D3C4FC2692705048BD1BD278F0205655FB67B4AX.jpg"/>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts76">
-    <title lang="en">Suryavamsha</title>
-    <desc lang="en">A series of unlawful, ruthless activities fester a region's peace, thereby inducing fear among the masses. However, the situation drastically shifts when a brave man steps in to fight evil.</desc>
-    <credits>
-      <actor>Aniruddha Jatkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32383185C28C15D2B04862433A74FE9314A20D003.jpg"/>
-    <episode-num system="xmltv_ns">.74.</episode-num>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts76">
-    <title lang="en">Sevanthi</title>
-    <desc lang="en">Fate brings Sevanthi, an orphan girl, closer to her past when she approaches Arjun, an advocate, to help her save her orphanage. Things take an unexpected turn when Arjun asks her to marry him.</desc>
-    <credits>
-      <actor>Pallavi Gowda</actor>
-      <actor>Shishir Shastry</actor>
-      <actor>Aishwarya Salimath</actor>
-      <actor>Sangeetha Anil</actor>
-      <actor>Bharathi Vishnuvardhan</actor>
-      <actor>Abhijit Singh</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E3D1B08A53E84A68FDFCC9AA41A2E34103A5BADR.jpg"/>
-    <episode-num system="xmltv_ns">.1543.</episode-num>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts76">
-    <title lang="en">Radhika</title>
-    <desc lang="en">Radhika, who works as a head nurse in a hospital, wants her siblings to flourish in their lives and tries to balance her own personal and professional commitments.</desc>
-    <credits>
-      <actor>Kavya Shastri</actor>
-      <actor>Sarath Kshatriya</actor>
-      <actor>Gayathri Prabhakar</actor>
-      <actor>Ravi Kalabrahma</actor>
-      <actor>Malathi Sarastha Pandey</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B037A30DF0E30C541553DB1D754E3F00D0FF6AAFF.jpg"/>
-    <episode-num system="xmltv_ns">.726.</episode-num>
-  </programme>
-  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts76">
-    <title lang="en">Janani</title>
-    <desc lang="en">An educated young woman must survive the tyrannical rules of her illiterate brothers-in-law while also navigating a volatile relationship with her husband.</desc>
-    <credits>
-      <actor>Varshika Nayak</actor>
-      <actor>Pradeep Tiptur</actor>
-      <actor>Divya Gopal</actor>
-      <actor>Kiran</actor>
-      <actor>Pushpa Swamy</actor>
-      <actor>Muni</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1061AF71F54ED54BD9500A51B907FA6376ADA038Z.jpg"/>
-    <episode-num system="xmltv_ns">.545.</episode-num>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625123000 +0000" channel="ts76">
-    <title lang="en">Movie - Soorarai Pottru</title>
-    <desc lang="en">Maara, a young man from a remote village, dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.</desc>
-    <credits>
-      <actor>Suriya</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Aparna Balamurali</actor>
-      <actor>Urvashi</actor>
-      <actor>Mohan Babu</actor>
-      <actor>Karunas</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C861D8EFFD96B4FF768F84FB4AFCB29497A1C82DF.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts76">
-    <title lang="en">Shrimad Ramayana</title>
-    <desc lang="en">Rama, the prince of Ayodhya, goes into exile to keep his father's promise. Later, he wages war against Ravana, who abducts Sita, his wife.</desc>
-    <category lang="en">Mythology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/760A97E0A6FD5E080E71D01DFF367D3187998C8A8.jpg"/>
-    <episode-num system="xmltv_ns">.31.</episode-num>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts76">
-    <title lang="en">Gange Gowri</title>
-    <desc lang="en">Two sisters living in a village share a strong bond and love for each other as they go through different phases of their lives together.</desc>
-    <credits>
-      <actor>Shreevidhya Shastri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0804500C15B7B4CB8A15E9A63B99D7CE78BE62DDQ.jpg"/>
-    <episode-num system="xmltv_ns">.167.</episode-num>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts76">
-    <title lang="en">Anna Thangi</title>
-    <desc lang="en">Orphaned at a young age, siblings Tulasi and Shivaraju are inseparable. However, when Shivaraju decides to have Tulasi married off, she worries about the separation from her brother. Repeat - Mon 11:30 pm.</desc>
-    <credits>
-      <actor>Akhila Prakash</actor>
-      <actor>Madhu Sagar</actor>
-      <actor>Manasi Joshi</actor>
-      <actor>Rajesh Dhruva</actor>
-      <actor>Swaraj</actor>
-      <actor>Radha Ramachandra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D44335A68F3C737417B7DFBBDEDA47CF6F61F676C.jpg"/>
-    <episode-num system="xmltv_ns">.828.</episode-num>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts76">
-    <title lang="en">Shambhavi</title>
-    <desc lang="en">A young girl possesses the quality of transforming into a Goddess during the time of crisis in order to confront the evil and protect the victims.</desc>
-    <credits>
-      <actor>Rachana T B</actor>
-      <actor>Aishwarya Sindhogi</actor>
-      <actor>Harish T V</actor>
-      <actor>Vinay Gowda</actor>
-      <actor>Ambujakshi</actor>
-      <actor>Dali Rajesh</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EDC2D43D13B4C589F31ED06D3679B82FC18DC1.jpg"/>
-    <episode-num system="xmltv_ns">.246.</episode-num>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts76">
-    <title lang="en">Suryavamsha</title>
-    <desc lang="en">A series of unlawful, ruthless activities fester a region's peace, thereby inducing fear among the masses. However, the situation drastically shifts when a brave man steps in to fight evil.</desc>
-    <credits>
-      <actor>Aniruddha Jatkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/359E0026322E653EFE0B447B3A00C21C2F0098B55.jpg"/>
-    <episode-num system="xmltv_ns">.91.</episode-num>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts76">
-    <title lang="en">Radhika</title>
-    <desc lang="en">Radhika, who works as a head nurse in a hospital, wants her siblings to flourish in their lives and tries to balance her own personal and professional commitments. Repeat - Mon 2:00 pm.</desc>
-    <credits>
-      <actor>Kavya Shastri</actor>
-      <actor>Sarath Kshatriya</actor>
-      <actor>Gayathri Prabhakar</actor>
-      <actor>Ravi Kalabrahma</actor>
-      <actor>Malathi Sarastha Pandey</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AA5D509B0EA0CE21B8EE0E6D4A8A8191B38FBCCF.jpg"/>
-    <episode-num system="xmltv_ns">.727.</episode-num>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts76">
-    <title lang="en">Myna</title>
-    <desc lang="en">When Mynaa's family tries to find a suitable husband for her elder sister, her carefree life ends as fate has other things planned for her.</desc>
-    <credits>
-      <actor>Vijayalakshmi</actor>
-      <actor>T S Nagabharana</actor>
-      <actor>Apoorva</actor>
-      <actor>Mansi Joshi</actor>
-      <actor>Sagar Turuvekere</actor>
-      <actor>Master Arun</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D4A73692F2E1B0DD2C60DBD9C10F0560A2B444Z.jpg"/>
-    <episode-num system="xmltv_ns">.125.</episode-num>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts76">
-    <title lang="en">Sevanthi</title>
-    <desc lang="en">Fate brings Sevanthi, an orphan girl, closer to her past when she approaches Arjun, an advocate, to help her save her orphanage. Things take an unexpected turn when Arjun asks her to marry him. Repeat - Mon 1:30 pm.</desc>
-    <credits>
-      <actor>Pallavi Gowda</actor>
-      <actor>Shishir Shastry</actor>
-      <actor>Aishwarya Salimath</actor>
-      <actor>Sangeetha Anil</actor>
-      <actor>Bharathi Vishnuvardhan</actor>
-      <actor>Abhijit Singh</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF360ECD029D81030F46C2DC233AE92189D5B0E7M.jpg"/>
-    <episode-num system="xmltv_ns">.1566.</episode-num>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts76">
-    <title lang="en">Janani</title>
-    <desc lang="en">An educated young woman must survive the tyrannical rules of her illiterate brothers-in-law while also navigating a volatile relationship with her husband. Repeat - Mon 2:30 pm.</desc>
-    <credits>
-      <actor>Varshika Nayak</actor>
-      <actor>Pradeep Tiptur</actor>
-      <actor>Divya Gopal</actor>
-      <actor>Kiran</actor>
-      <actor>Pushpa Swamy</actor>
-      <actor>Muni</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1061AF71F54ED54BD9500A51B907FA6376ADA038Z.jpg"/>
-    <episode-num system="xmltv_ns">.637.</episode-num>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts76">
-    <title lang="en">Gowripurada Gayyaligalu</title>
-    <desc lang="en">Misadventures follow the lives of four arrogant women in a housing colony. Meanwhile, Gulabi looks to solve the mystery of her father's death.</desc>
-    <credits>
-      <actor>Navya Narayanan</actor>
-      <actor>Rohini Raghunandan</actor>
-      <actor>Veena Sundar</actor>
-      <actor>Divya</actor>
-      <actor>Rachana</actor>
-      <actor>Arva Basavatti</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2364F101BCF22FE504FB640AC0DD6CC8D4FFF07DY.jpg"/>
-    <episode-num system="xmltv_ns">.1071.</episode-num>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts76">
-    <title lang="en">Gange Gowri</title>
-    <desc lang="en">Two sisters living in a village share a strong bond and love for each other as they go through different phases of their lives together.</desc>
-    <credits>
-      <actor>Shreevidhya Shastri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0804500C15B7B4CB8A15E9A63B99D7CE78BE62DDQ.jpg"/>
-    <episode-num system="xmltv_ns">.167.</episode-num>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts76">
-    <title lang="en">Anna Thangi</title>
-    <desc lang="en">Orphaned at a young age, siblings Tulasi and Shivaraju are inseparable. However, when Shivaraju decides to have Tulasi married off, she worries about the separation from her brother.</desc>
-    <credits>
-      <actor>Akhila Prakash</actor>
-      <actor>Madhu Sagar</actor>
-      <actor>Manasi Joshi</actor>
-      <actor>Rajesh Dhruva</actor>
-      <actor>Swaraj</actor>
-      <actor>Radha Ramachandra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D44335A68F3C737417B7DFBBDEDA47CF6F61F676C.jpg"/>
-    <episode-num system="xmltv_ns">.828.</episode-num>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625233000 +0000" channel="ts76">
     <title lang="en">Udaya Music</title>
     <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
@@ -607,5 +305,308 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0BE664B0127C9112B78EA67BF0EE18839BF0928X.jpg"/>
     <episode-num system="xmltv_ns">.829.</episode-num>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626233000 +0000" channel="ts76">
+    <title lang="en">Udaya Music</title>
+    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts76">
+    <title lang="en">Udaya Music</title>
+    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts76">
+    <title lang="en">Udaya Music</title>
+    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts76">
+    <title lang="en">Udaya Music</title>
+    <desc lang="en">A comprehensive compilation of melodious hit numbers from popular Kannada movies performed by various renowned artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A29FC1622CEF4D55915FD83FDF20E62CBABD05.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627020000 +0000" channel="ts76">
+    <title lang="en">Arunodaya</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs from popular movies featuring talented artists is played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6719A51F3C072421F33D8BB7C2172296055E0C62Z.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627030000 +0000" channel="ts76">
+    <title lang="en">Madhura Munjane</title>
+    <desc lang="en">Madhura Munjane E104.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5947022D2B199917FAAA9DA29493AEE96CC9407BK.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts76">
+    <title lang="en">Comedy Time</title>
+    <desc lang="en">A comprehensive compilation of some of the best comedy and most hilarious scenes from Malayalam movies that leave audiences in splits.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC37E16C17BE1BD1D91C2ADA6E18A52B0C9FD2EO.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts76">
+    <title lang="en">Movie - Prince</title>
+    <desc lang="en">Vishnu falls in love with his colleague, Anjali, and they get married. However, trouble ensues when a policeman mistakes him for being a terrorist and Anjali gets killed in the process.</desc>
+    <credits>
+      <actor>Darshan Tugudeep</actor>
+      <actor>Nikita Thukral</actor>
+      <actor>Jennifer Kotwal</actor>
+      <actor>Avinash</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Shobhraj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6FF4363CFEEEB6C7E2B8AD22A8E641245288C5DI.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts76">
+    <title lang="en">Shambhavi</title>
+    <desc lang="en">A young girl possesses the quality of transforming into a Goddess during the time of crisis in order to confront the evil and protect the victims.</desc>
+    <credits>
+      <actor>Rachana T B</actor>
+      <actor>Aishwarya Sindhogi</actor>
+      <actor>Harish T V</actor>
+      <actor>Vinay Gowda</actor>
+      <actor>Ambujakshi</actor>
+      <actor>Dali Rajesh</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EDC2D43D13B4C589F31ED06D3679B82FC18DC1.jpg"/>
+    <episode-num system="xmltv_ns">.247.</episode-num>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts76">
+    <title lang="en">Shrimad Ramayana</title>
+    <desc lang="en">Rama, the prince of Ayodhya, goes into exile to keep his father's promise. Later, he wages war against Ravana, who abducts Sita, his wife.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5193D30F8CF2D9BE245A994037250E66D99023C2Q.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts76">
+    <title lang="en">Suryavamsha</title>
+    <desc lang="en">A series of unlawful, ruthless activities fester a region's peace, thereby inducing fear among the masses. However, the situation drastically shifts when a brave man steps in to fight evil.</desc>
+    <credits>
+      <actor>Aniruddha Jatkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFCA7F248221E4A04F8A8AEA37E00E8FD231EACED.jpg"/>
+    <episode-num system="xmltv_ns">.76.</episode-num>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts76">
+    <title lang="en">Sevanthi</title>
+    <desc lang="en">Fate brings Sevanthi, an orphan girl, closer to her past when she approaches Arjun, an advocate, to help her save her orphanage. Things take an unexpected turn when Arjun asks her to marry him.</desc>
+    <credits>
+      <actor>Pallavi Gowda</actor>
+      <actor>Shishir Shastry</actor>
+      <actor>Aishwarya Salimath</actor>
+      <actor>Sangeetha Anil</actor>
+      <actor>Bharathi Vishnuvardhan</actor>
+      <actor>Abhijit Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F46A30612353EFCF0B23CEFDAA8B25CF796DA4803.jpg"/>
+    <episode-num system="xmltv_ns">.1545.</episode-num>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627090000 +0000" channel="ts76">
+    <title lang="en">Radhika</title>
+    <desc lang="en">Radhika, who works as a head nurse in a hospital, wants her siblings to flourish in their lives and tries to balance her own personal and professional commitments.</desc>
+    <credits>
+      <actor>Kavya Shastri</actor>
+      <actor>Sarath Kshatriya</actor>
+      <actor>Gayathri Prabhakar</actor>
+      <actor>Ravi Kalabrahma</actor>
+      <actor>Malathi Sarastha Pandey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AA5D509B0EA0CE21B8EE0E6D4A8A8191B38FBCCF.jpg"/>
+    <episode-num system="xmltv_ns">.728.</episode-num>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts76">
+    <title lang="en">Janani</title>
+    <desc lang="en">An educated young woman must survive the tyrannical rules of her illiterate brothers-in-law while also navigating a volatile relationship with her husband.</desc>
+    <credits>
+      <actor>Varshika Nayak</actor>
+      <actor>Pradeep Tiptur</actor>
+      <actor>Divya Gopal</actor>
+      <actor>Kiran</actor>
+      <actor>Pushpa Swamy</actor>
+      <actor>Muni</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1061AF71F54ED54BD9500A51B907FA6376ADA038Z.jpg"/>
+    <episode-num system="xmltv_ns">.547.</episode-num>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts76">
+    <title lang="en">Movie - Tyson</title>
+    <desc lang="en">A young man aspires to be a police officer and overcomes several challenges to realise his dream. He soon starts fighting against and exposing the corrupt against the will of his girlfriend's father.</desc>
+    <credits>
+      <actor>Vinod Prabhakar</actor>
+      <actor>Gayathri Iyer</actor>
+      <actor>Srinivasa Murthy</actor>
+      <actor>Vinaya Prasad</actor>
+      <actor>Chikkanna</actor>
+      <actor>Ravi Kale</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EAA2E1E9738A9782E32B67F516A5A1716D97756D.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts76">
+    <title lang="en">Shrimad Ramayana</title>
+    <desc lang="en">Rama, the prince of Ayodhya, goes into exile to keep his father's promise. Later, he wages war against Ravana, who abducts Sita, his wife.</desc>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/760A97E0A6FD5E080E71D01DFF367D3187998C8A8.jpg"/>
+    <episode-num system="xmltv_ns">.33.</episode-num>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts76">
+    <title lang="en">Gange Gowri</title>
+    <desc lang="en">Two sisters living in a village share a strong bond and love for each other as they go through different phases of their lives together.</desc>
+    <credits>
+      <actor>Shreevidhya Shastri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0804500C15B7B4CB8A15E9A63B99D7CE78BE62DDQ.jpg"/>
+    <episode-num system="xmltv_ns">.169.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts76">
+    <title lang="en">Anna Thangi</title>
+    <desc lang="en">Orphaned at a young age, siblings Tulasi and Shivaraju are inseparable. However, when Shivaraju decides to have Tulasi married off, she worries about the separation from her brother. Repeat - Mon 11:30 pm.</desc>
+    <credits>
+      <actor>Akhila Prakash</actor>
+      <actor>Madhu Sagar</actor>
+      <actor>Manasi Joshi</actor>
+      <actor>Rajesh Dhruva</actor>
+      <actor>Swaraj</actor>
+      <actor>Radha Ramachandra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D44335A68F3C737417B7DFBBDEDA47CF6F61F676C.jpg"/>
+    <episode-num system="xmltv_ns">.830.</episode-num>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts76">
+    <title lang="en">Shambhavi</title>
+    <desc lang="en">A young girl possesses the quality of transforming into a Goddess during the time of crisis in order to confront the evil and protect the victims.</desc>
+    <credits>
+      <actor>Rachana T B</actor>
+      <actor>Aishwarya Sindhogi</actor>
+      <actor>Harish T V</actor>
+      <actor>Vinay Gowda</actor>
+      <actor>Ambujakshi</actor>
+      <actor>Dali Rajesh</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EDC2D43D13B4C589F31ED06D3679B82FC18DC1.jpg"/>
+    <episode-num system="xmltv_ns">.248.</episode-num>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts76">
+    <title lang="en">Suryavamsha</title>
+    <desc lang="en">A series of unlawful, ruthless activities fester a region's peace, thereby inducing fear among the masses. However, the situation drastically shifts when a brave man steps in to fight evil.</desc>
+    <credits>
+      <actor>Aniruddha Jatkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/359E0026322E653EFE0B447B3A00C21C2F0098B55.jpg"/>
+    <episode-num system="xmltv_ns">.93.</episode-num>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts76">
+    <title lang="en">Radhika</title>
+    <desc lang="en">Radhika, who works as a head nurse in a hospital, wants her siblings to flourish in their lives and tries to balance her own personal and professional commitments. Repeat - Mon 2:00 pm.</desc>
+    <credits>
+      <actor>Kavya Shastri</actor>
+      <actor>Sarath Kshatriya</actor>
+      <actor>Gayathri Prabhakar</actor>
+      <actor>Ravi Kalabrahma</actor>
+      <actor>Malathi Sarastha Pandey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AA5D509B0EA0CE21B8EE0E6D4A8A8191B38FBCCF.jpg"/>
+    <episode-num system="xmltv_ns">.729.</episode-num>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts76">
+    <title lang="en">Myna</title>
+    <desc lang="en">When Mynaa's family tries to find a suitable husband for her elder sister, her carefree life ends as fate has other things planned for her.</desc>
+    <credits>
+      <actor>Vijayalakshmi</actor>
+      <actor>T S Nagabharana</actor>
+      <actor>Apoorva</actor>
+      <actor>Mansi Joshi</actor>
+      <actor>Sagar Turuvekere</actor>
+      <actor>Master Arun</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D4A73692F2E1B0DD2C60DBD9C10F0560A2B444Z.jpg"/>
+    <episode-num system="xmltv_ns">.127.</episode-num>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts76">
+    <title lang="en">Sevanthi</title>
+    <desc lang="en">Fate brings Sevanthi, an orphan girl, closer to her past when she approaches Arjun, an advocate, to help her save her orphanage. Things take an unexpected turn when Arjun asks her to marry him. Repeat - Mon 1:30 pm.</desc>
+    <credits>
+      <actor>Pallavi Gowda</actor>
+      <actor>Shishir Shastry</actor>
+      <actor>Aishwarya Salimath</actor>
+      <actor>Sangeetha Anil</actor>
+      <actor>Bharathi Vishnuvardhan</actor>
+      <actor>Abhijit Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF360ECD029D81030F46C2DC233AE92189D5B0E7M.jpg"/>
+    <episode-num system="xmltv_ns">.1568.</episode-num>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts76">
+    <title lang="en">Janani</title>
+    <desc lang="en">An educated young woman must survive the tyrannical rules of her illiterate brothers-in-law while also navigating a volatile relationship with her husband. Repeat - Mon 2:30 pm.</desc>
+    <credits>
+      <actor>Varshika Nayak</actor>
+      <actor>Pradeep Tiptur</actor>
+      <actor>Divya Gopal</actor>
+      <actor>Kiran</actor>
+      <actor>Pushpa Swamy</actor>
+      <actor>Muni</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1061AF71F54ED54BD9500A51B907FA6376ADA038Z.jpg"/>
+    <episode-num system="xmltv_ns">.639.</episode-num>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts76">
+    <title lang="en">Gowripurada Gayyaligalu</title>
+    <desc lang="en">Misadventures follow the lives of four arrogant women in a housing colony. Meanwhile, Gulabi looks to solve the mystery of her father's death.</desc>
+    <credits>
+      <actor>Navya Narayanan</actor>
+      <actor>Rohini Raghunandan</actor>
+      <actor>Veena Sundar</actor>
+      <actor>Divya</actor>
+      <actor>Rachana</actor>
+      <actor>Arva Basavatti</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2364F101BCF22FE504FB640AC0DD6CC8D4FFF07DY.jpg"/>
+    <episode-num system="xmltv_ns">.1073.</episode-num>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts76">
+    <title lang="en">Gange Gowri</title>
+    <desc lang="en">Two sisters living in a village share a strong bond and love for each other as they go through different phases of their lives together.</desc>
+    <credits>
+      <actor>Shreevidhya Shastri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0804500C15B7B4CB8A15E9A63B99D7CE78BE62DDQ.jpg"/>
+    <episode-num system="xmltv_ns">.169.</episode-num>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts76">
+    <title lang="en">Anna Thangi</title>
+    <desc lang="en">Orphaned at a young age, siblings Tulasi and Shivaraju are inseparable. However, when Shivaraju decides to have Tulasi married off, she worries about the separation from her brother.</desc>
+    <credits>
+      <actor>Akhila Prakash</actor>
+      <actor>Madhu Sagar</actor>
+      <actor>Manasi Joshi</actor>
+      <actor>Rajesh Dhruva</actor>
+      <actor>Swaraj</actor>
+      <actor>Radha Ramachandra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D44335A68F3C737417B7DFBBDEDA47CF6F61F676C.jpg"/>
+    <episode-num system="xmltv_ns">.830.</episode-num>
   </programme>
 </tv>

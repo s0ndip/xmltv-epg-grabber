@@ -3,168 +3,6 @@
   <channel id="248">
     <display-name lang="en">MTV</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625090000 +0530" channel="248">
-    <title lang="en">Pump Up Mornings</title>
-    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248006.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="248">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248007.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625105000 +0530" channel="248">
-    <title lang="en">Roadies</title>
-    <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
-    <credits>
-      <director>Sagar More</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248008.jpg"/>
-  </programme>
-  <programme start="20240625105000 +0530" stop="20240625114500 +0530" channel="248">
-    <title lang="en">Love School</title>
-    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
-    <credits>
-      <director>Vishal Mull</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248009.jpg"/>
-  </programme>
-  <programme start="20240625114500 +0530" stop="20240625130000 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248010.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625150000 +0530" channel="248">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248011.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625161500 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248012.jpg"/>
-  </programme>
-  <programme start="20240625161500 +0530" stop="20240625171000 +0530" channel="248">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248013.jpg"/>
-  </programme>
-  <programme start="20240625171000 +0530" stop="20240625180000 +0530" channel="248">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248014.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625185000 +0530" channel="248">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248015.jpg"/>
-  </programme>
-  <programme start="20240625185000 +0530" stop="20240625195000 +0530" channel="248">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248016.jpg"/>
-  </programme>
-  <programme start="20240625195000 +0530" stop="20240625205000 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248017.jpg"/>
-  </programme>
-  <programme start="20240625205000 +0530" stop="20240625223000 +0530" channel="248">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248018.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625234500 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248019.jpg"/>
-  </programme>
-  <programme start="20240625234500 +0530" stop="20240626000000 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625248020.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626022000 +0530" channel="248">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248001.jpg"/>
-  </programme>
-  <programme start="20240626022000 +0530" stop="20240626032000 +0530" channel="248">
-    <title lang="en">Hustle</title>
-    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248002.jpg"/>
-  </programme>
-  <programme start="20240626032000 +0530" stop="20240626041500 +0530" channel="248">
-    <title lang="en">Hustle</title>
-    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248003.jpg"/>
-  </programme>
-  <programme start="20240626041500 +0530" stop="20240626044500 +0530" channel="248">
-    <title lang="en">Jab Mila Tu</title>
-    <desc lang="en">Things get chaotic with a mixture of adventures and surprises as a new couple, Mint and Jigar, joins Maddy and Aneri, in their new home.</desc>
-    <credits>
-      <director>Lalit Mohan</director>
-      <actor>Mohsin Khan</actor>
-      <actor>Eisha Singh</actor>
-      <actor>Pratik Sehajpal</actor>
-      <actor>Alisha Chopra</actor>
-      <actor>Punesh Tripathi</actor>
-      <actor>Anupam K Sinha</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248004.jpg"/>
-  </programme>
-  <programme start="20240626044500 +0530" stop="20240626060000 +0530" channel="248">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <director>Purvish Bhatt</director>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248005.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="248">
     <title lang="en">Pump Up Mornings</title>
     <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
@@ -266,5 +104,248 @@
     </credits>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248019.jpg"/>
+  </programme>
+  <programme start="20240626234500 +0530" stop="20240627000000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626248020.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627005000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248000.jpg"/>
+  </programme>
+  <programme start="20240627005000 +0530" stop="20240627020000 +0530" channel="248">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="248">
+    <title lang="en">Hustle</title>
+    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627035000 +0530" channel="248">
+    <title lang="en">Hustle</title>
+    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248003.jpg"/>
+  </programme>
+  <programme start="20240627035000 +0530" stop="20240627041500 +0530" channel="248">
+    <title lang="en">Jab Mila Tu</title>
+    <desc lang="en">Things get chaotic with a mixture of adventures and surprises as a new couple, Mint and Jigar, joins Maddy and Aneri, in their new home.</desc>
+    <credits>
+      <director>Lalit Mohan</director>
+      <actor>Mohsin Khan</actor>
+      <actor>Eisha Singh</actor>
+      <actor>Pratik Sehajpal</actor>
+      <actor>Alisha Chopra</actor>
+      <actor>Punesh Tripathi</actor>
+      <actor>Anupam K Sinha</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248004.jpg"/>
+  </programme>
+  <programme start="20240627041500 +0530" stop="20240627044500 +0530" channel="248">
+    <title lang="en">Jab Mila Tu</title>
+    <desc lang="en">Things get chaotic with a mixture of adventures and surprises as a new couple, Mint and Jigar, joins Maddy and Aneri, in their new home.</desc>
+    <credits>
+      <director>Lalit Mohan</director>
+      <actor>Mohsin Khan</actor>
+      <actor>Eisha Singh</actor>
+      <actor>Pratik Sehajpal</actor>
+      <actor>Alisha Chopra</actor>
+      <actor>Punesh Tripathi</actor>
+      <actor>Anupam K Sinha</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248005.jpg"/>
+  </programme>
+  <programme start="20240627044500 +0530" stop="20240627060000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248006.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627090000 +0530" channel="248">
+    <title lang="en">Pump Up Mornings</title>
+    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248007.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="248">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248008.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627105000 +0530" channel="248">
+    <title lang="en">Roadies</title>
+    <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
+    <credits>
+      <director>Sagar More</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248009.jpg"/>
+  </programme>
+  <programme start="20240627105000 +0530" stop="20240627114500 +0530" channel="248">
+    <title lang="en">Love School</title>
+    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
+    <credits>
+      <director>Vishal Mull</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248010.jpg"/>
+  </programme>
+  <programme start="20240627114500 +0530" stop="20240627130000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248011.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627150000 +0530" channel="248">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248012.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627161500 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248013.jpg"/>
+  </programme>
+  <programme start="20240627161500 +0530" stop="20240627171000 +0530" channel="248">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248014.jpg"/>
+  </programme>
+  <programme start="20240627171000 +0530" stop="20240627180000 +0530" channel="248">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248015.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627185000 +0530" channel="248">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248016.jpg"/>
+  </programme>
+  <programme start="20240627185000 +0530" stop="20240627195000 +0530" channel="248">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248017.jpg"/>
+  </programme>
+  <programme start="20240627195000 +0530" stop="20240627205000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248018.jpg"/>
+  </programme>
+  <programme start="20240627205000 +0530" stop="20240627223000 +0530" channel="248">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248019.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627234500 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248020.jpg"/>
+  </programme>
+  <programme start="20240627234500 +0530" stop="20240628000000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627248021.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628022000 +0530" channel="248">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248001.jpg"/>
+  </programme>
+  <programme start="20240628022000 +0530" stop="20240628032000 +0530" channel="248">
+    <title lang="en">Hustle</title>
+    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248002.jpg"/>
+  </programme>
+  <programme start="20240628032000 +0530" stop="20240628041500 +0530" channel="248">
+    <title lang="en">Hustle</title>
+    <desc lang="en">Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248003.jpg"/>
+  </programme>
+  <programme start="20240628041500 +0530" stop="20240628044500 +0530" channel="248">
+    <title lang="en">Jab Mila Tu</title>
+    <desc lang="en">Things get chaotic with a mixture of adventures and surprises as a new couple, Mint and Jigar, joins Maddy and Aneri, in their new home.</desc>
+    <credits>
+      <director>Lalit Mohan</director>
+      <actor>Mohsin Khan</actor>
+      <actor>Eisha Singh</actor>
+      <actor>Pratik Sehajpal</actor>
+      <actor>Alisha Chopra</actor>
+      <actor>Punesh Tripathi</actor>
+      <actor>Anupam K Sinha</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248004.jpg"/>
+  </programme>
+  <programme start="20240628044500 +0530" stop="20240628060000 +0530" channel="248">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <director>Purvish Bhatt</director>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248005.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="248">
+    <title lang="en">Pump Up Mornings</title>
+    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628248006.jpg"/>
   </programme>
 </tv>

@@ -3,128 +3,6 @@
   <channel id="ts162">
     <display-name lang="en">Gemini Movies</display-name>
   </channel>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts162">
-    <title lang="en">Navul Navul</title>
-    <desc lang="en">When a man is accused of murder and lands in prison, he breaks out from jail cross-dressed as a woman to nab the actual culprits.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FAE344BA3337D71E8CE3D9790E6D1F1C6B8A107A.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624223000 +0000" channel="ts162">
-    <title lang="en">Andala Ramudu</title>
-    <desc lang="en">Conflicts arise when Seetha, despite her wealthy father's disapproval, falls in love with Ramu, a poor orphan, for his honesty.</desc>
-    <credits>
-      <actor>Akkineni Nageswara Rao</actor>
-      <actor>Latha</actor>
-      <actor>Naga bhushanam</actor>
-      <actor>Allu Rama Lingaiah</actor>
-      <actor>Raja Babu</actor>
-      <actor>Dhulipala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2530197A109FAE5055AA081D1BA5F4041853D978Y.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts162">
-    <title lang="en">Navul Navul</title>
-    <desc lang="en">When a man is accused of murder and lands in prison, he breaks out from jail cross-dressed as a woman to nab the actual culprits.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FAE344BA3337D71E8CE3D9790E6D1F1C6B8A107A.jpg"/>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240625013000 +0000" channel="ts162">
-    <title lang="en">Malligadu Marriage Bureau</title>
-    <desc lang="en">Malligadu runs a marriage bureau but he is only interested in making money. However, when a gangster gets involved in his business, his establishment lands in trouble.</desc>
-    <credits>
-      <actor>Srikanth</actor>
-      <actor>Manochitra</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Anjana</actor>
-      <actor>Vennela Kishore</actor>
-      <actor>Posani Krishna Murali</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F225CF41F5C2123C7B5615F319166AF8B8560BB6T.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625043000 +0000" channel="ts162">
-    <title lang="en">Ramudu Bheemudu</title>
-    <desc lang="en">Twins Ramudu and Bheemudu are separated immediately after they are born. After various events, they come together again and save their parents from the atrocities of Suryodhan Rao.</desc>
-    <credits>
-      <actor>Balakrishna</actor>
-      <actor>Radha</actor>
-      <actor>Suhasini</actor>
-      <actor>Rao Gopal Rao</actor>
-      <actor>Kaikala Satyanarayana</actor>
-      <actor>Jaggaiah</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74EF877CBD8599B1E9D16353F0FB7F024F47CDF28.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625073000 +0000" channel="ts162">
-    <title lang="en">Disco Raja</title>
-    <desc lang="en">A dead man found in the mountains of Ladakh is brought back to life thanks to cutting-edge technology. With no memory of his past, he investigates his death and tries to find his true identity.</desc>
-    <credits>
-      <actor>Ravi Teja</actor>
-      <actor>Payal Rajput</actor>
-      <actor>Nabha Natesh</actor>
-      <actor>Tanya Hope</actor>
-      <actor>Bobby Simha</actor>
-    </credits>
-    <category lang="en">Sci - Fi</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01EC9F8FC52C477113E344B96F76C9AF3F0D447CF.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts162">
-    <title lang="en">Pelli</title>
-    <desc lang="en">Naveen falls for Maheshwari, a woman who is married to a man who physically abuses her. Though Maheshwari manages to leave her husband and she agrees to marry Naveen, her troubles are far from over.</desc>
-    <credits>
-      <actor>Vadde Naveen</actor>
-      <actor>Maheswari</actor>
-      <actor>Prithviraj</actor>
-      <actor>Sujatha</actor>
-      <actor>Bramhanandam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36C931B3B5F3A8D387CB236AADC6E8D2E7B0BB46H.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts162">
-    <title lang="en">Tholi Prema</title>
-    <desc lang="en">Aditya, a young man, falls in love with Varsha, an introvert. Varsha has feelings for him but is reluctant to profess them and they both part ways only to meet again after a few years.</desc>
-    <credits>
-      <actor>Varun Tej</actor>
-      <actor>Rashi Khanna</actor>
-      <actor>Priyadarshi Pullikonda</actor>
-      <actor>Apoorva Srinivasan</actor>
-      <actor>Naresh Vijay Krishna</actor>
-      <actor>Suhasini Maniratnam</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9889B959241522F9B550FCEB8B4266C68D03B4103.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625163000 +0000" channel="ts162">
-    <title lang="en">Gudumba Shankar</title>
-    <desc lang="en">Gudumba Shankar falls in love with Gowri and finds out that she is being forced to marry Kumar Swamy, a gangster. Shankar must find a way to stop him and save Gowri.</desc>
-    <credits>
-      <actor>Pawan Kalyan</actor>
-      <actor>Meera Jasmine</actor>
-      <actor>Ashish Vidyarthi</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Sayaji Shinde</actor>
-      <actor>Ali</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E077A6854C5B4509B0212B24A26E27A44DF7BF56N.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625193000 +0000" channel="ts162">
-    <title lang="en">Aakaasam Nee Haddhu Ra</title>
-    <desc lang="en">A young man from a remote village dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.</desc>
-    <credits>
-      <actor>Suriya</actor>
-      <actor>Aparna Balamurali</actor>
-      <actor>Mohan Babu</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Urvashi</actor>
-      <actor>Karunas</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21568B19A570CE10ADC66FC3CF17A6693F286ADF7.jpg"/>
-  </programme>
   <programme start="20240625193000 +0000" stop="20240625200000 +0000" channel="ts162">
     <title lang="en">Navul Navul</title>
     <desc lang="en">When a man is accused of murder and lands in prison, he breaks out from jail cross-dressed as a woman to nab the actual culprits.</desc>
@@ -247,5 +125,127 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77003E3D2ADB2DDB17FF5FF82B559162BFDB849DF.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts162">
+    <title lang="en">Navul Navul</title>
+    <desc lang="en">When a man is accused of murder and lands in prison, he breaks out from jail cross-dressed as a woman to nab the actual culprits.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FAE344BA3337D71E8CE3D9790E6D1F1C6B8A107A.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626223000 +0000" channel="ts162">
+    <title lang="en">Kalavaramaye Madilo</title>
+    <desc lang="en">Shreya loves to sing and dreams about working with her idol, A R Rahman. While everyone appreciates her voice, one negative remark by a man inspires her to learn music and achieve her goal.</desc>
+    <credits>
+      <actor>Kamal Kamaraju</actor>
+      <actor>Swati Reddy</actor>
+      <actor>Vikram Gokhale</actor>
+      <actor>Pragathi</actor>
+      <actor>Tanikella Bharani</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0993038EE54D728E393B96CF1785BE0ADF78D7CC8.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts162">
+    <title lang="en">Navul Navul</title>
+    <desc lang="en">When a man is accused of murder and lands in prison, he breaks out from jail cross-dressed as a woman to nab the actual culprits.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FAE344BA3337D71E8CE3D9790E6D1F1C6B8A107A.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240627013000 +0000" channel="ts162">
+    <title lang="en">Sahasa Samrat</title>
+    <desc lang="en">Rani, an educated and rich woman, falls in love with Ramudu, a village bumpkin. However, a powerful man in their community devises a plan to harm Ramudu for his own interests.</desc>
+    <credits>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Vijayashanti</actor>
+      <actor>Rao Gopal Rao</actor>
+      <actor>Nirmalamma</actor>
+      <actor>Balakrishna</actor>
+      <actor>Nutan Prasad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B92F84BCE8CAE81F54BC29ADA8260698930D1CF0T.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627043000 +0000" channel="ts162">
+    <title lang="en">Ramachari</title>
+    <desc lang="en">While Ramachari wishes to become a police officer, several hurdles prevent him from pursuing his dream job. So, when he becomes a private investigator he gets the opportunity to reach his goals.</desc>
+    <credits>
+      <actor>Venu Thottempudi</actor>
+      <actor>Kamalinee Mukherjee</actor>
+      <actor>Ali</actor>
+      <actor>Brahmanandam</actor>
+      <actor>Chandramohan</actor>
+      <actor>L B Sriram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3312A5CC84778A562C40B7F4294C79CCBDC0C03D6.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627073000 +0000" channel="ts162">
+    <title lang="en">Naa Alludu</title>
+    <desc lang="en">Karthik seeks revenge after Bhanumati refuses to hire him despite his qualifications. When he vows to marry one of her two daughters, Bhanumati hires a bodyguard for them.</desc>
+    <credits>
+      <actor>Jr NTR</actor>
+      <actor>Shriya Saran</actor>
+      <actor>Genelia D'souza</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Rajiv Kanakala</actor>
+      <actor>Charan Raj</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D281AA4CAF5EAEAA2A1A7F439FDAFB2A2DA360370.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627103000 +0000" channel="ts162">
+    <title lang="en">Sreekaram</title>
+    <desc lang="en">Karthik rejects a job in the USA and returns to his village in India to pursue farming and tries to convince the village residents to invest in the sector.</desc>
+    <credits>
+      <actor>Sharwanand</actor>
+      <actor>Priyanka Arul Mohan</actor>
+      <actor>Rao Ramesh</actor>
+      <actor>V K Naresh</actor>
+      <actor>Sai Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/821DD33E43DE736D422510E1A5C4F71433E6CFFCV.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627133000 +0000" channel="ts162">
+    <title lang="en">Masala</title>
+    <desc lang="en">After losing his job and his ancestral property, Rahman and his sister move to a small town. Circumstances force him to perpetually lie about his true identity.</desc>
+    <credits>
+      <actor>Venkatesh Daggubati</actor>
+      <actor>Ram Pothineni</actor>
+      <actor>Anjali</actor>
+      <actor>Shazahn Padamsee</actor>
+      <actor>Jaya Prakash Reddy</actor>
+      <actor>M S Narayana</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C41F7597AD390E94973678D4D37142F698C4DEA2.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627163000 +0000" channel="ts162">
+    <title lang="en">Sri Anjaneyam</title>
+    <desc lang="en">With immense faith in Lord Hanuman, an orphaned Anji sets out to fulfil his deceased father's dream of building a dam for the local villagers.</desc>
+    <credits>
+      <actor>Arjun Sarja</actor>
+      <actor>Nithiin</actor>
+      <actor>Charmy Kaur</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Chandra Mohan</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48CE75AD8CC9176EB76D6F8747D31FD2D73A5B701.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627193000 +0000" channel="ts162">
+    <title lang="en">Thank You</title>
+    <desc lang="en">A major tragedy forces a self-centred businessman to look back at the prominent moments in his life which built the foundation for his success and thank the people who helped him.</desc>
+    <credits>
+      <actor>Naga Chaitanya</actor>
+      <actor>Raashi Khanna</actor>
+      <actor>Malavika Nair</actor>
+      <actor>Avika Gor</actor>
+      <actor>Sai Sushanth Reddy</actor>
+      <actor>Prakash Raj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E8EDE8E783FE25F7E8F50EAD47384FBCB51C04358.jpg"/>
   </programme>
 </tv>

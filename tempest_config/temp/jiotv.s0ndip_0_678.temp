@@ -3,136 +3,6 @@
   <channel id="678">
     <display-name lang="en">Udaya Movies</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="678">
-    <title lang="en">Super Songs</title>
-    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678002.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="678">
-    <title lang="en">Super Songs</title>
-    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678003.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625100000 +0530" channel="678">
-    <title lang="en">Sakkare</title>
-    <desc lang="en">Neha does not seem to have any luck when it comes to finding love. However, Vinay tries to get her to see the bright side of things.</desc>
-    <credits>
-      <director>Abhaya Simha</director>
-      <actor>Ganesh</actor>
-      <actor>Deepa Sannidhi</actor>
-      <actor>Ananth Nag</actor>
-      <actor>Anu Prabhakar</actor>
-      <actor>Vinaya Prasad</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678004.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625130000 +0530" channel="678">
-    <title lang="en">Geetha</title>
-    <desc lang="en">Geetha, a college student who suffers from a mysterious illness, meets Sanjay, a singer who performs at a charity concert in her college, and the two form a close bond.</desc>
-    <credits>
-      <director>Shankar Nag</director>
-      <actor>Shankar Nag</actor>
-      <actor>Padmavati Rao</actor>
-      <actor>K. S. Ashwath</actor>
-      <actor>Sowcar Janaki</actor>
-      <actor>Ramesh Bhat</actor>
-      <actor>Shivaram</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678005.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625160000 +0530" channel="678">
-    <title lang="en">Dasharatha</title>
-    <desc lang="en">Dasharatha, a righteous lawyer, leads a happy life with his wife, son and daughter who gets a job after college. However, trouble begins when his daughter falls in love with her employer.</desc>
-    <credits>
-      <director>M S Ramesh</director>
-      <actor>Ravichandran</actor>
-      <actor>Sonia Agarwal</actor>
-      <actor>Abhirami</actor>
-      <actor>Meghashree</actor>
-      <actor>Avinash</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678006.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625190000 +0530" channel="678">
-    <title lang="en">Guri</title>
-    <desc lang="en">Kaliprasad, an efficient and dedicated customs officer, is falsely accused of rape after he rejects mafia leader Rudrayya's invitation to participate in illegal activities with him.</desc>
-    <credits>
-      <director>P Vasu</director>
-      <actor>Rajkumar</actor>
-      <actor>Archana</actor>
-      <actor>Pandari Bai</actor>
-      <actor>Jai Jagadish</actor>
-      <actor>Mukyamanthri Chandru</actor>
-      <actor>Lokanath</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678007.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625220000 +0530" channel="678">
-    <title lang="en">Rama Shama Bhama</title>
-    <desc lang="en">Rama, a married man, has an affair with Priya who pursues him despite knowing about his wife. When his friend Shama learns of the affair, the latter decides to reunite him with his wife.</desc>
-    <credits>
-      <director>Ramesh Aravind</director>
-      <actor>Kamal Haasan</actor>
-      <actor>Ramesh Aravind</actor>
-      <actor>Shruti</actor>
-      <actor>Daisy Bopanna</actor>
-      <actor>Urvashi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678008.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240626000000 +0530" channel="678">
-    <title lang="en">Prana</title>
-    <desc lang="en">Movie starring Prem Kumar, Preethi, Shobha Chandrashekhar and directed by Prakash.</desc>
-    <credits>
-      <director>Prakash</director>
-      <actor>Prem Kumar</actor>
-      <actor>Preethi</actor>
-      <actor>Shobha Chandrashekhar</actor>
-      <actor>Manjunath</actor>
-      <actor>Padmini</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625678009.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="678">
-    <title lang="en">Nagabharana</title>
-    <desc lang="en">Gopala makes a living by treating people bitten by snakes. Things turn sour when his wife avoids him after learning that there is a curse on him which will bring death if he gets close with her.</desc>
-    <credits>
-      <director>Bellary Janardhan</director>
-      <actor>Shobhraj</actor>
-      <actor>Srividya</actor>
-      <actor>Rekha Das</actor>
-      <actor>Doddanna</actor>
-      <actor>Shanthamma</actor>
-      <actor>Vaishnavi</actor>
-      <actor>Jayakumar Parameshwaran Pillai</actor>
-      <actor>Hanuman Prasad</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626678000.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626060000 +0530" channel="678">
-    <title lang="en">Rathna Manjari</title>
-    <desc lang="en">Movie starring Udaykumar, Narasimharaju and directed by Hunusur Krishnamurthy.</desc>
-    <credits>
-      <director>Hunsur Krishnamurthy</director>
-      <actor>Udaykumar</actor>
-      <actor>Narasimharaju</actor>
-      <actor>K S Ashwath</actor>
-      <actor>C V Shivashankar</actor>
-      <actor>M P Shankar</actor>
-      <actor>Subbanna</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626678001.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="678">
     <title lang="en">Super Songs</title>
     <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
@@ -217,5 +87,197 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626678008.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0530" stop="20240627000000 +0530" channel="678">
+    <title lang="en">Gharshane</title>
+    <desc lang="en">Movie starring Shashikumar, Devaraj, Vanitha and directed by Om Saiprakash.</desc>
+    <credits>
+      <director>Sai Prakash</director>
+      <actor>Vishnuvardhan</actor>
+      <actor>Anitha</actor>
+      <actor>Avinash</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626678009.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627030000 +0530" channel="678">
+    <title lang="en">Achchu Mechchu</title>
+    <desc lang="en">A college student goes to great lengths to accomplish his father's dying wish by marrying off his mother to a professor.</desc>
+    <credits>
+      <director>Himayat Khan</director>
+      <actor>Tarun Chandra</actor>
+      <actor>Archana Gupta</actor>
+      <actor>Achyut Rao</actor>
+      <actor>Veena Sunder</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678000.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627060000 +0530" channel="678">
+    <title lang="en">Bhagath</title>
+    <desc lang="en">When the efforts of two honest journalists are thwarted by politically motivated men, they use a pseudonym to tell the truth. However, things turn awry when a villager with the same name is attacked.</desc>
+    <credits>
+      <director>Anand P Raju</director>
+      <actor>Thriller Manju</actor>
+      <actor>Swapna</actor>
+      <actor>Ramesh Kashyap</actor>
+      <actor>Joe Simon</actor>
+      <actor>Sathyajith</actor>
+      <actor>Arundhathi Jatkar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678001.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="678">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678002.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="678">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678003.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627100000 +0530" channel="678">
+    <title lang="en">Guru Sarvabhowma Sri Raghavendra Karune</title>
+    <desc lang="en">Movie about Lord Raghavendra, where his devotees are amazed of the miracles happening around them.</desc>
+    <credits>
+      <director>Hunsur Krishnamurthy</director>
+      <actor>Rajesh</actor>
+      <actor>Saroja Devi B</actor>
+      <actor>Gangadhar</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678004.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627130000 +0530" channel="678">
+    <title lang="en">Punda</title>
+    <desc lang="en">A young man from a middle class family dreams of owning a motorbike and buys one when his father gives him money to start a business. His life takes a turn when goons steal his prized possession.</desc>
+    <credits>
+      <director>H Vasu</director>
+      <actor>Yogesh</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Sharath Lohitashwa</actor>
+      <actor>Avinash</actor>
+      <actor>Thulasi</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678005.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627160000 +0530" channel="678">
+    <title lang="en">Andamaan</title>
+    <desc lang="en">Due to a misunderstanding, Monisha and Anand, a happily married couple, decide to get a divorce and fight for their daughter's affection. Soon, Monisha's friend's involvement in their dispute emerges.</desc>
+    <credits>
+      <director>P H Vishwanath</director>
+      <actor>Shivrajkumar</actor>
+      <actor>Soni</actor>
+      <actor>Baby Nivedita</actor>
+      <actor>Vinaya Prasad</actor>
+      <actor>Sumanth</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678006.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627190000 +0530" channel="678">
+    <title lang="en">Haalu Jenu</title>
+    <desc lang="en">Rangaswamy's life turns upside down when his wife is diagnosed with cancer. Later, he uses all his skills to collect money for her treatment.</desc>
+    <credits>
+      <director>Sangeetam Srinivasa Rao</director>
+      <actor>Rajkumar</actor>
+      <actor>Madhavi</actor>
+      <actor>Roopa Devi</actor>
+      <actor>Thoogudeepa Srinivas</actor>
+      <actor>Shivaram</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678007.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627220000 +0530" channel="678">
+    <title lang="en">Halli Mestru</title>
+    <desc lang="en">Parimala falls for a widowed school teacher and accuses him of molesting her when he rejects her. Later, she realises the error of her ways and tries to win his love through benevolent means.</desc>
+    <credits>
+      <director>Mohan Manju</director>
+      <actor>Ravichandran</actor>
+      <actor>Bindiya</actor>
+      <actor>T N Balakrishna</actor>
+      <actor>Thoogudeepa Srinivas</actor>
+      <actor>Silk Smitha</actor>
+      <actor>Girija Lokesh</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678008.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240628000000 +0530" channel="678">
+    <title lang="en">Bahuparak</title>
+    <desc lang="en">Manas, Mani and Mauni are at a critical stage in their lives wherein Manas is caught in a love triangle, Mani is on his way to become a crime boss and Mauni resorts to corruption for political gains.</desc>
+    <credits>
+      <director>Simple Suni</director>
+      <actor>Srinagar Kitty</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Naveen Sagar</actor>
+      <actor>Manasa Rao</actor>
+      <actor>Sukrutha Wagle</actor>
+      <actor>Rakshit Shetty</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627678009.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="678">
+    <title lang="en">Muttinantha Aathige</title>
+    <desc lang="en">Movie starring Jayanthi, Srinivasamurthy, Ashok and directed by Bandaru Giribabu.</desc>
+    <credits>
+      <director>Bandaru Giribabu</director>
+      <actor>Srinivasamurthy</actor>
+      <actor>Jayanthi</actor>
+      <actor>Ashok</actor>
+      <actor>K Vijaya</actor>
+      <actor>Shobha</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628678000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="678">
+    <title lang="en">Aagatha</title>
+    <desc lang="en">Usha, a poor girl, falls in love with Vikas, an influential villager's son. Due to their difference in social status, the boy's family oppose their relationship, leaving Usha mentally disturbed.</desc>
+    <credits>
+      <director>Suresh Heblikar</director>
+      <actor>Suresh Heblakar</actor>
+      <actor>Girish Karnad</actor>
+      <actor>Shruti</actor>
+      <actor>Srikanth</actor>
+      <actor>Ramakrishna</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628678001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="678">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628678002.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="678">
+    <title lang="en">Super Songs</title>
+    <desc lang="en">A compilation of melodious and catchy songs performed by several different artists, musicians and songwriters played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628678003.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628100000 +0530" channel="678">
+    <title lang="en">Yanka Manka</title>
+    <desc lang="en">Movie starring Srinath, Manjula.</desc>
+    <credits>
+      <director>K S Sathyanarayana</director>
+      <actor>Manjula</actor>
+      <actor>Srinath</actor>
+      <actor>T N Balakrishna</actor>
+      <actor>Shivram</actor>
+      <actor>Dinesh</actor>
+      <actor>Shakti Prasad</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628678004.jpg"/>
   </programme>
 </tv>

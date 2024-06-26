@@ -3,298 +3,6 @@
   <channel id="ts1164">
     <display-name lang="en">Unique TV</display-name>
   </channel>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts1164">
-    <title lang="en">Space Chicken</title>
-    <desc lang="en">Space Chicken</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE2574725EB0D72A970FF1AEC67599DB0505D9D6I.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1164">
-    <title lang="en">Honey Bunny</title>
-    <desc lang="en">Honey Bunny</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1164">
-    <title lang="en">Jungle Book</title>
-    <desc lang="en">Jungle Book</desc>
-    <credits>
-      <actor>Chera Bailey</actor>
-      <actor>Nathan Aswell</actor>
-      <actor>Tony Ail</actor>
-      <actor>Garry Chalk</actor>
-      <actor>Ian James Corlett</actor>
-      <actor>Michael Donovan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts1164">
-    <title lang="en">Tarzan</title>
-    <desc lang="en">Tarzan</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24A718993E47B9C9A448ACB8531EB872A0ADD2A6F.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1164">
-    <title lang="en">Honey Bunny</title>
-    <desc lang="en">Honey Bunny</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1164">
-    <title lang="en">Jungle Book</title>
-    <desc lang="en">Jungle Book</desc>
-    <credits>
-      <actor>Chera Bailey</actor>
-      <actor>Nathan Aswell</actor>
-      <actor>Tony Ail</actor>
-      <actor>Garry Chalk</actor>
-      <actor>Ian James Corlett</actor>
-      <actor>Michael Donovan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624231000 +0000" channel="ts1164">
-    <title lang="en">The Great Easter Egg Hunt</title>
-    <desc lang="en">The Great Easter Egg Hunt</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C671BCD6E34FA074519177D9B2947ED3EED3410AD.jpg"/>
-  </programme>
-  <programme start="20240624231000 +0000" stop="20240624233000 +0000" channel="ts1164">
-    <title lang="en">12 Jyotirlinga Darshan</title>
-    <desc lang="en">12 Jyotirlinga Darshan</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BEA2B07F8621FD830D348762CDEA84CF01B4BEE5B.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts1164">
-    <title lang="en">Sury Puran</title>
-    <desc lang="en">Sury Puran</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34DFA226CF2D3121CA5B58019B3C75B6548BB4F3N.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1164">
-    <title lang="en">Pasammy Show</title>
-    <desc lang="en">Pasammy Show</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D766FBD2E12C81F1CFED752C14223C367809F81K.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625022000 +0000" channel="ts1164">
-    <title lang="en">Janbaaz Murga</title>
-    <desc lang="en">Janbaaz Murga</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E0475CAC71EC54D2DA0213D08B288A0312985160.jpg"/>
-  </programme>
-  <programme start="20240625022000 +0000" stop="20240625030000 +0000" channel="ts1164">
-    <title lang="en">Honey Bunny</title>
-    <desc lang="en">Honey Bunny</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts1164">
-    <title lang="en">Robinhood</title>
-    <desc lang="en">Robinhood</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/786E7A58D85386CE2815156CE06CB923C7BC2A5BN.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1164">
-    <title lang="en">Jyotish Show</title>
-    <desc lang="en">Jyotish Show</desc>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECFE24C5A692F52A2F71480BCD1CB5BDBFC78B2BW.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1164">
-    <title lang="en">Jungle Book</title>
-    <desc lang="en">Jungle Book</desc>
-    <credits>
-      <actor>Chera Bailey</actor>
-      <actor>Nathan Aswell</actor>
-      <actor>Tony Ail</actor>
-      <actor>Garry Chalk</actor>
-      <actor>Ian James Corlett</actor>
-      <actor>Michael Donovan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625060000 +0000" channel="ts1164">
-    <title lang="en">Bablu Dablu SS</title>
-    <desc lang="en">Bablu Dablu SS</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BB9A1CEAB35BC746887B8CC200CF0D2117398B69.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts1164">
-    <title lang="en">Jijaji Chhat Per Hain</title>
-    <desc lang="en">Jijaji Chhat Per Hain</desc>
-    <credits>
-      <actor>Hiba Nawab</actor>
-      <actor>Nikhil Khurana</actor>
-      <actor>Anoop Upadhyay</actor>
-      <actor>Sandeep Anand</actor>
-      <actor>Soma Rathod</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD14BB091A39C7B62A9D0BAA64B4C2CB6D21CB4FR.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625090000 +0000" channel="ts1164">
-    <title lang="en">Bablu Dablu AA</title>
-    <desc lang="en">Bablu Dablu AA</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74A08DB614555F4434C0A78E02DCDAD5D1D88EE8Q.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts1164">
-    <title lang="en">Honey Bunny</title>
-    <desc lang="en">Honey Bunny</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1164">
-    <title lang="en">Jungle Book</title>
-    <desc lang="en">Jungle Book</desc>
-    <credits>
-      <actor>Chera Bailey</actor>
-      <actor>Nathan Aswell</actor>
-      <actor>Tony Ail</actor>
-      <actor>Garry Chalk</actor>
-      <actor>Ian James Corlett</actor>
-      <actor>Michael Donovan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625110000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625114000 +0000" channel="ts1164">
-    <title lang="en">Lassie</title>
-    <desc lang="en">Lassie</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6413A73ED6530E049F5050C2C6A71D2D5A07E5AJ.jpg"/>
-  </programme>
-  <programme start="20240625114000 +0000" stop="20240625120000 +0000" channel="ts1164">
-    <title lang="en">Janbaaz Murga</title>
-    <desc lang="en">Janbaaz Murga</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E0475CAC71EC54D2DA0213D08B288A0312985160.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1164">
-    <title lang="en">Honey Bunny</title>
-    <desc lang="en">Honey Bunny</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts1164">
-    <title lang="en">Jungle Book</title>
-    <desc lang="en">Jungle Book</desc>
-    <credits>
-      <actor>Chera Bailey</actor>
-      <actor>Nathan Aswell</actor>
-      <actor>Tony Ail</actor>
-      <actor>Garry Chalk</actor>
-      <actor>Ian James Corlett</actor>
-      <actor>Michael Donovan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625140000 +0000" channel="ts1164">
-    <title lang="en">Bablu Dablu MP2</title>
-    <desc lang="en">Bablu Dablu MP2</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2DB26E2F03B4F274B6E66245422C69E756459EFZ.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts1164">
-    <title lang="en">Jijaji Chhat Per Hain</title>
-    <desc lang="en">Jijaji Chhat Per Hain</desc>
-    <credits>
-      <actor>Hiba Nawab</actor>
-      <actor>Nikhil Khurana</actor>
-      <actor>Anoop Upadhyay</actor>
-      <actor>Sandeep Anand</actor>
-      <actor>Soma Rathod</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD14BB091A39C7B62A9D0BAA64B4C2CB6D21CB4FR.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625160000 +0000" channel="ts1164">
-    <title lang="en">Yam Hain Hum</title>
-    <desc lang="en">Yam Hain Hum</desc>
-    <credits>
-      <actor>Manav Gohil</actor>
-      <actor>Atul Parchure</actor>
-      <actor>Fenil Umrigar</actor>
-      <actor>Raju Kher</actor>
-      <actor>Alekh Sangal</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DB31916C4AD714D2F4ACC13DD4BB5D16AF5448D22.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1164">
-    <title lang="en">Sury Puran</title>
-    <desc lang="en">Sury Puran</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34DFA226CF2D3121CA5B58019B3C75B6548BB4F3N.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625190000 +0000" channel="ts1164">
-    <title lang="en">Health Show</title>
-    <desc lang="en">Health Show</desc>
-    <credits>
-      <actor>Rachna Singh</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
-  </programme>
   <programme start="20240625190000 +0000" stop="20240625193000 +0000" channel="ts1164">
     <title lang="en">The Little Mermaid</title>
     <desc lang="en">The Little Mermaid</desc>
@@ -594,6 +302,316 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626190000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts1164">
+    <title lang="en">Treasure Island</title>
+    <desc lang="en">Treasure Island</desc>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E198B8CBE3DDBFDFE230FF98447CEE8A395449A5Z.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts1164">
+    <title lang="en">Honey Bunny</title>
+    <desc lang="en">Honey Bunny</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts1164">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Jungle Book</desc>
+    <credits>
+      <actor>Chera Bailey</actor>
+      <actor>Nathan Aswell</actor>
+      <actor>Tony Ail</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian James Corlett</actor>
+      <actor>Michael Donovan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626213000 +0000" channel="ts1164">
+    <title lang="en">Gulliver's Travels</title>
+    <desc lang="en">Gulliver's Travels</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/498912D709BC4D67ACD61A6FD884AB44559597E90.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626220000 +0000" channel="ts1164">
+    <title lang="en">Honey Bunny</title>
+    <desc lang="en">Honey Bunny</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626223000 +0000" channel="ts1164">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Jungle Book</desc>
+    <credits>
+      <actor>Chera Bailey</actor>
+      <actor>Nathan Aswell</actor>
+      <actor>Tony Ail</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian James Corlett</actor>
+      <actor>Michael Donovan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626231000 +0000" channel="ts1164">
+    <title lang="en">Camelot</title>
+    <desc lang="en">Camelot</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/662049EA84E478818C25716B10A82A63D1FC30E4I.jpg"/>
+  </programme>
+  <programme start="20240626231000 +0000" stop="20240626233000 +0000" channel="ts1164">
+    <title lang="en">12 Jyotirlinga Darshan</title>
+    <desc lang="en">12 Jyotirlinga Darshan</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BEA2B07F8621FD830D348762CDEA84CF01B4BEE5B.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627003000 +0000" channel="ts1164">
+    <title lang="en">Surya Puran</title>
+    <desc lang="en">Surya Puran</desc>
+    <credits>
+      <actor>Paritosh Kumar</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FF626A603930A9D78762A69818DBF57561F32B43.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts1164">
+    <title lang="en">Lassie</title>
+    <desc lang="en">Lassie</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6413A73ED6530E049F5050C2C6A71D2D5A07E5AJ.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627022000 +0000" channel="ts1164">
+    <title lang="en">Robinhood</title>
+    <desc lang="en">Robinhood</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/786E7A58D85386CE2815156CE06CB923C7BC2A5BN.jpg"/>
+  </programme>
+  <programme start="20240627022000 +0000" stop="20240627030000 +0000" channel="ts1164">
+    <title lang="en">Honey Bunny</title>
+    <desc lang="en">Honey Bunny</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts1164">
+    <title lang="en">Peter Pan</title>
+    <desc lang="en">Peter Pan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6AC6A4A7835851200A87F0BCF4629E5DF72AEBAAN.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts1164">
+    <title lang="en">Jyotish Show</title>
+    <desc lang="en">Jyotish Show</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECFE24C5A692F52A2F71480BCD1CB5BDBFC78B2BW.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts1164">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Jungle Book</desc>
+    <credits>
+      <actor>Chera Bailey</actor>
+      <actor>Nathan Aswell</actor>
+      <actor>Tony Ail</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian James Corlett</actor>
+      <actor>Michael Donovan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627060000 +0000" channel="ts1164">
+    <title lang="en">Bablu Dablu SS</title>
+    <desc lang="en">Bablu Dablu SS</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BB9A1CEAB35BC746887B8CC200CF0D2117398B69.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts1164">
+    <title lang="en">Jijaji Chhat Per Hain</title>
+    <desc lang="en">Jijaji Chhat Per Hain</desc>
+    <credits>
+      <actor>Hiba Nawab</actor>
+      <actor>Nikhil Khurana</actor>
+      <actor>Anoop Upadhyay</actor>
+      <actor>Sandeep Anand</actor>
+      <actor>Soma Rathod</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD14BB091A39C7B62A9D0BAA64B4C2CB6D21CB4FR.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627090000 +0000" channel="ts1164">
+    <title lang="en">Bablu Dablu AA</title>
+    <desc lang="en">Bablu Dablu AA</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74A08DB614555F4434C0A78E02DCDAD5D1D88EE8Q.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts1164">
+    <title lang="en">Honey Bunny</title>
+    <desc lang="en">Honey Bunny</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts1164">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Jungle Book</desc>
+    <credits>
+      <actor>Chera Bailey</actor>
+      <actor>Nathan Aswell</actor>
+      <actor>Tony Ail</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian James Corlett</actor>
+      <actor>Michael Donovan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627110000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627112000 +0000" channel="ts1164">
+    <title lang="en">Pasammy Show</title>
+    <desc lang="en">Pasammy Show</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D766FBD2E12C81F1CFED752C14223C367809F81K.jpg"/>
+  </programme>
+  <programme start="20240627112000 +0000" stop="20240627114000 +0000" channel="ts1164">
+    <title lang="en">Robinhood</title>
+    <desc lang="en">Robinhood</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/786E7A58D85386CE2815156CE06CB923C7BC2A5BN.jpg"/>
+  </programme>
+  <programme start="20240627114000 +0000" stop="20240627120000 +0000" channel="ts1164">
+    <title lang="en">Janbaaz Murga</title>
+    <desc lang="en">Janbaaz Murga</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E0475CAC71EC54D2DA0213D08B288A0312985160.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts1164">
+    <title lang="en">Peter Pan</title>
+    <desc lang="en">Peter Pan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6AC6A4A7835851200A87F0BCF4629E5DF72AEBAAN.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627124500 +0000" channel="ts1164">
+    <title lang="en">Honey Bunny</title>
+    <desc lang="en">Honey Bunny</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D32E82A3A52639DE7F6B626488F53BC081EEFAAJ.jpg"/>
+  </programme>
+  <programme start="20240627124500 +0000" stop="20240627130000 +0000" channel="ts1164">
+    <title lang="en">Jungle Book</title>
+    <desc lang="en">Jungle Book</desc>
+    <credits>
+      <actor>Chera Bailey</actor>
+      <actor>Nathan Aswell</actor>
+      <actor>Tony Ail</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian James Corlett</actor>
+      <actor>Michael Donovan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62D5898C0001FDA5A1609E44CD343277A19EE643X.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627140000 +0000" channel="ts1164">
+    <title lang="en">Bablu Dablu MP2</title>
+    <desc lang="en">Bablu Dablu MP2</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2DB26E2F03B4F274B6E66245422C69E756459EFZ.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627150000 +0000" channel="ts1164">
+    <title lang="en">Jijaji Chhat Per Hain</title>
+    <desc lang="en">Jijaji Chhat Per Hain</desc>
+    <credits>
+      <actor>Hiba Nawab</actor>
+      <actor>Nikhil Khurana</actor>
+      <actor>Anoop Upadhyay</actor>
+      <actor>Sandeep Anand</actor>
+      <actor>Soma Rathod</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD14BB091A39C7B62A9D0BAA64B4C2CB6D21CB4FR.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627160000 +0000" channel="ts1164">
+    <title lang="en">Yam Hain Hum</title>
+    <desc lang="en">Yam Hain Hum</desc>
+    <credits>
+      <actor>Manav Gohil</actor>
+      <actor>Atul Parchure</actor>
+      <actor>Fenil Umrigar</actor>
+      <actor>Raju Kher</actor>
+      <actor>Alekh Sangal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DB31916C4AD714D2F4ACC13DD4BB5D16AF5448D22.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts1164">
+    <title lang="en">Surya Puran</title>
+    <desc lang="en">Surya Puran</desc>
+    <credits>
+      <actor>Paritosh Kumar</actor>
+    </credits>
+    <category lang="en">Mythology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FF626A603930A9D78762A69818DBF57561F32B43.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627173000 +0000" channel="ts1164">
+    <title lang="en">Health Show</title>
+    <desc lang="en">Health Show</desc>
+    <credits>
+      <actor>Rachna Singh</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A643AFE25224756D70A8C7BAE5A073845521BA6CS.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627190000 +0000" channel="ts1164">
     <title lang="en">Health Show</title>
     <desc lang="en">Health Show</desc>
     <credits>

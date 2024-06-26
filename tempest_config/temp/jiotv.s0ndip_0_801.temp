@@ -3,318 +3,6 @@
   <channel id="801">
     <display-name lang="en">Divya TV</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625060000 +0530" channel="801">
-    <title lang="en">Navgrah Jyotish</title>
-    <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801004.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625060300 +0530" channel="801">
-    <title lang="en">Ganesh Aradhna</title>
-    <desc lang="en">Religious leaders and a large gathering of worshippers sing devotional songs and prayers in praise and worship of Lord Ganesha.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801005.jpg"/>
-  </programme>
-  <programme start="20240625060300 +0530" stop="20240625060800 +0530" channel="801">
-    <title lang="en">Sai Aarti</title>
-    <desc lang="en">Hindu priests and devotees perform religious rituals for Sai Baba, a saint.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801006.jpg"/>
-  </programme>
-  <programme start="20240625060800 +0530" stop="20240625061400 +0530" channel="801">
-    <title lang="en">Promos / Advert</title>
-    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801007.jpg"/>
-  </programme>
-  <programme start="20240625061400 +0530" stop="20240625062000 +0530" channel="801">
-    <title lang="en">Aarti Baba Balak Nath</title>
-    <desc lang="en">Take a look at the rituals and ceremonies performed at Baba Balak Nath temple in Himachal Pradesh.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801008.jpg"/>
-  </programme>
-  <programme start="20240625062000 +0530" stop="20240625062500 +0530" channel="801">
-    <title lang="en">Promos / Advert</title>
-    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801009.jpg"/>
-  </programme>
-  <programme start="20240625062500 +0530" stop="20240625063000 +0530" channel="801">
-    <title lang="en">Babosa Aarti</title>
-    <desc lang="en">Priests and devotees perform religious rituals in praise of Hindu deity Babosa Maharaj and sing devotional songs to seek His blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801010.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="801">
-    <title lang="en">Chalisa</title>
-    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801011.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625074900 +0530" channel="801">
-    <title lang="en">Aartiyaan</title>
-    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801012.jpg"/>
-  </programme>
-  <programme start="20240625074900 +0530" stop="20240625075200 +0530" channel="801">
-    <title lang="en">Promos / Advert</title>
-    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801013.jpg"/>
-  </programme>
-  <programme start="20240625075200 +0530" stop="20240625075600 +0530" channel="801">
-    <title lang="en">Sankatmochan</title>
-    <desc lang="en">Religious leaders and devout followers of Lord Hanuman recite an eight-verse prayer and seek his blessings for their well-being and prosperity.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801014.jpg"/>
-  </programme>
-  <programme start="20240625075600 +0530" stop="20240625080000 +0530" channel="801">
-    <title lang="en">Promos / Advert</title>
-    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801015.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="801">
-    <title lang="en">Divyamrit</title>
-    <desc lang="en">Several singers gather to perform melodious devotional music and compositions dedicated to the power and gloriousness of the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801016.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625094000 +0530" channel="801">
-    <title lang="en">Divya Bhajan</title>
-    <desc lang="en">Talented musicians sing devotional songs praising and glorifying the deities of Hinduism and seek blessings from the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801017.jpg"/>
-  </programme>
-  <programme start="20240625094000 +0530" stop="20240625100000 +0530" channel="801">
-    <title lang="en">Divya Drishti</title>
-    <desc lang="en">A religious leader delivers a discourse on the sacred scriptures and discusses how following the teachings will improve one's quality of life.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801018.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="801">
-    <title lang="en">Sukh Sagar</title>
-    <desc lang="en">A religious expert recites verses from the holy scriptures and encourages the devotees to follow the path of the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801019.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="801">
-    <title lang="en">Guru Mantra</title>
-    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801020.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="801">
-    <title lang="en">Mantra Of Success</title>
-    <desc lang="en">Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801021.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="801">
-    <title lang="en">Solution By Mineral</title>
-    <desc lang="en">A renowned astrologer offers advice on different kinds of minerals that will help resolve various problematic situations.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801022.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801023.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801024.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801025.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="801">
-    <title lang="en">Divya Drishti</title>
-    <desc lang="en">A religious leader delivers a discourse on the sacred scriptures and discusses how following the teachings will improve one's quality of life.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801026.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625141500 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801027.jpg"/>
-  </programme>
-  <programme start="20240625141500 +0530" stop="20240625143000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801028.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625144500 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801029.jpg"/>
-  </programme>
-  <programme start="20240625144500 +0530" stop="20240625151000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801030.jpg"/>
-  </programme>
-  <programme start="20240625151000 +0530" stop="20240625160000 +0530" channel="801">
-    <title lang="en">Hanuman Chalisa</title>
-    <desc lang="en">Devotees gather and recite the Hanuman Chalisa, which is a set of devotional hymns in praise of Lord Hanuman, the son of wind-god Vayu.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801031.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801032.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801033.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="801">
-    <title lang="en">Guru Mantra</title>
-    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801034.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="801">
-    <title lang="en">Guru Mantra</title>
-    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801035.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625180500 +0530" channel="801">
-    <title lang="en">Promos / Tips</title>
-    <desc lang="en">Trailers and promos.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801036.jpg"/>
-  </programme>
-  <programme start="20240625180500 +0530" stop="20240625183000 +0530" channel="801">
-    <title lang="en">Chalisa</title>
-    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801037.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="801">
-    <title lang="en">Aartiyaan</title>
-    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801038.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625190500 +0530" channel="801">
-    <title lang="en">Babosa Aarti</title>
-    <desc lang="en">Priests and devotees perform religious rituals in praise of Hindu deity Babosa Maharaj and sing devotional songs to seek His blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801039.jpg"/>
-  </programme>
-  <programme start="20240625190500 +0530" stop="20240625191000 +0530" channel="801">
-    <title lang="en">Promos / Advert</title>
-    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801040.jpg"/>
-  </programme>
-  <programme start="20240625191000 +0530" stop="20240625191500 +0530" channel="801">
-    <title lang="en">Aartiyaan</title>
-    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801041.jpg"/>
-  </programme>
-  <programme start="20240625191500 +0530" stop="20240625194500 +0530" channel="801">
-    <title lang="en">Karn Aur Nivaran</title>
-    <desc lang="en">A renowned astrologer predicts the future of people based on their horoscopes and provides solutions to help them reduce the effects of planetary transitions on their birth charts.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801042.jpg"/>
-  </programme>
-  <programme start="20240625194500 +0530" stop="20240625200000 +0530" channel="801">
-    <title lang="en">Bhagya Uday</title>
-    <desc lang="en">A renowned astrologer predicts the future of the 12 zodiac signs and gives the viewers advice on how to attract good fortune.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801043.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="801">
-    <title lang="en">Navgrah Jyotish</title>
-    <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801044.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801045.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="801">
-    <title lang="en">Bhajanawali</title>
-    <desc lang="en">A compilation of devotional songs and hymns composed and sung by prominent music artists played back to back for worshipping God.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801046.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="801">
-    <title lang="en">BK Shivani</title>
-    <desc lang="en">Spiritual leader BK Shivani delivers discourses on spirituality in an attempt to help devotees lead the path of righteousness.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801047.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801048.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801049.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801050.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625801051.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626040000 +0530" channel="801">
-    <title lang="en">Divya Music</title>
-    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801001.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="801">
-    <title lang="en">Simran Sadhna</title>
-    <desc lang="en">A group of devotees sings melodious devotional songs in praise of Guru Nanak, the founder of Sikhism and seek his blessings.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801002.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="801">
-    <title lang="en">Japji Sahib</title>
-    <desc lang="en">This program features sacred hymns and holy songs about the almighty. These sacred hymns were composed by Guru Nanak Dev Ji, the founder of the Sikh faith.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801003.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626060000 +0530" channel="801">
     <title lang="en">Navgrah Jyotish</title>
     <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
@@ -614,5 +302,443 @@
     <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801053.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626801054.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627040000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801001.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="801">
+    <title lang="en">Simran Sadhna</title>
+    <desc lang="en">A group of devotees sings melodious devotional songs in praise of Guru Nanak, the founder of Sikhism and seek his blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801002.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="801">
+    <title lang="en">Japji Sahib</title>
+    <desc lang="en">This program features sacred hymns and holy songs about the almighty. These sacred hymns were composed by Guru Nanak Dev Ji, the founder of the Sikh faith.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801003.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627060000 +0530" channel="801">
+    <title lang="en">Navgrah Jyotish</title>
+    <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801004.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627060300 +0530" channel="801">
+    <title lang="en">Ganesh Aradhna</title>
+    <desc lang="en">Religious leaders and a large gathering of worshippers sing devotional songs and prayers in praise and worship of Lord Ganesha.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801005.jpg"/>
+  </programme>
+  <programme start="20240627060300 +0530" stop="20240627060800 +0530" channel="801">
+    <title lang="en">Sai Aarti</title>
+    <desc lang="en">Hindu priests and devotees perform religious rituals for Sai Baba, a saint.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801006.jpg"/>
+  </programme>
+  <programme start="20240627060800 +0530" stop="20240627061400 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801007.jpg"/>
+  </programme>
+  <programme start="20240627061400 +0530" stop="20240627062000 +0530" channel="801">
+    <title lang="en">Aarti Khatu Shyam</title>
+    <desc lang="en">Witness the telecast of an 'aarti' at a temple to honour Khatushyam, a name and manifestation of Barbarika, son of Ghatotkacha.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801008.jpg"/>
+  </programme>
+  <programme start="20240627062000 +0530" stop="20240627062500 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801009.jpg"/>
+  </programme>
+  <programme start="20240627062500 +0530" stop="20240627063000 +0530" channel="801">
+    <title lang="en">Babosa Aarti</title>
+    <desc lang="en">Priests and devotees perform religious rituals in praise of Hindu deity Babosa Maharaj and sing devotional songs to seek His blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801010.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="801">
+    <title lang="en">Chalisa</title>
+    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801011.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627074900 +0530" channel="801">
+    <title lang="en">Aartiyaan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801012.jpg"/>
+  </programme>
+  <programme start="20240627074900 +0530" stop="20240627075200 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801013.jpg"/>
+  </programme>
+  <programme start="20240627075200 +0530" stop="20240627075600 +0530" channel="801">
+    <title lang="en">Sankatmochan</title>
+    <desc lang="en">Religious leaders and devout followers of Lord Hanuman recite an eight-verse prayer and seek his blessings for their well-being and prosperity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801014.jpg"/>
+  </programme>
+  <programme start="20240627075600 +0530" stop="20240627080000 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801015.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="801">
+    <title lang="en">Divyamrit</title>
+    <desc lang="en">Several singers gather to perform melodious devotional music and compositions dedicated to the power and gloriousness of the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801016.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627092000 +0530" channel="801">
+    <title lang="en">Bhagya Aur Bhavishya</title>
+    <desc lang="en">An astrologer, who is well-versed in horoscopes, makes predictions for the future on the basis of the planetary positions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801017.jpg"/>
+  </programme>
+  <programme start="20240627092000 +0530" stop="20240627092500 +0530" channel="801">
+    <title lang="en">Chaints With Music</title>
+    <desc lang="en">A Hindu religious leader gives a comprehensive discourse on religious mantras from various philosophers and sheds light on them by rewriting them to illuminate the audience.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801018.jpg"/>
+  </programme>
+  <programme start="20240627092500 +0530" stop="20240627093000 +0530" channel="801">
+    <title lang="en">Promos / Tips</title>
+    <desc lang="en">Trailers and promos.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801019.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="801">
+    <title lang="en">Divya Drishti</title>
+    <desc lang="en">A religious leader delivers a discourse on the sacred scriptures and discusses how following the teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801020.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="801">
+    <title lang="en">Sukh Sagar</title>
+    <desc lang="en">A religious expert recites verses from the holy scriptures and encourages the devotees to follow the path of the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801021.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="801">
+    <title lang="en">Guru Mantra</title>
+    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801022.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="801">
+    <title lang="en">Mantra Of Success</title>
+    <desc lang="en">Renowned experts motivate viewers to maintain a positive attitude in order to lead a healthy and stress-free life in the future.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801023.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="801">
+    <title lang="en">Solution By Mineral</title>
+    <desc lang="en">A renowned astrologer offers advice on different kinds of minerals that will help resolve various problematic situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801024.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801025.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801026.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801027.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="801">
+    <title lang="en">Divya Drishti</title>
+    <desc lang="en">A religious leader delivers a discourse on the sacred scriptures and discusses how following the teachings will improve one's quality of life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801028.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627141500 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801029.jpg"/>
+  </programme>
+  <programme start="20240627141500 +0530" stop="20240627143000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801030.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627144500 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801031.jpg"/>
+  </programme>
+  <programme start="20240627144500 +0530" stop="20240627150000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801032.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627151000 +0530" channel="801">
+    <title lang="en">Promos / Tips</title>
+    <desc lang="en">Trailers and promos.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801033.jpg"/>
+  </programme>
+  <programme start="20240627151000 +0530" stop="20240627160000 +0530" channel="801">
+    <title lang="en">Hanuman Chalisa</title>
+    <desc lang="en">Devotees gather and recite the Hanuman Chalisa, which is a set of devotional hymns in praise of Lord Hanuman, the son of wind-god Vayu.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801034.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801035.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801036.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="801">
+    <title lang="en">Guru Mantra</title>
+    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801037.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="801">
+    <title lang="en">Guru Mantra</title>
+    <desc lang="en">The host invites a renowned astrologer who provides future predictions based on the star signs and solutions for various problems.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801038.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627180500 +0530" channel="801">
+    <title lang="en">Promos / Tips</title>
+    <desc lang="en">Trailers and promos.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801039.jpg"/>
+  </programme>
+  <programme start="20240627180500 +0530" stop="20240627183000 +0530" channel="801">
+    <title lang="en">Chalisa</title>
+    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801040.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="801">
+    <title lang="en">Aartiyaan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801041.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627190500 +0530" channel="801">
+    <title lang="en">Babosa Aarti</title>
+    <desc lang="en">Priests and devotees perform religious rituals in praise of Hindu deity Babosa Maharaj and sing devotional songs to seek His blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801042.jpg"/>
+  </programme>
+  <programme start="20240627190500 +0530" stop="20240627191000 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801043.jpg"/>
+  </programme>
+  <programme start="20240627191000 +0530" stop="20240627191500 +0530" channel="801">
+    <title lang="en">Aartiyaan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801044.jpg"/>
+  </programme>
+  <programme start="20240627191500 +0530" stop="20240627194500 +0530" channel="801">
+    <title lang="en">Karn Aur Nivaran</title>
+    <desc lang="en">A renowned astrologer predicts the future of people based on their horoscopes and provides solutions to help them reduce the effects of planetary transitions on their birth charts.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801045.jpg"/>
+  </programme>
+  <programme start="20240627194500 +0530" stop="20240627200000 +0530" channel="801">
+    <title lang="en">Bhagya Uday</title>
+    <desc lang="en">A renowned astrologer predicts the future of the 12 zodiac signs and gives the viewers advice on how to attract good fortune.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801046.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="801">
+    <title lang="en">Navgrah Jyotish</title>
+    <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801047.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801048.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="801">
+    <title lang="en">Bhajanawali</title>
+    <desc lang="en">A compilation of devotional songs and hymns composed and sung by prominent music artists played back to back for worshipping God.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801049.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="801">
+    <title lang="en">BK Shivani</title>
+    <desc lang="en">Spiritual leader BK Shivani delivers discourses on spirituality in an attempt to help devotees lead the path of righteousness.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801050.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801051.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801052.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801053.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627801054.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628040000 +0530" channel="801">
+    <title lang="en">Divya Music</title>
+    <desc lang="en">A comprehensive compilation of various melodious devotional songs that are performed by renowned musicians, back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801001.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="801">
+    <title lang="en">Simran Sadhna</title>
+    <desc lang="en">A group of devotees sings melodious devotional songs in praise of Guru Nanak, the founder of Sikhism and seek his blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801002.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="801">
+    <title lang="en">Japji Sahib</title>
+    <desc lang="en">This program features sacred hymns and holy songs about the almighty. These sacred hymns were composed by Guru Nanak Dev Ji, the founder of the Sikh faith.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801003.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628060000 +0530" channel="801">
+    <title lang="en">Navgrah Jyotish</title>
+    <desc lang="en">An astrologer predicts the future on the basis of the position of the planets and the stars.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801004.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628060300 +0530" channel="801">
+    <title lang="en">Ganesh Aradhna</title>
+    <desc lang="en">Religious leaders and a large gathering of worshippers sing devotional songs and prayers in praise and worship of Lord Ganesha.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801005.jpg"/>
+  </programme>
+  <programme start="20240628060300 +0530" stop="20240628060800 +0530" channel="801">
+    <title lang="en">Sai Aarti</title>
+    <desc lang="en">Hindu priests and devotees perform religious rituals for Sai Baba, a saint.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801006.jpg"/>
+  </programme>
+  <programme start="20240628060800 +0530" stop="20240628061400 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801007.jpg"/>
+  </programme>
+  <programme start="20240628061400 +0530" stop="20240628062000 +0530" channel="801">
+    <title lang="en">Aarti Khatu Shyam</title>
+    <desc lang="en">Witness the telecast of an 'aarti' at a temple to honour Khatushyam, a name and manifestation of Barbarika, son of Ghatotkacha.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801008.jpg"/>
+  </programme>
+  <programme start="20240628062000 +0530" stop="20240628062500 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801009.jpg"/>
+  </programme>
+  <programme start="20240628062500 +0530" stop="20240628063000 +0530" channel="801">
+    <title lang="en">Babosa Aarti</title>
+    <desc lang="en">Priests and devotees perform religious rituals in praise of Hindu deity Babosa Maharaj and sing devotional songs to seek His blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801010.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="801">
+    <title lang="en">Chalisa</title>
+    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801011.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628074900 +0530" channel="801">
+    <title lang="en">Aartiyaan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs as well as religious hymns that extend praise to the Almighty performed by various artists.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801012.jpg"/>
+  </programme>
+  <programme start="20240628074900 +0530" stop="20240628075200 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801013.jpg"/>
+  </programme>
+  <programme start="20240628075200 +0530" stop="20240628075600 +0530" channel="801">
+    <title lang="en">Sankatmochan</title>
+    <desc lang="en">Religious leaders and devout followers of Lord Hanuman recite an eight-verse prayer and seek his blessings for their well-being and prosperity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801014.jpg"/>
+  </programme>
+  <programme start="20240628075600 +0530" stop="20240628080000 +0530" channel="801">
+    <title lang="en">Promos / Advert</title>
+    <desc lang="en">A comprehensive compilation of promos of upcoming movies; The host shares information about various products.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801015.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="801">
+    <title lang="en">Divyamrit</title>
+    <desc lang="en">Several singers gather to perform melodious devotional music and compositions dedicated to the power and gloriousness of the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628801016.jpg"/>
   </programme>
 </tv>

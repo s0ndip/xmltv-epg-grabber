@@ -3,258 +3,6 @@
   <channel id="212">
     <display-name lang="en">ET Now</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625063000 +0530" channel="212">
-    <title lang="en">Beat The Street</title>
-    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212010.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="212">
-    <title lang="en">Your Trades</title>
-    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212011.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="212">
-    <title lang="en">Market Cafe</title>
-    <desc lang="en">The host provides updates on global market cues and compelling stock trading ideas. She, also, speaks with experts who give insight on the matter.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212012.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="212">
-    <title lang="en">The Market</title>
-    <desc lang="en">Financial experts update viewers regarding the latest developments from the stock markets by sharing information about share prices and trends from various exchanges.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212013.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625110000 +0530" channel="212">
-    <title lang="en">First Trades</title>
-    <desc lang="en">Take a look at and gain more understanding about the current market trends.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212014.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625120000 +0530" channel="212">
-    <title lang="en">ET Now BNSN: The Stock Game</title>
-    <desc lang="en">Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212015.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625130000 +0530" channel="212">
-    <title lang="en">Markets @ Noon</title>
-    <desc lang="en">The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212016.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="212">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">At the Atlantis Cable News Channel, news anchor Will McAvoy is forced to collaborate with new colleagues after his previous team quits. They struggle to work together and produce quality content.</desc>
-    <credits>
-      <director>Alan Poul</director>
-      <actor>Jeff Daniels</actor>
-      <actor>Emily Mortimer</actor>
-      <actor>John Gallagher Jr.</actor>
-      <actor>Alison Pill</actor>
-      <actor>Thomas Sadoski</actor>
-      <actor>Dev Patel</actor>
-      <actor>Olivia Munn</actor>
-      <actor>Sam Waterston</actor>
-      <actor>Chris Chalk</actor>
-      <actor>Margaret Judson</actor>
-      <actor>Adina Porter</actor>
-      <actor>Trieu Tran</actor>
-      <actor>Charlie Weirauch</actor>
-      <actor>Wynn Everett</actor>
-      <actor>Riley Voelkel</actor>
-      <actor>Chris Messina</actor>
-      <actor>Marcia Gay Harden</actor>
-      <actor>David Harbour</actor>
-      <actor>Jane Fonda</actor>
-      <actor>Grace Gummer</actor>
-      <actor>Kelen Coleman</actor>
-      <actor>Chasty Ballesteros</actor>
-      <actor>Sarah Scott Davis</actor>
-      <actor>Hamish Linklater</actor>
-      <actor>Hope Davis</actor>
-      <actor>Terry Crews</actor>
-      <actor>Constance Zimmer</actor>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Andy Wagner</actor>
-      <actor>David Krumholtz</actor>
-      <actor>Jon Tenney</actor>
-      <actor>Aya Cash</actor>
-      <actor>Jimm</actor>
-    </credits>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212017.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625143000 +0530" channel="212">
-    <title lang="en">Market Fatafat</title>
-    <desc lang="en">The host provides the latest updates on significant matters concerning the stock market and related subjects in a quick succession.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212018.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625153000 +0530" channel="212">
-    <title lang="en">ET Now Closing Trades</title>
-    <desc lang="en">Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212019.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="212">
-    <title lang="en">Business Prime Time</title>
-    <desc lang="en">Take a look at the latest news updates and events from the world of business.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212020.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="212">
-    <title lang="en">Beat The Street</title>
-    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212021.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="212">
-    <title lang="en">Talent Superheroes</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212022.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="212">
-    <title lang="en">The Money Show</title>
-    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212023.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="212">
-    <title lang="en">News Now</title>
-    <desc lang="en">The host presents a look at the latest social, economic and political updates and current affairs in various regions across Asia.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212024.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="212">
-    <title lang="en">Startup Central</title>
-    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212025.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="212">
-    <title lang="en">Your Trades</title>
-    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212026.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="212">
-    <title lang="en">Rush Hour</title>
-    <desc lang="en">The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212027.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="212">
-    <title lang="en">Budget 2024 Special</title>
-    <desc lang="en">The host sheds light on the 2024 Union Budget of India and provides detailed insights into the significant announcements and policies.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212028.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="212">
-    <title lang="en">India Tonight</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212029.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="212">
-    <title lang="en">India Development Debate</title>
-    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212030.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="212">
-    <title lang="en">Big Voices</title>
-    <desc lang="en">The host speaks with experts who provide insights into the current market trends to help people make the best investment decisions.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212031.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="212">
-    <title lang="en">The Money Show</title>
-    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212032.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="212">
-    <title lang="en">ET Now Lea</title>
-    <desc lang="en">The host invites influential leaders from different fields who talk about their respective career prospects and plans for the future.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212033.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="212">
-    <title lang="en">Your Trades</title>
-    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212034.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="212">
-    <title lang="en">India Development Debate</title>
-    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625212035.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="212">
-    <title lang="en">Beat The Street</title>
-    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626013000 +0530" channel="212">
-    <title lang="en">India Tonight</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212001.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="212">
-    <title lang="en">Startup Central</title>
-    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212002.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="212">
-    <title lang="en">Your Trades</title>
-    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212003.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="212">
-    <title lang="en">India Development Debate</title>
-    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212004.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="212">
-    <title lang="en">Beat The Street</title>
-    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212005.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="212">
-    <title lang="en">The Money Show</title>
-    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212006.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="212">
-    <title lang="en">Big Voices</title>
-    <desc lang="en">The host speaks with experts who provide insights into the current market trends to help people make the best investment decisions.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212007.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="212">
-    <title lang="en">Startup Central</title>
-    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
-    <category lang="en">Business and Finance</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212008.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="212">
-    <title lang="en">India Tonight</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212009.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626063000 +0530" channel="212">
     <title lang="en">Beat The Street</title>
     <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
@@ -446,5 +194,347 @@
     <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
     <category lang="en">Business and Finance</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212034.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="212">
+    <title lang="en">India Development Debate</title>
+    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626212035.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627013000 +0530" channel="212">
+    <title lang="en">India Tonight</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212001.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="212">
+    <title lang="en">Startup Central</title>
+    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212002.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212003.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="212">
+    <title lang="en">India Development Debate</title>
+    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212004.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212005.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="212">
+    <title lang="en">The Money Show</title>
+    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212006.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="212">
+    <title lang="en">Big Voices</title>
+    <desc lang="en">The host speaks with experts who provide insights into the current market trends to help people make the best investment decisions.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212007.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="212">
+    <title lang="en">Startup Central</title>
+    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212008.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="212">
+    <title lang="en">India Tonight</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212009.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627063000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212010.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212011.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="212">
+    <title lang="en">Market Cafe</title>
+    <desc lang="en">The host provides updates on global market cues and compelling stock trading ideas. She, also, speaks with experts who give insight on the matter.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212012.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="212">
+    <title lang="en">The Market</title>
+    <desc lang="en">Financial experts update viewers regarding the latest developments from the stock markets by sharing information about share prices and trends from various exchanges.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212013.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627110000 +0530" channel="212">
+    <title lang="en">First Trades</title>
+    <desc lang="en">Take a look at and gain more understanding about the current market trends.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212014.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627120000 +0530" channel="212">
+    <title lang="en">ET Now BNSN: The Stock Game</title>
+    <desc lang="en">Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212015.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627130000 +0530" channel="212">
+    <title lang="en">Markets @ Noon</title>
+    <desc lang="en">The host provides the latest news, updates and developments concerning the stock market and events that have affected various shares.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212016.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="212">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">At the Atlantis Cable News Channel, news anchor Will McAvoy is forced to collaborate with new colleagues after his previous team quits. They struggle to work together and produce quality content.</desc>
+    <credits>
+      <director>Alan Poul</director>
+      <actor>Jeff Daniels</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>John Gallagher Jr.</actor>
+      <actor>Alison Pill</actor>
+      <actor>Thomas Sadoski</actor>
+      <actor>Dev Patel</actor>
+      <actor>Olivia Munn</actor>
+      <actor>Sam Waterston</actor>
+      <actor>Chris Chalk</actor>
+      <actor>Margaret Judson</actor>
+      <actor>Adina Porter</actor>
+      <actor>Trieu Tran</actor>
+      <actor>Charlie Weirauch</actor>
+      <actor>Wynn Everett</actor>
+      <actor>Riley Voelkel</actor>
+      <actor>Chris Messina</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>David Harbour</actor>
+      <actor>Jane Fonda</actor>
+      <actor>Grace Gummer</actor>
+      <actor>Kelen Coleman</actor>
+      <actor>Chasty Ballesteros</actor>
+      <actor>Sarah Scott Davis</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>Hope Davis</actor>
+      <actor>Terry Crews</actor>
+      <actor>Constance Zimmer</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Andy Wagner</actor>
+      <actor>David Krumholtz</actor>
+      <actor>Jon Tenney</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jimm</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212017.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627143000 +0530" channel="212">
+    <title lang="en">Market Fatafat</title>
+    <desc lang="en">The host provides the latest updates on significant matters concerning the stock market and related subjects in a quick succession.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212018.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627153000 +0530" channel="212">
+    <title lang="en">ET Now Closing Trades</title>
+    <desc lang="en">Journalists and reporters share the latest news stories and updates on the stock market while discussing the performance of various shares.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212019.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="212">
+    <title lang="en">Business Prime Time</title>
+    <desc lang="en">Take a look at the latest news updates and events from the world of business.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212020.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212021.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="212">
+    <title lang="en">Talent Superheroes</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212022.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="212">
+    <title lang="en">The Money Show</title>
+    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212023.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="212">
+    <title lang="en">News Now</title>
+    <desc lang="en">The host presents a look at the latest social, economic and political updates and current affairs in various regions across Asia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212024.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="212">
+    <title lang="en">Startup Central</title>
+    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212025.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212026.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="212">
+    <title lang="en">Rush Hour</title>
+    <desc lang="en">The host presents a summary of the latest social, political, economic and sports news updates and developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212027.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="212">
+    <title lang="en">Budget 2024 Special</title>
+    <desc lang="en">The host sheds light on the 2024 Union Budget of India and provides detailed insights into the significant announcements and policies.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212028.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="212">
+    <title lang="en">India Tonight</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212029.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="212">
+    <title lang="en">India Development Debate</title>
+    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212030.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="212">
+    <title lang="en">Big Voices</title>
+    <desc lang="en">The host speaks with experts who provide insights into the current market trends to help people make the best investment decisions.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212031.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="212">
+    <title lang="en">The Money Show</title>
+    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212032.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="212">
+    <title lang="en">ET Now Lea</title>
+    <desc lang="en">The host invites influential leaders from different fields who talk about their respective career prospects and plans for the future.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212033.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212034.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="212">
+    <title lang="en">India Development Debate</title>
+    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627212035.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628013000 +0530" channel="212">
+    <title lang="en">India Tonight</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212001.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="212">
+    <title lang="en">Startup Central</title>
+    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212002.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212003.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="212">
+    <title lang="en">India Development Debate</title>
+    <desc lang="en">The host conducts a debate between experts as they provide their views and opinions on important topics related to development in India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212004.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212005.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="212">
+    <title lang="en">The Money Show</title>
+    <desc lang="en">The host provides investment advice and tips to a live audience and gives invaluable insights into the art of earning, saving and investing money.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212006.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="212">
+    <title lang="en">Big Voices</title>
+    <desc lang="en">The host speaks with experts who provide insights into the current market trends to help people make the best investment decisions.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212007.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="212">
+    <title lang="en">Startup Central</title>
+    <desc lang="en">The host delves deeper into the updates and developments associated with an investment in start-ups, e-commerce as well as financial technology.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212008.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="212">
+    <title lang="en">India Tonight</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212009.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628063000 +0530" channel="212">
+    <title lang="en">Beat The Street</title>
+    <desc lang="en">The host sheds light on some important developments related to the Indian stock market and expert stockbrokers provide investment tips to the viewers.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212010.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="212">
+    <title lang="en">Your Trades</title>
+    <desc lang="en">Renowned trade and investment experts express their views on the latest developments and updates pertaining to the current trends in the Indian stock market.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212011.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="212">
+    <title lang="en">Market Cafe</title>
+    <desc lang="en">The host provides updates on global market cues and compelling stock trading ideas. She, also, speaks with experts who give insight on the matter.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212012.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="212">
+    <title lang="en">The Market</title>
+    <desc lang="en">Financial experts update viewers regarding the latest developments from the stock markets by sharing information about share prices and trends from various exchanges.</desc>
+    <category lang="en">Business and Finance</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628212013.jpg"/>
   </programme>
 </tv>

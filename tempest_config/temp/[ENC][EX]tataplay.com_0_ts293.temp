@@ -3,124 +3,6 @@
   <channel id="ts293">
     <display-name lang="en">Asianet Movies</display-name>
   </channel>
-  <programme start="20240624192000 +0000" stop="20240624214500 +0000" channel="ts293">
-    <title lang="en">Kunjiramayanam</title>
-    <desc lang="en">Kunjiraman's plan to marry Thankamani fails when his cousin, Laalu, breaks their union. Later, Kunjiraman goes to Gulf to make money and returns to take revenge on Laalu.</desc>
-    <credits>
-      <actor>Vineeth Sreenivasan</actor>
-      <actor>Dhyan Sreenivasan</actor>
-      <actor>Biju Menon</actor>
-      <actor>Aju Varghese</actor>
-      <actor>Neeraj Madhav</actor>
-      <actor>Deepak Parambol</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2509C8B02D49970EF97EE9205A0B18882D9C52A9E.jpg"/>
-  </programme>
-  <programme start="20240624214500 +0000" stop="20240625003000 +0000" channel="ts293">
-    <title lang="en">Yugapurushan</title>
-    <desc lang="en">Sree Narayan Guru is a social reformer who wishes to bring about a change in Kerala. He leads various reform movements to abolish the caste system in his state.</desc>
-    <credits>
-      <actor>Thalai Vaasal Vijay</actor>
-      <actor>Mammootty</actor>
-      <actor>Siddique</actor>
-      <actor>Babu Antony</actor>
-      <actor>Navya Nair</actor>
-    </credits>
-    <category lang="en">Family</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB4122595A7622707DC1F7ED08F6107998BB6D6AG.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts293">
-    <title lang="en">Chirikkum Thalika</title>
-    <desc lang="en">A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFC385EF0C358B3F9EF5FF86D36C657AE4F6F4BD2.jpg"/>
-    <episode-num system="xmltv_ns">.2472.</episode-num>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625042000 +0000" channel="ts293">
-    <title lang="en">Jamna Pyari</title>
-    <desc lang="en">Vasoottan, an autorickshaw driver, helps Parvathy and her distressed family to deliver a hundred Jamnapari goats so that she can save her farm from the evil clutches of Sridharan.</desc>
-    <credits>
-      <actor>Kunchacko Boban</actor>
-      <actor>Gayathri Suresh</actor>
-      <actor>Sijoy Varghese</actor>
-      <actor>Suraj Venjaramoodu</actor>
-      <actor>Aju Varghese</actor>
-      <actor>Renji Panicker</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93E4E5CE61B07850A0EC849F174222685F646F3E0.jpg"/>
-  </programme>
-  <programme start="20240625042000 +0000" stop="20240625073000 +0000" channel="ts293">
-    <title lang="en">Love Action Drama</title>
-    <desc lang="en">Dinesh, a young bachelor, attempts to impress and marry Shobha, a successful businesswoman, with the help of his best friend.</desc>
-    <credits>
-      <actor>Nivin Pauly</actor>
-      <actor>Nayanthara</actor>
-      <actor>Aju Varghese</actor>
-      <actor>Vineeth Sreenivasan</actor>
-      <actor>Prajin Padmanabhan</actor>
-      <actor>Durga Krishna</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/60AC49149DD5585A22EA63390B3AC49B93EB4CE88.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625103000 +0000" channel="ts293">
-    <title lang="en">Kaaryasthan</title>
-    <desc lang="en">Krishnanunni tries to settle the dispute between two feuding families. In the process of doing so, he ends up falling in love with Sreebala, who belongs to one of the families.</desc>
-    <credits>
-      <actor>Dileep</actor>
-      <actor>Akhila</actor>
-      <actor>Madhu</actor>
-      <actor>Siddique</actor>
-      <actor>G K Pillai</actor>
-      <actor>Nishanth Sagar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A69C0746AE54BE34C3E1F3D4FD7CE6F0AAD0E9B0C.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625133000 +0000" channel="ts293">
-    <title lang="en">Vettam</title>
-    <desc lang="en">While trying to escape after stealing a necklace, Gopi runs into Veena. They eventually fall in love and find themselves in a world of trouble.</desc>
-    <credits>
-      <actor>Dileep</actor>
-      <actor>Bhavna Pani</actor>
-      <actor>Kalabhavan Mani</actor>
-      <actor>Innocent</actor>
-      <actor>Janardhanan</actor>
-      <actor>Mythili</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54EC22517A1A5AF4EB0191B6B6A443C32794F0DAY.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625170000 +0000" channel="ts293">
-    <title lang="en">Vikram</title>
-    <desc lang="en">A special agent investigates a murder committed by a masked group of serial killers. However, a tangled maze of clues soon leads him to the drug kingpin of Chennai.</desc>
-    <credits>
-      <actor>Kamal Haasan</actor>
-      <actor>Vijay Sethupathi</actor>
-      <actor>Fahadh Faasil</actor>
-      <actor>Narain</actor>
-      <actor>Kalidas Jayaram</actor>
-      <actor>Santhana Bharathi</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63EA65ADD783BD6A0823545FC61C9DBAF63D150BL.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625204000 +0000" channel="ts293">
-    <title lang="en">Marakkar - Arabikadalinte Simham</title>
-    <desc lang="en">The naval chieftain of the Zamorin of Calicut, Kunjali Marakkar IV, develops a highly-equipped naval defence to fight against the Portuguese invaders in India.</desc>
-    <credits>
-      <actor>Mohanlal</actor>
-      <actor>Arjun Sarja</actor>
-      <actor>Suniel Shetty</actor>
-      <actor>Prabhu</actor>
-      <actor>Manju Warrier</actor>
-      <actor>Keerthy Suresh</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01FAD33064BEA36889561ACAADD75A4A258C1FC9T.jpg"/>
-  </programme>
   <programme start="20240625204000 +0000" stop="20240625223000 +0000" channel="ts293">
     <title lang="en">Ambili</title>
     <desc lang="en">Ambili, a naive and wide-eyed young man, is adored by everyone for his quirky traits. He hopes to marry his childhood love, Tina, and restore the lost bond with his friend and Tina's brother, Bobby.</desc>
@@ -238,5 +120,124 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/401C3FA986EFC5E2FEFBB56FE05444BF5D40B46DK.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626220000 +0000" channel="ts293">
+    <title lang="en">Kayamkulam Kochunni</title>
+    <desc lang="en">Ill-treated since childhood by the wealthy people, Kayamkulam Kochunni decides to steal from the rich and feeds the poor and the lower caste community, thus growing into a hero for the downtrodden.</desc>
+    <credits>
+      <actor>Nivin Pauly</actor>
+      <actor>Priya Anand</actor>
+      <actor>Mohanlal</actor>
+      <actor>Sunny Wayne</actor>
+      <actor>Priyanka Thimmesh</actor>
+      <actor>Babu Antony</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28CEA3BAB798311F05A9B40DD5425222DFB3BF77S.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240627003000 +0000" channel="ts293">
+    <title lang="en">Minnaminnikkoottam</title>
+    <desc lang="en">Seven friends work for an IT company and lead a seemingly easy-going life. However, each one of them is secretly dealing with personal issues related to love and family.</desc>
+    <credits>
+      <actor>Narain</actor>
+      <actor>Meera Jasmine</actor>
+      <actor>Indrajith</actor>
+      <actor>Jayasurya</actor>
+      <actor>Samvrutha Sunil</actor>
+      <actor>Anoop Chandran</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6DB0A97C542C7F8E44C3A0FDE657E9A6387F4AC9V.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts293">
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFC385EF0C358B3F9EF5FF86D36C657AE4F6F4BD2.jpg"/>
+    <episode-num system="xmltv_ns">.2474.</episode-num>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627043000 +0000" channel="ts293">
+    <title lang="en">Johny Johny Yes Appa</title>
+    <desc lang="en">Johny pretends to be a gentleman but is a thief who thrives on lies and betrayals. His life turns upside down after his encounter with Adam, an orphan.</desc>
+    <credits>
+      <actor>Kunchacko Boban</actor>
+      <actor>Anu Sithara</actor>
+      <actor>Mamta Mohandas</actor>
+      <actor>Tini Tom</actor>
+      <actor>Sharafudheen</actor>
+      <actor>Vijayaraghavan</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E86E7699E31EEEA5A3C58A1D7D6662DE3F17499F9.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627073000 +0000" channel="ts293">
+    <title lang="en">Romancham</title>
+    <desc lang="en">Seven friends residing together in Bengaluru decide to use an Ouija board. Soon, the group begin to encounter supernatural events.</desc>
+    <credits>
+      <actor>Soubin Shahir</actor>
+      <actor>Arjun Ashokan</actor>
+      <actor>Chemban Vinod Jose</actor>
+      <actor>Sajin Gopu</actor>
+      <actor>Siju Sunny</actor>
+      <actor>Afzal P H</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E979CED8933A00F42CFB4FDCF6E338CCD7C5A38M.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627103000 +0000" channel="ts293">
+    <title lang="en">Two Countries</title>
+    <desc lang="en">Ullas, a procrastinator, makes money by deceiving and conning people. His life takes a turn when he decides to marry Laya, a wealthy woman, who is settled in Canada.</desc>
+    <credits>
+      <actor>Dileep</actor>
+      <actor>Mamata Mohandas</actor>
+      <actor>Isha Talwar</actor>
+      <actor>Aju Varghese</actor>
+      <actor>Suraj Venjaramoodu</actor>
+      <actor>Rafi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9E04EA099500783F91A0B5C7907E69F3E13AB57U.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627133000 +0000" channel="ts293">
+    <title lang="en">Vellinakshatram</title>
+    <desc lang="en">Vinod loves Aswathy, who belongs to a royal family with dark secrets. However, strange events occur after Aswathy mysteriously dies during childbirth and their daughter is believed to be possessed.</desc>
+    <credits>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Meenakshi</actor>
+      <actor>Taruni Sachdev</actor>
+      <actor>Karthika Mathew</actor>
+      <actor>Jagathi Sreekumar</actor>
+      <actor>Jagadeesh</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDCE4F4ABE6F6A0025E076EF915DBA3245DD20772.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627163000 +0000" channel="ts293">
+    <title lang="en">Malikappuram</title>
+    <desc lang="en">On an independent pilgrimage to the Sabarimala Temple with her friend, an eight-year-old girl meets a kind man who accompanies them during the journey.</desc>
+    <credits>
+      <actor>Unni Mukundan</actor>
+      <actor>Deva Nandha</actor>
+      <actor>Sreepath Yan</actor>
+      <actor>Saiju Kurup</actor>
+      <actor>Ramesh Pisharody</actor>
+      <actor>Manoj K Jayan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D539585A9F756E2191E7A7FC998A860B4A67774R.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627193000 +0000" channel="ts293">
+    <title lang="en">Maheshum Marutiyum</title>
+    <desc lang="en">In the year 1983, the emotional fixation of a young man with his Maruti 800 car gets tested when he falls for his childhood confidante.</desc>
+    <credits>
+      <actor>Asif Ali</actor>
+      <actor>Mamta Mohandas</actor>
+      <actor>Maniyanpilla Raju</actor>
+      <actor>Divya M Nair</actor>
+      <actor>Vijay Babu</actor>
+      <actor>Idavela Babu</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F43BAE9515601B28C6FAFC4C16AC3139CB3A812B.jpg"/>
   </programme>
 </tv>

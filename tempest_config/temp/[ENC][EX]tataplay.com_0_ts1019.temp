@@ -3,114 +3,6 @@
   <channel id="ts1019">
     <display-name lang="en">7x Music</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240625003000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625023000 +0000" channel="ts1019">
-    <title lang="en">Bhagati Aradhana</title>
-    <desc lang="en">Bhagati Aradhana</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts1019">
-    <title lang="en">Bollywood Beats</title>
-    <desc lang="en">Bollywood Beats</desc>
-    <category lang="en">Bollywood Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625045900 +0000" channel="ts1019">
-    <title lang="en">Fresh Beats</title>
-    <desc lang="en">Fresh Beats</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625045900 +0000" stop="20240625053000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts1019">
-    <title lang="en">Old Punjabi Songs</title>
-    <desc lang="en">Old Punjabi Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts1019">
-    <title lang="en">Music Masti</title>
-    <desc lang="en">Music Masti</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts1019">
-    <title lang="en">Swag Mera Desi</title>
-    <desc lang="en">Swag Mera Desi</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625100000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625110000 +0000" channel="ts1019">
-    <title lang="en">Old Punjabi Songs</title>
-    <desc lang="en">Old Punjabi Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625120000 +0000" channel="ts1019">
-    <title lang="en">Fresh Beats</title>
-    <desc lang="en">Fresh Beats</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts1019">
-    <title lang="en">Gurbani Shabad</title>
-    <desc lang="en">Gurbani Shabad</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts1019">
-    <title lang="en">Fresh Beats</title>
-    <desc lang="en">Fresh Beats</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts1019">
-    <title lang="en">Hit List</title>
-    <desc lang="en">Hit List</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625173000 +0000" channel="ts1019">
-    <title lang="en">Songs</title>
-    <desc lang="en">Songs</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts1019">
-    <title lang="en">Fresh Beats</title>
-    <desc lang="en">Fresh Beats</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240626003000 +0000" channel="ts1019">
     <title lang="en">Only Music</title>
     <desc lang="en">Only Music</desc>
@@ -208,6 +100,102 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
   </programme>
   <programme start="20240626170000 +0000" stop="20240627003000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627023000 +0000" channel="ts1019">
+    <title lang="en">Bhadati Aradhna</title>
+    <desc lang="en">Bhadati Aradhna</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts1019">
+    <title lang="en">Bollywood Beats</title>
+    <desc lang="en">Bollywood Beats</desc>
+    <category lang="en">Bollywood Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627050000 +0000" channel="ts1019">
+    <title lang="en">Exclusive</title>
+    <desc lang="en">Exclusive</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627063000 +0000" channel="ts1019">
+    <title lang="en">Old Punjabi Songs</title>
+    <desc lang="en">Old Punjabi Songs</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts1019">
+    <title lang="en">Music Masti</title>
+    <desc lang="en">Music Masti</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627083000 +0000" channel="ts1019">
+    <title lang="en">Swag Mera Desi</title>
+    <desc lang="en">Swag Mera Desi</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627100000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627110000 +0000" channel="ts1019">
+    <title lang="en">Old Punjabi Songs</title>
+    <desc lang="en">Old Punjabi Songs</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627120000 +0000" channel="ts1019">
+    <title lang="en">Exclusive</title>
+    <desc lang="en">Exclusive</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627133000 +0000" channel="ts1019">
+    <title lang="en">Gurbani Shabad</title>
+    <desc lang="en">Gurbani Shabad</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627143000 +0000" channel="ts1019">
+    <title lang="en">Only Music</title>
+    <desc lang="en">Only Music</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627170000 +0000" channel="ts1019">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/288x216/Tataplaylogo_4X3.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240628003000 +0000" channel="ts1019">
     <title lang="en">Only Music</title>
     <desc lang="en">Only Music</desc>
     <category lang="en">Music</category>

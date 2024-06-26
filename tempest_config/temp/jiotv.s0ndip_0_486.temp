@@ -3,98 +3,6 @@
   <channel id="486">
     <display-name lang="en">Bhojpuri Cinema</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625080000 +0530" channel="486">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486002.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625100100 +0530" channel="486">
-    <title lang="en">Bhojpuri Jhankar</title>
-    <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486003.jpg"/>
-  </programme>
-  <programme start="20240625100100 +0530" stop="20240625130600 +0530" channel="486">
-    <title lang="en">Vivah 3</title>
-    <desc lang="en">Raja falls in love with a woman, but she rejects his proposal after learning that he is uneducated. When Raja's father gets him engaged to another woman, Raja's ex-lover gets disheartened.</desc>
-    <credits>
-      <director>Rajnish Mishra</director>
-      <actor>Pradeep Pandey</actor>
-      <actor>Amrapali Dubey</actor>
-      <actor>Sanyukta Rai</actor>
-      <actor>Sanjay Pandey</actor>
-      <actor>Awadhesh Mishra</actor>
-      <actor>Rohit Singh Matru</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486004.jpg"/>
-  </programme>
-  <programme start="20240625130600 +0530" stop="20240625155100 +0530" channel="486">
-    <title lang="en">Saas Athani Bahu Rupaiya</title>
-    <desc lang="en">Circumstances make Poorvi and Gaurav's mother lock horns with each other. Post marriage, they get possessive about taking care of Gaurav and face a tough time staying under one roof.</desc>
-    <credits>
-      <director>Vishnu Shankar</director>
-      <actor>Vikrant Singh</actor>
-      <actor>Richa Dixit</actor>
-      <actor>J Neelam</actor>
-      <actor>Anita Rawat</actor>
-      <actor>Prakash Jais</actor>
-      <actor>Santosh Shrivastav</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486005.jpg"/>
-  </programme>
-  <programme start="20240625155100 +0530" stop="20240625165600 +0530" channel="486">
-    <title lang="en">Naach Re Patarki</title>
-    <desc lang="en">A comprehensive compilation of melodious regional songs performed by talented singers and musicians is played in quick succession.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486006.jpg"/>
-  </programme>
-  <programme start="20240625165600 +0530" stop="20240625195800 +0530" channel="486">
-    <title lang="en">Doli Saja Ke Rakhna</title>
-    <desc lang="en">The film revolves around the emotional relationship between father and son. However, for the sake of love, the latter breaks all the shackles of society.</desc>
-    <credits>
-      <director>Rajnish Mishra</director>
-      <actor>Khesari Lal Yadav</actor>
-      <actor>Amrapali Dubey</actor>
-      <actor>Raksha Gupta</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486007.jpg"/>
-  </programme>
-  <programme start="20240625195800 +0530" stop="20240625232700 +0530" channel="486">
-    <title lang="en">Vivah</title>
-    <desc lang="en">Anand thinks that he is getting married to the love of his life, but he is tricked into marrying another woman. Unable to accept this injustice, he disowns his newly-wed wife.</desc>
-    <credits>
-      <director>Manjul Thakur</director>
-      <actor>Pradeep Pandey Chintu</actor>
-      <actor>Sanchita Banerjee</actor>
-      <actor>Priti Biswas</actor>
-      <actor>Aakanksha Awasthi</actor>
-      <actor>Awdhesh Mishra</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486008.jpg"/>
-  </programme>
-  <programme start="20240625232700 +0530" stop="20240626000000 +0530" channel="486">
-    <title lang="en">Bhojpuri Jhankar</title>
-    <desc lang="en">A comprehensive compilation of popular songs from the latest movies featuring talented artists is played in quick succession.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625486009.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626030000 +0530" channel="486">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626486000.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626060000 +0530" channel="486">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626486001.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626090000 +0530" channel="486">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
@@ -124,5 +32,77 @@
     <desc lang="en">Movie.</desc>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626486006.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0530" stop="20240627000000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626486007.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627030000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486000.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627060000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486001.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627090000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486002.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486003.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627150000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486004.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627180000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486005.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627210000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486006.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627486007.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628486000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628486001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="486">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628486002.jpg"/>
   </programme>
 </tv>

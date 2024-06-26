@@ -3,216 +3,6 @@
   <channel id="515">
     <display-name lang="en">India News MP</display-name>
   </channel>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="515">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515001.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="515">
-    <title lang="en">MP-CG Bulletin</title>
-    <desc lang="en">The host, a television reporter, analyses the latest news updates regarding the current social, economic and political developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515002.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="515">
-    <title lang="en">Dharma</title>
-    <desc lang="en">The host provides insight into Madhya Pradesh, India's socioeconomic advancements and the political environment around religion and elections.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515003.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625083000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515004.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="515">
-    <title lang="en">MLA Ka Report Card</title>
-    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515005.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625093000 +0530" channel="515">
-    <title lang="en">MP-CG Reporter Live Bulletin</title>
-    <desc lang="en">The host provides the latest news bulletins and provides updates on various political and socio-economic developments from Madhya Pradesh and Chhattisgarh, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515006.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625100000 +0530" channel="515">
-    <title lang="en">Aakde Hamare Faisla Aapka</title>
-    <desc lang="en">In light of the approaching elections, the host provides a thorough analysis of the latest developments in the nation's political landscape.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515007.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515008.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="515">
-    <title lang="en">Mudde Ki Baat</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515009.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515010.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="515">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515011.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515012.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="515">
-    <title lang="en">Viral Video / National</title>
-    <desc lang="en">The host shares a compilation of viral videos that have garnered attention on the web; the news anchor provides updates and developments of national importance.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515013.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625133000 +0530" channel="515">
-    <title lang="en">Khabar Madhya Pradesh</title>
-    <desc lang="en">The host presents some of the latest news updates and developments pertaining to the various issues in the state of Madhya Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515014.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625140000 +0530" channel="515">
-    <title lang="en">Mor Chhattisgarh</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515015.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="515">
-    <title lang="en">News Bulletin Live</title>
-    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515016.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625150000 +0530" channel="515">
-    <title lang="en">MLA Ka Report Card</title>
-    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515017.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="515">
-    <title lang="en">News Bulletin Live</title>
-    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515018.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="515">
-    <title lang="en">Dharma</title>
-    <desc lang="en">The host provides insight into Madhya Pradesh, India's socioeconomic advancements and the political environment around religion and elections.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515019.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="515">
-    <title lang="en">Badi Khabar News Bulletin</title>
-    <desc lang="en">The host presents the top news stories, important updates and developments pertaining to various sectors including politics, business and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515020.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="515">
-    <title lang="en">Fatafat Live</title>
-    <desc lang="en">The host sheds light on the top stories, recent happenings and latest updates taking place in Haryana and all over the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515021.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515022.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="515">
-    <title lang="en">MLA Ka Report Card</title>
-    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515023.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="515">
-    <title lang="en">Khabar Madhya Pradesh</title>
-    <desc lang="en">The host presents some of the latest news updates and developments pertaining to the various issues in the state of Madhya Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515024.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="515">
-    <title lang="en">Mor Chhattisgarh</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515025.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="515">
-    <title lang="en">Mudde Ki Baat</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515026.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625200000 +0530" channel="515">
-    <title lang="en">Fatafat Live</title>
-    <desc lang="en">The host sheds light on the top stories, recent happenings and latest updates taking place in Haryana and all over the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515027.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="515">
-    <title lang="en">Debate - MP</title>
-    <desc lang="en">The host invites a panel of experts and prominent personalities to share their views on various issues from around Madhya Pradesh, India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515028.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="515">
-    <title lang="en">Debate CG</title>
-    <desc lang="en">Guest speakers from different backgrounds debate their views and opinions on elections taking place in the state of Chhattisgarh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515029.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="515">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515030.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="515">
-    <title lang="en">Fatafat</title>
-    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515031.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="515">
-    <title lang="en">Final News Bulletin</title>
-    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515032.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="515">
-    <title lang="en">Mudde Ki Baat</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515033.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="515">
-    <title lang="en">Ground Report</title>
-    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625515034.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626063000 +0530" channel="515">
-    <title lang="en">Ground Report</title>
-    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626515000.jpg"/>
-  </programme>
   <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="515">
     <title lang="en">News</title>
     <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
@@ -410,5 +200,257 @@
     <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626515033.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="515">
+    <title lang="en">Ground Report</title>
+    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626515034.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627063000 +0530" channel="515">
+    <title lang="en">Ground Report</title>
+    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515000.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="515">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515001.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="515">
+    <title lang="en">MP-CG Bulletin</title>
+    <desc lang="en">The host, a television reporter, analyses the latest news updates regarding the current social, economic and political developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515002.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="515">
+    <title lang="en">Dharma</title>
+    <desc lang="en">The host provides insight into Madhya Pradesh, India's socioeconomic advancements and the political environment around religion and elections.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515003.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627083000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515004.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="515">
+    <title lang="en">MLA Ka Report Card</title>
+    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515005.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627093000 +0530" channel="515">
+    <title lang="en">MP-CG Reporter Live Bulletin</title>
+    <desc lang="en">The host provides the latest news bulletins and provides updates on various political and socio-economic developments from Madhya Pradesh and Chhattisgarh, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515006.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627100000 +0530" channel="515">
+    <title lang="en">Aakde Hamare Faisla Aapka</title>
+    <desc lang="en">In light of the approaching elections, the host provides a thorough analysis of the latest developments in the nation's political landscape.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515007.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515008.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="515">
+    <title lang="en">Mudde Ki Baat</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515009.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627113000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515010.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="515">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515011.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515012.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="515">
+    <title lang="en">Viral Video / National</title>
+    <desc lang="en">The host shares a compilation of viral videos that have garnered attention on the web; the news anchor provides updates and developments of national importance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515013.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627133000 +0530" channel="515">
+    <title lang="en">Khabar Madhya Pradesh</title>
+    <desc lang="en">The host presents some of the latest news updates and developments pertaining to the various issues in the state of Madhya Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515014.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627140000 +0530" channel="515">
+    <title lang="en">Mor Chhattisgarh</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515015.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="515">
+    <title lang="en">News Bulletin Live</title>
+    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515016.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627150000 +0530" channel="515">
+    <title lang="en">MLA Ka Report Card</title>
+    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515017.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="515">
+    <title lang="en">News Bulletin Live</title>
+    <desc lang="en">In a live telecast, the host presents all the latest news updates and developments on noteworthy events and issues around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515018.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="515">
+    <title lang="en">Dharma</title>
+    <desc lang="en">The host provides insight into Madhya Pradesh, India's socioeconomic advancements and the political environment around religion and elections.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515019.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="515">
+    <title lang="en">Badi Khabar News Bulletin</title>
+    <desc lang="en">The host presents the top news stories, important updates and developments pertaining to various sectors including politics, business and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515020.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="515">
+    <title lang="en">Fatafat Live</title>
+    <desc lang="en">The host sheds light on the top stories, recent happenings and latest updates taking place in Haryana and all over the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515021.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515022.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="515">
+    <title lang="en">MLA Ka Report Card</title>
+    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515023.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627183000 +0530" channel="515">
+    <title lang="en">Khabar Madhya Pradesh</title>
+    <desc lang="en">The host presents some of the latest news updates and developments pertaining to the various issues in the state of Madhya Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515024.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="515">
+    <title lang="en">Mor Chhattisgarh</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515025.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627193000 +0530" channel="515">
+    <title lang="en">Mudde Ki Baat</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515026.jpg"/>
+  </programme>
+  <programme start="20240627193000 +0530" stop="20240627200000 +0530" channel="515">
+    <title lang="en">Fatafat Live</title>
+    <desc lang="en">The host sheds light on the top stories, recent happenings and latest updates taking place in Haryana and all over the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515027.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="515">
+    <title lang="en">Debate - MP</title>
+    <desc lang="en">The host invites a panel of experts and prominent personalities to share their views on various issues from around Madhya Pradesh, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515028.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="515">
+    <title lang="en">Debate CG</title>
+    <desc lang="en">Guest speakers from different backgrounds debate their views and opinions on elections taking place in the state of Chhattisgarh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515029.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515030.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="515">
+    <title lang="en">Fatafat</title>
+    <desc lang="en">The anchor presents the latest political, economic, social and sports updates and top stories from all across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515031.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="515">
+    <title lang="en">Final News Bulletin</title>
+    <desc lang="en">The host presents the latest news and developments pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515032.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="515">
+    <title lang="en">Mudde Ki Baat</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515033.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="515">
+    <title lang="en">Ground Report</title>
+    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627515034.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628063000 +0530" channel="515">
+    <title lang="en">Ground Report</title>
+    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515000.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="515">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515001.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="515">
+    <title lang="en">MP-CG Bulletin</title>
+    <desc lang="en">The host, a television reporter, analyses the latest news updates regarding the current social, economic and political developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515002.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628080000 +0530" channel="515">
+    <title lang="en">Dharma</title>
+    <desc lang="en">The host provides insight into Madhya Pradesh, India's socioeconomic advancements and the political environment around religion and elections.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515003.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628083000 +0530" channel="515">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515004.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="515">
+    <title lang="en">MLA Ka Report Card</title>
+    <desc lang="en">The program takes a look at the various promises made by local MLAs and scrutinizes if they have succeeded in keeping their vows.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628515005.jpg"/>
   </programme>
 </tv>

@@ -3,137 +3,7 @@
   <channel id="ts985">
     <display-name lang="en">Pravah Picture</display-name>
   </channel>
-  <programme start="20240624183600 +0000" stop="20240624214200 +0000" channel="ts985">
-    <title lang="en">Hostel Days</title>
-    <desc lang="en">A set of students residing in a hostel have the time of their lives. However, when a rich businessman threatens to take over their college, they must unite to save it from him.</desc>
-    <credits>
-      <actor>Prarthana Behere</actor>
-      <actor>Sanjay Jadhav</actor>
-      <actor>Virajas Kulkarni</actor>
-      <actor>Akshay Tanksale</actor>
-      <actor>Aroh Welankar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56158FE4961F92C6B8C1843C5FF403131DA079C62.jpg"/>
-  </programme>
-  <programme start="20240624214200 +0000" stop="20240624215800 +0000" channel="ts985">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler E08.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240624215800 +0000" stop="20240624224100 +0000" channel="ts985">
-    <title lang="en">Lakshya Vishesh</title>
-    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.268.</episode-num>
-  </programme>
-  <programme start="20240624224100 +0000" stop="20240625043600 +0000" channel="ts985">
-    <title lang="en">Lakshya Vishesh</title>
-    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.269.</episode-num>
-  </programme>
-  <programme start="20240625021900 +0000" stop="20240626031800 +0000" channel="ts985">
-    <title lang="en">Prabhaat Geete</title>
-    <desc lang="en">Prabhaat Geete E01.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
-  </programme>
-  <programme start="20240625031800 +0000" stop="20240626041800 +0000" channel="ts985">
-    <title lang="en">Prabhaat Geete</title>
-    <desc lang="en">Prabhaat Geete E02.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
-  </programme>
-  <programme start="20240625041800 +0000" stop="20240626072600 +0000" channel="ts985">
-    <title lang="en">Ek Gaadi Baki Anadi</title>
-    <desc lang="en">Dinanath, an honest man, is killed just before he could expose his boss's corrupt partners. But the car that he had recently purchased turns out to be possessed and tries to avenge his death.</desc>
-    <credits>
-      <actor>Ashok Saraf</actor>
-      <actor>Laxmikant Berde</actor>
-      <actor>Aruna Irani</actor>
-      <actor>Priya Arun</actor>
-      <actor>Ravindra Berde</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C242D41652396DA3F5C4A6B996C377D201615A2AH.jpg"/>
-  </programme>
-  <programme start="20240625072600 +0000" stop="20240626095900 +0000" channel="ts985">
-    <title lang="en">Duniyadari</title>
-    <desc lang="en">Shreyas, a young man with a bitter relationship with his parents, fills the void in his life with loyal friends from his college. However, he struggles to fix his love life by trying to woo Shirin.</desc>
-    <credits>
-      <actor>Swapnil Joshi</actor>
-      <actor>Ankush Choudhary</actor>
-      <actor>Sai Tamhankar</actor>
-      <actor>Jitendra Joshi</actor>
-      <actor>Sushant Shelar</actor>
-      <actor>Urmila Kanitkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E3D44621652E00F02E240EDD5A7DD38D5B6BBBA9.jpg"/>
-  </programme>
-  <programme start="20240625095900 +0000" stop="20240626105000 +0000" channel="ts985">
-    <title lang="en">Lakshya Vishesh</title>
-    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.52.</episode-num>
-  </programme>
-  <programme start="20240625105000 +0000" stop="20240626115000 +0000" channel="ts985">
-    <title lang="en">Panchanama</title>
-    <desc lang="en">This program covers real life crime stories that happen in Maharashtra. It also showcases how the mind of a criminal functions and gives tips on ways to prevent crime from taking place.</desc>
-    <credits>
-      <actor>Mahesh Manjrekar</actor>
-    </credits>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
-    <episode-num system="xmltv_ns">.42.</episode-num>
-  </programme>
-  <programme start="20240625115000 +0000" stop="20240626125000 +0000" channel="ts985">
-    <title lang="en">Lakshya Vishesh</title>
-    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.270.</episode-num>
-  </programme>
-  <programme start="20240625125000 +0000" stop="20240626134700 +0000" channel="ts985">
-    <title lang="en">Lakshya Vishesh</title>
-    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.271.</episode-num>
-  </programme>
-  <programme start="20240625134700 +0000" stop="20240626170500 +0000" channel="ts985">
-    <title lang="en">Ashtavinayak</title>
-    <desc lang="en">A stepmother who leaves no step unturned to plot against her stepson to usurp the family property. But Lord Ganesha, the protector of mankind takes care of him.</desc>
-    <credits>
-      <actor>Sachin</actor>
-      <actor>Raja Gosavi</actor>
-      <actor>Vandana Pandit</actor>
-      <actor>Rani Varma</actor>
-      <actor>Sharad Talwalkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87BE9B3B7CBFA1B813D5199926635DC1D1D8CDAAY.jpg"/>
-  </programme>
-  <programme start="20240625170500 +0000" stop="20240626202400 +0000" channel="ts985">
-    <title lang="en">Gaiir</title>
-    <desc lang="en">Sameer, a rich and successful businessman, is married to Neha, a photographer. Problems arise when Neha spots Sameer's lookalike.</desc>
-    <credits>
-      <actor>Sandeep Kulkarni</actor>
-      <actor>Amruta Khanvilkar</actor>
-      <actor>Sachin Khedekar</actor>
-      <actor>Ankush Chaudhari</actor>
-      <actor>Sandeep Pathak</actor>
-      <actor>Amita Khopkar</actor>
-    </credits>
-    <category lang="en">Mystery</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DC660B88C52F766E536ED78AD7BDD26ED36CFF4E.jpg"/>
-  </programme>
-  <programme start="20240625202400 +0000" stop="20240626233000 +0000" channel="ts985">
+  <programme start="20240625202400 +0000" stop="20240625224500 +0000" channel="ts985">
     <title lang="en">Hrudayat Something Something</title>
     <desc lang="en">When Ramesh, a sales manager, falls in love with Priya, his superior offers to help him impress her on the condition that he becomes more sincere towards his job.</desc>
     <credits>
@@ -147,44 +17,75 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/139B35DA6235BDC3A2849CF5E509D36ABB07B71D2.jpg"/>
   </programme>
-  <programme start="20240625233000 +0000" stop="20240627020400 +0000" channel="ts985">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626020400 +0000" stop="20240627030400 +0000" channel="ts985">
-    <title lang="en">Prabhaat Geete</title>
-    <desc lang="en">Prabhaat Geete E14.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
-  </programme>
-  <programme start="20240626030400 +0000" stop="20240627040600 +0000" channel="ts985">
-    <title lang="en">Prabhaat Geete</title>
-    <desc lang="en">Prabhaat Geete E15.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
-  </programme>
-  <programme start="20240626040600 +0000" stop="20240627072600 +0000" channel="ts985">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626072600 +0000" stop="20240627094000 +0000" channel="ts985">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240626094000 +0000" stop="20240627104800 +0000" channel="ts985">
+  <programme start="20240625224500 +0000" stop="20240625232900 +0000" channel="ts985">
     <title lang="en">Lakshya Vishesh</title>
     <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
     <category lang="en">Crime</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.43.</episode-num>
+    <episode-num system="xmltv_ns">.270.</episode-num>
   </programme>
-  <programme start="20240626104800 +0000" stop="20240627114500 +0000" channel="ts985">
+  <programme start="20240625232900 +0000" stop="20240626022000 +0000" channel="ts985">
+    <title lang="en">Happy Journey</title>
+    <desc lang="en">Niranjan, after years of shouldering family responsibilities, becomes distant from his family. However, he happens to meet his sister's spirit and the two set out on a trip to rekindle their bond.</desc>
+    <credits>
+      <actor>Atul Kulkarni</actor>
+      <actor>Pallavi Subhash Shirke</actor>
+      <actor>Priya Bapat</actor>
+      <actor>Chitra Palekar</actor>
+      <actor>Madhav Abhyankar</actor>
+      <actor>Krutika Deo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36CF05D1C3D805F190B6FEF9C7514FE78AA1AE2FC.jpg"/>
+  </programme>
+  <programme start="20240626022000 +0000" stop="20240626031800 +0000" channel="ts985">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E03.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240626031800 +0000" stop="20240626041700 +0000" channel="ts985">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E04.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240626041700 +0000" stop="20240626073200 +0000" channel="ts985">
+    <title lang="en">Raundal</title>
+    <desc lang="en">A farmer from Maharashtra has the knowledge of how to grow agricultural produce. However, his main problem is that he struggles to sell it.</desc>
+    <credits>
+      <actor>Bhausaheb Shinde</actor>
+      <actor>Neha Sonawane</actor>
+      <actor>Yashraj Dimbale</actor>
+      <actor>Surekha Dimbale</actor>
+      <actor>Shivraj Walvekar</actor>
+      <actor>Sanjay Lakade</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28C5F0FB8626C83B0AEB87864392212DC03C8A11W.jpg"/>
+  </programme>
+  <programme start="20240626073200 +0000" stop="20240626100500 +0000" channel="ts985">
+    <title lang="en">Mumbai Pune Mumbai-2</title>
+    <desc lang="en">Gautam and Gauri, who live in different cities, meet and decide to get married. However, when Gauri learns more about her in-laws, she starts having second thoughts about the wedding.</desc>
+    <credits>
+      <actor>Swapnil Joshi</actor>
+      <actor>Mukta Barve</actor>
+      <actor>Prashant Damle</actor>
+      <actor>Mangal Kenkre</actor>
+      <actor>Vijay Kenkre</actor>
+      <actor>Savita Prabhune</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9CF64F5FEF24612F8550D891C2B091CF8AFEB6A4.jpg"/>
+  </programme>
+  <programme start="20240626100500 +0000" stop="20240626110500 +0000" channel="ts985">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.53.</episode-num>
+  </programme>
+  <programme start="20240626110500 +0000" stop="20240626115900 +0000" channel="ts985">
     <title lang="en">Panchanama</title>
     <desc lang="en">This program covers real life crime stories that happen in Maharashtra. It also showcases how the mind of a criminal functions and gives tips on ways to prevent crime from taking place.</desc>
     <credits>
@@ -192,29 +93,130 @@
     </credits>
     <category lang="en">Crime</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
-    <episode-num system="xmltv_ns">.35.</episode-num>
+    <episode-num system="xmltv_ns">.43.</episode-num>
   </programme>
-  <programme start="20240626114500 +0000" stop="20240627124500 +0000" channel="ts985">
+  <programme start="20240626115900 +0000" stop="20240626125800 +0000" channel="ts985">
     <title lang="en">Lakshya Vishesh</title>
     <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
     <category lang="en">Crime</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.248.</episode-num>
+    <episode-num system="xmltv_ns">.272.</episode-num>
   </programme>
-  <programme start="20240626124500 +0000" stop="20240627134600 +0000" channel="ts985">
+  <programme start="20240626125800 +0000" stop="20240626135900 +0000" channel="ts985">
     <title lang="en">Lakshya Vishesh</title>
     <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order.</desc>
     <category lang="en">Crime</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
-    <episode-num system="xmltv_ns">.249.</episode-num>
+    <episode-num system="xmltv_ns">.273.</episode-num>
   </programme>
-  <programme start="20240626134600 +0000" stop="20240627170800 +0000" channel="ts985">
+  <programme start="20240626135900 +0000" stop="20240626172800 +0000" channel="ts985">
+    <title lang="en">Sada Haldi Kunkuwacha</title>
+    <desc lang="en">A widow faces several challenges after the death of her husband. Complications increase when she encounters a man who is a lookalike of her deceased spouse.</desc>
+    <credits>
+      <actor>Nishigandha Wad</actor>
+      <actor>Rahul Solapurkar</actor>
+      <actor>Ashok Shinde</actor>
+      <actor>Sandhya Londhe</actor>
+      <actor>Manikraj</actor>
+      <actor>Asha Patil</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/31C29EA42C4DCF4F4574E3A584EBA6CE5475D0B2P.jpg"/>
+  </programme>
+  <programme start="20240626172800 +0000" stop="20240626183000 +0000" channel="ts985">
+    <title lang="en">Gandh</title>
+    <desc lang="en">The sense of smell dominates the lives of three women from different walks of life. Veena is curious about her college mate Mangesh, Sarang deals with divorce and Janaki struggles with isolation.</desc>
+    <credits>
+      <actor>Girish Kulkarni</actor>
+      <actor>Amruta Subhash</actor>
+      <actor>Sonali Kulkarni</actor>
+      <actor>Milind Soman</actor>
+      <actor>Neena Kulkarni</actor>
+      <actor>Yatin Karyekar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E72C1CBB4691B75DFF4658A77B7456BC6EADE15A4.jpg"/>
+  </programme>
+  <programme start="20240626203300 +0000" stop="20240626231500 +0000" channel="ts985">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626170800 +0000" stop="20240627203300 +0000" channel="ts985">
+  <programme start="20240626231500 +0000" stop="20240627020000 +0000" channel="ts985">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627030000 +0000" channel="ts985">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E16.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627040000 +0000" channel="ts985">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E17.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627050000 +0000" channel="ts985">
+    <title lang="en">Prabhaat Geete</title>
+    <desc lang="en">Prabhaat Geete E18.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BB8A744DB8B713370156C26A3DE7F9F3B61984CC.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627073000 +0000" channel="ts985">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627095500 +0000" channel="ts985">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627095500 +0000" stop="20240627105500 +0000" channel="ts985">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order. Repeat - Tue - Wed 3:23 pm.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.44.</episode-num>
+  </programme>
+  <programme start="20240627105500 +0000" stop="20240627115500 +0000" channel="ts985">
+    <title lang="en">Panchanama</title>
+    <desc lang="en">This program covers real life crime stories that happen in Maharashtra. It also showcases how the mind of a criminal functions and gives tips on ways to prevent crime from taking place.</desc>
+    <credits>
+      <actor>Mahesh Manjrekar</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/182CA6489E47BCE32FE9D9D938F933B55C2B454CU.jpg"/>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  </programme>
+  <programme start="20240627115500 +0000" stop="20240627125500 +0000" channel="ts985">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order. Repeat - Tue - Wed 3:23 pm.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.251.</episode-num>
+  </programme>
+  <programme start="20240627125500 +0000" stop="20240627135500 +0000" channel="ts985">
+    <title lang="en">Lakshya Vishesh</title>
+    <desc lang="en">A team of determined police officers strives to solve complex and dangerous criminal cases to maintain law and order. Repeat - Tue - Wed 3:23 pm.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/918D78D59B65042B13AFF7D778D3E8FA573643280.jpg"/>
+    <episode-num system="xmltv_ns">.252.</episode-num>
+  </programme>
+  <programme start="20240627135500 +0000" stop="20240627165500 +0000" channel="ts985">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627165500 +0000" stop="20240627195500 +0000" channel="ts985">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

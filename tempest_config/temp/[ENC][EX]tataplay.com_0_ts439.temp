@@ -3,214 +3,6 @@
   <channel id="ts439">
     <display-name lang="en">Raj TV</display-name>
   </channel>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts439">
-    <title lang="en">Raj Melodies</title>
-    <desc lang="en">A comprehensive compilation of some of the most melodious songs from popular Tamil movies composed by eminent artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D49759460FA02208CE29730DA4861097B8836F0H.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624213000 +0000" channel="ts439">
-    <title lang="en">Movie - April Madhathil</title>
-    <desc lang="en">Kathir, a poor young man, and Shweta, a rich young girl, meet in college and fall in love. However, they are unable to confess their feelings to each other.</desc>
-    <credits>
-      <actor>Srikanth</actor>
-      <actor>Sneha</actor>
-      <actor>Gayathri Jayaram</actor>
-      <actor>Venkat Prabhu</actor>
-      <actor>Devan</actor>
-      <actor>Karunas</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE580AD17EBC93A3318E24CCBADC849474ED7261U.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624233000 +0000" channel="ts439">
-    <title lang="en">Raj Melodies</title>
-    <desc lang="en">A comprehensive compilation of some of the most melodious songs from popular Tamil movies composed by eminent artists, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D49759460FA02208CE29730DA4861097B8836F0H.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts439">
-    <title lang="en">Bakthi Padalgal</title>
-    <desc lang="en">A compilation of melodious and soul-stirring devotional songs composed and sung by renowned musicians in praise of the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE0AB0BC9D2B130FEF33985F4B45003134134C515.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625002500 +0000" channel="ts439">
-    <title lang="en">Nama Sagar</title>
-    <desc lang="en">Sri Vittaldas Maharaj, a scholarly speaker, delivers a devotional discourse on Hindu scriptural literature.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5DEDF3014B1FE71D23AED7119132145E1E80C1DFX.jpg"/>
-  </programme>
-  <programme start="20240625002500 +0000" stop="20240625003000 +0000" channel="ts439">
-    <title lang="en">Bakthi Paadalgal</title>
-    <desc lang="en">Vinayagar: Musicians perform a comprehensive collection of melodious devotional songs in praise of the Almighty and seek His blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3AF6A646DF84B2DDF927B468BBAC6700B70EEBCCG.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts439">
-    <title lang="en">Nambikkai Neram</title>
-    <desc lang="en">Jesus Calls: Religious leaders engage in a conversation about how to experience the love of Jesus Christ and highlight the values that Christians should abide by.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E499831F943211B7DCC3A2A6D2A27633D50B6EDD.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts439">
-    <title lang="en">Aalaya Dharisanam</title>
-    <desc lang="en">The host talks about the religious significance of various Hindu temples and sheds light on the presiding deities in these shrines.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BE9F163EC4630CBC92316E06041E1104A3AAEF6P.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts439">
-    <title lang="en">Raj News</title>
-    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625030000 +0000" channel="ts439">
-    <title lang="en">Putham Pudhu Kaalai</title>
-    <desc lang="en">Segments on astrology, yoga asanas, health and cookery tips by experts, interview with a guest, and motivational thoughts for the day.</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2E73163100BAE466767C19691AC2659A3AC60CDI.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts439">
-    <title lang="en">Manathai Varudiya Paadalgal</title>
-    <desc lang="en">A comprehensive compilation of some of the most popular songs from different genres composed by renowned musicians from the industry.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B8C78B545AA2E1E2C3A04FD1E6FADB5371A4B36Q.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts439">
-    <title lang="en">Karungali Malai</title>
-    <desc lang="en">An expert sheds light on the benefits of wearing a Karungali mala on one's life in a detailed manner along with its importance.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B636662F4AB158C7145B0E9D51B79708A7A63368H.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625070000 +0000" channel="ts439">
-    <title lang="en">Movie - Viduthalai</title>
-    <desc lang="en">Raja, a thief, is jailed for two years while his wife Radha meets Amar, a man who secretly begins to love her. In a twist of fate, Amar befriends Raja to face a common enemy.</desc>
-    <credits>
-      <actor>Sivaji Ganesan</actor>
-      <actor>Rajinikanth</actor>
-      <actor>Madhavi</actor>
-      <actor>Vishnuvardhan</actor>
-      <actor>R N Sudarshan</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BDD095FF1C73775A2F0269F832336A25EB75B31O.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts439">
-    <title lang="en">Silm Doctor</title>
-    <desc lang="en">An expert on healthcare and nutrition offers valuable guidance for overweight individuals looking to control their body mass index and lead healthier lives.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0484FC32BF688A25F1586682A8326CE54D87FC8B.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts439">
-    <title lang="en">Raj News</title>
-    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625113000 +0000" channel="ts439">
-    <title lang="en">Movie - Sindhu Bhairavi</title>
-    <desc lang="en">JKB, a talented Carnatic musician, struggles to connect with his wife, who cannot conceive a child. When he meets Sindhu, a music teacher, he finally finds his muse.</desc>
-    <credits>
-      <actor>Sivakumar</actor>
-      <actor>Suhasini</actor>
-      <actor>Sulakshana</actor>
-      <actor>Delhi Ganesh</actor>
-      <actor>Janagaraj</actor>
-      <actor>Prathap Pothan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDEED17C3283B50350F6EE50BD4797796552AFEFI.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts439">
-    <title lang="en">RJR Herbal</title>
-    <desc lang="en">A comprehensive compilation of a wide range of herbal treatments that can be used to cure all types of diseases without any side effects.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/933CD3188074D7C6E611DF14F59CC4F6A059A203D.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts439">
-    <title lang="en">Comedy Galatta</title>
-    <desc lang="en">The host presents a compilation of hilarious sequences, with some of the most talented comedians, from popular Tamil films.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/570BD1B5FA1977BB31F0B549DE7B5485E19C085DA.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts439">
-    <title lang="en">Raj News</title>
-    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts439">
-    <title lang="en">Nadigar Thilagam Sivaji</title>
-    <desc lang="en">The filmmaker sheds light on the life journey and arts of Nadigar Thilagam Sivaji, an Indian actor and film producer, active in the Tamil film industry.</desc>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85AB0250A418156C27124592F9AEF367B179EF7DI.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts439">
-    <title lang="en">Vaidehi</title>
-    <desc lang="en">Part-01: Vaidehi, an ardent devotee of Rama, gracefully faces the challenges that life throws at her and helps everyone along the way.</desc>
-    <credits>
-      <actor>Sayali Deodhar</actor>
-      <actor>Pallavi Patil</actor>
-      <actor>Trushna Chandratre</actor>
-      <actor>Tejas Barve</actor>
-      <actor>Abhishek Rahalkar</actor>
-      <actor>Gandharva Gulvelkar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/505F71BB79AD8873277E339FD4A0D2D551313782M.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts439">
-    <title lang="en">Nalam Nalamariya Aaval</title>
-    <desc lang="en">A young girl named Sandhya witnesses a group of thugs committing illegal acts and decides to report them. However, the goons get wind of this and kidnap her best friend, Paari, as leverage.</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82CB4DDEAF2320A15D829B7D9530195797BDCEC41.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts439">
-    <title lang="en">Lakshmi Vanthachu</title>
-    <desc lang="en">Part-01: A woman who is an ardent devotee of Goddess Lakshmi is facing a financial crisis and wants to save her shop. But things change when the goddess takes human form and decides to meet her.</desc>
-    <credits>
-      <actor>Geetanjali Tikekar</actor>
-      <actor>Chhavi Pandey</actor>
-      <actor>Divya</actor>
-      <actor>Nasirr Khan</actor>
-      <actor>Tanisha Mehta</actor>
-      <actor>Aashay Mishra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46D10E00DC5A3C20931CF289C00D29787B4C06D4E.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts439">
-    <title lang="en">Singapenne</title>
-    <desc lang="en">Part-01: Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
-    <credits>
-      <actor>Maneesha Mahesh</actor>
-      <actor>Rama</actor>
-      <actor>G Gnanasambandam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA16E17FFDE0095CFD86EE9A7564F4D2B7E1DA07T.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts439">
-    <title lang="en">Thirai Vaanil</title>
-    <desc lang="en">A comprehensive compilation of some of the most entertaining sequences from popular movies, featuring renowned actors, played back to back.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1000C5FC2DC6626DE8A45E2E6CA46A7FA254711R.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625183000 +0000" channel="ts439">
-    <title lang="en">Movie - Naan Rajavaga Pogiren</title>
-    <desc lang="en">Jeeva, who leads a good life in Himachal Pradesh, learns that he has a lookalike, Raja, who is a boxer in Chennai. Intrigued by the notion, Jeeva sets out on an adventurous journey to find Raja.</desc>
-    <credits>
-      <actor>Nakul</actor>
-      <actor>Chandini</actor>
-      <actor>Avani Modi</actor>
-      <actor>Nishanth</actor>
-      <actor>A Venkatesh</actor>
-      <actor>Gaurav Narayanan</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/32182BFC201D8AE3CF176A3FE6F43475B974BFDBY.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625183100 +0000" channel="ts439">
     <title lang="en">TBA</title>
     <desc lang="en">TBA</desc>
@@ -249,26 +41,29 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE0AB0BC9D2B130FEF33985F4B45003134134C515.jpg"/>
   </programme>
-  <programme start="20240626000000 +0000" stop="20240626003000 +0000" channel="ts439">
+  <programme start="20240626000000 +0000" stop="20240626002500 +0000" channel="ts439">
     <title lang="en">Nama Sagar</title>
     <desc lang="en">Sri Vittaldas Maharaj, a scholarly speaker, delivers a devotional discourse on Hindu scriptural literature.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5DEDF3014B1FE71D23AED7119132145E1E80C1DFX.jpg"/>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts439">
-    <title lang="en">Jesus Calls</title>
-    <desc lang="en">Christian ministry leaders deliver religious discourses based on the verses of the Holy Bible and inspire followers to lead a spiritual life.</desc>
-    <credits>
-      <actor>Paul Dhinakaran</actor>
-    </credits>
+  <programme start="20240626002500 +0000" stop="20240626003000 +0000" channel="ts439">
+    <title lang="en">Bakthi Paadalgal</title>
+    <desc lang="en">Vinayagar: Musicians perform a comprehensive collection of melodious devotional songs in praise of the Almighty and seek His blessings.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8992520C4CC56E95386663219BFF492A38F67D668.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3AF6A646DF84B2DDF927B468BBAC6700B70EEBCCG.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626010000 +0000" channel="ts439">
+    <title lang="en">Nambikkai Neram</title>
+    <desc lang="en">Jesus Calls: Religious leaders engage in a conversation about how to experience the love of Jesus Christ and highlight the values that Christians should abide by.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E499831F943211B7DCC3A2A6D2A27633D50B6EDD.jpg"/>
   </programme>
   <programme start="20240626010000 +0000" stop="20240626013000 +0000" channel="ts439">
-    <title lang="en">Slot</title>
-    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+    <title lang="en">Aalaya Dharisanam</title>
+    <desc lang="en">The host talks about the religious significance of various Hindu temples and sheds light on the presiding deities in these shrines.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BE9F163EC4630CBC92316E06041E1104A3AAEF6P.jpg"/>
   </programme>
   <programme start="20240626013000 +0000" stop="20240626020000 +0000" channel="ts439">
     <title lang="en">Raj News</title>
@@ -283,16 +78,16 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2E73163100BAE466767C19691AC2659A3AC60CDI.jpg"/>
   </programme>
   <programme start="20240626030000 +0000" stop="20240626033000 +0000" channel="ts439">
-    <title lang="en">Thirai Vaanil</title>
-    <desc lang="en">A comprehensive compilation of some of the most entertaining sequences from popular movies, featuring renowned actors, played back to back.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1000C5FC2DC6626DE8A45E2E6CA46A7FA254711R.jpg"/>
+    <title lang="en">Manathai Varudiya Paadalgal</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs from different genres composed by renowned musicians from the industry.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B8C78B545AA2E1E2C3A04FD1E6FADB5371A4B36Q.jpg"/>
   </programme>
   <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="ts439">
-    <title lang="en">Slot</title>
-    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+    <title lang="en">Karungali Malai</title>
+    <desc lang="en">An expert sheds light on the benefits of wearing a Karungali mala on one's life in a detailed manner along with its importance.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B636662F4AB158C7145B0E9D51B79708A7A63368H.jpg"/>
   </programme>
   <programme start="20240626040000 +0000" stop="20240626070000 +0000" channel="ts439">
     <title lang="en">Movie - Koyil Kaalai</title>
@@ -308,10 +103,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5498D342C7A9603249AD959FC00B0618430C8D2H.jpg"/>
   </programme>
   <programme start="20240626070000 +0000" stop="20240626073000 +0000" channel="ts439">
-    <title lang="en">Slot</title>
-    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+    <title lang="en">Silm Doctor</title>
+    <desc lang="en">An expert on healthcare and nutrition offers valuable guidance for overweight individuals looking to control their body mass index and lead healthier lives.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0484FC32BF688A25F1586682A8326CE54D87FC8B.jpg"/>
   </programme>
   <programme start="20240626073000 +0000" stop="20240626080000 +0000" channel="ts439">
     <title lang="en">Raj News</title>
@@ -333,10 +128,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F349A499C9FC7E748CB613DF7A340F19B849E1FEL.jpg"/>
   </programme>
   <programme start="20240626113000 +0000" stop="20240626120000 +0000" channel="ts439">
-    <title lang="en">Slot</title>
-    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+    <title lang="en">RJR Herbal</title>
+    <desc lang="en">A comprehensive compilation of a wide range of herbal treatments that can be used to cure all types of diseases without any side effects.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/933CD3188074D7C6E611DF14F59CC4F6A059A203D.jpg"/>
   </programme>
   <programme start="20240626120000 +0000" stop="20240626123000 +0000" channel="ts439">
     <title lang="en">Comedy Galatta</title>
@@ -351,14 +146,14 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
   </programme>
   <programme start="20240626130000 +0000" stop="20240626133000 +0000" channel="ts439">
-    <title lang="en">Sarithira Nayagan Shivaji</title>
-    <desc lang="en">Sarithira Nayagan Shivaji</desc>
+    <title lang="en">Nadigar Thilagam Sivaji</title>
+    <desc lang="en">The filmmaker sheds light on the life journey and arts of Nadigar Thilagam Sivaji, an Indian actor and film producer, active in the Tamil film industry.</desc>
     <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44CBC9E022DC8BEC1384B93C96E2217FA8AD1F3DA.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85AB0250A418156C27124592F9AEF367B179EF7DI.jpg"/>
   </programme>
   <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="ts439">
     <title lang="en">Vaidehi</title>
-    <desc lang="en">Vaidehi, an ardent devotee of Rama, gracefully faces the challenges that life throws at her and helps everyone along the way.</desc>
+    <desc lang="en">Part-02: Vaidehi, an ardent devotee of Rama, gracefully faces the challenges that life throws at her and helps everyone along the way.</desc>
     <credits>
       <actor>Sayali Deodhar</actor>
       <actor>Pallavi Patil</actor>
@@ -378,7 +173,7 @@
   </programme>
   <programme start="20240626143000 +0000" stop="20240626150000 +0000" channel="ts439">
     <title lang="en">Lakshmi Vanthachu</title>
-    <desc lang="en">A woman who is an ardent devotee of Goddess Lakshmi is facing a financial crisis and wants to save her shop. But things change when the goddess takes human form and decides to meet her.</desc>
+    <desc lang="en">Part-02: A woman who is an ardent devotee of Goddess Lakshmi is facing a financial crisis and wants to save her shop. But things change when the goddess takes human form and decides to meet her.</desc>
     <credits>
       <actor>Geetanjali Tikekar</actor>
       <actor>Chhavi Pandey</actor>
@@ -392,7 +187,7 @@
   </programme>
   <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="ts439">
     <title lang="en">Singapenne</title>
-    <desc lang="en">Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
+    <desc lang="en">Part-02: Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
     <credits>
       <actor>Maneesha Mahesh</actor>
       <actor>Rama</actor>
@@ -402,22 +197,220 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA16E17FFDE0095CFD86EE9A7564F4D2B7E1DA07T.jpg"/>
   </programme>
   <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="ts439">
+    <title lang="en">Cinema Paarvai</title>
+    <desc lang="en">The host provides interesting details about some of the most recently released films and takes a look at upcoming Tamil movies.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9BC26F70E7EBDC4CAED2B1396CEEEBF91D6572027.jpg"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626183000 +0000" channel="ts439">
+    <title lang="en">Movie - Veerapandiya Kattabomman</title>
+    <desc lang="en">After the East India Company forces Kattabomman, the king of Panchalankurichi, to pay taxes and be their subordinate, the latter decides to fight against them.</desc>
+    <credits>
+      <actor>Shivaji Ganesan</actor>
+      <actor>Gemini Ganasen</actor>
+      <actor>Padmini</actor>
+      <actor>S Varalakshmi</actor>
+      <actor>Ragini</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D76F3CEF5D38D365DF7A6953CC83CCBBBCC091E3.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626213000 +0000" channel="ts439">
+    <title lang="en">Movie - Pondatti Thevai</title>
+    <desc lang="en">Shanthi and Kannan are getting married to each other. Around the same time, Shanthi learns about her infertility and immediately calls-off the wedding and also pretends to hate Kannan.</desc>
+    <credits>
+      <actor>Parthiban</actor>
+      <actor>Ashwini Nachappa</actor>
+      <actor>Sindhu</actor>
+      <actor>MRK Moorthy</actor>
+      <actor>Kamala Kamesh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F349A499C9FC7E748CB613DF7A340F19B849E1FEL.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626233000 +0000" channel="ts439">
+    <title lang="en">Raj Melodies</title>
+    <desc lang="en">A comprehensive compilation of some of the most melodious songs from popular Tamil movies composed by eminent artists, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D49759460FA02208CE29730DA4861097B8836F0H.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts439">
+    <title lang="en">Bakthi Padalgal</title>
+    <desc lang="en">A compilation of melodious and soul-stirring devotional songs composed and sung by renowned musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE0AB0BC9D2B130FEF33985F4B45003134134C515.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts439">
+    <title lang="en">Nama Sagar</title>
+    <desc lang="en">Sri Vittaldas Maharaj, a scholarly speaker, delivers a devotional discourse on Hindu scriptural literature.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5DEDF3014B1FE71D23AED7119132145E1E80C1DFX.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts439">
+    <title lang="en">Jesus Calls</title>
+    <desc lang="en">Christian ministry leaders deliver religious discourses based on the verses of the Holy Bible and inspire followers to lead a spiritual life.</desc>
+    <credits>
+      <actor>Paul Dhinakaran</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8992520C4CC56E95386663219BFF492A38F67D668.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts439">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts439">
+    <title lang="en">Raj News</title>
+    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627030000 +0000" channel="ts439">
+    <title lang="en">Putham Pudhu Kaalai</title>
+    <desc lang="en">Segments on astrology, yoga asanas, health and cookery tips by experts, interview with a guest, and motivational thoughts for the day.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2E73163100BAE466767C19691AC2659A3AC60CDI.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts439">
     <title lang="en">Thirai Vaanil</title>
     <desc lang="en">A comprehensive compilation of some of the most entertaining sequences from popular movies, featuring renowned actors, played back to back.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1000C5FC2DC6626DE8A45E2E6CA46A7FA254711R.jpg"/>
   </programme>
-  <programme start="20240626160000 +0000" stop="20240626183000 +0000" channel="ts439">
-    <title lang="en">Movie - Mannan</title>
-    <desc lang="en">Krishnan's boss Shanti is an autocratic, domineering woman who he constantly defies. Irked and revengeful, she manipulates his paralysed mother and marries him in a bid to control him.</desc>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts439">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627070000 +0000" channel="ts439">
+    <title lang="en">Movie - En Kitta Modhathey</title>
+    <desc lang="en">A policeman goes undercover to catch a dangerous criminal. He plans to make the gangster's sister fall in love with him, but gets in trouble.</desc>
     <credits>
-      <actor>Rajinikanth</actor>
-      <actor>Vijaya Shanthi</actor>
-      <actor>Manorama</actor>
-      <actor>Visu</actor>
-      <actor>Goundamani</actor>
+      <actor>Upendra</actor>
+      <actor>Raja</actor>
+      <actor>Priyamani</actor>
+      <actor>Ali</actor>
+      <actor>Kamna Jethmalani</actor>
+      <actor>Suman</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEDEDAC125ADC7F54A9CA8E8572B98B7265ACA475.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/210CCAFBE98C3C9626163C78693A6D7A0C13DF92Y.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts439">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts439">
+    <title lang="en">Raj News</title>
+    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627113000 +0000" channel="ts439">
+    <title lang="en">Movie - Senthoora Poove</title>
+    <desc lang="en">Ashok, a city dweller, comes to a village and falls in love with Ponni, a widow, who is incessantly tortured by her step-mother. The couple is forced to overcome many obstacles to be united in love.</desc>
+    <credits>
+      <actor>Vijaykanth</actor>
+      <actor>Ramki</actor>
+      <actor>Nirosha</actor>
+      <actor>Chandrasekhar</actor>
+      <actor>Sripriya</actor>
+      <actor>C L Anandan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/835BC641D458AB01677F701EDF69331FE01BD037B.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts439">
+    <title lang="en">Slot</title>
+    <desc lang="en">An extensive selection of products manufactured by various popular brands can be bought from the comfort of one's home.</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB225B4D3C4E14B365A00F146FCEFECD858B48EER.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts439">
+    <title lang="en">Comedy Galatta</title>
+    <desc lang="en">The host presents a compilation of hilarious sequences, with some of the most talented comedians, from popular Tamil films.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/570BD1B5FA1977BB31F0B549DE7B5485E19C085DA.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts439">
+    <title lang="en">Raj News</title>
+    <desc lang="en">The host collates and presents some of the latest news updates, events and developments that affect the people of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85D3F8609AC4F01C5EC0C2DB8447420E307D9615A.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts439">
+    <title lang="en">Sarithira Nayagan Shivaji</title>
+    <desc lang="en">Sarithira Nayagan Shivaji</desc>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44CBC9E022DC8BEC1384B93C96E2217FA8AD1F3DA.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts439">
+    <title lang="en">Vaidehi</title>
+    <desc lang="en">Vaidehi, an ardent devotee of Rama, gracefully faces the challenges that life throws at her and helps everyone along the way.</desc>
+    <credits>
+      <actor>Sayali Deodhar</actor>
+      <actor>Pallavi Patil</actor>
+      <actor>Trushna Chandratre</actor>
+      <actor>Tejas Barve</actor>
+      <actor>Abhishek Rahalkar</actor>
+      <actor>Gandharva Gulvelkar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/505F71BB79AD8873277E339FD4A0D2D551313782M.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts439">
+    <title lang="en">Nalam Nalamariya Aaval</title>
+    <desc lang="en">A young girl named Sandhya witnesses a group of thugs committing illegal acts and decides to report them. However, the goons get wind of this and kidnap her best friend, Paari, as leverage.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82CB4DDEAF2320A15D829B7D9530195797BDCEC41.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts439">
+    <title lang="en">Lakshmi Vanthachu</title>
+    <desc lang="en">A woman who is an ardent devotee of Goddess Lakshmi is facing a financial crisis and wants to save her shop. But things change when the goddess takes human form and decides to meet her.</desc>
+    <credits>
+      <actor>Geetanjali Tikekar</actor>
+      <actor>Chhavi Pandey</actor>
+      <actor>Divya</actor>
+      <actor>Nasirr Khan</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Aashay Mishra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46D10E00DC5A3C20931CF289C00D29787B4C06D4E.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts439">
+    <title lang="en">Singapenne</title>
+    <desc lang="en">Anandi, a village belle who is known for her strong character, takes care of her family members. She embarks on a journey alone to fulfil her duties.</desc>
+    <credits>
+      <actor>Maneesha Mahesh</actor>
+      <actor>Rama</actor>
+      <actor>G Gnanasambandam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA16E17FFDE0095CFD86EE9A7564F4D2B7E1DA07T.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts439">
+    <title lang="en">Thirai Vaanil</title>
+    <desc lang="en">A comprehensive compilation of some of the most entertaining sequences from popular movies, featuring renowned actors, played back to back.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1000C5FC2DC6626DE8A45E2E6CA46A7FA254711R.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627183000 +0000" channel="ts439">
+    <title lang="en">Movie - Veerapandiya Kattabomman</title>
+    <desc lang="en">After the East India Company forces Kattabomman, the king of Panchalankurichi, to pay taxes and be their subordinate, the latter decides to fight against them.</desc>
+    <credits>
+      <actor>Shivaji Ganesan</actor>
+      <actor>Gemini Ganasen</actor>
+      <actor>Padmini</actor>
+      <actor>S Varalakshmi</actor>
+      <actor>Ragini</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D76F3CEF5D38D365DF7A6953CC83CCBBBCC091E3.jpg"/>
   </programme>
 </tv>

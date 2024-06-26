@@ -3,294 +3,6 @@
   <channel id="831">
     <display-name lang="en">Living India News</display-name>
   </channel>
-  <programme start="20240625055600 +0530" stop="20240625062600 +0530" channel="831">
-    <title lang="en">Khabar Changi Hai</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831012.jpg"/>
-  </programme>
-  <programme start="20240625062600 +0530" stop="20240625065600 +0530" channel="831">
-    <title lang="en">Ground Zero</title>
-    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831013.jpg"/>
-  </programme>
-  <programme start="20240625065600 +0530" stop="20240625072600 +0530" channel="831">
-    <title lang="en">Sajri Saver</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831014.jpg"/>
-  </programme>
-  <programme start="20240625072600 +0530" stop="20240625075600 +0530" channel="831">
-    <title lang="en">Sajri Saver</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831015.jpg"/>
-  </programme>
-  <programme start="20240625075600 +0530" stop="20240625082600 +0530" channel="831">
-    <title lang="en">8 Vaje Punjab</title>
-    <desc lang="en">The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831016.jpg"/>
-  </programme>
-  <programme start="20240625082600 +0530" stop="20240625085600 +0530" channel="831">
-    <title lang="en">Notout</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture from various parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831017.jpg"/>
-  </programme>
-  <programme start="20240625085600 +0530" stop="20240625092600 +0530" channel="831">
-    <title lang="en">Majha Malwa Doaba</title>
-    <desc lang="en">The host presents the latest socio-economic and political updates from various regions of Punjab, Haryana and Himachal Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831018.jpg"/>
-  </programme>
-  <programme start="20240625092600 +0530" stop="20240625095600 +0530" channel="831">
-    <title lang="en">Special</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831019.jpg"/>
-  </programme>
-  <programme start="20240625095600 +0530" stop="20240625102600 +0530" channel="831">
-    <title lang="en">Sade Shahar Sade Pind</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831020.jpg"/>
-  </programme>
-  <programme start="20240625102600 +0530" stop="20240625105600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831021.jpg"/>
-  </programme>
-  <programme start="20240625105600 +0530" stop="20240625112600 +0530" channel="831">
-    <title lang="en">Punjab Special</title>
-    <desc lang="en">The host collates and presents the latest socio-economic and political news, updates and developments from various parts of Punjab.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831022.jpg"/>
-  </programme>
-  <programme start="20240625112600 +0530" stop="20240625115600 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831023.jpg"/>
-  </programme>
-  <programme start="20240625115600 +0530" stop="20240625122600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831024.jpg"/>
-  </programme>
-  <programme start="20240625122600 +0530" stop="20240625125600 +0530" channel="831">
-    <title lang="en">Mhara Haryana</title>
-    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831025.jpg"/>
-  </programme>
-  <programme start="20240625125600 +0530" stop="20240625132600 +0530" channel="831">
-    <title lang="en">Punjab News</title>
-    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831026.jpg"/>
-  </programme>
-  <programme start="20240625132600 +0530" stop="20240625135600 +0530" channel="831">
-    <title lang="en">Advt / Filler</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831027.jpg"/>
-  </programme>
-  <programme start="20240625135600 +0530" stop="20240625142600 +0530" channel="831">
-    <title lang="en">Dopahar Debate</title>
-    <desc lang="en">Chat show.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831028.jpg"/>
-  </programme>
-  <programme start="20240625142600 +0530" stop="20240625145600 +0530" channel="831">
-    <title lang="en">Advt / Filler</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831029.jpg"/>
-  </programme>
-  <programme start="20240625145600 +0530" stop="20240625152600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831030.jpg"/>
-  </programme>
-  <programme start="20240625152600 +0530" stop="20240625155600 +0530" channel="831">
-    <title lang="en">Mhara Haryana</title>
-    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831031.jpg"/>
-  </programme>
-  <programme start="20240625155600 +0530" stop="20240625162600 +0530" channel="831">
-    <title lang="en">Majha Malwa Doaba</title>
-    <desc lang="en">The host presents the latest socio-economic and political updates from various regions of Punjab, Haryana and Himachal Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831032.jpg"/>
-  </programme>
-  <programme start="20240625162600 +0530" stop="20240625165600 +0530" channel="831">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831033.jpg"/>
-  </programme>
-  <programme start="20240625165600 +0530" stop="20240625172600 +0530" channel="831">
-    <title lang="en">5 Vaje Punjab</title>
-    <desc lang="en">The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831034.jpg"/>
-  </programme>
-  <programme start="20240625172600 +0530" stop="20240625175600 +0530" channel="831">
-    <title lang="en">Sade Shahar Sade Pind</title>
-    <desc lang="en">Special report.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831035.jpg"/>
-  </programme>
-  <programme start="20240625175600 +0530" stop="20240625182600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831036.jpg"/>
-  </programme>
-  <programme start="20240625182600 +0530" stop="20240625185600 +0530" channel="831">
-    <title lang="en">Visa Live</title>
-    <desc lang="en">In a live telecast, the host gives information about the visa process in India and abroad.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831037.jpg"/>
-  </programme>
-  <programme start="20240625185600 +0530" stop="20240625192600 +0530" channel="831">
-    <title lang="en">Special</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831038.jpg"/>
-  </programme>
-  <programme start="20240625192600 +0530" stop="20240625195600 +0530" channel="831">
-    <title lang="en">Ground Zero</title>
-    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831039.jpg"/>
-  </programme>
-  <programme start="20240625195600 +0530" stop="20240625202600 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831040.jpg"/>
-  </programme>
-  <programme start="20240625202600 +0530" stop="20240625205600 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831041.jpg"/>
-  </programme>
-  <programme start="20240625205600 +0530" stop="20240625212600 +0530" channel="831">
-    <title lang="en">Final Report</title>
-    <desc lang="en">The host presents a round-up of the recent news, events, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831042.jpg"/>
-  </programme>
-  <programme start="20240625212600 +0530" stop="20240625215600 +0530" channel="831">
-    <title lang="en">Special</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831043.jpg"/>
-  </programme>
-  <programme start="20240625215600 +0530" stop="20240625222600 +0530" channel="831">
-    <title lang="en">22 Jile 22 Khabar</title>
-    <desc lang="en">The host provides the latest and the most important socio-economic and political news, updates and developments from different districts.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831044.jpg"/>
-  </programme>
-  <programme start="20240625222600 +0530" stop="20240625225600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831045.jpg"/>
-  </programme>
-  <programme start="20240625225600 +0530" stop="20240625232600 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831046.jpg"/>
-  </programme>
-  <programme start="20240625232600 +0530" stop="20240626000000 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625831047.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626003000 +0530" channel="831">
-    <title lang="en">Ground Zero</title>
-    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831000.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626010000 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="831">
-    <title lang="en">Mhara Haryana</title>
-    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831002.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="831">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831003.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="831">
-    <title lang="en">Final Report</title>
-    <desc lang="en">The host presents a round-up of the recent news, events, updates and developments.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831004.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="831">
-    <title lang="en">Ground Zero</title>
-    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831005.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831006.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="831">
-    <title lang="en">Bhakda Masla</title>
-    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831007.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="831">
-    <title lang="en">Ground Zero</title>
-    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831008.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626045600 +0530" channel="831">
-    <title lang="en">Not Out 100</title>
-    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831009.jpg"/>
-  </programme>
-  <programme start="20240626045600 +0530" stop="20240626052600 +0530" channel="831">
-    <title lang="en">Mhara Haryana</title>
-    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831010.jpg"/>
-  </programme>
-  <programme start="20240626052600 +0530" stop="20240626055600 +0530" channel="831">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831011.jpg"/>
-  </programme>
   <programme start="20240626055600 +0530" stop="20240626062600 +0530" channel="831">
     <title lang="en">Khabar Changi Hai</title>
     <desc lang="en">Special report.</desc>
@@ -500,5 +212,407 @@
     <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831046.jpg"/>
+  </programme>
+  <programme start="20240626232600 +0530" stop="20240627000000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626831047.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627003000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831000.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627010000 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831002.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="831">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831003.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="831">
+    <title lang="en">Final Report</title>
+    <desc lang="en">The host presents a round-up of the recent news, events, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831004.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831005.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831006.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831007.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831008.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627045600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831009.jpg"/>
+  </programme>
+  <programme start="20240627045600 +0530" stop="20240627052600 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831010.jpg"/>
+  </programme>
+  <programme start="20240627052600 +0530" stop="20240627055600 +0530" channel="831">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831011.jpg"/>
+  </programme>
+  <programme start="20240627055600 +0530" stop="20240627062600 +0530" channel="831">
+    <title lang="en">Khabar Changi Hai</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831012.jpg"/>
+  </programme>
+  <programme start="20240627062600 +0530" stop="20240627065600 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831013.jpg"/>
+  </programme>
+  <programme start="20240627065600 +0530" stop="20240627072600 +0530" channel="831">
+    <title lang="en">Sajri Saver</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831014.jpg"/>
+  </programme>
+  <programme start="20240627072600 +0530" stop="20240627075600 +0530" channel="831">
+    <title lang="en">Sajri Saver</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831015.jpg"/>
+  </programme>
+  <programme start="20240627075600 +0530" stop="20240627082600 +0530" channel="831">
+    <title lang="en">8 Vaje Punjab</title>
+    <desc lang="en">The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831016.jpg"/>
+  </programme>
+  <programme start="20240627082600 +0530" stop="20240627085600 +0530" channel="831">
+    <title lang="en">Notout</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture from various parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831017.jpg"/>
+  </programme>
+  <programme start="20240627085600 +0530" stop="20240627092600 +0530" channel="831">
+    <title lang="en">Majha Malwa Doaba</title>
+    <desc lang="en">The host presents the latest socio-economic and political updates from various regions of Punjab, Haryana and Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831018.jpg"/>
+  </programme>
+  <programme start="20240627092600 +0530" stop="20240627095600 +0530" channel="831">
+    <title lang="en">Special</title>
+    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831019.jpg"/>
+  </programme>
+  <programme start="20240627095600 +0530" stop="20240627102600 +0530" channel="831">
+    <title lang="en">Sade Shahar Sade Pind</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831020.jpg"/>
+  </programme>
+  <programme start="20240627102600 +0530" stop="20240627105600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831021.jpg"/>
+  </programme>
+  <programme start="20240627105600 +0530" stop="20240627112600 +0530" channel="831">
+    <title lang="en">Punjab Special</title>
+    <desc lang="en">The host collates and presents the latest socio-economic and political news, updates and developments from various parts of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831022.jpg"/>
+  </programme>
+  <programme start="20240627112600 +0530" stop="20240627115600 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831023.jpg"/>
+  </programme>
+  <programme start="20240627115600 +0530" stop="20240627122600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831024.jpg"/>
+  </programme>
+  <programme start="20240627122600 +0530" stop="20240627125600 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831025.jpg"/>
+  </programme>
+  <programme start="20240627125600 +0530" stop="20240627132600 +0530" channel="831">
+    <title lang="en">Punjab News</title>
+    <desc lang="en">The host presents a roundup of the latest social, political and economic news updates and developments from across the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831026.jpg"/>
+  </programme>
+  <programme start="20240627132600 +0530" stop="20240627135600 +0530" channel="831">
+    <title lang="en">Advt / Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831027.jpg"/>
+  </programme>
+  <programme start="20240627135600 +0530" stop="20240627142600 +0530" channel="831">
+    <title lang="en">Dopahar Debate</title>
+    <desc lang="en">Chat show.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831028.jpg"/>
+  </programme>
+  <programme start="20240627142600 +0530" stop="20240627145600 +0530" channel="831">
+    <title lang="en">Advt / Filler</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831029.jpg"/>
+  </programme>
+  <programme start="20240627145600 +0530" stop="20240627152600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831030.jpg"/>
+  </programme>
+  <programme start="20240627152600 +0530" stop="20240627155600 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831031.jpg"/>
+  </programme>
+  <programme start="20240627155600 +0530" stop="20240627162600 +0530" channel="831">
+    <title lang="en">Majha Malwa Doaba</title>
+    <desc lang="en">The host presents the latest socio-economic and political updates from various regions of Punjab, Haryana and Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831032.jpg"/>
+  </programme>
+  <programme start="20240627162600 +0530" stop="20240627165600 +0530" channel="831">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831033.jpg"/>
+  </programme>
+  <programme start="20240627165600 +0530" stop="20240627172600 +0530" channel="831">
+    <title lang="en">5 Vaje Punjab</title>
+    <desc lang="en">The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831034.jpg"/>
+  </programme>
+  <programme start="20240627172600 +0530" stop="20240627175600 +0530" channel="831">
+    <title lang="en">Sade Shahar Sade Pind</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831035.jpg"/>
+  </programme>
+  <programme start="20240627175600 +0530" stop="20240627182600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831036.jpg"/>
+  </programme>
+  <programme start="20240627182600 +0530" stop="20240627185600 +0530" channel="831">
+    <title lang="en">Visa Live</title>
+    <desc lang="en">In a live telecast, the host gives information about the visa process in India and abroad.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831037.jpg"/>
+  </programme>
+  <programme start="20240627185600 +0530" stop="20240627192600 +0530" channel="831">
+    <title lang="en">Special</title>
+    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831038.jpg"/>
+  </programme>
+  <programme start="20240627192600 +0530" stop="20240627195600 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831039.jpg"/>
+  </programme>
+  <programme start="20240627195600 +0530" stop="20240627202600 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831040.jpg"/>
+  </programme>
+  <programme start="20240627202600 +0530" stop="20240627205600 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831041.jpg"/>
+  </programme>
+  <programme start="20240627205600 +0530" stop="20240627212600 +0530" channel="831">
+    <title lang="en">Final Report</title>
+    <desc lang="en">The host presents a round-up of the recent news, events, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831042.jpg"/>
+  </programme>
+  <programme start="20240627212600 +0530" stop="20240627215600 +0530" channel="831">
+    <title lang="en">Special</title>
+    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831043.jpg"/>
+  </programme>
+  <programme start="20240627215600 +0530" stop="20240627222600 +0530" channel="831">
+    <title lang="en">22 Jile 22 Khabar</title>
+    <desc lang="en">The host provides the latest and the most important socio-economic and political news, updates and developments from different districts.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831044.jpg"/>
+  </programme>
+  <programme start="20240627222600 +0530" stop="20240627225600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831045.jpg"/>
+  </programme>
+  <programme start="20240627225600 +0530" stop="20240627232600 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831046.jpg"/>
+  </programme>
+  <programme start="20240627232600 +0530" stop="20240628000000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627831047.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628010000 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831002.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="831">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831003.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="831">
+    <title lang="en">Final Report</title>
+    <desc lang="en">The host presents a round-up of the recent news, events, updates and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831004.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831005.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831006.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="831">
+    <title lang="en">Bhakda Masla</title>
+    <desc lang="en">The host invites a panel of experts to discuss and debate various trending topics affecting the common people of the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831007.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831008.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628045600 +0530" channel="831">
+    <title lang="en">Not Out 100</title>
+    <desc lang="en">The host presents the top 100 news updates and developments pertaining to politics, social issues and economy in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831009.jpg"/>
+  </programme>
+  <programme start="20240628045600 +0530" stop="20240628052600 +0530" channel="831">
+    <title lang="en">Mhara Haryana</title>
+    <desc lang="en">Take a look at all the latest news stories from politics, civic issues and sports from the state of Haryana.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831010.jpg"/>
+  </programme>
+  <programme start="20240628052600 +0530" stop="20240628055600 +0530" channel="831">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831011.jpg"/>
+  </programme>
+  <programme start="20240628055600 +0530" stop="20240628062600 +0530" channel="831">
+    <title lang="en">Khabar Changi Hai</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831012.jpg"/>
+  </programme>
+  <programme start="20240628062600 +0530" stop="20240628065600 +0530" channel="831">
+    <title lang="en">Ground Zero</title>
+    <desc lang="en">The host presents a detailed update of the latest social, political and economic developments from across the country and state.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831013.jpg"/>
+  </programme>
+  <programme start="20240628065600 +0530" stop="20240628072600 +0530" channel="831">
+    <title lang="en">Sajri Saver</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831014.jpg"/>
+  </programme>
+  <programme start="20240628072600 +0530" stop="20240628075600 +0530" channel="831">
+    <title lang="en">Sajri Saver</title>
+    <desc lang="en">Special report.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831015.jpg"/>
+  </programme>
+  <programme start="20240628075600 +0530" stop="20240628082600 +0530" channel="831">
+    <title lang="en">8 Vaje Punjab</title>
+    <desc lang="en">The host presents some of the latest news stories, updates and developments pertaining to current affairs from the state of Punjab.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831016.jpg"/>
+  </programme>
+  <programme start="20240628082600 +0530" stop="20240628085600 +0530" channel="831">
+    <title lang="en">Notout</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments pertaining to society, business, economics, sports and culture from various parts of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628831017.jpg"/>
   </programme>
 </tv>

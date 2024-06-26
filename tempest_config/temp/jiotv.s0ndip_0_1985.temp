@@ -3,432 +3,6 @@
   <channel id="1985">
     <display-name lang="en">Sports18 1</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625054500 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985017.jpg"/>
-  </programme>
-  <programme start="20240625054500 +0530" stop="20240625060000 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985018.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0530" stop="20240625061500 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985019.jpg"/>
-  </programme>
-  <programme start="20240625061500 +0530" stop="20240625063000 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985020.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0530" stop="20240625064500 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985021.jpg"/>
-  </programme>
-  <programme start="20240625064500 +0530" stop="20240625070000 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985022.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625071500 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985023.jpg"/>
-  </programme>
-  <programme start="20240625071500 +0530" stop="20240625073000 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985024.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625080000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 1st ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985025.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625081500 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985026.jpg"/>
-  </programme>
-  <programme start="20240625081500 +0530" stop="20240625083000 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985027.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625084500 +0530" channel="1985">
-    <title lang="en">Indian Super League Highlights.</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985028.jpg"/>
-  </programme>
-  <programme start="20240625084500 +0530" stop="20240625090000 +0530" channel="1985">
-    <title lang="en">Indian Super League Highlights.</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985029.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625091500 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985030.jpg"/>
-  </programme>
-  <programme start="20240625091500 +0530" stop="20240625093000 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985031.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625094500 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985032.jpg"/>
-  </programme>
-  <programme start="20240625094500 +0530" stop="20240625100000 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985033.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625103000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 1st ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985034.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0530" stop="20240625110000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 2nd ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985035.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625113000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 3rd ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985036.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0530" stop="20240625120000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 1st ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985037.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625121500 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985038.jpg"/>
-  </programme>
-  <programme start="20240625121500 +0530" stop="20240625123000 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985039.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625124500 +0530" channel="1985">
-    <title lang="en">SA20 League HLs - SEC v JSK</title>
-    <desc lang="en">Highlights of the 2023 edition of the SA20, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985040.jpg"/>
-  </programme>
-  <programme start="20240625124500 +0530" stop="20240625130000 +0530" channel="1985">
-    <title lang="en">SA20 League HLs - JSK v DSG</title>
-    <desc lang="en">Highlights of the 2023 edition of the SA20, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985041.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625131500 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985042.jpg"/>
-  </programme>
-  <programme start="20240625131500 +0530" stop="20240625133000 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985043.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0530" stop="20240625134500 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985044.jpg"/>
-  </programme>
-  <programme start="20240625134500 +0530" stop="20240625140000 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985045.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625143000 +0530" channel="1985">
-    <title lang="en">NBA HLs</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the NBA, wherein professional basketball teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985046.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0530" stop="20240625144500 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985047.jpg"/>
-  </programme>
-  <programme start="20240625144500 +0530" stop="20240625150000 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985048.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 1st ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985049.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 3rd ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985050.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="1985">
-    <title lang="en">NBA HLs</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the NBA, wherein professional basketball teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985051.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625164500 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs - UPW v RCB</title>
-    <desc lang="en">Highlights of the 2023 edition of the Women's Premier League, wherein professional cricket teams compete to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985052.jpg"/>
-  </programme>
-  <programme start="20240625164500 +0530" stop="20240625170000 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs - RCB v GG</title>
-    <desc lang="en">Highlights of the 2023 edition of the Women's Premier League, wherein professional cricket teams compete to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985053.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625171500 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985054.jpg"/>
-  </programme>
-  <programme start="20240625171500 +0530" stop="20240625173000 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985055.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625174500 +0530" channel="1985">
-    <title lang="en">Indian Super League Highlights.</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985056.jpg"/>
-  </programme>
-  <programme start="20240625174500 +0530" stop="20240625180000 +0530" channel="1985">
-    <title lang="en">Indian Super League Highlights.</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985057.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625183000 +0530" channel="1985">
-    <title lang="en">NBA HLs</title>
-    <desc lang="en">Highlights of the 2023/24 edition of the NBA, wherein professional basketball teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985058.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625184500 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985059.jpg"/>
-  </programme>
-  <programme start="20240625184500 +0530" stop="20240625190000 +0530" channel="1985">
-    <title lang="en">MPL T20 Highlights</title>
-    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985060.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625193000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 3rd ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985061.jpg"/>
-  </programme>
-  <programme start="20240625193000 +0530" stop="20240625195500 +0530" channel="1985">
-    <title lang="en">Get Set Gold</title>
-    <desc lang="en">Various Indian professional athletes share their preparations and strategies for the 2024 Summer Olympics in Paris, France.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985062.jpg"/>
-  </programme>
-  <programme start="20240625195500 +0530" stop="20240625200000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
-    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985063.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625201500 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985064.jpg"/>
-  </programme>
-  <programme start="20240625201500 +0530" stop="20240625203000 +0530" channel="1985">
-    <title lang="en">MP T20 Highlights</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985065.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625204500 +0530" channel="1985">
-    <title lang="en">FIH Womens Pro League HLs</title>
-    <desc lang="en">Highlights of the 2023-24 edition of the Women's FIH Pro League, where teams showcase their skills and compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985066.jpg"/>
-  </programme>
-  <programme start="20240625204500 +0530" stop="20240625210000 +0530" channel="1985">
-    <title lang="en">FIH Womens Pro League HLs</title>
-    <desc lang="en">Highlights of the 2023-24 edition of the Women's FIH Pro League, where teams showcase their skills and compete against each other to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985067.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625230000 +0530" channel="1985">
-    <title lang="en">Live FIH Pro League (W) GRB v BEL</title>
-    <desc lang="en">Hockey teams compete against each other in the 2023/24 edition of the Women's FIH Pro League to win the coveted title, live.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985068.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank India v Australia 1st ODI HLs</title>
-    <desc lang="en">Highlights of the national cricket teams of India and Australia competing against each other in a One Day International match.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985069.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 1st ODI HLs</title>
-    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251985070.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626001500 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985000.jpg"/>
-  </programme>
-  <programme start="20240626001500 +0530" stop="20240626003000 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985001.jpg"/>
-  </programme>
-  <programme start="20240626003000 +0530" stop="20240626004500 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985002.jpg"/>
-  </programme>
-  <programme start="20240626004500 +0530" stop="20240626010000 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985003.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626011500 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985004.jpg"/>
-  </programme>
-  <programme start="20240626011500 +0530" stop="20240626013000 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985005.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626014500 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985006.jpg"/>
-  </programme>
-  <programme start="20240626014500 +0530" stop="20240626020000 +0530" channel="1985">
-    <title lang="en">TATA WPL HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985007.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank India v Australia 2nd ODI HLs</title>
-    <desc lang="en">Highlights of the national cricket teams of India and Australia competing against each other in a One Day International match.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985008.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626024500 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank India v Australia 1st T20I HLs</title>
-    <desc lang="en">Highlights of India and Australia competing against each other in the 2023 edition of a T20I series to emerge victorious and win the prestigious championship.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985009.jpg"/>
-  </programme>
-  <programme start="20240626024500 +0530" stop="20240626030000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank India v Australia 5th T20I HLs</title>
-    <desc lang="en">Highlights of India and Australia competing against each other in the 2023 edition of a T20I series to emerge victorious and win the prestigious championship.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985010.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank IND v ENG 5th Test HLs</title>
-    <desc lang="en">Highlights of the match played between the national cricket teams of India and England in a Test match during the 2024 edition of a tour.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985011.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank IND v ENG 5th Test HLs</title>
-    <desc lang="en">Highlights of the match played between the national cricket teams of India and England in a Test match during the 2024 edition of a tour.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985012.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank IND v ENG 5th Test HLs</title>
-    <desc lang="en">Highlights of the match played between the national cricket teams of India and England in a Test match during the 2024 edition of a tour.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985013.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="1985">
-    <title lang="en">IDFC FIRST Bank India v Australia 2nd ODI HLs</title>
-    <desc lang="en">Highlights of the national cricket teams of India and Australia competing against each other in a One Day International match.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985014.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626051500 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985015.jpg"/>
-  </programme>
-  <programme start="20240626051500 +0530" stop="20240626053000 +0530" channel="1985">
-    <title lang="en">SA20 HLs</title>
-    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
-    <category lang="en">Sport</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985016.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626054500 +0530" channel="1985">
     <title lang="en">SA20 HLs</title>
     <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
@@ -800,5 +374,539 @@
     <desc lang="en">Highlights of India and Afghanistan competing against each other in the 2024 edition of a T20I series to emerge victorious and win the championship.</desc>
     <category lang="en">Sport</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985078.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 2nd ODI HLs</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261985079.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627001500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985000.jpg"/>
+  </programme>
+  <programme start="20240627001500 +0530" stop="20240627003000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985001.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0530" stop="20240627004500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985002.jpg"/>
+  </programme>
+  <programme start="20240627004500 +0530" stop="20240627010000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985003.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627011500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985004.jpg"/>
+  </programme>
+  <programme start="20240627011500 +0530" stop="20240627013000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985005.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627014500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985006.jpg"/>
+  </programme>
+  <programme start="20240627014500 +0530" stop="20240627020000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985007.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627021500 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v AFG 1st T20I HLs</title>
+    <desc lang="en">Highlights of India and Afghanistan competing against each other in the 2024 edition of a T20I series to emerge victorious and win the championship.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985008.jpg"/>
+  </programme>
+  <programme start="20240627021500 +0530" stop="20240627023000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank India v Australia 2nd T20I HLs</title>
+    <desc lang="en">Highlights of India and Australia competing against each other in the 2023 edition of a T20I series to emerge victorious and win the prestigious championship.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985009.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627024500 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - Ind (W) v Aus(W) 1st T20I HLs</title>
+    <desc lang="en">Highlights of women's teams competing against each other in the Twenty20 International series held in 2024 to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985010.jpg"/>
+  </programme>
+  <programme start="20240627024500 +0530" stop="20240627030000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - Ind(W) v Eng(W) 3rd T20I HLs</title>
+    <desc lang="en">Highlights of women's cricket teams competing in a series of Twenty20 International matches to win the coveted title in 2023.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985011.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985012.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985013.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985014.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985015.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627051500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985016.jpg"/>
+  </programme>
+  <programme start="20240627051500 +0530" stop="20240627053000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985017.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627054500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985018.jpg"/>
+  </programme>
+  <programme start="20240627054500 +0530" stop="20240627060000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985019.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627061500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985020.jpg"/>
+  </programme>
+  <programme start="20240627061500 +0530" stop="20240627063000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985021.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627064500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985022.jpg"/>
+  </programme>
+  <programme start="20240627064500 +0530" stop="20240627070000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985023.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627071500 +0530" channel="1985">
+    <title lang="en">MPL T20 Highlights</title>
+    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985024.jpg"/>
+  </programme>
+  <programme start="20240627071500 +0530" stop="20240627073000 +0530" channel="1985">
+    <title lang="en">MPL T20 Highlights</title>
+    <desc lang="en">Highlights of the 2024 edition of the Maharashtra Premier League wherein professional cricket teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985025.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627080000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 3rd ODI HLs</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985026.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627081500 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985027.jpg"/>
+  </programme>
+  <programme start="20240627081500 +0530" stop="20240627083000 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985028.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627084500 +0530" channel="1985">
+    <title lang="en">Indian Super League Highlights.</title>
+    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985029.jpg"/>
+  </programme>
+  <programme start="20240627084500 +0530" stop="20240627090000 +0530" channel="1985">
+    <title lang="en">Indian Super League Highlights.</title>
+    <desc lang="en">Highlights of the 2023/24 edition of the Indian Super League wherein football teams compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985030.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627092500 +0530" channel="1985">
+    <title lang="en">Get Set Gold</title>
+    <desc lang="en">Various Indian professional athletes share their preparations and strategies for the 2024 Summer Olympics in Paris, France.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985031.jpg"/>
+  </programme>
+  <programme start="20240627092500 +0530" stop="20240627093000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
+    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985032.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627094500 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985033.jpg"/>
+  </programme>
+  <programme start="20240627094500 +0530" stop="20240627100000 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985034.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627103000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985035.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0530" stop="20240627110000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985036.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627112500 +0530" channel="1985">
+    <title lang="en">Get Set Gold</title>
+    <desc lang="en">Various Indian professional athletes share their preparations and strategies for the 2024 Summer Olympics in Paris, France.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985037.jpg"/>
+  </programme>
+  <programme start="20240627112500 +0530" stop="20240627113000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
+    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985038.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627120000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985039.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627121500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985040.jpg"/>
+  </programme>
+  <programme start="20240627121500 +0530" stop="20240627123000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985041.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627124500 +0530" channel="1985">
+    <title lang="en">SA20 League HLs - JSK v SEC</title>
+    <desc lang="en">Highlights of the 2023 edition of the SA20, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985042.jpg"/>
+  </programme>
+  <programme start="20240627124500 +0530" stop="20240627130000 +0530" channel="1985">
+    <title lang="en">SA20 League HLs - PC v SEC</title>
+    <desc lang="en">Highlights of the 2023 edition of the SA20, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985043.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627132500 +0530" channel="1985">
+    <title lang="en">Get Set Gold</title>
+    <desc lang="en">Various Indian professional athletes share their preparations and strategies for the 2024 Summer Olympics in Paris, France.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985044.jpg"/>
+  </programme>
+  <programme start="20240627132500 +0530" stop="20240627133000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
+    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985045.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0530" stop="20240627134500 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985046.jpg"/>
+  </programme>
+  <programme start="20240627134500 +0530" stop="20240627140000 +0530" channel="1985">
+    <title lang="en">MP T20 Highlights</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a prestigious T20 league to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985047.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627143000 +0530" channel="1985">
+    <title lang="en">NBA HLs</title>
+    <desc lang="en">Highlights of the 2023/24 edition of the NBA, wherein professional basketball teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985048.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0530" stop="20240627145500 +0530" channel="1985">
+    <title lang="en">Get Set Gold</title>
+    <desc lang="en">Various Indian professional athletes share their preparations and strategies for the 2024 Summer Olympics in Paris, France.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985049.jpg"/>
+  </programme>
+  <programme start="20240627145500 +0530" stop="20240627150000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
+    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985050.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 3rd ODI HLs</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985051.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - IND(W) v SA(W) - 2nd ODI HLs</title>
+    <desc lang="en">Highlights of professional cricket teams competing against each other in the 2024 edition of a Women's ODI series to win the prestigious competition.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985052.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="1985">
+    <title lang="en">NBA HLs</title>
+    <desc lang="en">Highlights of the 2023/24 edition of the NBA, wherein professional basketball teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985053.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627164500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs - GG v DC</title>
+    <desc lang="en">Highlights of the 2023 edition of the Women's Premier League, wherein professional cricket teams compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985054.jpg"/>
+  </programme>
+  <programme start="20240627164500 +0530" stop="20240627170000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs - DC v RCB</title>
+    <desc lang="en">Highlights of the 2023 edition of the Women's Premier League, wherein professional cricket teams compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985055.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627171500 +0530" channel="1985">
+    <title lang="en">FIH Womens Pro League HLs</title>
+    <desc lang="en">Highlights of the 2023-24 edition of the Women's FIH Pro League, where teams showcase their skills and compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985056.jpg"/>
+  </programme>
+  <programme start="20240627171500 +0530" stop="20240627173000 +0530" channel="1985">
+    <title lang="en">FIH Womens Pro League HLs</title>
+    <desc lang="en">Highlights of the 2023-24 edition of the Women's FIH Pro League, where teams showcase their skills and compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985057.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627220000 +0530" channel="1985">
+    <title lang="en">Live FIH Pro League (W) GRB v GER</title>
+    <desc lang="en">Hockey teams compete against each other in the 2023/24 edition of the Women's FIH Pro League to win the coveted title, live.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985058.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627221500 +0530" channel="1985">
+    <title lang="en">FIH Mens Pro League HLs</title>
+    <desc lang="en">Highlights of the 2023-24 edition of the Men's FIH Pro League, where hockey teams showcase their skills and compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985059.jpg"/>
+  </programme>
+  <programme start="20240627221500 +0530" stop="20240627223000 +0530" channel="1985">
+    <title lang="en">FIH Mens Pro League HLs</title>
+    <desc lang="en">Highlights of the 2023-24 edition of the Men's FIH Pro League, where hockey teams showcase their skills and compete against each other to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985060.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240628000000 +0530" channel="1985">
+    <title lang="en">Live FIH Pro League (M) NED v GER</title>
+    <desc lang="en">Teams showcase their skills and compete against each other in the 2023/24 edition of the Men's FIH Pro League to win the coveted title, live.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271985061.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="1985">
+    <title lang="en">Live FIH Pro League (M) NED v GER</title>
+    <desc lang="en">Teams showcase their skills and compete against each other in the 2023/24 edition of the Men's FIH Pro League to win the coveted title, live.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628004500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985001.jpg"/>
+  </programme>
+  <programme start="20240628004500 +0530" stop="20240628010000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985002.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628011500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985003.jpg"/>
+  </programme>
+  <programme start="20240628011500 +0530" stop="20240628013000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985004.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628014500 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985005.jpg"/>
+  </programme>
+  <programme start="20240628014500 +0530" stop="20240628020000 +0530" channel="1985">
+    <title lang="en">TATA WPL HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the Women's Premier League, wherein professional cricket teams compete in order to emerge victorious.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985006.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628021500 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - Ind (W) v Aus(W) 1st T20I HLs</title>
+    <desc lang="en">Highlights of women's teams competing against each other in the Twenty20 International series held in 2024 to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985007.jpg"/>
+  </programme>
+  <programme start="20240628021500 +0530" stop="20240628023000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - Ind(W) v Eng(W) 3rd T20I HLs</title>
+    <desc lang="en">Highlights of women's cricket teams competing in a series of Twenty20 International matches to win the coveted title in 2023.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985008.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank India v Australia 1st ODI HLs</title>
+    <desc lang="en">Highlights of the national cricket teams of India and Australia competing against each other in a One Day International match.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985009.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628031500 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank - Ind(W) v Eng(W) 3rd T20I HLs</title>
+    <desc lang="en">Highlights of women's cricket teams competing in a series of Twenty20 International matches to win the coveted title in 2023.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985010.jpg"/>
+  </programme>
+  <programme start="20240628031500 +0530" stop="20240628033000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985011.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985012.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985013.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank India v Australia 1st ODI HLs</title>
+    <desc lang="en">Highlights of the national cricket teams of India and Australia competing against each other in a One Day International match.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985014.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628051500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985015.jpg"/>
+  </programme>
+  <programme start="20240628051500 +0530" stop="20240628053000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985016.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628054500 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985017.jpg"/>
+  </programme>
+  <programme start="20240628054500 +0530" stop="20240628060000 +0530" channel="1985">
+    <title lang="en">SA20 HLs</title>
+    <desc lang="en">Highlights of the 2024 edition of the SA20, a Twenty20 cricket league, wherein professional cricket teams compete in a bid to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985018.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628060500 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank IND v ENG Test HLs</title>
+    <desc lang="en">Highlights of best innings, classic boundaries, sixes and dramatic wickets from various matches played between teams in 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985019.jpg"/>
+  </programme>
+  <programme start="20240628060500 +0530" stop="20240628062000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985020.jpg"/>
+  </programme>
+  <programme start="20240628062000 +0530" stop="20240628065000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985021.jpg"/>
+  </programme>
+  <programme start="20240628065000 +0530" stop="20240628072000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Eng HLs</title>
+    <desc lang="en">Highlights of the Test series played between the national women's cricket teams of India and England in 2023, wherein both teams compete to win.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985022.jpg"/>
+  </programme>
+  <programme start="20240628072000 +0530" stop="20240628075000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985023.jpg"/>
+  </programme>
+  <programme start="20240628075000 +0530" stop="20240628082000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985024.jpg"/>
+  </programme>
+  <programme start="20240628082000 +0530" stop="20240628085000 +0530" channel="1985">
+    <title lang="en">IDFC FIRST Bank Womens Only Test - Ind v Aus HLs</title>
+    <desc lang="en">Highlights of a T20I match in 2023 at the Wankhede Stadium in Mumbai where professional women's cricket teams of India and England compete to win the coveted title.</desc>
+    <category lang="en">Sport</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281985025.jpg"/>
   </programme>
 </tv>

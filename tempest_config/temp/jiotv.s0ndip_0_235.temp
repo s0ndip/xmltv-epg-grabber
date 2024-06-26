@@ -3,234 +3,6 @@
   <channel id="235">
     <display-name lang="en">India TV</display-name>
   </channel>
-  <programme start="20240625053000 +0530" stop="20240625055800 +0530" channel="235">
-    <title lang="en">Advertisment</title>
-    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235010.jpg"/>
-  </programme>
-  <programme start="20240625055800 +0530" stop="20240625062800 +0530" channel="235">
-    <title lang="en">Jaago India</title>
-    <desc lang="en">The host presents the latest updates and developments regarding various social, political and economic issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235011.jpg"/>
-  </programme>
-  <programme start="20240625062800 +0530" stop="20240625065800 +0530" channel="235">
-    <title lang="en">Jaago India + Super 100</title>
-    <desc lang="en">The host sheds light on numerous top stories, recent happenings and latest updates which are taking place all around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235012.jpg"/>
-  </programme>
-  <programme start="20240625065800 +0530" stop="20240625072500 +0530" channel="235">
-    <title lang="en">Jaago India / Super 50</title>
-    <desc lang="en">The host shares the latest information regarding social, political and economic issues; the anchor presents the top 50 most notable updates covering various fields.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235013.jpg"/>
-  </programme>
-  <programme start="20240625072500 +0530" stop="20240625075700 +0530" channel="235">
-    <title lang="en">Bhavishyawani</title>
-    <desc lang="en">A renowned foreteller predicts events based on his expertise in astrology and numerology.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235014.jpg"/>
-  </programme>
-  <programme start="20240625075700 +0530" stop="20240625085800 +0530" channel="235">
-    <title lang="en">Rogo Se Jung Swami Ramdev Ke Sung</title>
-    <desc lang="en">Baba Ramdev discusses the negative consequences of obesity in human beings and demonstrates several exercises to combat the problem.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235015.jpg"/>
-  </programme>
-  <programme start="20240625085800 +0530" stop="20240625095800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235016.jpg"/>
-  </programme>
-  <programme start="20240625095800 +0530" stop="20240625102800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235017.jpg"/>
-  </programme>
-  <programme start="20240625102800 +0530" stop="20240625105800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235018.jpg"/>
-  </programme>
-  <programme start="20240625105800 +0530" stop="20240625112800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235019.jpg"/>
-  </programme>
-  <programme start="20240625112800 +0530" stop="20240625115800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235020.jpg"/>
-  </programme>
-  <programme start="20240625115800 +0530" stop="20240625122800 +0530" channel="235">
-    <title lang="en">Prahar</title>
-    <desc lang="en">The host sheds light on several important and brewing issues of public interest in a detailed but simple and easy-to-understand manner.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235021.jpg"/>
-  </programme>
-  <programme start="20240625122800 +0530" stop="20240625125800 +0530" channel="235">
-    <title lang="en">Prahar</title>
-    <desc lang="en">The host sheds light on several important and brewing issues of public interest in a detailed but simple and easy-to-understand manner.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235022.jpg"/>
-  </programme>
-  <programme start="20240625125800 +0530" stop="20240625135800 +0530" channel="235">
-    <title lang="en">Kahani Kursi Ki</title>
-    <desc lang="en">The host sheds light on various trending social and political topics and discusses them with experts, seeking the opinion of people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235023.jpg"/>
-  </programme>
-  <programme start="20240625135800 +0530" stop="20240625145800 +0530" channel="235">
-    <title lang="en">Kahani Kursi Ki</title>
-    <desc lang="en">The host sheds light on various trending social and political topics and discusses them with experts, seeking the opinion of people.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235024.jpg"/>
-  </programme>
-  <programme start="20240625145800 +0530" stop="20240625152800 +0530" channel="235">
-    <title lang="en">Rajdharma</title>
-    <desc lang="en">The host presents a detailed analysis of the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235025.jpg"/>
-  </programme>
-  <programme start="20240625152800 +0530" stop="20240625155800 +0530" channel="235">
-    <title lang="en">Rajdharma</title>
-    <desc lang="en">The host presents a detailed analysis of the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235026.jpg"/>
-  </programme>
-  <programme start="20240625155800 +0530" stop="20240625162800 +0530" channel="235">
-    <title lang="en">Ground Report</title>
-    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235027.jpg"/>
-  </programme>
-  <programme start="20240625162800 +0530" stop="20240625165800 +0530" channel="235">
-    <title lang="en">Ground Report / Fatafat 50</title>
-    <desc lang="en">The host presents updates on issues at a particular place and interviews locals; the news anchor shares summarised details of various topics of global significance.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235028.jpg"/>
-  </programme>
-  <programme start="20240625165800 +0530" stop="20240625175800 +0530" channel="235">
-    <title lang="en">Muqabala</title>
-    <desc lang="en">The host speaks to a panel of experts on the biggest and latest stories taking place in the country and around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235029.jpg"/>
-  </programme>
-  <programme start="20240625175800 +0530" stop="20240625185800 +0530" channel="235">
-    <title lang="en">Coffee Par Kurukshtra</title>
-    <desc lang="en">The host conducts insightful interactions with prominent personalities to seek information on various significant socio-political matters.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235030.jpg"/>
-  </programme>
-  <programme start="20240625185800 +0530" stop="20240625195200 +0530" channel="235">
-    <title lang="en">Dharmayudh</title>
-    <desc lang="en">The hosts brings to attention ongoing events of religiously motivated communal violence to share relevant updates on their progress and impacts.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235031.jpg"/>
-  </programme>
-  <programme start="20240625195200 +0530" stop="20240625195800 +0530" channel="235">
-    <title lang="en">Fatafat 50</title>
-    <desc lang="en">The host presents the top 50 news updates and developments regarding political, social and economic issues from Punjab in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235032.jpg"/>
-  </programme>
-  <programme start="20240625195800 +0530" stop="20240625205700 +0530" channel="235">
-    <title lang="en">Haqiqat Kya Hai ? / Super 100</title>
-    <desc lang="en">The host presents various facts about different political, economic and social issues making headlines across the nation; the host shares the top 100 political, economic and sports news and updates.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235033.jpg"/>
-  </programme>
-  <programme start="20240625205700 +0530" stop="20240625215800 +0530" channel="235">
-    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235034.jpg"/>
-  </programme>
-  <programme start="20240625215800 +0530" stop="20240625225800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235035.jpg"/>
-  </programme>
-  <programme start="20240625225800 +0530" stop="20240625232800 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235036.jpg"/>
-  </programme>
-  <programme start="20240625232800 +0530" stop="20240626000000 +0530" channel="235">
-    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625235037.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626001500 +0530" channel="235">
-    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235000.jpg"/>
-  </programme>
-  <programme start="20240626001500 +0530" stop="20240626010000 +0530" channel="235">
-    <title lang="en">Advertisment</title>
-    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235001.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="235">
-    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
-    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235002.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235003.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235004.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235005.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626040000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235006.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626043000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235007.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="235">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235008.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626053000 +0530" channel="235">
-    <title lang="en">Advertisment</title>
-    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235009.jpg"/>
-  </programme>
   <programme start="20240626053000 +0530" stop="20240626055800 +0530" channel="235">
     <title lang="en">Advertisment</title>
     <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
@@ -392,5 +164,335 @@
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235036.jpg"/>
+  </programme>
+  <programme start="20240626232800 +0530" stop="20240627000000 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626235037.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627001500 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235000.jpg"/>
+  </programme>
+  <programme start="20240627001500 +0530" stop="20240627010000 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235001.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235002.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235003.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235004.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235005.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627040000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235006.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627043000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235007.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235008.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627053000 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235009.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0530" stop="20240627055800 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235010.jpg"/>
+  </programme>
+  <programme start="20240627055800 +0530" stop="20240627062800 +0530" channel="235">
+    <title lang="en">Jaago India</title>
+    <desc lang="en">The host presents the latest updates and developments regarding various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235011.jpg"/>
+  </programme>
+  <programme start="20240627062800 +0530" stop="20240627065800 +0530" channel="235">
+    <title lang="en">Jaago India + Super 100</title>
+    <desc lang="en">The host sheds light on numerous top stories, recent happenings and latest updates which are taking place all around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235012.jpg"/>
+  </programme>
+  <programme start="20240627065800 +0530" stop="20240627072500 +0530" channel="235">
+    <title lang="en">Jaago India / Super 50</title>
+    <desc lang="en">The host shares the latest information regarding social, political and economic issues; the anchor presents the top 50 most notable updates covering various fields.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235013.jpg"/>
+  </programme>
+  <programme start="20240627072500 +0530" stop="20240627075700 +0530" channel="235">
+    <title lang="en">Bhavishyawani</title>
+    <desc lang="en">A renowned foreteller predicts events based on his expertise in astrology and numerology.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235014.jpg"/>
+  </programme>
+  <programme start="20240627075700 +0530" stop="20240627085800 +0530" channel="235">
+    <title lang="en">Rogo Se Jung Swami Ramdev Ke Sung</title>
+    <desc lang="en">Baba Ramdev discusses the negative consequences of obesity in human beings and demonstrates several exercises to combat the problem.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235015.jpg"/>
+  </programme>
+  <programme start="20240627085800 +0530" stop="20240627095800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235016.jpg"/>
+  </programme>
+  <programme start="20240627095800 +0530" stop="20240627102800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235017.jpg"/>
+  </programme>
+  <programme start="20240627102800 +0530" stop="20240627105800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235018.jpg"/>
+  </programme>
+  <programme start="20240627105800 +0530" stop="20240627112800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235019.jpg"/>
+  </programme>
+  <programme start="20240627112800 +0530" stop="20240627115800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235020.jpg"/>
+  </programme>
+  <programme start="20240627115800 +0530" stop="20240627122800 +0530" channel="235">
+    <title lang="en">Prahar</title>
+    <desc lang="en">The host sheds light on several important and brewing issues of public interest in a detailed but simple and easy-to-understand manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235021.jpg"/>
+  </programme>
+  <programme start="20240627122800 +0530" stop="20240627125800 +0530" channel="235">
+    <title lang="en">Prahar</title>
+    <desc lang="en">The host sheds light on several important and brewing issues of public interest in a detailed but simple and easy-to-understand manner.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235022.jpg"/>
+  </programme>
+  <programme start="20240627125800 +0530" stop="20240627135800 +0530" channel="235">
+    <title lang="en">Kahani Kursi Ki</title>
+    <desc lang="en">The host sheds light on various trending social and political topics and discusses them with experts, seeking the opinion of people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235023.jpg"/>
+  </programme>
+  <programme start="20240627135800 +0530" stop="20240627145800 +0530" channel="235">
+    <title lang="en">Kahani Kursi Ki</title>
+    <desc lang="en">The host sheds light on various trending social and political topics and discusses them with experts, seeking the opinion of people.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235024.jpg"/>
+  </programme>
+  <programme start="20240627145800 +0530" stop="20240627152800 +0530" channel="235">
+    <title lang="en">Rajdharma</title>
+    <desc lang="en">The host presents a detailed analysis of the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235025.jpg"/>
+  </programme>
+  <programme start="20240627152800 +0530" stop="20240627155800 +0530" channel="235">
+    <title lang="en">Rajdharma</title>
+    <desc lang="en">The host presents a detailed analysis of the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235026.jpg"/>
+  </programme>
+  <programme start="20240627155800 +0530" stop="20240627162800 +0530" channel="235">
+    <title lang="en">Ground Report</title>
+    <desc lang="en">The anchor presents the latest social, sports, economic and political updates and top stories from all around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235027.jpg"/>
+  </programme>
+  <programme start="20240627162800 +0530" stop="20240627165800 +0530" channel="235">
+    <title lang="en">Ground Report / Fatafat 50</title>
+    <desc lang="en">The host presents updates on issues at a particular place and interviews locals; the news anchor shares summarised details of various topics of global significance.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235028.jpg"/>
+  </programme>
+  <programme start="20240627165800 +0530" stop="20240627175800 +0530" channel="235">
+    <title lang="en">Muqabala</title>
+    <desc lang="en">The host speaks to a panel of experts on the biggest and latest stories taking place in the country and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235029.jpg"/>
+  </programme>
+  <programme start="20240627175800 +0530" stop="20240627185800 +0530" channel="235">
+    <title lang="en">Coffee Par Kurukshtra</title>
+    <desc lang="en">The host conducts insightful interactions with prominent personalities to seek information on various significant socio-political matters.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235030.jpg"/>
+  </programme>
+  <programme start="20240627185800 +0530" stop="20240627195200 +0530" channel="235">
+    <title lang="en">Dharmayudh</title>
+    <desc lang="en">The hosts brings to attention ongoing events of religiously motivated communal violence to share relevant updates on their progress and impacts.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235031.jpg"/>
+  </programme>
+  <programme start="20240627195200 +0530" stop="20240627195800 +0530" channel="235">
+    <title lang="en">Fatafat 50</title>
+    <desc lang="en">The host presents the top 50 news updates and developments regarding political, social and economic issues from Punjab in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235032.jpg"/>
+  </programme>
+  <programme start="20240627195800 +0530" stop="20240627205700 +0530" channel="235">
+    <title lang="en">Haqiqat Kya Hai ? / Super 100</title>
+    <desc lang="en">The host presents various facts about different political, economic and social issues making headlines across the nation; the host shares the top 100 political, economic and sports news and updates.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235033.jpg"/>
+  </programme>
+  <programme start="20240627205700 +0530" stop="20240627215800 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235034.jpg"/>
+  </programme>
+  <programme start="20240627215800 +0530" stop="20240627225800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235035.jpg"/>
+  </programme>
+  <programme start="20240627225800 +0530" stop="20240627232800 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235036.jpg"/>
+  </programme>
+  <programme start="20240627232800 +0530" stop="20240628000000 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627235037.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628001500 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235000.jpg"/>
+  </programme>
+  <programme start="20240628001500 +0530" stop="20240628010000 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235001.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="235">
+    <title lang="en">Aaj Ki Baat-Rajat Sharma Ke Saath</title>
+    <desc lang="en">Host Rajat Sharma provides the latest news on the latest events and current affairs along with a detailed analysis of the topics.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235002.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235003.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235004.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235005.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628040000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235006.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628043000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235007.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="235">
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235008.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628053000 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235009.jpg"/>
+  </programme>
+  <programme start="20240628053000 +0530" stop="20240628055800 +0530" channel="235">
+    <title lang="en">Advertisment</title>
+    <desc lang="en">The host highlights the features of various products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235010.jpg"/>
+  </programme>
+  <programme start="20240628055800 +0530" stop="20240628062800 +0530" channel="235">
+    <title lang="en">Jaago India</title>
+    <desc lang="en">The host presents the latest updates and developments regarding various social, political and economic issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235011.jpg"/>
+  </programme>
+  <programme start="20240628062800 +0530" stop="20240628065800 +0530" channel="235">
+    <title lang="en">Jaago India + Super 100</title>
+    <desc lang="en">The host sheds light on numerous top stories, recent happenings and latest updates which are taking place all around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235012.jpg"/>
+  </programme>
+  <programme start="20240628065800 +0530" stop="20240628072500 +0530" channel="235">
+    <title lang="en">Jaago India / Super 50</title>
+    <desc lang="en">The host shares the latest information regarding social, political and economic issues; the anchor presents the top 50 most notable updates covering various fields.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235013.jpg"/>
+  </programme>
+  <programme start="20240628072500 +0530" stop="20240628075700 +0530" channel="235">
+    <title lang="en">Bhavishyawani</title>
+    <desc lang="en">A renowned foreteller predicts events based on his expertise in astrology and numerology.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235014.jpg"/>
+  </programme>
+  <programme start="20240628075700 +0530" stop="20240628085800 +0530" channel="235">
+    <title lang="en">Rogo Se Jung Swami Ramdev Ke Sung</title>
+    <desc lang="en">Baba Ramdev discusses the negative consequences of obesity in human beings and demonstrates several exercises to combat the problem.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628235015.jpg"/>
   </programme>
 </tv>

@@ -3,252 +3,6 @@
   <channel id="2916">
     <display-name lang="en">Daily Post PHH</display-name>
   </channel>
-  <programme start="20240625070000 +0530" stop="20240625073000 +0530" channel="2916">
-    <title lang="en">Good Waali Morning</title>
-    <desc lang="en">Entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916008.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0530" stop="20240625075700 +0530" channel="2916">
-    <title lang="en">Newsroom Live</title>
-    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916009.jpg"/>
-  </programme>
-  <programme start="20240625075700 +0530" stop="20240625082700 +0530" channel="2916">
-    <title lang="en">Punjabi News Bulletin</title>
-    <desc lang="en">A news bulletin that keeps the viewers updated with the latest regional and national news.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916010.jpg"/>
-  </programme>
-  <programme start="20240625082700 +0530" stop="20240625090000 +0530" channel="2916">
-    <title lang="en">Rata Farak Nahi Penda</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916011.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625092700 +0530" channel="2916">
-    <title lang="en">Daily Report @9</title>
-    <desc lang="en">The host presents the top news headlines and developments surrounding various socio-economic and political issues in Punjab, India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916012.jpg"/>
-  </programme>
-  <programme start="20240625092700 +0530" stop="20240625095700 +0530" channel="2916">
-    <title lang="en">Daily Live @ 9:30 AM</title>
-    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, social issues, economy, sports and more, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916013.jpg"/>
-  </programme>
-  <programme start="20240625095700 +0530" stop="20240625102700 +0530" channel="2916">
-    <title lang="en">10 Baje 10</title>
-    <desc lang="en">The host presents the top 10 news updates pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916014.jpg"/>
-  </programme>
-  <programme start="20240625102700 +0530" stop="20240625105700 +0530" channel="2916">
-    <title lang="en">Haryana &amp; Himachal Post</title>
-    <desc lang="en">The host presents the latest political, social and economic news updates and developments from Haryana and Himachal Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916015.jpg"/>
-  </programme>
-  <programme start="20240625105700 +0530" stop="20240625112700 +0530" channel="2916">
-    <title lang="en">Daily Live @11</title>
-    <desc lang="en">The host presents the latest news and updates pertaining to the political, social, economic and sports fronts from around the state and the nation, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916016.jpg"/>
-  </programme>
-  <programme start="20240625112700 +0530" stop="20240625115700 +0530" channel="2916">
-    <title lang="en">Haryana &amp; Himachal Post</title>
-    <desc lang="en">The host presents the latest political, social and economic news updates and developments from Haryana and Himachal Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916017.jpg"/>
-  </programme>
-  <programme start="20240625115700 +0530" stop="20240625122700 +0530" channel="2916">
-    <title lang="en">Daily 20-20</title>
-    <desc lang="en">The host presents the top 20 news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916018.jpg"/>
-  </programme>
-  <programme start="20240625122700 +0530" stop="20240625125700 +0530" channel="2916">
-    <title lang="en">Haryana &amp; Himachal Post</title>
-    <desc lang="en">The host presents the latest political, social and economic news updates and developments from Haryana and Himachal Pradesh.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916019.jpg"/>
-  </programme>
-  <programme start="20240625125700 +0530" stop="20240625132700 +0530" channel="2916">
-    <title lang="en">Daily Live @1</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916020.jpg"/>
-  </programme>
-  <programme start="20240625132700 +0530" stop="20240625140000 +0530" channel="2916">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916021.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625142700 +0530" channel="2916">
-    <title lang="en">Daily Live @ 2</title>
-    <desc lang="en">The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916022.jpg"/>
-  </programme>
-  <programme start="20240625142700 +0530" stop="20240625145700 +0530" channel="2916">
-    <title lang="en">Seere Da Swag</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916023.jpg"/>
-  </programme>
-  <programme start="20240625145700 +0530" stop="20240625152700 +0530" channel="2916">
-    <title lang="en">Daily Live @ 3 PM</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to politics, social issues, economy, sports and more, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916024.jpg"/>
-  </programme>
-  <programme start="20240625152700 +0530" stop="20240625155700 +0530" channel="2916">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916025.jpg"/>
-  </programme>
-  <programme start="20240625155700 +0530" stop="20240625162700 +0530" channel="2916">
-    <title lang="en">Daily 20-20</title>
-    <desc lang="en">The host presents the top 20 news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916026.jpg"/>
-  </programme>
-  <programme start="20240625162700 +0530" stop="20240625165700 +0530" channel="2916">
-    <title lang="en">Newsroom Live</title>
-    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916027.jpg"/>
-  </programme>
-  <programme start="20240625165700 +0530" stop="20240625172700 +0530" channel="2916">
-    <title lang="en">Daily Live @ 5 PM</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916028.jpg"/>
-  </programme>
-  <programme start="20240625172700 +0530" stop="20240625175700 +0530" channel="2916">
-    <title lang="en">Seere Da Swag</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916029.jpg"/>
-  </programme>
-  <programme start="20240625175700 +0530" stop="20240625183000 +0530" channel="2916">
-    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
-    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916030.jpg"/>
-  </programme>
-  <programme start="20240625183000 +0530" stop="20240625190000 +0530" channel="2916">
-    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
-    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916031.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="2916">
-    <title lang="en">Newsroom Live</title>
-    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916032.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625203000 +0530" channel="2916">
-    <title lang="en">The Daily Post Show</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916033.jpg"/>
-  </programme>
-  <programme start="20240625203000 +0530" stop="20240625210000 +0530" channel="2916">
-    <title lang="en">The Daily Post Show</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916034.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="2916">
-    <title lang="en">Rata Farak Nahi Penda</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916035.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="2916">
-    <title lang="en">Daily Live @ 9:30 PM</title>
-    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916036.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625224000 +0530" channel="2916">
-    <title lang="en">Daily Live @ 10 PM</title>
-    <desc lang="en">The host collates and presents the top news stories pertaining to various political and socio-economic updates around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916037.jpg"/>
-  </programme>
-  <programme start="20240625224000 +0530" stop="20240625224500 +0530" channel="2916">
-    <title lang="en">Happy Samachar</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916038.jpg"/>
-  </programme>
-  <programme start="20240625224500 +0530" stop="20240625234500 +0530" channel="2916">
-    <title lang="en">Commercial Slot</title>
-    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916039.jpg"/>
-  </programme>
-  <programme start="20240625234500 +0530" stop="20240626000000 +0530" channel="2916">
-    <title lang="en">The Daily Post Show</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406252916040.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626004500 +0530" channel="2916">
-    <title lang="en">The Daily Post Show</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916000.jpg"/>
-  </programme>
-  <programme start="20240626004500 +0530" stop="20240626011500 +0530" channel="2916">
-    <title lang="en">Rata Farak Nahi Penda</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916001.jpg"/>
-  </programme>
-  <programme start="20240626011500 +0530" stop="20240626022700 +0530" channel="2916">
-    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
-    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916002.jpg"/>
-  </programme>
-  <programme start="20240626022700 +0530" stop="20240626025700 +0530" channel="2916">
-    <title lang="en">India Post</title>
-    <desc lang="en">The host sheds light on the latest political, social and economic news updates and key developments from across various regions of India.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916003.jpg"/>
-  </programme>
-  <programme start="20240626025700 +0530" stop="20240626032700 +0530" channel="2916">
-    <title lang="en">Seere Da Swag</title>
-    <desc lang="en">An entertainment-based programme.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916004.jpg"/>
-  </programme>
-  <programme start="20240626032700 +0530" stop="20240626040000 +0530" channel="2916">
-    <title lang="en">Newsroom Live</title>
-    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916005.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="2916">
-    <title lang="en">8:00 PM Bulletin</title>
-    <desc lang="en">The host presents the latest news updates on politics, sports, entertainment and socioeconomic issues, giving insightful analysis and commentary.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916006.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626070000 +0530" channel="2916">
-    <title lang="en">Ilahi Bhani</title>
-    <desc lang="en">A religious leader recites verses from the holy scriptures of the Sikh religion to make the devotees listen to them and pray to the Almighty.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916007.jpg"/>
-  </programme>
   <programme start="20240626070000 +0530" stop="20240626073000 +0530" channel="2916">
     <title lang="en">Good Waali Morning</title>
     <desc lang="en">Entertainment-based programme.</desc>
@@ -440,5 +194,329 @@
     <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916039.jpg"/>
+  </programme>
+  <programme start="20240626234500 +0530" stop="20240627000000 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406262916040.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627004500 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916000.jpg"/>
+  </programme>
+  <programme start="20240627004500 +0530" stop="20240627011500 +0530" channel="2916">
+    <title lang="en">Rata Farak Nahi Penda</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916001.jpg"/>
+  </programme>
+  <programme start="20240627011500 +0530" stop="20240627022700 +0530" channel="2916">
+    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916002.jpg"/>
+  </programme>
+  <programme start="20240627022700 +0530" stop="20240627025700 +0530" channel="2916">
+    <title lang="en">India Post</title>
+    <desc lang="en">The host sheds light on the latest political, social and economic news updates and key developments from across various regions of India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916003.jpg"/>
+  </programme>
+  <programme start="20240627025700 +0530" stop="20240627032700 +0530" channel="2916">
+    <title lang="en">Seere Da Swag</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916004.jpg"/>
+  </programme>
+  <programme start="20240627032700 +0530" stop="20240627040000 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916005.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="2916">
+    <title lang="en">8:00 PM Bulletin</title>
+    <desc lang="en">The host presents the latest news updates on politics, sports, entertainment and socioeconomic issues, giving insightful analysis and commentary.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916006.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627070000 +0530" channel="2916">
+    <title lang="en">Ilahi Bhani</title>
+    <desc lang="en">A religious leader recites verses from the holy scriptures of the Sikh religion to make the devotees listen to them and pray to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916007.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627073000 +0530" channel="2916">
+    <title lang="en">Good Waali Morning</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916008.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0530" stop="20240627075700 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916009.jpg"/>
+  </programme>
+  <programme start="20240627075700 +0530" stop="20240627082700 +0530" channel="2916">
+    <title lang="en">Punjabi News Bulletin</title>
+    <desc lang="en">A news bulletin that keeps the viewers updated with the latest regional and national news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916010.jpg"/>
+  </programme>
+  <programme start="20240627082700 +0530" stop="20240627090000 +0530" channel="2916">
+    <title lang="en">Rata Farak Nahi Penda</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916011.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627092700 +0530" channel="2916">
+    <title lang="en">Daily Report @9</title>
+    <desc lang="en">The host presents the top news headlines and developments surrounding various socio-economic and political issues in Punjab, India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916012.jpg"/>
+  </programme>
+  <programme start="20240627092700 +0530" stop="20240627095700 +0530" channel="2916">
+    <title lang="en">Daily Live @ 9:30 AM</title>
+    <desc lang="en">The host presents the latest news updates and developments of the day pertaining to politics, social issues, economy, sports and more, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916013.jpg"/>
+  </programme>
+  <programme start="20240627095700 +0530" stop="20240627102700 +0530" channel="2916">
+    <title lang="en">10 Baje 10</title>
+    <desc lang="en">The host presents the top 10 news updates pertaining to the political, social, economic and sports fronts from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916014.jpg"/>
+  </programme>
+  <programme start="20240627102700 +0530" stop="20240627105700 +0530" channel="2916">
+    <title lang="en">Haryana &amp; Himachal Post</title>
+    <desc lang="en">The host presents the latest political, social and economic news updates and developments from Haryana and Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916015.jpg"/>
+  </programme>
+  <programme start="20240627105700 +0530" stop="20240627112700 +0530" channel="2916">
+    <title lang="en">Daily Live @11</title>
+    <desc lang="en">The host presents the latest news and updates pertaining to the political, social, economic and sports fronts from around the state and the nation, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916016.jpg"/>
+  </programme>
+  <programme start="20240627112700 +0530" stop="20240627115700 +0530" channel="2916">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916017.jpg"/>
+  </programme>
+  <programme start="20240627115700 +0530" stop="20240627122700 +0530" channel="2916">
+    <title lang="en">Daily Live @ 12</title>
+    <desc lang="en">The host collates and presents the latest news updates and developments pertaining to politics, sports, social and economics, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916018.jpg"/>
+  </programme>
+  <programme start="20240627122700 +0530" stop="20240627125700 +0530" channel="2916">
+    <title lang="en">Haryana &amp; Himachal Post</title>
+    <desc lang="en">The host presents the latest political, social and economic news updates and developments from Haryana and Himachal Pradesh.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916019.jpg"/>
+  </programme>
+  <programme start="20240627125700 +0530" stop="20240627132700 +0530" channel="2916">
+    <title lang="en">Daily Live @1</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916020.jpg"/>
+  </programme>
+  <programme start="20240627132700 +0530" stop="20240627140000 +0530" channel="2916">
+    <title lang="en">India Post</title>
+    <desc lang="en">The host sheds light on the latest political, social and economic news updates and key developments from across various regions of India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916021.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627142700 +0530" channel="2916">
+    <title lang="en">Daily Live @ 2</title>
+    <desc lang="en">The hosts present some of the latest updates, current affairs and developments pertaining to economic, political and social issues, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916022.jpg"/>
+  </programme>
+  <programme start="20240627142700 +0530" stop="20240627145700 +0530" channel="2916">
+    <title lang="en">Seere Da Swag</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916023.jpg"/>
+  </programme>
+  <programme start="20240627145700 +0530" stop="20240627152700 +0530" channel="2916">
+    <title lang="en">Daily Live @ 3 PM</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to politics, social issues, economy, sports and more, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916024.jpg"/>
+  </programme>
+  <programme start="20240627152700 +0530" stop="20240627155700 +0530" channel="2916">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916025.jpg"/>
+  </programme>
+  <programme start="20240627155700 +0530" stop="20240627162700 +0530" channel="2916">
+    <title lang="en">Daily 20-20</title>
+    <desc lang="en">The host presents the top 20 news updates pertaining to the political, social, economic and sports fronts from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916026.jpg"/>
+  </programme>
+  <programme start="20240627162700 +0530" stop="20240627165700 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916027.jpg"/>
+  </programme>
+  <programme start="20240627165700 +0530" stop="20240627172700 +0530" channel="2916">
+    <title lang="en">Daily Live @ 5 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916028.jpg"/>
+  </programme>
+  <programme start="20240627172700 +0530" stop="20240627175700 +0530" channel="2916">
+    <title lang="en">Seere Da Swag</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916029.jpg"/>
+  </programme>
+  <programme start="20240627175700 +0530" stop="20240627183000 +0530" channel="2916">
+    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916030.jpg"/>
+  </programme>
+  <programme start="20240627183000 +0530" stop="20240627190000 +0530" channel="2916">
+    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916031.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916032.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627203000 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916033.jpg"/>
+  </programme>
+  <programme start="20240627203000 +0530" stop="20240627210000 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916034.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="2916">
+    <title lang="en">Rata Farak Nahi Penda</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916035.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="2916">
+    <title lang="en">Daily Live @ 9:30 PM</title>
+    <desc lang="en">The host sheds light on the latest news stories, updates and developments pertaining to social issues, politics, sports and finance from around the country, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916036.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627224000 +0530" channel="2916">
+    <title lang="en">Daily Live @ 10 PM</title>
+    <desc lang="en">The host collates and presents the top news stories pertaining to various political and socio-economic updates around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916037.jpg"/>
+  </programme>
+  <programme start="20240627224000 +0530" stop="20240627224500 +0530" channel="2916">
+    <title lang="en">Happy Samachar</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant developments from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916038.jpg"/>
+  </programme>
+  <programme start="20240627224500 +0530" stop="20240627234500 +0530" channel="2916">
+    <title lang="en">Commercial Slot</title>
+    <desc lang="en">A wide range of products manufactured by popular brands can be bought at attractive prices from the comfort of one's home.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916039.jpg"/>
+  </programme>
+  <programme start="20240627234500 +0530" stop="20240628000000 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406272916040.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628004500 +0530" channel="2916">
+    <title lang="en">The Daily Post Show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916000.jpg"/>
+  </programme>
+  <programme start="20240628004500 +0530" stop="20240628011500 +0530" channel="2916">
+    <title lang="en">Rata Farak Nahi Penda</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916001.jpg"/>
+  </programme>
+  <programme start="20240628011500 +0530" stop="20240628022700 +0530" channel="2916">
+    <title lang="en">Tuhada Mudda Saadi Zimmedari</title>
+    <desc lang="en">The host presents an in-depth analysis of the recent happenings and several problems related to human interest from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916002.jpg"/>
+  </programme>
+  <programme start="20240628022700 +0530" stop="20240628025700 +0530" channel="2916">
+    <title lang="en">India Post</title>
+    <desc lang="en">The host sheds light on the latest political, social and economic news updates and key developments from across various regions of India.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916003.jpg"/>
+  </programme>
+  <programme start="20240628025700 +0530" stop="20240628032700 +0530" channel="2916">
+    <title lang="en">Seere Da Swag</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916004.jpg"/>
+  </programme>
+  <programme start="20240628032700 +0530" stop="20240628040000 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916005.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="2916">
+    <title lang="en">8:00 PM Bulletin</title>
+    <desc lang="en">The host presents the latest news updates on politics, sports, entertainment and socioeconomic issues, giving insightful analysis and commentary.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916006.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628070000 +0530" channel="2916">
+    <title lang="en">Ilahi Bhani</title>
+    <desc lang="en">A religious leader recites verses from the holy scriptures of the Sikh religion to make the devotees listen to them and pray to the Almighty.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916007.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628073000 +0530" channel="2916">
+    <title lang="en">Good Waali Morning</title>
+    <desc lang="en">Entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916008.jpg"/>
+  </programme>
+  <programme start="20240628073000 +0530" stop="20240628075700 +0530" channel="2916">
+    <title lang="en">Newsroom Live</title>
+    <desc lang="en">In a live telecast, a reporter presents the most recent news, updates, developments and current affairs from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916009.jpg"/>
+  </programme>
+  <programme start="20240628075700 +0530" stop="20240628082700 +0530" channel="2916">
+    <title lang="en">Punjabi News Bulletin</title>
+    <desc lang="en">A news bulletin that keeps the viewers updated with the latest regional and national news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916010.jpg"/>
+  </programme>
+  <programme start="20240628082700 +0530" stop="20240628090000 +0530" channel="2916">
+    <title lang="en">Rata Farak Nahi Penda</title>
+    <desc lang="en">An entertainment-based programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406282916011.jpg"/>
   </programme>
 </tv>

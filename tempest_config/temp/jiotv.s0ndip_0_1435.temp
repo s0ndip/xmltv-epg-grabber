@@ -3,131 +3,6 @@
   <channel id="1435">
     <display-name lang="en">Utkarsh HSBTE</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625080000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435003.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625093000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435004.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0530" stop="20240625093300 +0530" channel="1435">
-    <title lang="en">Schedule Video</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435005.jpg"/>
-  </programme>
-  <programme start="20240625093300 +0530" stop="20240625100300 +0530" channel="1435">
-    <title lang="en">Anganwadi Video</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435006.jpg"/>
-  </programme>
-  <programme start="20240625100300 +0530" stop="20240625102700 +0530" channel="1435">
-    <title lang="en">Airplay WCD</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435007.jpg"/>
-  </programme>
-  <programme start="20240625102700 +0530" stop="20240625113800 +0530" channel="1435">
-    <title lang="en">Mechenical Engg</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435008.jpg"/>
-  </programme>
-  <programme start="20240625113800 +0530" stop="20240625124400 +0530" channel="1435">
-    <title lang="en">Instrumentation and Control</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435009.jpg"/>
-  </programme>
-  <programme start="20240625124400 +0530" stop="20240625134500 +0530" channel="1435">
-    <title lang="en">Plastic Engineering</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435010.jpg"/>
-  </programme>
-  <programme start="20240625134500 +0530" stop="20240625143700 +0530" channel="1435">
-    <title lang="en">Airplay HVGHCS</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435011.jpg"/>
-  </programme>
-  <programme start="20240625143700 +0530" stop="20240625152700 +0530" channel="1435">
-    <title lang="en">Chemistry</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435012.jpg"/>
-  </programme>
-  <programme start="20240625152700 +0530" stop="20240625163200 +0530" channel="1435">
-    <title lang="en">Physics</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435013.jpg"/>
-  </programme>
-  <programme start="20240625163200 +0530" stop="20240625174000 +0530" channel="1435">
-    <title lang="en">Maths</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435014.jpg"/>
-  </programme>
-  <programme start="20240625174000 +0530" stop="20240625181100 +0530" channel="1435">
-    <title lang="en">Airplay NHM</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435015.jpg"/>
-  </programme>
-  <programme start="20240625181100 +0530" stop="20240625181400 +0530" channel="1435">
-    <title lang="en">Schedule Video</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435016.jpg"/>
-  </programme>
-  <programme start="20240625181400 +0530" stop="20240625184400 +0530" channel="1435">
-    <title lang="en">Anganwadi Video</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435017.jpg"/>
-  </programme>
-  <programme start="20240625184400 +0530" stop="20240625190800 +0530" channel="1435">
-    <title lang="en">Airplay WCD</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435018.jpg"/>
-  </programme>
-  <programme start="20240625190800 +0530" stop="20240625201900 +0530" channel="1435">
-    <title lang="en">Mechenical Engg</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435019.jpg"/>
-  </programme>
-  <programme start="20240625201900 +0530" stop="20240625212500 +0530" channel="1435">
-    <title lang="en">Instrumentation and Control</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435020.jpg"/>
-  </programme>
-  <programme start="20240625212500 +0530" stop="20240625222600 +0530" channel="1435">
-    <title lang="en">Plastic Engineering</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435021.jpg"/>
-  </programme>
-  <programme start="20240625222600 +0530" stop="20240625231800 +0530" channel="1435">
-    <title lang="en">Airplay HVGHCS</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435022.jpg"/>
-  </programme>
-  <programme start="20240625231800 +0530" stop="20240625233000 +0530" channel="1435">
-    <title lang="en">Schedule Video</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435023.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251435024.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626020000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261435000.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626040000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261435001.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626060000 +0530" channel="1435">
-    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
-    <category lang="en">Educational</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261435002.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626080000 +0530" channel="1435">
     <title lang="en">Stay Tuned we will be back at 09:30 am</title>
     <category lang="en">Educational</category>
@@ -232,5 +107,160 @@
     <title lang="en">Schedule Video</title>
     <category lang="en">Educational</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261435023.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261435024.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627020000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435000.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627040000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435001.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627060000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435002.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627080000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435003.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627093000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435004.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0530" stop="20240627093300 +0530" channel="1435">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435005.jpg"/>
+  </programme>
+  <programme start="20240627093300 +0530" stop="20240627100300 +0530" channel="1435">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435006.jpg"/>
+  </programme>
+  <programme start="20240627100300 +0530" stop="20240627102700 +0530" channel="1435">
+    <title lang="en">Airplay WCD</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435007.jpg"/>
+  </programme>
+  <programme start="20240627102700 +0530" stop="20240627113800 +0530" channel="1435">
+    <title lang="en">Automobile Engineering</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435008.jpg"/>
+  </programme>
+  <programme start="20240627113800 +0530" stop="20240627124400 +0530" channel="1435">
+    <title lang="en">Mechenical Engg</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435009.jpg"/>
+  </programme>
+  <programme start="20240627124400 +0530" stop="20240627134500 +0530" channel="1435">
+    <title lang="en">Instrumentation and Control</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435010.jpg"/>
+  </programme>
+  <programme start="20240627134500 +0530" stop="20240627143700 +0530" channel="1435">
+    <title lang="en">Airplay HVGHCS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435011.jpg"/>
+  </programme>
+  <programme start="20240627143700 +0530" stop="20240627152700 +0530" channel="1435">
+    <title lang="en">Chemistry</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435012.jpg"/>
+  </programme>
+  <programme start="20240627152700 +0530" stop="20240627163200 +0530" channel="1435">
+    <title lang="en">Physics</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435013.jpg"/>
+  </programme>
+  <programme start="20240627163200 +0530" stop="20240627174000 +0530" channel="1435">
+    <title lang="en">Maths</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435014.jpg"/>
+  </programme>
+  <programme start="20240627174000 +0530" stop="20240627181100 +0530" channel="1435">
+    <title lang="en">Airplay NHM</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435015.jpg"/>
+  </programme>
+  <programme start="20240627181100 +0530" stop="20240627181400 +0530" channel="1435">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435016.jpg"/>
+  </programme>
+  <programme start="20240627181400 +0530" stop="20240627184400 +0530" channel="1435">
+    <title lang="en">Anganwadi Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435017.jpg"/>
+  </programme>
+  <programme start="20240627184400 +0530" stop="20240627190800 +0530" channel="1435">
+    <title lang="en">Airplay WCD</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435018.jpg"/>
+  </programme>
+  <programme start="20240627190800 +0530" stop="20240627201900 +0530" channel="1435">
+    <title lang="en">Automobile Engineering</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435019.jpg"/>
+  </programme>
+  <programme start="20240627201900 +0530" stop="20240627212500 +0530" channel="1435">
+    <title lang="en">Mechenical Engg</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435020.jpg"/>
+  </programme>
+  <programme start="20240627212500 +0530" stop="20240627222600 +0530" channel="1435">
+    <title lang="en">Instrumentation and Control</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435021.jpg"/>
+  </programme>
+  <programme start="20240627222600 +0530" stop="20240627231800 +0530" channel="1435">
+    <title lang="en">Airplay HVGHCS</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435022.jpg"/>
+  </programme>
+  <programme start="20240627231800 +0530" stop="20240627233000 +0530" channel="1435">
+    <title lang="en">Schedule Video</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435023.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271435024.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628020000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281435000.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628040000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281435001.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628060000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281435002.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628080000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281435003.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628093000 +0530" channel="1435">
+    <title lang="en">Stay Tuned we will be back at 09:30 am</title>
+    <category lang="en">Educational</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281435004.jpg"/>
   </programme>
 </tv>

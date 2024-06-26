@@ -3,138 +3,6 @@
   <channel id="ts731">
     <display-name lang="en">Manoranjan TV</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts731">
-    <title lang="en">Comedy Movies</title>
-    <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624220000 +0000" channel="ts731">
-    <title lang="en">Bomb Blast</title>
-    <desc lang="en">Anand, a Tamil heartbroken by the death of his Punjabi lover, tries to start life afresh.</desc>
-    <credits>
-      <actor>Murali</actor>
-      <actor>Simran</actor>
-      <actor>Chinni Jayanth</actor>
-      <actor>Kovai Sarala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/873D88A40C66A996688A68FC968A0C5C1798EEBCR.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240625003000 +0000" channel="ts731">
-    <title lang="en">Bhakti Bhajan</title>
-    <desc lang="en">A comprehensive compilation of devotional songs by various artists.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/530CEE8C8941F5AACB1B8AE1E126EAE9E32A0BA4Q.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts731">
-    <title lang="en">Comedy Movies</title>
-    <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts731">
-    <title lang="en">Super Movies</title>
-    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts731">
-    <title lang="en">Comedy Movies</title>
-    <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts731">
-    <title lang="en">Ulta Pulta</title>
-    <desc lang="en">Ulta Pulta</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6232170FF858FFFAF9DA53BA2CD134FE58B7A7B9.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts731">
-    <title lang="en">Comedy Waah</title>
-    <desc lang="en">Comedy Waah</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC33EC63E1A130ADAD66B426F726323988A290517.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts731">
-    <title lang="en">Ulta Pulta</title>
-    <desc lang="en">Ulta Pulta</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6232170FF858FFFAF9DA53BA2CD134FE58B7A7B9.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts731">
-    <title lang="en">Chhoti Didi</title>
-    <desc lang="en">Chhoti Didi goes through hilarious situations while exposing people who cheat others.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D72E9A8E698997AF31F8DC255038BA06A28F81EBK.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts731">
-    <title lang="en">Comedy Waah</title>
-    <desc lang="en">Comedy Waah</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC33EC63E1A130ADAD66B426F726323988A290517.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts731">
     <title lang="en">Comedy Movies</title>
     <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
@@ -162,42 +30,156 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
   </programme>
   <programme start="20240625220000 +0000" stop="20240626003000 +0000" channel="ts731">
+    <title lang="en">Bhakti Bhajan</title>
+    <desc lang="en">A comprehensive compilation of devotional songs by various artists.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/530CEE8C8941F5AACB1B8AE1E126EAE9E32A0BA4Q.jpg"/>
+  </programme>
+  <programme start="20240626003000 +0000" stop="20240626013000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626013000 +0000" stop="20240626023000 +0000" channel="ts731">
+    <title lang="en">Comedy Movies</title>
+    <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626043000 +0000" stop="20240626053000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626063000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626063000 +0000" stop="20240626073000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626073000 +0000" stop="20240626083000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626113000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626113000 +0000" stop="20240626123000 +0000" channel="ts731">
+    <title lang="en">Super Movies</title>
+    <desc lang="en">A comprehensive compilation of popular movies featuring talented actors and actresses.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/319EBE20F7393BD00DCB9A32CE246BEA98DE9C797.jpg"/>
+  </programme>
+  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="ts731">
+    <title lang="en">Comedy Movies</title>
+    <desc lang="en">A comprehensive compilation of various comedy movies to entertain the viewers.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6E345B7FCA5D8A3582E787D141AE46855EB7F1.jpg"/>
+  </programme>
+  <programme start="20240626133000 +0000" stop="20240626143000 +0000" channel="ts731">
+    <title lang="en">Ulta Pulta</title>
+    <desc lang="en">Ulta Pulta</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6232170FF858FFFAF9DA53BA2CD134FE58B7A7B9.jpg"/>
+  </programme>
+  <programme start="20240626143000 +0000" stop="20240626153000 +0000" channel="ts731">
+    <title lang="en">Comedy Waah</title>
+    <desc lang="en">Comedy Waah</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC33EC63E1A130ADAD66B426F726323988A290517.jpg"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="ts731">
+    <title lang="en">Ulta Pulta</title>
+    <desc lang="en">Ulta Pulta</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6232170FF858FFFAF9DA53BA2CD134FE58B7A7B9.jpg"/>
+  </programme>
+  <programme start="20240626163000 +0000" stop="20240626173000 +0000" channel="ts731">
+    <title lang="en">Chhoti Didi</title>
+    <desc lang="en">Chhoti Didi goes through hilarious situations while exposing people who cheat others.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D72E9A8E698997AF31F8DC255038BA06A28F81EBK.jpg"/>
+  </programme>
+  <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts731">
+    <title lang="en">Comedy Waah</title>
+    <desc lang="en">Comedy Waah</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC33EC63E1A130ADAD66B426F726323988A290517.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627003000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626003000 +0000" stop="20240626033000 +0000" channel="ts731">
+  <programme start="20240627003000 +0000" stop="20240627033000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626033000 +0000" stop="20240626063000 +0000" channel="ts731">
+  <programme start="20240627033000 +0000" stop="20240627063000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626063000 +0000" stop="20240626093000 +0000" channel="ts731">
+  <programme start="20240627063000 +0000" stop="20240627093000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626093000 +0000" stop="20240626123000 +0000" channel="ts731">
+  <programme start="20240627093000 +0000" stop="20240627123000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626123000 +0000" stop="20240626153000 +0000" channel="ts731">
+  <programme start="20240627123000 +0000" stop="20240627153000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240626153000 +0000" stop="20240626213000 +0000" channel="ts731">
+  <programme start="20240627153000 +0000" stop="20240627213000 +0000" channel="ts731">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

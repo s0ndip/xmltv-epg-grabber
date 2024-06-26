@@ -3,137 +3,6 @@
   <channel id="ts906">
     <display-name lang="en">Vijay Takkar</display-name>
   </channel>
-  <programme start="20240624190000 +0000" stop="20240624213000 +0000" channel="ts906">
-    <title lang="en">Movie - Ivan Veramathiri</title>
-    <desc lang="en">Guna kidnaps Eeswaran, brother of a minister for orchestrating violence among students. After being released, Eeswaran trails after Guna to exact his revenge.</desc>
-    <credits>
-      <actor>Vikram Prabhu</actor>
-      <actor>Surbhi</actor>
-      <actor>Ganesh Venkatraman</actor>
-      <actor>Vamsi Krishna</actor>
-      <actor>Hari Raj</actor>
-      <actor>Charmila</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76A875A65CADCB165BABEC1522DFC26AC4A91822E.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624233000 +0000" channel="ts906">
-    <title lang="en">Movie - Momentum</title>
-    <desc lang="en">Alex, a former military agent turned thief, is talked into stealing some diamonds. She also ends up taking a mysterious flash drive and becomes a target for a group of secret agents.</desc>
-    <credits>
-      <actor>Olga Kurylenko</actor>
-      <actor>James Purefoy</actor>
-      <actor>Morgan Freeman</actor>
-      <actor>Colin Moss</actor>
-      <actor>Lee Anne Summers</actor>
-      <actor>Hlomla Dandala</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/572ECAB679A9C4796C89756F6668945553CAAFDFC.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts906">
-    <title lang="en">Super Hit Songs</title>
-    <desc lang="en">E16- A compilation of catchy and entertaining popular songs composed by notable artists and musicians from various Tamil movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBD6A7176D390CE4EF92F920B1B5087D14322676L.jpg"/>
-    <episode-num system="xmltv_ns">.15.</episode-num>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625023000 +0000" channel="ts906">
-    <title lang="en">Movie - The Quest</title>
-    <desc lang="en">A man embarks on a journey of self-discovery. He is kidnapped, enslaved, sold and finally ends up to become a kick boxer. Now, he faces a lethal match where the winner takes all.</desc>
-    <credits>
-      <actor>Jack McGee</actor>
-      <actor>Jean Claude Van Damme</actor>
-      <actor>James Remar</actor>
-      <actor>Janet Gunn</actor>
-      <actor>Roger Moore</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36798B56DD55878251A844CFD0DE0D55D3334330T.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625053000 +0000" channel="ts906">
-    <title lang="en">Movie - Ponmagal Vandhal</title>
-    <desc lang="en">Venba, a brave lawyer, takes on a case in an attempt to fight against a society hiding behind the shadows of male chauvinism.</desc>
-    <credits>
-      <actor>Jyothika</actor>
-      <actor>R Parthiban</actor>
-      <actor>K Bhagyaraj</actor>
-      <actor>Thiagarajan</actor>
-      <actor>Pratap K Pothen</actor>
-      <actor>R Pandiarajan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D74438F584DA50A1D9CAE61549986983BF3791382.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625083000 +0000" channel="ts906">
-    <title lang="en">Movie - Naan Aanaiyittaal</title>
-    <desc lang="en">Jogendra decides to become a politician after Radha, his wife, is insulted by the sarpanch's wife. However, over time, his blind ambition gets him entangled in a web of dirty politics and bloodshed.</desc>
-    <credits>
-      <actor>Rana Daggubati</actor>
-      <actor>Kajal Aggarwal</actor>
-      <actor>Catherine Tresa</actor>
-      <actor>Navdeep</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Pradeep Rawat</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04B03B0D683E2C7A15C7654B09867816641B03E9J.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625110000 +0000" channel="ts906">
-    <title lang="en">Movie - Kadaram Kondan</title>
-    <desc lang="en">Vasu, a doctor, rescues KK, a criminal, from getting murdered in the hospital. However, when Vasu's wife gets kidnapped, he is asked to get KK out in exchange for his wife's safe return.</desc>
-    <credits>
-      <actor>Vikram</actor>
-      <actor>Akshara Haasan</actor>
-      <actor>Abi Hassan</actor>
-      <actor>Lena</actor>
-      <actor>Vikas</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFCA19E2F6E03834F30727F8CEB2A501AE899996L.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625133000 +0000" channel="ts906">
-    <title lang="en">Movie - Nagaram Marupakkam</title>
-    <desc lang="en">Selvam, a criminal, goes to Hyderabad to start a new life and falls in love with a dancer. When they decide to get married, his past starts to haunt him.</desc>
-    <credits>
-      <actor>Sundar C</actor>
-      <actor>Anuya Bhagvath</actor>
-      <actor>Vadivelu</actor>
-      <actor>Bose Venkat</actor>
-      <actor>George Vishnu</actor>
-      <actor>Sulile Kumar</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B0F7FEBFA7F360AF3C6CF9D7C44370B49B32065S.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625160000 +0000" channel="ts906">
-    <title lang="en">Movie - Onaayum Aattukuttiyum</title>
-    <desc lang="en">When Chandru helps a dying fugitive unwittingly, the police arrest his whole family. They blackmail him into helping them catch him, which triggers a dangerous game between Chandru and the criminal.</desc>
-    <credits>
-      <actor>Sri</actor>
-      <actor>Mysskin</actor>
-      <actor>Shaji Chen</actor>
-      <actor>Adhitya Menon</actor>
-      <actor>Raj Bharath</actor>
-      <actor>Neelima Rani</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C5545739A74C21F4430E7E828C22F8007CD38Z.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625183000 +0000" channel="ts906">
-    <title lang="en">Movie - Raid</title>
-    <desc lang="en">Amay Patnaik, a senior income tax officer, begins an investigation after receiving an anonymous tip on an influential man in Lucknow for money laundering.</desc>
-    <credits>
-      <actor>Ajay Devgn</actor>
-      <actor>Ileana D Cruz</actor>
-      <actor>Saurabh Shukla</actor>
-      <actor>Amit Sial</actor>
-      <actor>Devas Dixit</actor>
-      <actor>Gayathri Iyer</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E28E8B2B88CC0D686CC3389BEF2EBE62A33CD907A.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625210000 +0000" channel="ts906">
     <title lang="en">Movie - Maanagaram</title>
     <desc lang="en">Upon moving to Chennai, four lives get intertwined as they strive to achieve success in the city. However, when a vicious gangster threatens them, the group must work together to defeat him.</desc>
@@ -262,5 +131,132 @@
     </credits>
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/294D242452EAE66DDF883AEA6D81272A67067CBF4.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626213000 +0000" channel="ts906">
+    <title lang="en">Movie - Mynaa</title>
+    <desc lang="en">To avoid getting into an unwanted marriage, Mynaa escapes with her childhood love, Suruli, and plans to marry him. Along the way, they face many problems and fate has something drastic in store.</desc>
+    <credits>
+      <actor>Vidharth</actor>
+      <actor>Amala Paul</actor>
+      <actor>Sethu</actor>
+      <actor>Thambi Ramaiah</actor>
+      <actor>Suzane George</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/013DB880DF63291814B5F35E6E488D1E5E4B2C0ES.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240627000000 +0000" channel="ts906">
+    <title lang="en">Movie - Check</title>
+    <desc lang="en">Aditya, a conman, is falsely accused of being a terrorist by his lover and sentenced to death. However, in prison, he learns chess and becomes a champion while fighting his wrongful conviction.</desc>
+    <credits>
+      <actor>Nithiin</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Priya Prakash Varrier</actor>
+      <actor>Simran Choudary</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Sai Chand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3AFE9B807A170C67EE52C4FA072BF06FD03E1C34U.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts906">
+    <title lang="en">Super Hit Songs</title>
+    <desc lang="en">E18- A compilation of catchy and entertaining popular songs composed by notable artists and musicians from various Tamil movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBD6A7176D390CE4EF92F920B1B5087D14322676L.jpg"/>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627023000 +0000" channel="ts906">
+    <title lang="en">Movie - Binding Souls</title>
+    <desc lang="en">A group of university students find themselves in a dark situation when they do research in the Moral Education College.</desc>
+    <credits>
+      <actor>Carlos Chan</actor>
+      <actor>Esther Huang</actor>
+      <actor>Kara Wai</actor>
+      <actor>Yu Ning Chu</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DCE72F7265E9306754D9052DB5FA4C76D5BC6B575.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627053000 +0000" channel="ts906">
+    <title lang="en">Movie - Vai Raja Vai</title>
+    <desc lang="en">Karthik, an engineer, possesses precognition abilities and uses them to his advantage. But when he decides to use his abilities to earn money by gambling, he lands in trouble.</desc>
+    <credits>
+      <actor>Gautham Karthik</actor>
+      <actor>Priya Anand</actor>
+      <actor>Taapsee Pannu</actor>
+      <actor>Vivek</actor>
+      <actor>Daniel Balaji</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A9FB71265D95CA5295DA400FE069CAD131B599BBW.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627083000 +0000" channel="ts906">
+    <title lang="en">Movie - Disco</title>
+    <desc lang="en">The corpse of a man is found in the mountains of Ladakh and is revived with the help of the latest technology. As he wakes up, he loses his memory of the past and is on a quest to find his true self.</desc>
+    <credits>
+      <actor>Ravi Teja</actor>
+      <actor>Payal Rajput</actor>
+      <actor>Nabha Natesh</actor>
+      <actor>Tanya Hope</actor>
+      <actor>Bobby Simha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50DCFC774CD1AAFE77E3BBEA3E2A7746FF08566BN.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627110000 +0000" channel="ts906">
+    <title lang="en">Movie - Boomika</title>
+    <desc lang="en">A group of people make a trip to a secluded property to survey the area before renovating it. However, they get scared when a spirit communicates with them and tries to tell them something sinister.</desc>
+    <credits>
+      <actor>Aishwarya Rajesh</actor>
+      <actor>Avantika Vandanapu</actor>
+      <actor>Vidhu</actor>
+      <actor>Pavel Navageethan</actor>
+      <actor>Surya Ganapathy</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EA719F17494B36E5CB4EF490202356FBC8EFF55H.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627133000 +0000" channel="ts906">
+    <title lang="en">Movie - Pakka Commercial</title>
+    <desc lang="en">Suryanarayana, a judge, steps down as he fails to provide justice to a sexually-harassed girl. His son, Lucky, too becomes a lawyer but works with criminals for quick gains.</desc>
+    <credits>
+      <actor>Gopichand</actor>
+      <actor>Raashii Khanna</actor>
+      <actor>Sathyaraj</actor>
+      <actor>Subhalekha Sudhakar</actor>
+      <actor>Praveen</actor>
+      <actor>Rao Ramesh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5DD95AF655B038CEB43C1FD0BE20CE08CE01F169Z.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627160000 +0000" channel="ts906">
+    <title lang="en">Movie - Thegidi</title>
+    <desc lang="en">Vetri, a criminology student, joins a private detective agency and is tasked with gathering information on three people. However, his subjects mysteriously begin to die one by one.</desc>
+    <credits>
+      <actor>Ashok Selvan</actor>
+      <actor>Janani Iyer</actor>
+      <actor>Jayaprakash</actor>
+      <actor>Kaali Venkat</actor>
+      <actor>Jayakumar</actor>
+      <actor>Pradeep K Vijayan</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6477E4F7B7A653A68DAF6DAC39C55C8D33154B45R.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627190000 +0000" channel="ts906">
+    <title lang="en">Movie - Ithu Enga Area</title>
+    <desc lang="en">Karthika falls in love with Hari in college. However, things get tense as he gets aligned with the enemy clan of her father.</desc>
+    <credits>
+      <actor>Naga Shourya</actor>
+      <actor>Rashmika Mandanna</actor>
+      <actor>Achyuth Kumar</actor>
+      <actor>Mime Gopi</actor>
+      <actor>V K Naresh</actor>
+      <actor>Pragathi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/866684C2C76698335703BD300E2E4A28179BB1CB2.jpg"/>
   </programme>
 </tv>

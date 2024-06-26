@@ -3,204 +3,6 @@
   <channel id="965">
     <display-name lang="en">News 18 Kerala</display-name>
   </channel>
-  <programme start="20240625063000 +0530" stop="20240625070000 +0530" channel="965">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965009.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625083000 +0530" channel="965">
-    <title lang="en">Morning Vibes</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965010.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0530" stop="20240625090000 +0530" channel="965">
-    <title lang="en">Police Patrol</title>
-    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965011.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="965">
-    <title lang="en">Vartharambham</title>
-    <desc lang="en">The host offers insights into the latest events transpiring within the national borders and issues concerning a variety of agendas from around the globe.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965012.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625120000 +0530" channel="965">
-    <title lang="en">News Trends</title>
-    <desc lang="en">The host collates and presents the latest trending news updates and developments that matter to the citizens of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965013.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0530" stop="20240625123000 +0530" channel="965">
-    <title lang="en">Sakalamana Keralam</title>
-    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965014.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625130000 +0530" channel="965">
-    <title lang="en">Home Talks</title>
-    <desc lang="en">The presenter discusses ongoing national issues of communal, political and economical natures to share relevant updates on their progress and impacts.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965015.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0530" stop="20240625140000 +0530" channel="965">
-    <title lang="en">Pakal Vartha</title>
-    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965016.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0530" stop="20240625150000 +0530" channel="965">
-    <title lang="en">Spot Live</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965017.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0530" stop="20240625153000 +0530" channel="965">
-    <title lang="en">Ladies Band</title>
-    <desc lang="en">The host invites various prominent personalities from the entertainment industry and gets them to open up about their journeys and highlight the experiences that shaped their career.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965018.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0530" stop="20240625160000 +0530" channel="965">
-    <title lang="en">Njanundivide Chodikkan</title>
-    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965019.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0530" stop="20240625163000 +0530" channel="965">
-    <title lang="en">Sakalamana Keralam</title>
-    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965020.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0530" stop="20240625170000 +0530" channel="965">
-    <title lang="en">Pothu Vedi</title>
-    <desc lang="en">The host presents the most recent news updates and developments from Kerala and interacts with the common people for their opinions.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965021.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625173000 +0530" channel="965">
-    <title lang="en">Kaduppam Kurachu</title>
-    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965022.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0530" stop="20240625180000 +0530" channel="965">
-    <title lang="en">Njanundivide Chodikkan</title>
-    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965023.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="965">
-    <title lang="en">6 Pm Live</title>
-    <desc lang="en">The host collates and presents the latest social, political and economic news updates and developments from across the country and the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965024.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="965">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965025.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="965">
-    <title lang="en">News Update</title>
-    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965026.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625213000 +0530" channel="965">
-    <title lang="en">Live @ 9</title>
-    <desc lang="en">This is News - News Bulletin Category</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965027.jpg"/>
-  </programme>
-  <programme start="20240625213000 +0530" stop="20240625220000 +0530" channel="965">
-    <title lang="en">Kaduppam Kurachu</title>
-    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965028.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625223000 +0530" channel="965">
-    <title lang="en">Police Patrol</title>
-    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965029.jpg"/>
-  </programme>
-  <programme start="20240625223000 +0530" stop="20240625230000 +0530" channel="965">
-    <title lang="en">Sakalamana Keralam</title>
-    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965030.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240625233000 +0530" channel="965">
-    <title lang="en">News Bulletin</title>
-    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965031.jpg"/>
-  </programme>
-  <programme start="20240625233000 +0530" stop="20240626000000 +0530" channel="965">
-    <title lang="en">Njanundivide Chodikkan</title>
-    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625965032.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="965">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626013000 +0530" channel="965">
-    <title lang="en">Police Patrol</title>
-    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965001.jpg"/>
-  </programme>
-  <programme start="20240626013000 +0530" stop="20240626020000 +0530" channel="965">
-    <title lang="en">Sakalamana Keralam</title>
-    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965002.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626023000 +0530" channel="965">
-    <title lang="en">Njanundivide Chodikkan</title>
-    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965003.jpg"/>
-  </programme>
-  <programme start="20240626023000 +0530" stop="20240626030000 +0530" channel="965">
-    <title lang="en">Sakalamana Keralam</title>
-    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965004.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626033000 +0530" channel="965">
-    <title lang="en">Pravasi Sabdam</title>
-    <desc lang="en">The host interacts with prominent personalities to seek insights into significant socio-political matters impacting people around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965005.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626043000 +0530" channel="965">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965006.jpg"/>
-  </programme>
-  <programme start="20240626043000 +0530" stop="20240626050000 +0530" channel="965">
-    <title lang="en">Kaduppam Kurachu</title>
-    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965007.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626063000 +0530" channel="965">
-    <title lang="en">Prime Debate</title>
-    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965008.jpg"/>
-  </programme>
   <programme start="20240626063000 +0530" stop="20240626070000 +0530" channel="965">
     <title lang="en">Prime Debate</title>
     <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
@@ -338,5 +140,281 @@
     <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
     <category lang="en">News</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965031.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0530" stop="20240627000000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626965032.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627013000 +0530" channel="965">
+    <title lang="en">Police Patrol</title>
+    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965001.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0530" stop="20240627020000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965002.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627023000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965003.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0530" stop="20240627030000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965004.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627033000 +0530" channel="965">
+    <title lang="en">Pravasi Sabdam</title>
+    <desc lang="en">The host interacts with prominent personalities to seek insights into significant socio-political matters impacting people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965005.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627043000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965006.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0530" stop="20240627050000 +0530" channel="965">
+    <title lang="en">Kaduppam Kurachu</title>
+    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965007.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627063000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965008.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627070000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965009.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627083000 +0530" channel="965">
+    <title lang="en">Morning Vibes</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965010.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0530" stop="20240627090000 +0530" channel="965">
+    <title lang="en">Police Patrol</title>
+    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965011.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="965">
+    <title lang="en">Vartharambham</title>
+    <desc lang="en">The host offers insights into the latest events transpiring within the national borders and issues concerning a variety of agendas from around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965012.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627120000 +0530" channel="965">
+    <title lang="en">News Trends</title>
+    <desc lang="en">The host collates and presents the latest trending news updates and developments that matter to the citizens of the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965013.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627123000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965014.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0530" stop="20240627130000 +0530" channel="965">
+    <title lang="en">Weekly Program</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965015.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0530" stop="20240627140000 +0530" channel="965">
+    <title lang="en">Pakal Vartha</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fields impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965016.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0530" stop="20240627150000 +0530" channel="965">
+    <title lang="en">Spot Live</title>
+    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965017.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627153000 +0530" channel="965">
+    <title lang="en">Ladies Band</title>
+    <desc lang="en">The host invites various prominent personalities from the entertainment industry and gets them to open up about their journeys and highlight the experiences that shaped their career.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965018.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0530" stop="20240627160000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965019.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0530" stop="20240627163000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965020.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0530" stop="20240627170000 +0530" channel="965">
+    <title lang="en">Pothu Vedi</title>
+    <desc lang="en">The host presents the most recent news updates and developments from Kerala and interacts with the common people for their opinions.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965021.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627173000 +0530" channel="965">
+    <title lang="en">Kaduppam Kurachu</title>
+    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965022.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0530" stop="20240627180000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965023.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="965">
+    <title lang="en">6 Pm Live</title>
+    <desc lang="en">The host collates and presents the latest social, political and economic news updates and developments from across the country and the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965024.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965025.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="965">
+    <title lang="en">News Update</title>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965026.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627213000 +0530" channel="965">
+    <title lang="en">Live @ 9</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965027.jpg"/>
+  </programme>
+  <programme start="20240627213000 +0530" stop="20240627220000 +0530" channel="965">
+    <title lang="en">Kaduppam Kurachu</title>
+    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965028.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627223000 +0530" channel="965">
+    <title lang="en">Police Patrol</title>
+    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965029.jpg"/>
+  </programme>
+  <programme start="20240627223000 +0530" stop="20240627230000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965030.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240627233000 +0530" channel="965">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965031.jpg"/>
+  </programme>
+  <programme start="20240627233000 +0530" stop="20240628000000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627965032.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628013000 +0530" channel="965">
+    <title lang="en">Police Patrol</title>
+    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965001.jpg"/>
+  </programme>
+  <programme start="20240628013000 +0530" stop="20240628020000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965002.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628023000 +0530" channel="965">
+    <title lang="en">Njanundivide Chodikkan</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is featured in the most recent news stories and current events on a national scale.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965003.jpg"/>
+  </programme>
+  <programme start="20240628023000 +0530" stop="20240628030000 +0530" channel="965">
+    <title lang="en">Sakalamana Keralam</title>
+    <desc lang="en">The host provides a detailed report featuring the latest news updates and key developments on matters concerning the state of Kerala.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965004.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628033000 +0530" channel="965">
+    <title lang="en">Pravasi Sabdam</title>
+    <desc lang="en">The host interacts with prominent personalities to seek insights into significant socio-political matters impacting people around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965005.jpg"/>
+  </programme>
+  <programme start="20240628033000 +0530" stop="20240628043000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965006.jpg"/>
+  </programme>
+  <programme start="20240628043000 +0530" stop="20240628050000 +0530" channel="965">
+    <title lang="en">Kaduppam Kurachu</title>
+    <desc lang="en">The host speaks to popular content creators to learn about their opinions about the Madras High Court's remarks on regulating YouTube channels.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965007.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628063000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965008.jpg"/>
+  </programme>
+  <programme start="20240628063000 +0530" stop="20240628070000 +0530" channel="965">
+    <title lang="en">Prime Debate</title>
+    <desc lang="en">The host invites a panel of experts from different fields to share their views and opinions on important topics related to current issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965009.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628083000 +0530" channel="965">
+    <title lang="en">Morning Vibes</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965010.jpg"/>
+  </programme>
+  <programme start="20240628083000 +0530" stop="20240628090000 +0530" channel="965">
+    <title lang="en">Police Patrol</title>
+    <desc lang="en">The host sheds light on unscrupulous activities that conspire in society in order to promote vigilance against threats from anti-social activities.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628965011.jpg"/>
   </programme>
 </tv>

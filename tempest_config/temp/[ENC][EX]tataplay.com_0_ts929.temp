@@ -3,150 +3,6 @@
   <channel id="ts929">
     <display-name lang="en">Tata Play JEE Prep</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624193000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Sequence &amp; Series -1 by Vedantu</title>
-    <desc lang="en">nth Term of a Sequence &amp; Arithmetic Progression</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABA6C9DA4FB5B765A8E4B84F3E2C108EA6EC44CBT.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624203000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Relations &amp; Func -3 by Vedantu</title>
-    <desc lang="en">Composite of Function</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5392EF0CF22CFFD67BE4D0944AAF1AB8C7F9DF90P.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Vectors -4 by Vedantu</title>
-    <desc lang="en">Addition of Vectors</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E3E7D2AFE857F810D41531FAA7941C2E9B106C8P.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624223000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Chemical Kinetics -4 by Vedantu</title>
-    <desc lang="en">Pseudo First Order Reactions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAC1BE8126F13F4DD565283FA067A6F1A279C9DBG.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624233000 +0000" channel="ts929">
-    <title lang="en">Grade 10 Nationalism In India-1</title>
-    <desc lang="en">Nationalism in India, Gandhiji's Movements</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8F67075A6054DF6D5C155AB74171A6E65488F65CS.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625003000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Relative Motion -1 by Vedantu</title>
-    <desc lang="en">Relative Velocity and Acceleration</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/951B4849B2DEFB3B02007B03F8F2D600787C4DA4W.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625013000 +0000" channel="ts929">
-    <title lang="en">Grade 10 Magnetism -5 By Vedantu</title>
-    <desc lang="en">Motor and Generator</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E2D6DDA543808B3C925DE854D221B404B422685C.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625023000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Chemical Bonding -2 by Vedantu</title>
-    <desc lang="en">Lewis Formula &amp; VSEPR Theory</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B7F4FEDCE692B42A65F60CD0EE76F03BEDF57B8B.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625033000 +0000" channel="ts929">
-    <title lang="en">Grade 9 Circles and Quadrilaterals-4</title>
-    <desc lang="en">Quadrilateral and its Types</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BF160045BE348FCB913C574E083A2514672884F2.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Quadratic Eqn -6 by Vedantu</title>
-    <desc lang="en">Location of Roots</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D537DA201B6CC78B6A2E5B935F6FAA3A524FA55D.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625053000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Kinetic Theory Of Gases</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E8BC49CA21E4D370A59432B97F63AE8AEEA84229G.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625063000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Communication Systems</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BBD3AB37EE8028759ABBCF2F607EFC93B22FEA0D.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Hydrocarbons</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64090EA80209615465B94AA0E651EC54338A3658R.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625083000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Carbonyl Compounds</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB1E912E5A164C58F0373BA37628650236B3B14BO.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625093000 +0000" channel="ts929">
-    <title lang="en">Grade 11 2D Coordinate Geometry</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A18FF75005E39696F98C9CE68E8629D699D7B7B2T.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625103000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Probability</title>
-    <desc lang="en">Previous Year Questions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FF4E7D9821BBFAEB5CCB7FDEE349B7529A588B7U.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625113000 +0000" channel="ts929">
-    <title lang="en">Grade 9 Atoms and Molecules-3 by Vedantu</title>
-    <desc lang="en">Writing Chemical Formulae and Mole Concept</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AE285F1E1691EE57D3268D4F4CB3978EAF15A41H.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625123000 +0000" channel="ts929">
-    <title lang="en">Grade 10 Circles -2 by Vedantu</title>
-    <desc lang="en">Angle Subtended by an Arc and Cyclic Quadrialteral</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2E3ACCE3384D4956D520BE9787693296AAD8E1A6.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625133000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Sequence &amp; Series -1 by Vedantu</title>
-    <desc lang="en">nth Term of a Sequence &amp; Arithmetic Progression</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABA6C9DA4FB5B765A8E4B84F3E2C108EA6EC44CBT.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625143000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Relations &amp; Func -3 by Vedantu</title>
-    <desc lang="en">Composite of Function</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5392EF0CF22CFFD67BE4D0944AAF1AB8C7F9DF90P.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625153000 +0000" channel="ts929">
-    <title lang="en">Grade 9 Motion -1 by Vedantu</title>
-    <desc lang="en">Distance &amp; Displacement</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECE6CB34C7596252A7A2B3A2BE9C39C759327CA6N.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625163000 +0000" channel="ts929">
-    <title lang="en">Grade 10 Nationalism In India-1</title>
-    <desc lang="en">Nationalism in India, Gandhiji's Movements</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8F67075A6054DF6D5C155AB74171A6E65488F65CS.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625173000 +0000" channel="ts929">
-    <title lang="en">Grade 11 Vectors -4 by Vedantu</title>
-    <desc lang="en">Addition of Vectors</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E3E7D2AFE857F810D41531FAA7941C2E9B106C8P.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts929">
-    <title lang="en">Grade 12 Chemical Kinetics -4 by Vedantu</title>
-    <desc lang="en">Pseudo First Order Reactions</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAC1BE8126F13F4DD565283FA067A6F1A279C9DBG.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625193000 +0000" channel="ts929">
     <title lang="en">Grade 11 Sequence &amp; Series -2 by Vedantu</title>
     <desc lang="en">AP Continued &amp; AM</desc>
@@ -290,5 +146,149 @@
     <desc lang="en">Behavior of Dipole, Dielectric Medium and Dielectric Breakdown</desc>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/592B9CAC04D3DBF10EC7062B32D08FF0DCB6C7EES.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626193000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Sequence &amp; Series -3 by Vedantu</title>
+    <desc lang="en">Geometric Progression</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59F7FE81ECDE1ACA3EDC5E8830E6AE870DC7E3EBA.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626203000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Relations &amp; Func -5 by Vedantu</title>
+    <desc lang="en">Functional Equations</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C8614B06AAED0EBF0AD8C877B0F80431ADC4B68BC.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626213000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Atomic Structure -12 by Vedantu</title>
+    <desc lang="en">Quantum Mechanical Model of Atom</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/491A3FBE060227D8D9656DA1E5D385ED7D0119BDT.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626223000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Capacitors -1 by Vedantu</title>
+    <desc lang="en">Capacitance of Sphere, Spherical, Cylindrical and Parallel Plate Capacitor</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC4118248516E5F8F1D95350AD5F64FF5591BA39Y.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626233000 +0000" channel="ts929">
+    <title lang="en">Grade 10 Linear Eqns in 2 Variables-1</title>
+    <desc lang="en">Linear in Equations in One Variables</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E295C91FD516D1CABB63C27A94E080EB4A525B76Q.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627003000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Relative Motion -3 by Vedantu</title>
+    <desc lang="en">Rain Man Problems</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70E725190478E8D9FE49B2FFCF38D7F510D2C1664.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627013000 +0000" channel="ts929">
+    <title lang="en">Grade 10 Metals &amp; Non-metals-2</title>
+    <desc lang="en">Lewis Dot- Cross Structure</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6CB2FEE4F14AFFAC778A30506E97E3E098F0C60G.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627023000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Chemical Bonding -4 by Vedantu</title>
+    <desc lang="en">VBT</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7583F3565C0B1113B0D7185DE1E994E71428DAB0.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627033000 +0000" channel="ts929">
+    <title lang="en">Grade 9 Circles and Quadrilaterals-6</title>
+    <desc lang="en">Theorem Based on Quadrilaterals Continued</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86EB47C6EDD1BCCCCFF577EBE929BD4A2250E5C99.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627043000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Complex Numbers 5-2 by Vedantu</title>
+    <desc lang="en">Conjugate and Square Root of Complex Number</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B56BF6B629AEDBA06BF4F09B9D2CE82CD9431EB27.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627053000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Motion in 1 Dimension-1 by Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46167FA2CBA60163FB9DE92C3DB0E2FFF57B9574K.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627063000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Electrostatics-2 by Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AA188EA8B6780155FB87A6277A504D997D3F12BN.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Atomic Structure-2 By Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB5A89DAA285CA45563827AA9983E2D89E62A2F0L.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627083000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Solutions-2 by Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3C22B99BE85B02B4A2C22AEE684A605DBDC869B9.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627093000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Quadratic Eqns-2 By Vedantu</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F213330205E4C781AEA868E3C616A5580F88206B2.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627103000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Matrices and Determinants-2</title>
+    <desc lang="en">Revision session</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA84913D1663DFCF1A5FD38D1AF32A26DD94BC19H.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627113000 +0000" channel="ts929">
+    <title lang="en">Grade 9 Diversity in Living Organisms-1</title>
+    <desc lang="en">Classification Systems, Binomial Nomenclature</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/451B6864B27B452C59DABBAEAFA83E490AC61FB2E.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627123000 +0000" channel="ts929">
+    <title lang="en">Grade 10 Circles -4 by Vedantu</title>
+    <desc lang="en">Common Tangents to the Circle and its Properties</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91E54AE989F49D422F5685C06EF35494B4B8A5E52.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627133000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Sequence &amp; Series -3 by Vedantu</title>
+    <desc lang="en">Geometric Progression</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59F7FE81ECDE1ACA3EDC5E8830E6AE870DC7E3EBA.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627143000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Relations &amp; Func -5 by Vedantu</title>
+    <desc lang="en">Functional Equations</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C8614B06AAED0EBF0AD8C877B0F80431ADC4B68BC.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627153000 +0000" channel="ts929">
+    <title lang="en">Grade 9 Motion -2 by Vedantu</title>
+    <desc lang="en">Speed, Velocity and Acceleration</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2F1F30EB8FE460D2882D442C9E98E6ADF42AEB2U.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627163000 +0000" channel="ts929">
+    <title lang="en">Grade 10 Linear Eqns in 2 Variables-1</title>
+    <desc lang="en">Linear in Equations in One Variables</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E295C91FD516D1CABB63C27A94E080EB4A525B76Q.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627173000 +0000" channel="ts929">
+    <title lang="en">Grade 11 Atomic Structure -12 by Vedantu</title>
+    <desc lang="en">Quantum Mechanical Model of Atom</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/491A3FBE060227D8D9656DA1E5D385ED7D0119BDT.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627183000 +0000" channel="ts929">
+    <title lang="en">Grade 12 Capacitors -1 by Vedantu</title>
+    <desc lang="en">Capacitance of Sphere, Spherical, Cylindrical and Parallel Plate Capacitor</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC4118248516E5F8F1D95350AD5F64FF5591BA39Y.jpg"/>
   </programme>
 </tv>

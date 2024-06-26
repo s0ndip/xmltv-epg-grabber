@@ -3,384 +3,6 @@
   <channel id="ts1030">
     <display-name lang="en">Foodxp</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Breakfast Special: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240624190000 +0000" stop="20240624193000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Hindu Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240624193000 +0000" stop="20240624200000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Puddings: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Easy Home Made: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624210000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Chandigarh, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240624210000 +0000" stop="20240624213000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Scotch Eggs: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Laab Hed: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Magical Taste: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Breakfast Special: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Hindu Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Puddings: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Easy Home Made: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Chandigarh, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Scotch Eggs: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Laab Hed: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Magical Taste: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Breakfast Special: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Hindu Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625040000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Puddings: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240625040000 +0000" stop="20240625043000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Easy Home Made: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Chandigarh, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Scotch Eggs: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240625053000 +0000" stop="20240625060000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Laab Hed: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240625060000 +0000" stop="20240625063000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Magical Taste: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625070000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Breakfast Special: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0000" stop="20240625073000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Hindu Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625080000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Puddings: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0000" stop="20240625083000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Easy Home Made: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240625083000 +0000" stop="20240625090000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Chandigarh, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0000" stop="20240625093000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Scotch Eggs: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240625093000 +0000" stop="20240625100000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Laab Hed: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0000" stop="20240625103000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Magical Taste: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
-  <programme start="20240625103000 +0000" stop="20240625110000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Breakfast Special: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625113000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Hindu Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240625113000 +0000" stop="20240625120000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Puddings: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240625120000 +0000" stop="20240625123000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Easy Home Made: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Chandigarh, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240625130000 +0000" stop="20240625133000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Korean Buns: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240625133000 +0000" stop="20240625140000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Tauhu Krapho: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625143000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Refreshing Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
-  <programme start="20240625143000 +0000" stop="20240625150000 +0000" channel="ts1030">
-    <title lang="en">Sindh ji Rasoi</title>
-    <desc lang="en">Post Delivery: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
-    <credits>
-      <actor>Deepa Chauhan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625153000 +0000" channel="ts1030">
-    <title lang="en">Taste Of Tides</title>
-    <desc lang="en">Influenced Goan: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
-  </programme>
-  <programme start="20240625153000 +0000" stop="20240625160000 +0000" channel="ts1030">
-    <title lang="en">Bake House</title>
-    <desc lang="en">Lacy Pancakes: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Bhumika Bhurani</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts1030">
-    <title lang="en">Jashn-E-Daawat</title>
-    <desc lang="en">Cheese Delicacy: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
-    <credits>
-      <actor>Neha Deepak Shah</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts1030">
-    <title lang="en">Strictly Street</title>
-    <desc lang="en">Ludhiana, India: The host explores some of the most delicious and famous street food from around the world.</desc>
-    <credits>
-      <actor>Rohan Patoley</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts1030">
-    <title lang="en">Chatpate Bites</title>
-    <desc lang="en">Korean Buns: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="ts1030">
-    <title lang="en">Simply Thai</title>
-    <desc lang="en">Tauhu Krapho: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0000" stop="20240625183000 +0000" channel="ts1030">
-    <title lang="en">It'S Summer With Kirti</title>
-    <desc lang="en">Refreshing Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
-    <credits>
-      <actor>Kirti Bhoutika</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625190000 +0000" channel="ts1030">
     <title lang="en">Sindh ji Rasoi</title>
     <desc lang="en">Post Delivery: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
@@ -753,6 +375,384 @@
   <programme start="20240626180000 +0000" stop="20240626183000 +0000" channel="ts1030">
     <title lang="en">It'S Summer With Kirti</title>
     <desc lang="en">Leisure Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626190000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Street Food: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626193000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Koli: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240626193000 +0000" stop="20240626200000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Maple Snails: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626203000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Celebrations: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240626203000 +0000" stop="20240626210000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0000" stop="20240626213000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Donuts: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626220000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Pla Kung: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626223000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Leisure Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Street Food: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240626233000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Koli: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Maple Snails: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Celebrations: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Donuts: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Pla Kung: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Leisure Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Street Food: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Koli: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627040000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Maple Snails: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627043000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Celebrations: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627050000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627053000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Donuts: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240627053000 +0000" stop="20240627060000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Pla Kung: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0000" stop="20240627063000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Leisure Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627070000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Street Food: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0000" stop="20240627073000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Koli: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627080000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Maple Snails: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0000" stop="20240627083000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Celebrations: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240627083000 +0000" stop="20240627090000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0000" stop="20240627093000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Donuts: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240627093000 +0000" stop="20240627100000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Pla Kung: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627103000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Leisure Food: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240627103000 +0000" stop="20240627110000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Street Food: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627113000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Koli: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0000" stop="20240627120000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Maple Snails: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0000" stop="20240627123000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Celebrations: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627130000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240627130000 +0000" stop="20240627133000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Makhana Pakoda: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627140000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Sang Khaya: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627143000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Taste Of Summer: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
+    <credits>
+      <actor>Kirti Bhoutika</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA6AE4C5ACC1A520DAB7303ABEE5CB353D8EB9F1P.jpg"/>
+  </programme>
+  <programme start="20240627143000 +0000" stop="20240627150000 +0000" channel="ts1030">
+    <title lang="en">Sindh ji Rasoi</title>
+    <desc lang="en">Sindhi Snacks: A renowned culinary expert prepares lip-smacking recipes by bringing together unique flavours that exhibit the unique cuisine of the Sindhis.</desc>
+    <credits>
+      <actor>Deepa Chauhan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E58669AE8D8118FDDA55E7A15036CA24816F0C2W.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627153000 +0000" channel="ts1030">
+    <title lang="en">Taste Of Tides</title>
+    <desc lang="en">Malvani: Gastronomic professionals demonstrate a variety of recipes belonging to different delectable cuisines in a step-by-step manner.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A5EA61F0049F26BC6EC540D46672494C399F462.jpg"/>
+  </programme>
+  <programme start="20240627153000 +0000" stop="20240627160000 +0000" channel="ts1030">
+    <title lang="en">Bake House</title>
+    <desc lang="en">Arctic Roll: A chef demonstrates step by step recipes of some delectable baked dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Bhumika Bhurani</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/205AB1D90A8EE250BD332BE12994D80EF8478A77O.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts1030">
+    <title lang="en">Jashn-E-Daawat</title>
+    <desc lang="en">Basic Bites With Firangi Tadka: A chef demonstrates step by step recipes of some delectable dishes and also shares important tips and tricks for a complete gastronomic experience.</desc>
+    <credits>
+      <actor>Neha Deepak Shah</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/806997DA2F9F7196270F44D79490D7BE9699BE27H.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts1030">
+    <title lang="en">Strictly Street</title>
+    <desc lang="en">Amritsar 2, India: The host explores some of the most delicious and famous street food from around the world.</desc>
+    <credits>
+      <actor>Rohan Patoley</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/10E7B70011D446128A8A2A4FB6F039CFED04D32DC.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts1030">
+    <title lang="en">Chatpate Bites</title>
+    <desc lang="en">Makhana Pakoda: A prominent chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and culinary tips.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EF1C37934C9301987A690FB734C87BC439B0D4EP.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627180000 +0000" channel="ts1030">
+    <title lang="en">Simply Thai</title>
+    <desc lang="en">Sang Khaya: Talented chef demonstrates the cooking techniques of various delicious recipes and provides insightful information and tips concerning culinary.</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E575200CBAD70091CD7E2128E86ECAF0B3F46759.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0000" stop="20240627183000 +0000" channel="ts1030">
+    <title lang="en">It'S Summer With Kirti</title>
+    <desc lang="en">Taste Of Summer: Kirti Bhoutika, a renowned chef, shares a wide range of delicious recipes that are easy to make and are best suitable for the summers.</desc>
     <credits>
       <actor>Kirti Bhoutika</actor>
     </credits>

@@ -3,155 +3,6 @@
   <channel id="ts515">
     <display-name lang="en">Zee Talkies HD</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624205900 +0000" channel="ts515">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240624205900 +0000" stop="20240624230500 +0000" channel="ts515">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240624230500 +0000" stop="20240624233200 +0000" channel="ts515">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler Repeat - Wed,Thu,Sat 2:00 am.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240624233200 +0000" stop="20240625002900 +0000" channel="ts515">
-    <title lang="en">Patanjali Yog</title>
-    <desc lang="en">Yog Rishi Swami Ramdev: A yoga guru teaches people various positions that will help people lead a healthy and disease-free lifestyle. Repeat - Mon 5:00 am.</desc>
-    <credits>
-      <actor>Baba Ramdev</actor>
-    </credits>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5C46FCB31B36DA3D8FD4CE8223940B43ACA1D49.jpg"/>
-    <episode-num system="xmltv_ns">.689.</episode-num>
-  </programme>
-  <programme start="20240625002900 +0000" stop="20240625011200 +0000" channel="ts515">
-    <title lang="en">Naad Bhakticha</title>
-    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a spiritual lifestyle.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B404EEEFEAE729E2727EC62D1ECBE8AF218D50F4N.jpg"/>
-  </programme>
-  <programme start="20240625011200 +0000" stop="20240625020000 +0000" channel="ts515">
-    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
-    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
-    <episode-num system="xmltv_ns">.4162.</episode-num>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625030000 +0000" channel="ts515">
-    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
-    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
-    <episode-num system="xmltv_ns">.4439.</episode-num>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625034000 +0000" channel="ts515">
-    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
-    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
-    <episode-num system="xmltv_ns">.4440.</episode-num>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="ts515">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler Repeat - Wed,Thu,Sat 2:00 am.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240625050000 +0000" stop="20240625070400 +0000" channel="ts515">
-    <title lang="en">Lochya Zaala Re</title>
-    <desc lang="en">Adi leads an affluent life in Birmingham by collecting stipends from his uncle claiming he is married. Chaos ensues when Adi's uncle arrives in the city to meet his new daughter-in-law.</desc>
-    <credits>
-      <actor>Ankush Chaudhari</actor>
-      <actor>Siddharth Jadhav</actor>
-      <actor>Vaidehi Parshurami</actor>
-      <actor>Vijay Patkar</actor>
-      <actor>Sayaji Shinde</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C5353E656229515B9BC772BAAA865DDFA3E3838M.jpg"/>
-  </programme>
-  <programme start="20240625070400 +0000" stop="20240625073000 +0000" channel="ts515">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler Repeat - Wed,Thu,Sat 2:00 am.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625102500 +0000" channel="ts515">
-    <title lang="en">Sairat</title>
-    <desc lang="en">Two college friends Archi and Parshya, who belong to different castes, fall in love with each other. However, their relationship faces struggle due to the stringent practice of casteism.</desc>
-    <credits>
-      <actor>Rinku Rajguru</actor>
-      <actor>Akash Thosar</actor>
-      <actor>Tanaji Galgunde</actor>
-      <actor>Arbaz Shaikh</actor>
-      <actor>Suresh Vishwakarma</actor>
-      <actor>Geeta Chavan</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/380569194BCCF997FDB4F18E207526CDC5902397Z.jpg"/>
-  </programme>
-  <programme start="20240625102500 +0000" stop="20240625123000 +0000" channel="ts515">
-    <title lang="en">Dhappa</title>
-    <desc lang="en">While preparing for a play in their housing society on the occasion of Ganesh Chaturthi, a group of children question the religious intolerance around them.</desc>
-    <credits>
-      <actor>Deepali Borkar</actor>
-      <actor>Sharv Wadhavekar</actor>
-      <actor>Sharavi Kulkarni</actor>
-      <actor>Shrihari Abhyankar</actor>
-      <actor>Akash Kamble</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4FEBC760909AA84CDE8CD9D35C52E8F89D970ACEY.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0000" stop="20240625132200 +0000" channel="ts515">
-    <title lang="en">Man Mandira</title>
-    <desc lang="en">During the festive month of Ashadi Ekadashi, various talented and renowned devotees perform devotional songs to praise the Almighty.</desc>
-    <credits>
-      <actor>Purva Subhash</actor>
-      <actor>Nivruti Maharaj Deshmukh</actor>
-      <actor>Baba Maharaj Satarkar</actor>
-      <actor>Ramravji Dhok Maharaj</actor>
-      <actor>Jaywant Maharaj Bodhale</actor>
-      <actor>Babasaheb Maharaj Ingale</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E13DE7D971A9D393B23BC41612D3E047568299ECF.jpg"/>
-    <episode-num system="xmltv_ns">1.420.</episode-num>
-  </programme>
-  <programme start="20240625132200 +0000" stop="20240625155100 +0000" channel="ts515">
-    <title lang="en">Muka Ghya Muka</title>
-    <desc lang="en">A village head decides to get his daughter married to a man with speech and mental disability but when villagers start giving him more attention, the former plans to separate them.</desc>
-    <credits>
-      <actor>Dada Kondke</actor>
-      <actor>Usha Chavan</actor>
-      <actor>Ratanmala</actor>
-      <actor>Vasant Shinde</actor>
-      <actor>Mohan Khithwan</actor>
-      <actor>Dinanath Takalkar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/242D2EEB728D1D0FB2620ACEEE67B5D9018AEB69G.jpg"/>
-  </programme>
-  <programme start="20240625155100 +0000" stop="20240625182100 +0000" channel="ts515">
-    <title lang="en">Comedychya Gudgulya</title>
-    <desc lang="en">Talented comedians and stand-up artists enact funny scenarios and perform skits to entertain the judges and the audience.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DEB7A798FBD3E77B1764A13E7D9AF5B8BDB32AFJ.jpg"/>
-    <episode-num system="xmltv_ns">.23.</episode-num>
-  </programme>
-  <programme start="20240625182100 +0000" stop="20240625183000 +0000" channel="ts515">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler Repeat - Wed,Thu,Sat 2:00 am.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625205700 +0000" channel="ts515">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
@@ -287,5 +138,105 @@
     <desc lang="en">Filler Repeat - Wed,Thu,Sat 2:00 am.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240626190000 +0000" stop="20240626210000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626210000 +0000" stop="20240626233000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627003000 +0000" channel="ts515">
+    <title lang="en">Patanjali Yog</title>
+    <desc lang="en">Yog Rishi Swami Ramdev: A yoga guru teaches people various positions that will help people lead a healthy and disease-free lifestyle. Repeat - Mon 5:00 am.</desc>
+    <credits>
+      <actor>Baba Ramdev</actor>
+    </credits>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5C46FCB31B36DA3D8FD4CE8223940B43ACA1D49.jpg"/>
+    <episode-num system="xmltv_ns">.691.</episode-num>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts515">
+    <title lang="en">Naad Bhakticha</title>
+    <desc lang="en">A religious leader provides a discourse on various teachings to devotees and encourages them to lead a spiritual lifestyle.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B404EEEFEAE729E2727EC62D1ECBE8AF218D50F4N.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627020000 +0000" channel="ts515">
+    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
+    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
+    <episode-num system="xmltv_ns">.4164.</episode-num>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627030000 +0000" channel="ts515">
+    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
+    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
+    <episode-num system="xmltv_ns">.4443.</episode-num>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627040000 +0000" channel="ts515">
+    <title lang="en">Gajar Kirtanacha, Sohala Anandacha</title>
+    <desc lang="en">Devotees come forward to perform various kirtans and devotional songs while offering their prayers and worship to the Almighty. Repeat - Mon 6:30 am.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B44B6873D3D5DF1FFDD48BFE9F03AAED34B03F99G.jpg"/>
+    <episode-num system="xmltv_ns">.4444.</episode-num>
+  </programme>
+  <programme start="20240627040000 +0000" stop="20240627050000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0000" stop="20240627073000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627100000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0000" stop="20240627123000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627123000 +0000" stop="20240627133000 +0000" channel="ts515">
+    <title lang="en">Man Mandira</title>
+    <desc lang="en">During the festive month of Ashadi Ekadashi, various talented and renowned devotees perform devotional songs to praise the Almighty.</desc>
+    <credits>
+      <actor>Purva Subhash</actor>
+      <actor>Nivruti Maharaj Deshmukh</actor>
+      <actor>Baba Maharaj Satarkar</actor>
+      <actor>Ramravji Dhok Maharaj</actor>
+      <actor>Jaywant Maharaj Bodhale</actor>
+      <actor>Babasaheb Maharaj Ingale</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E13DE7D971A9D393B23BC41612D3E047568299ECF.jpg"/>
+    <episode-num system="xmltv_ns">1.1671.</episode-num>
+  </programme>
+  <programme start="20240627133000 +0000" stop="20240627160000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627190000 +0000" channel="ts515">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
 </tv>

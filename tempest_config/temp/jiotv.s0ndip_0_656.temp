@@ -3,120 +3,6 @@
   <channel id="656">
     <display-name lang="en">News 9</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625070000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656006.jpg"/>
-  </programme>
-  <programme start="20240625070000 +0530" stop="20240625080000 +0530" channel="656">
-    <title lang="en">Day Break</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656007.jpg"/>
-  </programme>
-  <programme start="20240625080000 +0530" stop="20240625090000 +0530" channel="656">
-    <title lang="en">Day Break</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656008.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625100000 +0530" channel="656">
-    <title lang="en">Day Break</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656009.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625110000 +0530" channel="656">
-    <title lang="en">Day Break</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656010.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0530" stop="20240625170000 +0530" channel="656">
-    <title lang="en">News9 Live</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656011.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625180000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656012.jpg"/>
-  </programme>
-  <programme start="20240625180000 +0530" stop="20240625190000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656013.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625200000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656014.jpg"/>
-  </programme>
-  <programme start="20240625200000 +0530" stop="20240625210000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656015.jpg"/>
-  </programme>
-  <programme start="20240625210000 +0530" stop="20240625220000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656016.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240625230000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656017.jpg"/>
-  </programme>
-  <programme start="20240625230000 +0530" stop="20240626000000 +0530" channel="656">
-    <title lang="en">What India Thinks Today</title>
-    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
-    <category lang="en">TV Show</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625656018.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626020000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656001.jpg"/>
-  </programme>
-  <programme start="20240626020000 +0530" stop="20240626030000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656002.jpg"/>
-  </programme>
-  <programme start="20240626030000 +0530" stop="20240626040000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656003.jpg"/>
-  </programme>
-  <programme start="20240626040000 +0530" stop="20240626050000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656004.jpg"/>
-  </programme>
-  <programme start="20240626050000 +0530" stop="20240626060000 +0530" channel="656">
-    <title lang="en">After Hours</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656005.jpg"/>
-  </programme>
   <programme start="20240626060000 +0530" stop="20240626070000 +0530" channel="656">
     <title lang="en">After Hours</title>
     <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
@@ -188,5 +74,179 @@
     <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
     <category lang="en">TV Show</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656017.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0530" stop="20240627000000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626656018.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627010000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656000.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0530" stop="20240627020000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656001.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0530" stop="20240627030000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656002.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0530" stop="20240627040000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656003.jpg"/>
+  </programme>
+  <programme start="20240627040000 +0530" stop="20240627050000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656004.jpg"/>
+  </programme>
+  <programme start="20240627050000 +0530" stop="20240627060000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656005.jpg"/>
+  </programme>
+  <programme start="20240627060000 +0530" stop="20240627070000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656006.jpg"/>
+  </programme>
+  <programme start="20240627070000 +0530" stop="20240627080000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656007.jpg"/>
+  </programme>
+  <programme start="20240627080000 +0530" stop="20240627090000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656008.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627100000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656009.jpg"/>
+  </programme>
+  <programme start="20240627100000 +0530" stop="20240627110000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656010.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0530" stop="20240627170000 +0530" channel="656">
+    <title lang="en">News9 Live</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world, live.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656011.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0530" stop="20240627180000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656012.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627190000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656013.jpg"/>
+  </programme>
+  <programme start="20240627190000 +0530" stop="20240627200000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656014.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627210000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656015.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240627220000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656016.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240627230000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656017.jpg"/>
+  </programme>
+  <programme start="20240627230000 +0530" stop="20240628000000 +0530" channel="656">
+    <title lang="en">What India Thinks Today</title>
+    <desc lang="en">Prominent personalities from various fields congregate to conduct insightful discussions on various developmental aspects and plans of India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627656018.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628010000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656000.jpg"/>
+  </programme>
+  <programme start="20240628010000 +0530" stop="20240628020000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656001.jpg"/>
+  </programme>
+  <programme start="20240628020000 +0530" stop="20240628030000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656002.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628040000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656003.jpg"/>
+  </programme>
+  <programme start="20240628040000 +0530" stop="20240628050000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656004.jpg"/>
+  </programme>
+  <programme start="20240628050000 +0530" stop="20240628060000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656005.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628070000 +0530" channel="656">
+    <title lang="en">After Hours</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656006.jpg"/>
+  </programme>
+  <programme start="20240628070000 +0530" stop="20240628080000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656007.jpg"/>
+  </programme>
+  <programme start="20240628080000 +0530" stop="20240628090000 +0530" channel="656">
+    <title lang="en">Day Break</title>
+    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628656008.jpg"/>
   </programme>
 </tv>

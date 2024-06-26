@@ -3,172 +3,6 @@
   <channel id="1450">
     <display-name lang="en">Colors Cineplex Superhit</display-name>
   </channel>
-  <programme start="20240625060000 +0530" stop="20240625071800 +0530" channel="1450">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450004.jpg"/>
-  </programme>
-  <programme start="20240625071800 +0530" stop="20240625090000 +0530" channel="1450">
-    <title lang="en">Motu Patlu In Wonderland</title>
-    <desc lang="en">The film revolves around two friends, Motu and Patlu, who go on a fun-filled trip to Wonderland. On the trip, they come across dinosaurs and aliens, who seek to rule the world by turning it into ice.</desc>
-    <credits>
-      <director>Suhas Kadav</director>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450005.jpg"/>
-  </programme>
-  <programme start="20240625090000 +0530" stop="20240625105000 +0530" channel="1450">
-    <title lang="en">Motu Patlu The Superheroes Super Villians From Mars</title>
-    <desc lang="en">Motu and Patlu set out to save their town, Furfuri Nagar, after supervillains with cosmic powers from Mars attack the world to occupy it.</desc>
-    <credits>
-      <director>Suhas Kadav</director>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450006.jpg"/>
-  </programme>
-  <programme start="20240625105000 +0530" stop="20240625132900 +0530" channel="1450">
-    <title lang="en">Big Brother</title>
-    <desc lang="en">Upon being released from prison, Sachi demands to lead a tranquil life with his family. However, fate has other plans for the ex-convict when he encounters a dangerous drug lord.</desc>
-    <credits>
-      <director>Siddique</director>
-      <actor>Mohanlal</actor>
-      <actor>Arbaaz Khan</actor>
-      <actor>Anoop Menon</actor>
-      <actor>Vishnu Unnikrishnan</actor>
-      <actor>Siddique</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450007.jpg"/>
-  </programme>
-  <programme start="20240625132900 +0530" stop="20240625155200 +0530" channel="1450">
-    <title lang="en">Betting Raja</title>
-    <desc lang="en">Raj leads a carefree life and gambles his life away. When his father is in need of expensive medical treatment, he bets on winning Chaitra's love in exchange for a large amount of money.</desc>
-    <credits>
-      <director>Sampath Nandi</director>
-      <actor>Ram Charan Teja</actor>
-      <actor>Tamannaah Bhatia</actor>
-      <actor>Ajmal Ameer</actor>
-      <actor>Mukesh Rishi</actor>
-      <actor>Kota Srinivasa Rao</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450008.jpg"/>
-  </programme>
-  <programme start="20240625155200 +0530" stop="20240625190000 +0530" channel="1450">
-    <title lang="en">Main Hoon Surya Singham 2</title>
-    <desc lang="en">An undercover police officer works in a school in Tamil Nadu and tries to put an end to the criminal activities of two criminals who rule the area.</desc>
-    <credits>
-      <director>Hari</director>
-      <actor>Suriya</actor>
-      <actor>Anushka Shetty</actor>
-      <actor>Hansika Motwani</actor>
-      <actor>Danny Sapani</actor>
-      <actor>Vivek</actor>
-      <actor>Santhanam</actor>
-      <actor>Mukesh Rishi</actor>
-      <actor>Radha Ravi</actor>
-      <actor>Rajendran</actor>
-      <actor>Thalai Vaasal Vijay</actor>
-      <actor>Mansoor Ali Khan</actor>
-      <actor>Nassar</actor>
-      <actor>Vijayakumar</actor>
-      <actor>Manorama</actor>
-      <actor>Nizhalgal Ravi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450009.jpg"/>
-  </programme>
-  <programme start="20240625190000 +0530" stop="20240625213100 +0530" channel="1450">
-    <title lang="en">Dangerous Khiladi 3</title>
-    <desc lang="en">Ravi aims to become a policeman like Devaraj, an encounter specialist. However, he finds himself on the other side of the law, when he helps out a friend.</desc>
-    <credits>
-      <director>Babu Sivan</director>
-      <actor>Vijay</actor>
-      <actor>Anushka Shetty</actor>
-      <actor>Srihari</actor>
-      <actor>Salim Ghouse</actor>
-      <actor>Sayaji Shinde</actor>
-      <actor>Sanchita Padukone</actor>
-      <actor>Sathyan Sivakumar</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450010.jpg"/>
-  </programme>
-  <programme start="20240625213100 +0530" stop="20240626000000 +0530" channel="1450">
-    <title lang="en">America VS India</title>
-    <desc lang="en">A selfish businessman is forced to visit his grandfather in India for monetary help. After he lies about being married, he lands in trouble when his grandfather insists on seeing his wife.</desc>
-    <credits>
-      <director>Dasaradh</director>
-      <actor>Nagarjuna Akkineni</actor>
-      <actor>Nayanthara</actor>
-      <actor>Meera Chopra</actor>
-      <actor>K Viswanath</actor>
-      <actor>Ashish Vidyarthi</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/2406251450011.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626001300 +0530" channel="1450">
-    <title lang="en">America VS India</title>
-    <desc lang="en">A selfish businessman is forced to visit his grandfather in India for monetary help. After he lies about being married, he lands in trouble when his grandfather insists on seeing his wife.</desc>
-    <credits>
-      <director>Dasaradh</director>
-      <actor>Nagarjuna Akkineni</actor>
-      <actor>Nayanthara</actor>
-      <actor>Meera Chopra</actor>
-      <actor>K Viswanath</actor>
-      <actor>Ashish Vidyarthi</actor>
-      <actor>Brahmanandam</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450000.jpg"/>
-  </programme>
-  <programme start="20240626001300 +0530" stop="20240626020600 +0530" channel="1450">
-    <title lang="en">Dil Ki Baat</title>
-    <desc lang="en">A modern man, Vijay, marries his father's sincere secretary who hails from a poor family. But their stringent prenuptial agreement grants him the power to end his marriage after 12 months.</desc>
-    <credits>
-      <director>K Selva Bharathy</director>
-      <actor>Vijay</actor>
-      <actor>Simran</actor>
-      <actor>Radhika Chaudhari</actor>
-      <actor>S P Balasubrahmanyam</actor>
-      <actor>Vivek</actor>
-      <actor>Delhi Ganesh</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450001.jpg"/>
-  </programme>
-  <programme start="20240626020600 +0530" stop="20240626043200 +0530" channel="1450">
-    <title lang="en">Kirataka</title>
-    <desc lang="en">Nandisha, a gambler and drinker, falls in love with Nethra, who belongs to a rival village. He then decides to elope with her but has to deal with the rivalry between their communities.</desc>
-    <credits>
-      <director>Pradeep Raj</director>
-      <actor>Yash</actor>
-      <actor>Oviya Helen</actor>
-      <actor>T S Nagabharana</actor>
-      <actor>Thara</actor>
-      <actor>Sanketh Kashi</actor>
-      <actor>Daniel Balaji</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450002.jpg"/>
-  </programme>
-  <programme start="20240626043200 +0530" stop="20240626054800 +0530" channel="1450">
-    <title lang="en">Karkash</title>
-    <desc lang="en">Three close friends who form a band together face several unexpected challenges and try to get through it all together as a team.</desc>
-    <credits>
-      <director>Asif Shah</director>
-      <actor>Suraj Singh Thakuri</actor>
-      <actor>Satya Raj Acharya</actor>
-      <actor>Dayahang Rai</actor>
-      <actor>Raymon Das Shrestha</actor>
-      <actor>Rajendra Khadgi</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450003.jpg"/>
-  </programme>
   <programme start="20240626054800 +0530" stop="20240626071000 +0530" channel="1450">
     <title lang="en">Pakdam Pakdai Space Attack!</title>
     <desc lang="en">Doggy Don and his elder brother Cornel, along with the mice brothers, set out to fight against an alien monkey that plans to attack the earth.</desc>
@@ -272,5 +106,119 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450011.jpg"/>
+  </programme>
+  <programme start="20240626231900 +0530" stop="20240627000000 +0530" channel="1450">
+    <title lang="en">Super Ranga</title>
+    <desc lang="en">A young man named Ranga falls in love with Naina and immediately tries to woo her. However, Naina has reservations about Ranga due to his habit of constantly seeking thrills.</desc>
+    <credits>
+      <director>Sadhu Kokila</director>
+      <actor>Upendra Rao</actor>
+      <actor>Kriti Kharbanda</actor>
+      <actor>Raghu Mukherjee</actor>
+      <actor>Hema Chaudhary</actor>
+      <actor>Doddanna</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/2406261450012.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627013300 +0530" channel="1450">
+    <title lang="en">Super Ranga</title>
+    <desc lang="en">A young man named Ranga falls in love with Naina and immediately tries to woo her. However, Naina has reservations about Ranga due to his habit of constantly seeking thrills.</desc>
+    <credits>
+      <director>Sadhu Kokila</director>
+      <actor>Upendra Rao</actor>
+      <actor>Kriti Kharbanda</actor>
+      <actor>Raghu Mukherjee</actor>
+      <actor>Hema Chaudhary</actor>
+      <actor>Doddanna</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450000.jpg"/>
+  </programme>
+  <programme start="20240627013300 +0530" stop="20240627041700 +0530" channel="1450">
+    <title lang="en">Mamangam</title>
+    <desc lang="en">During the Mamangam fair, a new legend is born when a 12-year-old boy, Chandroth Valiya Panikkar, survives a battle with the mighty army of Zamorin.</desc>
+    <credits>
+      <director>M. Padmakumar</director>
+      <actor>Mammootty</actor>
+      <actor>Unni Mukundan</actor>
+      <actor>Achuthan B Nair</actor>
+      <actor>Siddique</actor>
+      <actor>Prachi Tehlan</actor>
+      <actor>Suresh Krishna</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450001.jpg"/>
+  </programme>
+  <programme start="20240627041700 +0530" stop="20240627055900 +0530" channel="1450">
+    <title lang="en">Bangalore 560023</title>
+    <desc lang="en">A group of teenagers from a locality try to beat their longtime arch-rival from another locality in a local cricket tournament. Betrayal and violence follows in their quest to win the coveted trophy.</desc>
+    <credits>
+      <director>Pradeep Raj</director>
+      <actor>Karthik Jayaram</actor>
+      <actor>Chandan Kumar</actor>
+      <actor>Sanjjanaa Galrani</actor>
+      <actor>Chikkanna</actor>
+      <actor>Rajeev</actor>
+      <actor>Shivani</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450002.jpg"/>
+  </programme>
+  <programme start="20240627055900 +0530" stop="20240627090000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450003.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627120000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450004.jpg"/>
+  </programme>
+  <programme start="20240627120000 +0530" stop="20240627150000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450005.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0530" stop="20240627180000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450006.jpg"/>
+  </programme>
+  <programme start="20240627180000 +0530" stop="20240627210000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450007.jpg"/>
+  </programme>
+  <programme start="20240627210000 +0530" stop="20240628000000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/2406271450008.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628030000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281450000.jpg"/>
+  </programme>
+  <programme start="20240628030000 +0530" stop="20240628060000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281450001.jpg"/>
+  </programme>
+  <programme start="20240628060000 +0530" stop="20240628090000 +0530" channel="1450">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/2406281450002.jpg"/>
   </programme>
 </tv>

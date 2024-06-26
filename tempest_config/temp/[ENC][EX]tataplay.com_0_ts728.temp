@@ -3,165 +3,6 @@
   <channel id="ts728">
     <display-name lang="en">Subharti TV</display-name>
   </channel>
-  <programme start="20240624183000 +0000" stop="20240624213000 +0000" channel="ts728">
-    <title lang="en">Devender Upadhyae Ji Maharaj</title>
-    <desc lang="en">Devender Upadhyae Ji Maharaj</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0ECF656A73D85D9A9FA7DACACC90C94BC3F41CCFJ.jpg"/>
-  </programme>
-  <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="ts728">
-    <title lang="en">Religious</title>
-    <desc lang="en">Religious</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
-  </programme>
-  <programme start="20240624220000 +0000" stop="20240624223000 +0000" channel="ts728">
-    <title lang="en">Shani Sadhika Dr. Didi Ji Ke Sath</title>
-    <desc lang="en">The host invites Dr Vibhashri Didi Ji to discuss various topics about astrology.</desc>
-    <credits>
-      <actor>Dr Vibhashri</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83B45AAD2BCC5D92F185B91E5B0CAA4F898C9ABA2.jpg"/>
-  </programme>
-  <programme start="20240624223000 +0000" stop="20240624230000 +0000" channel="ts728">
-    <title lang="en">Dr. Vijay Madhav Ji</title>
-    <desc lang="en">A religious leader sheds light on various teachings from the Hindu scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFA2309C93754D13680F8543D2E7B0F0629DCF4AE.jpg"/>
-  </programme>
-  <programme start="20240624230000 +0000" stop="20240624233000 +0000" channel="ts728">
-    <title lang="en">Arogya</title>
-    <desc lang="en">A medical expert shares remedies and tips that help in curing a range of illnesses.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6781B469B994BA0C56FA531FE1AA00063B4615BZ.jpg"/>
-  </programme>
-  <programme start="20240624233000 +0000" stop="20240625000000 +0000" channel="ts728">
-    <title lang="en">Swami Kamleshwaranand Ji</title>
-    <desc lang="en">Swami Kamleshwaranand speaks on the importance of having one's spirit attuned to God.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAFA958A944A38628D774D652812A8578195BDC68.jpg"/>
-  </programme>
-  <programme start="20240625000000 +0000" stop="20240625003000 +0000" channel="ts728">
-    <title lang="en">Jyotish Amrit</title>
-    <desc lang="en">Jyotish Amrit</desc>
-    <credits>
-      <actor>Priya Gupta</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
-  </programme>
-  <programme start="20240625003000 +0000" stop="20240625010000 +0000" channel="ts728">
-    <title lang="en">Jyotish Amrit</title>
-    <desc lang="en">Jyotish Amrit</desc>
-    <credits>
-      <actor>Priya Gupta</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
-  </programme>
-  <programme start="20240625010000 +0000" stop="20240625013000 +0000" channel="ts728">
-    <title lang="en">Jyotish Amrit</title>
-    <desc lang="en">Jyotish Amrit</desc>
-    <credits>
-      <actor>Priya Gupta</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
-  </programme>
-  <programme start="20240625013000 +0000" stop="20240625020000 +0000" channel="ts728">
-    <title lang="en">Dhamma Deep</title>
-    <desc lang="en">A panel of experts provides insights into the importance of the teachings of Sri Buddha.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16CEC88BFD0B0FB7C960B84B7AC00D2F58B312A33.jpg"/>
-  </programme>
-  <programme start="20240625020000 +0000" stop="20240625023000 +0000" channel="ts728">
-    <title lang="en">Arogya</title>
-    <desc lang="en">A medical expert shares remedies and tips that help in curing a range of illnesses.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6781B469B994BA0C56FA531FE1AA00063B4615BZ.jpg"/>
-  </programme>
-  <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="ts728">
-    <title lang="en">Sitaron Ka Karishma</title>
-    <desc lang="en">An astrologer makes predictions on the basis of the positioning of stars and planets.</desc>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBAFC69BD15271AC3E2E98EFEF16B4C4F1CCC2B04.jpg"/>
-  </programme>
-  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="ts728">
-    <title lang="en">Sitaron Ka Karishma</title>
-    <desc lang="en">An astrologer makes predictions on the basis of the positioning of stars and planets.</desc>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBAFC69BD15271AC3E2E98EFEF16B4C4F1CCC2B04.jpg"/>
-  </programme>
-  <programme start="20240625033000 +0000" stop="20240625043000 +0000" channel="ts728">
-    <title lang="en">Religious</title>
-    <desc lang="en">Religious</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
-  </programme>
-  <programme start="20240625043000 +0000" stop="20240625063000 +0000" channel="ts728">
-    <title lang="en">Rattan Shafakhana</title>
-    <desc lang="en">Rattan Shafakhana</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58BC8ED94381B92DBBF02CEB453549D7378E8F088.jpg"/>
-  </programme>
-  <programme start="20240625063000 +0000" stop="20240625073000 +0000" channel="ts728">
-    <title lang="en">Religious</title>
-    <desc lang="en">Religious</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
-  </programme>
-  <programme start="20240625073000 +0000" stop="20240625110000 +0000" channel="ts728">
-    <title lang="en">Gyanswaroopanand Akriyeji Maharaj</title>
-    <desc lang="en">Gyanswaroopanand Akriyeji Maharaj</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
-  </programme>
-  <programme start="20240625110000 +0000" stop="20240625140000 +0000" channel="ts728">
-    <title lang="en">Raghaw Sharan Ji Maharaj</title>
-    <desc lang="en">A religious leader delivers a discourse on the teachings of the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52B7132265384D817EA2900D376A6EA7888C2796G.jpg"/>
-  </programme>
-  <programme start="20240625140000 +0000" stop="20240625150000 +0000" channel="ts728">
-    <title lang="en">Swasth Vichar</title>
-    <desc lang="en">The host speaks to an expert in Ayurvedic medicine about natural remedies to diseases.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A0E0DF44294A4B959CCBA13D53A6FABB8AD70574.jpg"/>
-  </programme>
-  <programme start="20240625150000 +0000" stop="20240625160000 +0000" channel="ts728">
-    <title lang="en">Religious</title>
-    <desc lang="en">Religious</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
-  </programme>
-  <programme start="20240625160000 +0000" stop="20240625163000 +0000" channel="ts728">
-    <title lang="en">Dr. Vijay Madhav Ji</title>
-    <desc lang="en">A religious leader sheds light on various teachings from the Hindu scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFA2309C93754D13680F8543D2E7B0F0629DCF4AE.jpg"/>
-  </programme>
-  <programme start="20240625163000 +0000" stop="20240625170000 +0000" channel="ts728">
-    <title lang="en">Swami Kamleshwaranand Ji</title>
-    <desc lang="en">Swami Kamleshwaranand speaks on the importance of having one's spirit attuned to God.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAFA958A944A38628D774D652812A8578195BDC68.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0000" stop="20240625173000 +0000" channel="ts728">
-    <title lang="en">Religious</title>
-    <desc lang="en">Religious</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
-  </programme>
-  <programme start="20240625173000 +0000" stop="20240625183000 +0000" channel="ts728">
-    <title lang="en">Jyotish Amrit</title>
-    <desc lang="en">Jyotish Amrit</desc>
-    <credits>
-      <actor>Priya Gupta</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
-  </programme>
   <programme start="20240625183000 +0000" stop="20240625213000 +0000" channel="ts728">
     <title lang="en">Devender Upadhyae Ji Maharaj</title>
     <desc lang="en">Devendra Upadhyay, a religious leader, delivers a discourse on Hinduism.</desc>
@@ -319,6 +160,165 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
   </programme>
   <programme start="20240626173000 +0000" stop="20240626183000 +0000" channel="ts728">
+    <title lang="en">Jyotish Amrit</title>
+    <desc lang="en">Jyotish Amrit</desc>
+    <credits>
+      <actor>Priya Gupta</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
+  </programme>
+  <programme start="20240626183000 +0000" stop="20240626213000 +0000" channel="ts728">
+    <title lang="en">Devender Upadhyae Ji Maharaj</title>
+    <desc lang="en">Devender Upadhyae Ji Maharaj</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0ECF656A73D85D9A9FA7DACACC90C94BC3F41CCFJ.jpg"/>
+  </programme>
+  <programme start="20240626213000 +0000" stop="20240626220000 +0000" channel="ts728">
+    <title lang="en">Religious</title>
+    <desc lang="en">Religious</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626223000 +0000" channel="ts728">
+    <title lang="en">Shani Sadhika Dr. Didi Ji Ke Sath</title>
+    <desc lang="en">The host invites Dr Vibhashri Didi Ji to discuss various topics about astrology.</desc>
+    <credits>
+      <actor>Dr Vibhashri</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83B45AAD2BCC5D92F185B91E5B0CAA4F898C9ABA2.jpg"/>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626230000 +0000" channel="ts728">
+    <title lang="en">Dr. Vijay Madhav Ji</title>
+    <desc lang="en">A religious leader sheds light on various teachings from the Hindu scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFA2309C93754D13680F8543D2E7B0F0629DCF4AE.jpg"/>
+  </programme>
+  <programme start="20240626230000 +0000" stop="20240626233000 +0000" channel="ts728">
+    <title lang="en">Arogya</title>
+    <desc lang="en">A medical expert shares remedies and tips that help in curing a range of illnesses.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6781B469B994BA0C56FA531FE1AA00063B4615BZ.jpg"/>
+  </programme>
+  <programme start="20240626233000 +0000" stop="20240627000000 +0000" channel="ts728">
+    <title lang="en">Swami Kamleshwaranand Ji</title>
+    <desc lang="en">Swami Kamleshwaranand speaks on the importance of having one's spirit attuned to God.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAFA958A944A38628D774D652812A8578195BDC68.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0000" stop="20240627003000 +0000" channel="ts728">
+    <title lang="en">Jyotish Amrit</title>
+    <desc lang="en">Jyotish Amrit</desc>
+    <credits>
+      <actor>Priya Gupta</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
+  </programme>
+  <programme start="20240627003000 +0000" stop="20240627010000 +0000" channel="ts728">
+    <title lang="en">Jyotish Amrit</title>
+    <desc lang="en">Jyotish Amrit</desc>
+    <credits>
+      <actor>Priya Gupta</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
+  </programme>
+  <programme start="20240627010000 +0000" stop="20240627013000 +0000" channel="ts728">
+    <title lang="en">Jyotish Amrit</title>
+    <desc lang="en">Jyotish Amrit</desc>
+    <credits>
+      <actor>Priya Gupta</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A37A3E860289D3E7A295AF094F94383C3F3DFC318.jpg"/>
+  </programme>
+  <programme start="20240627013000 +0000" stop="20240627020000 +0000" channel="ts728">
+    <title lang="en">Dhamma Deep</title>
+    <desc lang="en">A panel of experts provides insights into the importance of the teachings of Sri Buddha.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16CEC88BFD0B0FB7C960B84B7AC00D2F58B312A33.jpg"/>
+  </programme>
+  <programme start="20240627020000 +0000" stop="20240627023000 +0000" channel="ts728">
+    <title lang="en">Arogya</title>
+    <desc lang="en">A medical expert shares remedies and tips that help in curing a range of illnesses.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6781B469B994BA0C56FA531FE1AA00063B4615BZ.jpg"/>
+  </programme>
+  <programme start="20240627023000 +0000" stop="20240627030000 +0000" channel="ts728">
+    <title lang="en">Sitaron Ka Karishma</title>
+    <desc lang="en">An astrologer makes predictions on the basis of the positioning of stars and planets.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBAFC69BD15271AC3E2E98EFEF16B4C4F1CCC2B04.jpg"/>
+  </programme>
+  <programme start="20240627030000 +0000" stop="20240627033000 +0000" channel="ts728">
+    <title lang="en">Sitaron Ka Karishma</title>
+    <desc lang="en">An astrologer makes predictions on the basis of the positioning of stars and planets.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBAFC69BD15271AC3E2E98EFEF16B4C4F1CCC2B04.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0000" stop="20240627043000 +0000" channel="ts728">
+    <title lang="en">Religious</title>
+    <desc lang="en">Religious</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
+  </programme>
+  <programme start="20240627043000 +0000" stop="20240627063000 +0000" channel="ts728">
+    <title lang="en">Rattan Shafakhana</title>
+    <desc lang="en">Rattan Shafakhana</desc>
+    <category lang="en">Shopping</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58BC8ED94381B92DBBF02CEB453549D7378E8F088.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0000" stop="20240627073000 +0000" channel="ts728">
+    <title lang="en">Religious</title>
+    <desc lang="en">Religious</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
+  </programme>
+  <programme start="20240627073000 +0000" stop="20240627110000 +0000" channel="ts728">
+    <title lang="en">Gyanswaroopanand Akriyeji Maharaj</title>
+    <desc lang="en">Gyanswaroopanand Akriyeji Maharaj</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
+  </programme>
+  <programme start="20240627110000 +0000" stop="20240627140000 +0000" channel="ts728">
+    <title lang="en">Raghaw Sharan Ji Maharaj</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52B7132265384D817EA2900D376A6EA7888C2796G.jpg"/>
+  </programme>
+  <programme start="20240627140000 +0000" stop="20240627150000 +0000" channel="ts728">
+    <title lang="en">Swasth Vichar</title>
+    <desc lang="en">The host speaks to an expert in Ayurvedic medicine about natural remedies to diseases.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A0E0DF44294A4B959CCBA13D53A6FABB8AD70574.jpg"/>
+  </programme>
+  <programme start="20240627150000 +0000" stop="20240627160000 +0000" channel="ts728">
+    <title lang="en">Religious</title>
+    <desc lang="en">Religious</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
+  </programme>
+  <programme start="20240627160000 +0000" stop="20240627163000 +0000" channel="ts728">
+    <title lang="en">Dr. Vijay Madhav Ji</title>
+    <desc lang="en">A religious leader sheds light on various teachings from the Hindu scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFA2309C93754D13680F8543D2E7B0F0629DCF4AE.jpg"/>
+  </programme>
+  <programme start="20240627163000 +0000" stop="20240627170000 +0000" channel="ts728">
+    <title lang="en">Swami Kamleshwaranand Ji</title>
+    <desc lang="en">Swami Kamleshwaranand speaks on the importance of having one's spirit attuned to God.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAFA958A944A38628D774D652812A8578195BDC68.jpg"/>
+  </programme>
+  <programme start="20240627170000 +0000" stop="20240627173000 +0000" channel="ts728">
+    <title lang="en">Religious</title>
+    <desc lang="en">Religious</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34999DE80AE86683FA7A9239348F0DA42CA68DBK.jpg"/>
+  </programme>
+  <programme start="20240627173000 +0000" stop="20240627183000 +0000" channel="ts728">
     <title lang="en">Jyotish Amrit</title>
     <desc lang="en">Jyotish Amrit</desc>
     <credits>

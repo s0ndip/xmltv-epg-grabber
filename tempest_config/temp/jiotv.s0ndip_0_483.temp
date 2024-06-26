@@ -3,56 +3,6 @@
   <channel id="483">
     <display-name lang="en">Sony MAX2</display-name>
   </channel>
-  <programme start="20240625071500 +0530" stop="20240625100000 +0530" channel="483">
-    <title lang="en">Ajab Gajab Love</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483003.jpg"/>
-  </programme>
-  <programme start="20240625100000 +0530" stop="20240625123000 +0530" channel="483">
-    <title lang="en">Azhar</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483004.jpg"/>
-  </programme>
-  <programme start="20240625123000 +0530" stop="20240625144500 +0530" channel="483">
-    <title lang="en">Baadshah Pehlwaan</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483005.jpg"/>
-  </programme>
-  <programme start="20240625144500 +0530" stop="20240625170000 +0530" channel="483">
-    <title lang="en">Badava Rascal</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483006.jpg"/>
-  </programme>
-  <programme start="20240625170000 +0530" stop="20240625194500 +0530" channel="483">
-    <title lang="en">Biwi No 2</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483007.jpg"/>
-  </programme>
-  <programme start="20240625194500 +0530" stop="20240625220000 +0530" channel="483">
-    <title lang="en">Charms Bond</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483008.jpg"/>
-  </programme>
-  <programme start="20240625220000 +0530" stop="20240626000000 +0530" channel="483">
-    <title lang="en">Darr@ The Mall</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-25/240625483009.jpg"/>
-  </programme>
-  <programme start="20240626000000 +0530" stop="20240626010000 +0530" channel="483">
-    <title lang="en">Darr@ The Mall</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626483000.jpg"/>
-  </programme>
-  <programme start="20240626010000 +0530" stop="20240626033000 +0530" channel="483">
-    <title lang="en">Ek Ka Dum 1</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626483001.jpg"/>
-  </programme>
-  <programme start="20240626033000 +0530" stop="20240626063000 +0530" channel="483">
-    <title lang="en">Firangi</title>
-    <category lang="en">Movies</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626483002.jpg"/>
-  </programme>
   <programme start="20240626063000 +0530" stop="20240626090000 +0530" channel="483">
     <title lang="en">Gunda Mawali</title>
     <category lang="en">Movies</category>
@@ -82,5 +32,85 @@
     <title lang="en">Main Hoon Lucky The Racer</title>
     <category lang="en">Movies</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626483008.jpg"/>
+  </programme>
+  <programme start="20240626214500 +0530" stop="20240627000000 +0530" channel="483">
+    <title lang="en">Mein Inteqam Loonga</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-26/240626483009.jpg"/>
+  </programme>
+  <programme start="20240627000000 +0530" stop="20240627004500 +0530" channel="483">
+    <title lang="en">Mein Inteqam Loonga</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483000.jpg"/>
+  </programme>
+  <programme start="20240627004500 +0530" stop="20240627033000 +0530" channel="483">
+    <title lang="en">Mubarakan</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483001.jpg"/>
+  </programme>
+  <programme start="20240627033000 +0530" stop="20240627063000 +0530" channel="483">
+    <title lang="en">Mujhse Shaadi Karogi</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483002.jpg"/>
+  </programme>
+  <programme start="20240627063000 +0530" stop="20240627090000 +0530" channel="483">
+    <title lang="en">Naya Natvarlal</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483003.jpg"/>
+  </programme>
+  <programme start="20240627090000 +0530" stop="20240627113000 +0530" channel="483">
+    <title lang="en">No Parking</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483004.jpg"/>
+  </programme>
+  <programme start="20240627113000 +0530" stop="20240627144500 +0530" channel="483">
+    <title lang="en">Policewala</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483005.jpg"/>
+  </programme>
+  <programme start="20240627144500 +0530" stop="20240627171500 +0530" channel="483">
+    <title lang="en">Poster Boyz</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483006.jpg"/>
+  </programme>
+  <programme start="20240627171500 +0530" stop="20240627200000 +0530" channel="483">
+    <title lang="en">Pyaar Kiya Nahin Jata</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483007.jpg"/>
+  </programme>
+  <programme start="20240627200000 +0530" stop="20240627220000 +0530" channel="483">
+    <title lang="en">Rampuri Damaad</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483008.jpg"/>
+  </programme>
+  <programme start="20240627220000 +0530" stop="20240628000000 +0530" channel="483">
+    <title lang="en">Revolver Rani</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-27/240627483009.jpg"/>
+  </programme>
+  <programme start="20240628000000 +0530" stop="20240628003000 +0530" channel="483">
+    <title lang="en">Revolver Rani</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628483000.jpg"/>
+  </programme>
+  <programme start="20240628003000 +0530" stop="20240628024500 +0530" channel="483">
+    <title lang="en">Rudra Avatar</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628483001.jpg"/>
+  </programme>
+  <programme start="20240628024500 +0530" stop="20240628051500 +0530" channel="483">
+    <title lang="en">Soorma</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628483002.jpg"/>
+  </programme>
+  <programme start="20240628051500 +0530" stop="20240628081500 +0530" channel="483">
+    <title lang="en">Sooryavansham</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628483003.jpg"/>
+  </programme>
+  <programme start="20240628081500 +0530" stop="20240628110000 +0530" channel="483">
+    <title lang="en">TE3N</title>
+    <category lang="en">Movies</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-28/240628483004.jpg"/>
   </programme>
 </tv>
