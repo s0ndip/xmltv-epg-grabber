@@ -4,7 +4,7 @@ https://github.com/K-vanc/Tempest-EPG-Generator.git  */
 return array (
   'filename' => 'jiotv.s0ndip',
   'creator_name' => 's0ndip',
-  'creation_date' => '2024-05-21',
+  'creation_date' => '2024-07-16',
   'rev_no' => 'R0',
   'remarks' => 'Edit Url paths based on your local file locations | Edit Timezone based on your file | Edit culture info based on your files',
   'culture' => 'en',
