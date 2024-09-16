@@ -89,7 +89,7 @@ def getWorkingProxy():
 def getEPGData(i, c):
     global channel, programme, error, result, API, IMG, fetchedChannels, unfetchedChannels 
     fetchedEpg = 0
-    for day in range(-1, 2):
+    for day in range(-1, 7):
         try:
             resp = requests.get(f"{API}/v1.3/getepg/get", params={"offset": day, "channel_id": c['channel_id']},headers=headers,proxies=proxies,timeout=10).json()
             day == 0 and channel.append({
